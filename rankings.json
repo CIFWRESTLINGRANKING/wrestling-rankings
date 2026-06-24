@@ -238,37 +238,6 @@
         },
         {
           "rank": 4,
-          "name": "Henry Aslikyan",
-          "team": "Birmingham",
-          "section": "LA",
-          "grade": "",
-          "record": "1-1",
-          "rating": 1500,
-          "rd": 253
-        },
-        {
-          "rank": 5,
-          "name": "Zachary Samano",
-          "team": "Chino",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "1-2",
-          "rating": 1386,
-          "rd": 227
-        },
-        {
-          "rank": 6,
-          "name": "Troy Montero",
-          "team": "La Mirada",
-          "section": "SS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1322,
-          "rd": 284,
-          "incomplete": true
-        },
-        {
-          "rank": 7,
           "name": "Rene Cordero",
           "team": "Poway",
           "section": "SD",
@@ -296,18 +265,6 @@
         },
         {
           "rank": 2,
-          "name": "Issac Torres",
-          "team": "",
-          "section": "SS",
-          "grade": "",
-          "record": "4-1",
-          "rating": 1694,
-          "rd": 190,
-          "ffw": 1,
-          "ffl": 0
-        },
-        {
-          "rank": 3,
           "name": "Aaron Meza",
           "team": "",
           "section": "SS",
@@ -319,7 +276,7 @@
           "ffl": 1
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Julian Holguin",
           "team": "",
           "section": "CC",
@@ -329,7 +286,7 @@
           "rd": 182
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Caden Garriott",
           "team": "",
           "section": "SS",
@@ -339,7 +296,7 @@
           "rd": 221
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Luke Schoch",
           "team": "",
           "section": "CC",
@@ -349,7 +306,7 @@
           "rd": 177
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Elias Castaneda",
           "team": "",
           "section": "SJ",
@@ -359,7 +316,7 @@
           "rd": 193
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Jackson Humphrey",
           "team": "",
           "section": "SS",
@@ -369,7 +326,7 @@
           "rd": 207
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Massimo Ortiz",
           "team": "",
           "section": "SS",
@@ -379,7 +336,7 @@
           "rd": 249
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Nate Mitchell",
           "team": "",
           "section": "SJ",
@@ -389,17 +346,7 @@
           "rd": 230
         },
         {
-          "rank": 11,
-          "name": "Ricardo Ortiz",
-          "team": "",
-          "section": "SD",
-          "grade": "",
-          "record": "1-1",
-          "rating": 1500,
-          "rd": 253
-        },
-        {
-          "rank": 12,
+          "rank": 10,
           "name": "Max Torrez",
           "team": "",
           "section": "CC",
@@ -409,7 +356,7 @@
           "rd": 225
         },
         {
-          "rank": 13,
+          "rank": 11,
           "name": "Jesse Quiroz",
           "team": "",
           "section": "SS",
@@ -420,7 +367,7 @@
           "incomplete": true
         },
         {
-          "rank": 14,
+          "rank": 12,
           "name": "Brandon Bruns",
           "team": "",
           "section": "CC",
@@ -431,7 +378,7 @@
           "incomplete": true
         },
         {
-          "rank": 15,
+          "rank": 13,
           "name": "Kayden Vasquez",
           "team": "",
           "section": "SS",
@@ -442,7 +389,7 @@
           "incomplete": true
         },
         {
-          "rank": 16,
+          "rank": 14,
           "name": "Jovani Sandoval",
           "team": "",
           "section": "SJ",
@@ -453,7 +400,7 @@
           "incomplete": true
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Ivan Rivers",
           "team": "",
           "section": "SD",
@@ -464,7 +411,7 @@
           "incomplete": true
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Matthew Ramos",
           "team": "",
           "section": "CS",
@@ -475,7 +422,7 @@
           "incomplete": true
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Manuel Gutierrez",
           "team": "",
           "section": "CS",
@@ -486,7 +433,7 @@
           "incomplete": true
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Juan Sotelo",
           "team": "",
           "section": "OS",
@@ -494,6 +441,28 @@
           "record": "0-1",
           "rating": 1298,
           "rd": 274,
+          "incomplete": true
+        },
+        {
+          "rank": 19,
+          "name": "Ezekiel Bayardo",
+          "team": "",
+          "section": "CS",
+          "grade": "",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278,
+          "incomplete": true
+        },
+        {
+          "rank": 20,
+          "name": "Matthew Gonzales",
+          "team": "",
+          "section": "LA",
+          "grade": "",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278,
           "incomplete": true
         },
         {
@@ -509,50 +478,6 @@
         },
         {
           "rank": 22,
-          "name": "Matthew Gonzales",
-          "team": "",
-          "section": "LA",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1307,
-          "rd": 278,
-          "incomplete": true
-        },
-        {
-          "rank": 23,
-          "name": "Ezekiel Bayardo",
-          "team": "",
-          "section": "CS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1307,
-          "rd": 278,
-          "incomplete": true
-        },
-        {
-          "rank": 24,
-          "name": "Jayden Olivas",
-          "team": "",
-          "section": "CS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1322,
-          "rd": 284,
-          "incomplete": true
-        },
-        {
-          "rank": 25,
-          "name": "Brice Bearchum",
-          "team": "",
-          "section": "NS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1322,
-          "rd": 284,
-          "incomplete": true
-        },
-        {
-          "rank": 26,
           "name": "Vincent Peyron",
           "team": "",
           "section": "CS",
@@ -563,10 +488,10 @@
           "incomplete": true
         },
         {
-          "rank": 27,
-          "name": "Jake Simmons",
+          "rank": 23,
+          "name": "Jayden Olivas",
           "team": "",
-          "section": "SJ",
+          "section": "CS",
           "grade": "",
           "record": "0-1",
           "rating": 1322,
@@ -574,7 +499,18 @@
           "incomplete": true
         },
         {
-          "rank": 28,
+          "rank": 24,
+          "name": "Brice Bearchum",
+          "team": "",
+          "section": "NS",
+          "grade": "",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284,
+          "incomplete": true
+        },
+        {
+          "rank": 25,
           "name": "Emiliano Lopez",
           "team": "",
           "section": "CS",
@@ -585,21 +521,10 @@
           "incomplete": true
         },
         {
-          "rank": 29,
+          "rank": 26,
           "name": "Osiel Perez",
           "team": "",
           "section": "CS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1338,
-          "rd": 290,
-          "incomplete": true
-        },
-        {
-          "rank": 30,
-          "name": "Aaron Klein",
-          "team": "",
-          "section": "SD",
           "grade": "",
           "record": "0-1",
           "rating": 1338,
@@ -624,49 +549,6 @@
         },
         {
           "rank": 2,
-          "name": "Arno Vardanyan",
-          "team": "Birmingham",
-          "section": "LA",
-          "grade": "",
-          "record": "1-1",
-          "rating": 1586,
-          "rd": 247
-        },
-        {
-          "rank": 3,
-          "name": "Dominic Bozanic",
-          "team": "Gilroy",
-          "section": "CC",
-          "grade": "",
-          "record": "1-0",
-          "rating": 1662,
-          "rd": 290,
-          "incomplete": true
-        },
-        {
-          "rank": 4,
-          "name": "Jack Malinconico",
-          "team": "Poway",
-          "section": "SD",
-          "grade": "",
-          "record": "1-0",
-          "rating": 1617,
-          "rd": 287,
-          "incomplete": true
-        },
-        {
-          "rank": 5,
-          "name": "Jack Maliniconico",
-          "team": "Poway",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "0-1",
-          "rating": 1307,
-          "rd": 278,
-          "incomplete": true
-        },
-        {
-          "rank": 6,
           "name": "Joseph Guardado",
           "team": "Esperanza",
           "section": "SS",
@@ -677,14 +559,14 @@
           "incomplete": true
         },
         {
-          "rank": 7,
+          "rank": 3,
           "name": "Cael Humphrey",
           "team": "Sultana",
           "section": "SS",
           "grade": "Jr",
           "record": "0-2",
-          "rating": 1248,
-          "rd": 258
+          "rating": 1196,
+          "rd": 248
         }
       ]
     },
@@ -704,17 +586,6 @@
         },
         {
           "rank": 2,
-          "name": "Zaydrein Hernandez",
-          "team": "St. John Bosco",
-          "section": "SS",
-          "grade": "",
-          "record": "1-0",
-          "rating": 1662,
-          "rd": 290,
-          "incomplete": true
-        },
-        {
-          "rank": 3,
           "name": "Mathius Garza",
           "team": "Etiwanda",
           "section": "SS",
@@ -724,7 +595,7 @@
           "rd": 238
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Vinnie Gutierrez",
           "team": "Fountain Valley",
           "section": "SS",
@@ -734,7 +605,7 @@
           "rd": 247
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Orion Hill",
           "team": "Folsom",
           "section": "SJ",
@@ -745,7 +616,7 @@
           "incomplete": true
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Joseph Pavlov-Ramirez",
           "team": "Los Gatos",
           "section": "CC",
@@ -754,16 +625,6 @@
           "rating": 1338,
           "rd": 290,
           "incomplete": true
-        },
-        {
-          "rank": 7,
-          "name": "Raymond Rivera",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "",
-          "record": "0-2",
-          "rating": 1107,
-          "rd": 246
         }
       ]
     },
@@ -793,17 +654,6 @@
         },
         {
           "rank": 3,
-          "name": "Edward Sheeran",
-          "team": "Pitman",
-          "section": "SJ",
-          "grade": "",
-          "record": "1-0",
-          "rating": 1662,
-          "rd": 290,
-          "incomplete": true
-        },
-        {
-          "rank": 4,
           "name": "Diego Valdiviezo",
           "team": "Poway",
           "section": "SD",
@@ -813,7 +663,7 @@
           "rd": 241
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Rocco Godinez",
           "team": "Centennial",
           "section": "SS",
@@ -824,7 +674,7 @@
           "incomplete": true
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Kavi Garvey",
           "team": "Fountain Valley",
           "section": "SS",
@@ -832,17 +682,6 @@
           "record": "0-2",
           "rating": 1203,
           "rd": 242
-        },
-        {
-          "rank": 7,
-          "name": "Ames-Michael Hoevker",
-          "team": "Granite Hills",
-          "section": "SD",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1269,
-          "rd": 287,
-          "incomplete": true
         }
       ]
     },
@@ -2003,9 +1842,9 @@
         },
         {
           "rank": 3,
-          "name": "Adelena Martinez",
-          "team": "Hemet",
-          "section": "SS",
+          "name": "Marley Smith",
+          "team": "Lassen",
+          "section": "NS",
           "grade": "",
           "record": "0-1",
           "rating": 1338,
@@ -2014,9 +1853,9 @@
         },
         {
           "rank": 4,
-          "name": "Marley Smith",
-          "team": "Lassen",
-          "section": "NS",
+          "name": "Adelena Martinez",
+          "team": "Hemet",
+          "section": "SS",
           "grade": "",
           "record": "0-1",
           "rating": 1338,
