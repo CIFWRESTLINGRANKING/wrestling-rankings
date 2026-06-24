@@ -1,0 +1,267 @@
+{
+  "generated": "2026-06-24",
+  "title": "California HS Wrestling Rankings",
+  "weights": [
+    {
+      "weight": 126,
+      "wrestlers": [
+        {
+          "rank": 1,
+          "name": "Paul Ruiz",
+          "section": "CS",
+          "record": "10-2",
+          "rating": 1858,
+          "rd": 140
+        },
+        {
+          "rank": 2,
+          "name": "Issac Torres",
+          "section": "SS",
+          "record": "4-0",
+          "rating": 1846,
+          "rd": 202
+        },
+        {
+          "rank": 3,
+          "name": "Siraj Sidhu",
+          "section": "CS",
+          "record": "6-3",
+          "rating": 1721,
+          "rd": 153
+        },
+        {
+          "rank": 4,
+          "name": "Sean Willcox",
+          "section": "SS",
+          "record": "5-2",
+          "rating": 1723,
+          "rd": 169
+        },
+        {
+          "rank": 5,
+          "name": "Thunder Lewis",
+          "section": "NC",
+          "record": "3-1",
+          "rating": 1721,
+          "rd": 197
+        },
+        {
+          "rank": 6,
+          "name": "Aaron Meza",
+          "section": "SS",
+          "record": "2-1",
+          "rating": 1623,
+          "rd": 221
+        },
+        {
+          "rank": 7,
+          "name": "Caden Garriott",
+          "section": "SS",
+          "record": "2-1",
+          "rating": 1623,
+          "rd": 221
+        },
+        {
+          "rank": 8,
+          "name": "Massimo Ortiz",
+          "section": "SS",
+          "record": "1-0",
+          "rating": 1678,
+          "rd": 284
+        },
+        {
+          "rank": 9,
+          "name": "Elias Castaneda",
+          "section": "SJ",
+          "record": "2-2",
+          "rating": 1468,
+          "rd": 193
+        },
+        {
+          "rank": 10,
+          "name": "Aaron Silva",
+          "section": "SS",
+          "record": "2-2",
+          "rating": 1469,
+          "rd": 202
+        },
+        {
+          "rank": 11,
+          "name": "Julian Holguin",
+          "section": "CC",
+          "record": "1-1",
+          "rating": 1535,
+          "rd": 245
+        },
+        {
+          "rank": 12,
+          "name": "Nate Mitchell",
+          "section": "SJ",
+          "record": "1-1",
+          "rating": 1470,
+          "rd": 230
+        },
+        {
+          "rank": 13,
+          "name": "Jackson Humphrey",
+          "section": "SS",
+          "record": "1-2",
+          "rating": 1414,
+          "rd": 207
+        },
+        {
+          "rank": 14,
+          "name": "Ricardo Ortiz",
+          "section": "SD",
+          "record": "1-1",
+          "rating": 1500,
+          "rd": 253
+        },
+        {
+          "rank": 15,
+          "name": "Luke Schoch",
+          "section": "CC",
+          "record": "1-2",
+          "rating": 1403,
+          "rd": 209
+        },
+        {
+          "rank": 16,
+          "name": "Max Torrez",
+          "section": "CC",
+          "record": "1-2",
+          "rating": 1417,
+          "rd": 225
+        },
+        {
+          "rank": 17,
+          "name": "Jesse Quiroz",
+          "section": "SS",
+          "record": "0-1",
+          "rating": 1395,
+          "rd": 268
+        },
+        {
+          "rank": 18,
+          "name": "Brandon Bruns",
+          "section": "CC",
+          "record": "0-1",
+          "rating": 1351,
+          "rd": 254
+        },
+        {
+          "rank": 19,
+          "name": "Osiel Perez",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1338,
+          "rd": 290
+        },
+        {
+          "rank": 20,
+          "name": "Jovani Sandoval",
+          "section": "SJ",
+          "record": "0-1",
+          "rating": 1338,
+          "rd": 290
+        },
+        {
+          "rank": 21,
+          "name": "Emiliano Lopez",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1338,
+          "rd": 290
+        },
+        {
+          "rank": 22,
+          "name": "Aaron Klein",
+          "section": "SD",
+          "record": "0-1",
+          "rating": 1338,
+          "rd": 290
+        },
+        {
+          "rank": 23,
+          "name": "Vincent Peyron",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284
+        },
+        {
+          "rank": 24,
+          "name": "Brice Bearchum",
+          "section": "NS",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284
+        },
+        {
+          "rank": 25,
+          "name": "Jayden Olivas",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284
+        },
+        {
+          "rank": 26,
+          "name": "Jake Simmons",
+          "section": "SJ",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284
+        },
+        {
+          "rank": 27,
+          "name": "Matthew Ramos",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278
+        },
+        {
+          "rank": 28,
+          "name": "Matthew Gonzales",
+          "section": "LA",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278
+        },
+        {
+          "rank": 29,
+          "name": "Ezekiel Bayardo",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278
+        },
+        {
+          "rank": 30,
+          "name": "Dylan Powell",
+          "section": "SF",
+          "record": "0-1",
+          "rating": 1307,
+          "rd": 278
+        },
+        {
+          "rank": 31,
+          "name": "Juan Sotelo",
+          "section": "OS",
+          "record": "0-1",
+          "rating": 1298,
+          "rd": 274
+        },
+        {
+          "rank": 32,
+          "name": "Manuel Gutierrez",
+          "section": "CS",
+          "record": "0-1",
+          "rating": 1257,
+          "rd": 255
+        }
+      ]
+    }
+  ]
+}
