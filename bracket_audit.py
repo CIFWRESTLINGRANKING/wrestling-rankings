@@ -19,6 +19,10 @@ Signals:
 def audit_board(board):
     """Tag suspect wrestlers in-place; return list of (rank, name, record, why)."""
     flags = []
+    seen = {}
+    for w in board.get("wrestlers", []):
+        seen.setdefault(w["name"], []).append(w["rank"])
+    dupes = {n: rks for n, rks in seen.items() if len(rks) > 1}
     for w in board.get("wrestlers", []):
         try:
             wins, losses = (int(x) for x in w["record"].split("-"))
@@ -26,6 +30,9 @@ def audit_board(board):
             continue
         ffw = w.get("ffw", 0)          # forfeit/injury wins (padding)
         why = []
+        if w["name"] in dupes:
+            why.append(f"DUPLICATE — same name at ranks {dupes[w['name']]} "
+                       f"(identity split); merge")
         if losses == 0 and w["rank"] > 1:
             # an injury default can leave a real 0-loss line, so don't assert
             # "missing data" outright — flag for verification either way.
