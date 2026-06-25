@@ -1,0 +1,31 @@
+name: ingest-flo
+
+# Runs in GitHub's environment, which CAN reach flowrestling.org and send headers.
+on:
+  workflow_dispatch:           # manual run (use this for the one-time discovery)
+    inputs:
+      mode:
+        description: "discover or ingest"
+        default: "discover"
+      event:
+        description: "coreEventId to probe (discover mode)"
+        default: "15175762"
+  schedule:
+    - cron: "0 8 * * *"        # 1am PT nightly once we flip to ingest mode
+
+jobs:
+  flo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Run ingester
+        env:
+          MODE: ${{ github.event.inputs.mode || 'ingest' }}
+          EVENT: ${{ github.event.inputs.event || '15175762' }}
+        run: python flo_ingest.py
+      - name: Upload result
+        if: ${{ env.MODE == 'ingest' }}
+        uses: actions/upload-artifact@v4
+        with: { name: flo_bouts, path: flo_bouts.json }
