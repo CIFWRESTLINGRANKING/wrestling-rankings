@@ -1,0 +1,51 @@
+name: Weekly Rankings Rebuild
+
+# Rebuilds the boys boards from LIVE carank once a week.
+# - While carank is FINAL (offseason) the rebuild produces identical output, the
+#   change-detection step finds no diff, and NOTHING is committed - no fake "updated"
+#   noise. The moment carank goes live for 2026-27, this starts moving the boards
+#   automatically, hands-off.
+# - If carank is blocked/empty/format-changed, the build script trips its honesty
+#   guard and exits non-zero -> this run shows RED and commits nothing, rather than
+#   publishing a broken board.
+
+on:
+  schedule:
+    - cron: '0 13 * * 0'      # every Sunday 13:00 UTC (~5-6am Pacific) - catches weekend results
+  workflow_dispatch: {}        # also runnable on demand from the Actions tab
+
+permissions:
+  contents: write              # allow the bot to push rankings.json
+
+concurrency:
+  group: weekly-rankings
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild boards from live carank
+        run: python3 build_rankings_auto.py rankings.json
+        # Non-zero exit (honesty guard) fails the run here -> no commit, red X.
+
+      - name: Commit only if rankings actually changed
+        run: |
+          if git diff --quiet -- rankings.json; then
+            echo "No change in rankings.json (carank unchanged - likely FINAL/offseason). Nothing to commit."
+          else
+            git config user.name  "rankings-bot"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add rankings.json
+            git commit -m "Weekly auto-rebuild from carank: $(date -u +%Y-%m-%d)"
+            git push
+            echo "rankings.json updated and pushed."
+          fi
