@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T22:50:10.528109+00:00",
+  "generated": "2026-08-23T22:23:52.184479+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -1102,16 +1102,6 @@
         },
         {
           "rank": 3,
-          "name": "Jack Malinconico",
-          "team": "Poway",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "10-9",
-          "rating": 1646,
-          "rd": 110
-        },
-        {
-          "rank": 4,
           "name": "John Benitez",
           "team": "Redwood Visalia",
           "section": "CS",
@@ -1121,7 +1111,7 @@
           "rd": 111
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Cole Cronan",
           "team": "Turlock",
           "section": "SJ",
@@ -1131,7 +1121,7 @@
           "rd": 109
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Roman Zelenka",
           "team": "Carlsbad",
           "section": "SD",
@@ -1141,7 +1131,7 @@
           "rd": 114
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Joseph Albert",
           "team": "Alvarez",
           "section": "CC",
@@ -1151,7 +1141,7 @@
           "rd": 185
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Marco Costa",
           "team": "Redlands East",
           "section": "SS",
@@ -1161,7 +1151,7 @@
           "rd": 113
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Cael Humphrey",
           "team": "Sultana",
           "section": "SS",
@@ -1171,7 +1161,7 @@
           "rd": 139
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Joseph Guardado",
           "team": "Esperanza",
           "section": "SS",
@@ -1181,7 +1171,7 @@
           "rd": 128
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Brian Miller",
           "team": "Palo Alto",
           "section": "CC",
@@ -1191,7 +1181,7 @@
           "rd": 144
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Jonah Rusca",
           "team": "Reedley",
           "section": "CS",
@@ -1201,7 +1191,7 @@
           "rd": 118
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Daniel Guerra",
           "team": "Southwest El Cajon",
           "section": "SD",
@@ -1211,7 +1201,7 @@
           "rd": 156
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Tommy Magallanes",
           "team": "Justin Garza",
           "section": "CS",
@@ -1221,7 +1211,7 @@
           "rd": 184
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Cruz Contreras",
           "team": "Aptos",
           "section": "CC",
@@ -1231,7 +1221,7 @@
           "rd": 143
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Jaden Garcia",
           "team": "Clovis",
           "section": "CS",
@@ -3421,6 +3411,6 @@
       ]
     }
   ],
-  "source": "carank.neocities.org (folkstyle) + USA Bracketing CAUSAW freestyle @0.65",
-  "notes": "Ratings include the 2026 CAUSAW freestyle state event folded in at 0.65 weight (85 both-on-board bouts). Junior National Duals and Kids Nationals contributed 0 (structural). Freestyle applied as a post-season Glicko-2 rating period; folkstyle H2H tiebreaks preserved for wrestlers who did not compete in freestyle. Record column still reflects folkstyle-tracked H2H only. Record column = combined tracked H2H (folkstyle carank + CAUSAW freestyle)."
+  "source": "carank.neocities.org (folkstyle) + USA Bracketing (CAUSAW 2026 freestyle, Fargo 2026 CA-vs-CA freestyle) @0.65",
+  "notes": "Ratings are Glicko-2. Base is folkstyle competition tracked on carank.neocities.org. Freestyle is folded in as a post-season rating period at 0.65 style weight: the 2026 CAUSAW state event (85 both-on-board bouts) and Fargo 2026 CA-vs-CA bouts (11 bouts, 9 wrestlers). Junior and 16U boys freestyle only; no Greco. Junior National Duals and Kids Nationals contributed 0 bouts (structural). The 'Record' column is TRACKED head-to-head only: it counts bouts ingested from the sources above, not a wrestler's full season record. A wrestler's real record is almost always better than what this column shows. Rank order is not strictly monotonic with rating on every board, because folkstyle head-to-head tiebreaks are preserved for wrestlers who did not compete in freestyle. 691 Fargo CA-vs-out-of-state bouts are EXCLUDED: no validated rating exists for out-of-state opponents, and estimating one would be a guess. Wrestlers who competed in summer freestyle are therefore evaluated on more evidence than those who did not, and carry tighter rating deviations (rd) as a result. This is a property of the data available, not a judgment about wrestlers who did not compete in the summer. Graduated seniors are filtered at build time. Girls board entries carry no grade data, so graduated girls may remain listed until early-season results identify them."
 }
