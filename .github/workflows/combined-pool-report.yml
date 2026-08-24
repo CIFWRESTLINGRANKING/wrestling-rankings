@@ -1,0 +1,35 @@
+name: Combined Pool Report (diagnostic)
+
+# LOG-ONLY cross-weight pool diagnostic. Rates two adjacent weight classes as
+# one Glicko pool so cross-board placement questions get a real answer.
+# Writes NOTHING (contents: read) -- the run log is the entire output.
+
+on:
+  workflow_dispatch:
+    inputs:
+      wt_a:
+        description: 'First weight class'
+        default: '126'
+        required: true
+      wt_b:
+        description: 'Second weight class'
+        default: '132'
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Combined pool report (log only, writes nothing)
+        run: python3 combined_pool_report.py "${{ inputs.wt_a }}" "${{ inputs.wt_b }}"
