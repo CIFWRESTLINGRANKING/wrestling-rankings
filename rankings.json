@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T19:10:35.895546+00:00",
+  "generated": "2026-08-24T19:20:33.738731+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -614,16 +614,6 @@
         },
         {
           "rank": 5,
-          "name": "Zachary Samano",
-          "team": "Chino",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "14-6",
-          "rating": 1748,
-          "rd": 94
-        },
-        {
-          "rank": 6,
           "name": "Benicio Thome",
           "team": "Bishop\r\n  Amat",
           "section": "SS",
@@ -633,7 +623,7 @@
           "rd": 107
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Joey Guanella",
           "team": "Windsor      \r\n    NORTH\r\n  COAST",
           "section": "NC",
@@ -643,7 +633,7 @@
           "rd": 113
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Aiden Garcia",
           "team": "Palma",
           "section": "CC",
@@ -653,7 +643,7 @@
           "rd": 97
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Kayleb Chao",
           "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -663,7 +653,7 @@
           "rd": 88
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Josiah Leyvas",
           "team": "La Serna",
           "section": "SS",
@@ -673,7 +663,7 @@
           "rd": 90
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Knox Espinoza",
           "team": "Long Beach      \r\n    Poly",
           "section": "SS",
@@ -683,7 +673,7 @@
           "rd": 96
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Gabryel Juarez",
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
@@ -693,7 +683,7 @@
           "rd": 97
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Jason Lin",
           "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -703,7 +693,7 @@
           "rd": 112
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Camm Colgate",
           "team": "Evergreen      \r\n    Institution",
           "section": "NS",
@@ -713,7 +703,7 @@
           "rd": 158
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Colton Meixner",
           "team": "Clovis North",
           "section": "CS",
@@ -723,7 +713,7 @@
           "rd": 96
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Caleb Cisneros",
           "team": "Selma",
           "section": "CS",
@@ -733,7 +723,7 @@
           "rd": 90
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Alex Ramos",
           "team": "Clovis\r\n  West",
           "section": "CS",
@@ -743,7 +733,7 @@
           "rd": 91
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Maddox Hazard",
           "team": "Sultana",
           "section": "SS",
@@ -753,7 +743,7 @@
           "rd": 99
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Gavin Pongsai",
           "team": "Gilroy",
           "section": "CC",
@@ -763,7 +753,7 @@
           "rd": 106
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Luke Tran",
           "team": "Independence",
           "section": "CC",
@@ -773,7 +763,7 @@
           "rd": 102
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Anthony Strahm",
           "team": "Holtville      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -783,7 +773,7 @@
           "rd": 112
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Sergio Valencia",
           "team": "Farmersville",
           "section": "CS",
@@ -793,7 +783,7 @@
           "rd": 130
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "HM Raymond Carbajal",
           "team": "Santa\r\n  Fe",
           "section": "SS",
@@ -803,7 +793,7 @@
           "rd": 110
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "- Andrew Sandoval",
           "team": "Woodlake\r\n  Union",
           "section": "CS",
@@ -813,7 +803,7 @@
           "rd": 113
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "- Kaden Owens",
           "team": "Foothill      \r\n    Palo\r\n  Cedro",
           "section": "NS",
@@ -823,7 +813,7 @@
           "rd": 184
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Declan Leonard",
           "team": "Del Oro",
           "section": "SJ",
@@ -835,7 +825,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Caden Herrera",
           "team": "Bakersfield",
           "section": "CS",
@@ -847,7 +837,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Julius Mark Villamil",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1819,18 +1809,6 @@
         },
         {
           "rank": 16,
-          "name": "Jack Malinconico",
-          "team": "Poway",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "14-6",
-          "rating": 1817,
-          "rd": 106,
-          "proj": true,
-          "origin_weight": 132
-        },
-        {
-          "rank": 17,
           "name": "Jack Bronte",
           "team": "Granada",
           "section": "NC",
@@ -1842,7 +1820,7 @@
           "origin_weight": 138
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Marcello Calavitta",
           "team": "Esperanza",
           "section": "SS",
