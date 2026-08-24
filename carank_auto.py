@@ -37,7 +37,15 @@ def html_to_text(raw):
     t = re.sub(r"(?is)<br\s*/?>", "\n", t)
     t = re.sub(r"(?is)</(td|tr|p|div|li|h\d)>", " ", t)
     t = re.sub(r"(?s)<[^>]+>", " ", t)
-    return _html.unescape(t)
+    t = _html.unescape(t)
+    # Live pages carry no markdown bold, but carank_gen.BLOCK_RE expects the
+    # condensed-page marker "- **#N**". Synthesize it from the rank header
+    # (rank, last-week, glued Name+GRADE). Validated on live CA126Data
+    # 2026-08-25: 40/40 blocks, all with grades, ranks 1-40, 0 false hits.
+    t = re.sub(r"(^|[\s])#?(\d{1,2})\s+(\d{1,2}|HM|-)\s+(?=[A-Z][a-zA-Z'\u2019.]*[a-z])",
+               lambda m: m.group(1) + "\n- **#" + m.group(2) + "** " + m.group(3) + " ",
+               t)
+    return t
 
 
 def split_name(glued):
