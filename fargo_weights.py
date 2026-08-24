@@ -95,3 +95,32 @@ def fargo_weight_map():
         for n in names:
             out[n] = wt
     return out
+
+
+# --- Fargo credentials & folkstyle H2H, for preseason arrival seeding --------
+# Credential = All-American finish (top 8) at a specific Fargo weight.
+# place: 1/2 for known finals results; "AA" where the medal is confirmed but
+# the exact placement match result was not (sorts below any known place).
+# Sources: Flo finals/champions articles + USAW state-by-state recap.
+FARGO_CREDENTIALS = {
+    "Luke Loren":      {"division": "Junior", "place": 1,    "weight": 106},
+    "Frank Fuentes":   {"division": "Junior", "place": 2,    "weight": 106},
+    "Thales Silva":    {"division": "Junior", "place": 2,    "weight": 113},
+    "Michael Bernabe": {"division": "16U",    "place": 1,    "weight": 113},
+    "Thiago Silva":    {"division": "Junior", "place": "AA", "weight": 120},
+    "Aiden Garcia":    {"division": "Junior", "place": "AA", "weight": 120},
+    "Samuel Sanchez":  {"division": "Junior", "place": 1,    "weight": 126},
+    "Jesse Grajeda":   {"division": "Junior", "place": 1,    "weight": 144},
+    "Mario Carini":    {"division": "Junior", "place": 2,    "weight": 175},
+    "Mason Ontiveros": {"division": "Junior", "place": "AA", "weight": 190},
+    "Daniel Mick Moylan": {"division": "Junior", "place": 2, "weight": 215},
+    # Jacob Perez (Jr AA 165), Sebastian Gutierrez / Cameron Bartlow (16U 106)
+    # are not on any board; Mason McDonnell's 16U medal weight is unconfirmed.
+}
+
+# Folkstyle 2025-26 head-to-heads BETWEEN FARGO ARRIVALS, from carank pages.
+# (winner, loser): "W-L". Used only to order/pull-up arrivals during seeding.
+ARRIVAL_H2H = {
+    ("Michael Bernabe", "Thales Silva"): "3-2",   # incl. Central Section final
+    ("Anthony Garza",   "Thiago Silva"): "3-0",
+}
