@@ -21,6 +21,7 @@ Exit codes: 0 = ok (built or legitimately unchanged), 1 = too many weights faile
 import json, sys, datetime
 import carank_auto as A
 from fargo_step import apply_fargo_moves  # preseason Fargo projection
+from grad_overrides import is_graduated  # manual Class-of-2026 drops
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
@@ -58,6 +59,14 @@ def main():
         print("Failures:", failed)
         return 1
 
+    # Drop manually-confirmed graduated seniors BEFORE the Fargo step --
+    # carank grade data is wrong for some (Malinconico shows Jr), so the
+    # grade filter alone lets them back onto every rebuild (see run #2).
+    for b in data["weights"]:
+        if b["gender"] == "boys":
+            b["wrestlers"] = [w for w in b["wrestlers"]
+                              if not is_graduated(w["name"])]
+    
     # Preseason Fargo projection: weight moves + credential seeding
     # (fargo_weights.py / fargo_step.py). Idempotent; self-sunsets once
     # live carank lists wrestlers at their new weights.
