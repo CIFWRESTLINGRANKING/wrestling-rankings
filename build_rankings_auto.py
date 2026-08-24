@@ -20,6 +20,7 @@ Exit codes: 0 = ok (built or legitimately unchanged), 1 = too many weights faile
 """
 import json, sys, datetime
 import carank_auto as A
+from fargo_step import apply_fargo_moves  # preseason Fargo projection
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
@@ -57,6 +58,16 @@ def main():
         print("Failures:", failed)
         return 1
 
+    # Preseason Fargo projection: weight moves + credential seeding
+    # (fargo_weights.py / fargo_step.py). Idempotent; self-sunsets once
+    # live carank lists wrestlers at their new weights.
+    boys = {b["weight"]: b["wrestlers"] for b in data["weights"]
+            if b["gender"] == "boys"}
+    boys, _fargo_report = apply_fargo_moves(boys)
+    for b in data["weights"]:
+        if b["gender"] == "boys":
+            b["wrestlers"] = boys[b["weight"]]
+    
     data["generated"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
     data["source"] = "carank.neocities.org (automated)"
     json.dump(data, open(OUT, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
