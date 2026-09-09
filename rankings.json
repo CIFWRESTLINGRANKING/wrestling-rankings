@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T13:30:31.145433+00:00",
+ "generated": "2026-09-09T13:38:56.426208+00:00",
  "title": "California HS Wrestling Rankings",
  "weights": [
   {
@@ -19,7 +19,7 @@
     {
      "rank": 2,
      "name": "Ivan Angulo",
-     "team": "Coachella          \r\n     Valley",
+     "team": "Coachella Valley",
      "section": "SS",
      "grade": "Fr",
      "record": "15-4",
@@ -43,7 +43,7 @@
      "section": "SS",
      "grade": "So",
      "record": "19-6",
-     "rating": 1833,
+     "rating": 1834,
      "rd": 93
     },
     {
@@ -89,7 +89,7 @@
     {
      "rank": 9,
      "name": "Frank Fuentes",
-     "team": "Chavez         \r\n     Stockton",
+     "team": "Chavez Stockton",
      "section": "SJ",
      "grade": "Jr",
      "record": "10-5",
@@ -113,8 +113,8 @@
      "section": "CC",
      "grade": "So",
      "record": "15-9",
-     "rating": 1696,
-     "rd": 102
+     "rating": 1700,
+     "rd": 101
     },
     {
      "rank": 12,
@@ -153,13 +153,13 @@
      "section": "SS",
      "grade": "So",
      "record": "15-12",
-     "rating": 1600,
+     "rating": 1601,
      "rd": 84
     },
     {
      "rank": 16,
      "name": "Rama Valencerina",
-     "team": "John F. \n\r\n  Kennedy",
+     "team": "John F. Kennedy",
      "section": "NC",
      "grade": "Fr",
      "record": "11-8",
@@ -168,6 +168,17 @@
     },
     {
      "rank": 17,
+     "name": "Junior Lopez",
+     "team": "Banning",
+     "section": "LA",
+     "grade": "Jr",
+     "record": "5-4",
+     "rating": 1536,
+     "rd": 147,
+     "tier": "NR"
+    },
+    {
+     "rank": 18,
      "name": "Aydann Correa",
      "team": "Brawley Union",
      "section": "SD",
@@ -177,7 +188,7 @@
      "rd": 93
     },
     {
-     "rank": 18,
+     "rank": 19,
      "name": "Cody Holtberg",
      "team": "St. Mary�s",
      "section": "SJ",
@@ -187,17 +198,18 @@
      "rd": 87
     },
     {
-     "rank": 19,
-     "name": "HM Kevin Martinez",
+     "rank": 20,
+     "name": "Kevin Martinez",
      "team": "Western",
      "section": "SS",
      "grade": "Jr",
      "record": "9-8",
      "rating": 1521,
-     "rd": 105
+     "rd": 105,
+     "tier": "HM"
     },
     {
-     "rank": 20,
+     "rank": 21,
      "name": "Ryder Bareng",
      "team": "Mar Vista",
      "section": "SD",
@@ -207,34 +219,26 @@
      "rd": 104
     },
     {
-     "rank": 21,
-     "name": "- Junior Lopez",
-     "team": "Banning",
-     "section": "LA",
-     "grade": "Jr",
-     "record": "2-2",
-     "rating": 1475,
-     "rd": 199
-    },
-    {
      "rank": 22,
-     "name": "- Jason Liau",
+     "name": "Jason Liau",
      "team": "Bellarmine Prep",
      "section": "CC",
      "grade": "Jr",
      "record": "5-4",
      "rating": 1469,
-     "rd": 141
+     "rd": 141,
+     "tier": "NR"
     },
     {
      "rank": 23,
-     "name": "HM Jayden Yacuta",
+     "name": "Jayden Yacuta",
      "team": "Porterville",
      "section": "CS",
      "grade": "Fr",
      "record": "11-12",
      "rating": 1454,
-     "rd": 102
+     "rd": 102,
+     "tier": "HM"
     },
     {
      "rank": 24,
@@ -258,33 +262,36 @@
     },
     {
      "rank": 26,
-     "name": "- Aiden Salindong",
+     "name": "Aiden Salindong",
      "team": "Pleasant Valley",
      "section": "NS",
      "grade": "So",
-     "record": "6-6",
-     "rating": 1423,
-     "rd": 131
+     "record": "7-8",
+     "rating": 1400,
+     "rd": 119,
+     "tier": "NR"
     },
     {
      "rank": 27,
-     "name": "- Qusay Altowiti",
-     "team": "North         \r\n     Monterey         \r\n     County",
+     "name": "Qusay Altowiti",
+     "team": "North Monterey County",
      "section": "CC",
      "grade": "Jr",
      "record": "3-10",
      "rating": 1369,
-     "rd": 136
+     "rd": 136,
+     "tier": "NR"
     },
     {
      "rank": 28,
-     "name": "- Daniel Taylor",
-     "team": "Foothill         \r\n     Palo Cedro",
+     "name": "Daniel Taylor",
+     "team": "Foothill Palo Cedro",
      "section": "NC",
      "grade": "Fr",
      "record": "1-5",
      "rating": 1100,
-     "rd": 161
+     "rd": 161,
+     "tier": "NR"
     }
    ]
   },
@@ -312,8 +319,8 @@
      "section": "SS",
      "grade": "Fr",
      "record": "22-3",
-     "rating": 1920,
-     "rd": 117
+     "rating": 1923,
+     "rd": 116
     },
     {
      "rank": 3,
@@ -335,7 +342,7 @@
      "section": "CC",
      "grade": "So",
      "record": "18-5",
-     "rating": 1866,
+     "rating": 1868,
      "rd": 91
     },
     {
@@ -355,7 +362,7 @@
      "section": "CC",
      "grade": "So",
      "record": "19-7",
-     "rating": 1799,
+     "rating": 1802,
      "rd": 89
     },
     {
@@ -370,6 +377,16 @@
     },
     {
      "rank": 8,
+     "name": "Isaiah Gonzaga",
+     "team": "Elk Grove SAC JOAQUIN",
+     "section": "SJ",
+     "grade": "Jr",
+     "record": "23-9",
+     "rating": 1784,
+     "rd": 81
+    },
+    {
+     "rank": 9,
      "name": "Uriah Correa",
      "team": "Servite",
      "section": "SS",
@@ -379,19 +396,9 @@
      "rd": 111
     },
     {
-     "rank": 9,
-     "name": "Isaiah Gonzaga",
-     "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
-     "section": "SJ",
-     "grade": "Jr",
-     "record": "23-9",
-     "rating": 1780,
-     "rd": 81
-    },
-    {
      "rank": 10,
      "name": "Phillip Hernandez",
-     "team": "Clovis\r\n  North",
+     "team": "Clovis North",
      "section": "CS",
      "grade": "Fr",
      "record": "17-7",
@@ -411,7 +418,7 @@
     {
      "rank": 12,
      "name": "Titus Khamjoi",
-     "team": "St.\r\n  Mary�s      \r\n    SAC\r\n  JOAQUIN",
+     "team": "St. Mary�s SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "18-8",
@@ -420,23 +427,24 @@
     },
     {
      "rank": 13,
-     "name": "HM Brodie Henderson",
-     "team": "Orland",
-     "section": "NS",
-     "grade": "Jr",
-     "record": "6-2",
-     "rating": 1677,
-     "rd": 163
-    },
-    {
-     "rank": 14,
      "name": "Alekzander Espinoza",
-     "team": "Palm\r\n  Desert",
+     "team": "Palm Desert",
      "section": "SS",
      "grade": "Fr",
      "record": "12-8",
      "rating": 1671,
      "rd": 98
+    },
+    {
+     "rank": 14,
+     "name": "Brodie Henderson",
+     "team": "Orland",
+     "section": "NS",
+     "grade": "Jr",
+     "record": "8-4",
+     "rating": 1654,
+     "rd": 142,
+     "tier": "HM"
     },
     {
      "rank": 15,
@@ -453,7 +461,7 @@
     {
      "rank": 16,
      "name": "Ryder Doleschal",
-     "team": "Junipero\r\n  Serra",
+     "team": "Junipero Serra",
      "section": "CC",
      "grade": "Jr",
      "record": "12-9",
@@ -463,7 +471,7 @@
     {
      "rank": 17,
      "name": "Shane Ito",
-     "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+     "team": "La Costa Canyon SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "8-6",
@@ -473,7 +481,7 @@
     {
      "rank": 18,
      "name": "Andrew Reyes",
-     "team": "Pacifica      \r\n    Garden Grove",
+     "team": "Pacifica Garden Grove",
      "section": "SS",
      "grade": "Fr",
      "record": "13-9",
@@ -483,7 +491,7 @@
     {
      "rank": 19,
      "name": "Adan Board",
-     "team": "Garces\r\n        \r\n    Memorial",
+     "team": "Garces Memorial",
      "section": "CS",
      "grade": "Fr",
      "record": "9-8",
@@ -493,7 +501,7 @@
     {
      "rank": 20,
      "name": "Xavier Garcia",
-     "team": "Clovis\r\n  West",
+     "team": "Clovis West",
      "section": "CS",
      "grade": "Jr",
      "record": "8-8",
@@ -513,7 +521,7 @@
     {
      "rank": 22,
      "name": "Reshad Ahmadi",
-     "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
+     "team": "James Logan NORTH COAST",
      "section": "NC",
      "grade": "So",
      "record": "5-7",
@@ -523,7 +531,7 @@
     {
      "rank": 23,
      "name": "Elijah Duran",
-     "team": "Golden\r\n  Valley      \r\n    Bakersfield",
+     "team": "Golden Valley Bakersfield",
      "section": "CS",
      "grade": "Jr",
      "record": "7-11",
@@ -532,16 +540,6 @@
     },
     {
      "rank": 24,
-     "name": "- Ryan Lancin",
-     "team": "George      \r\n    Washington      \r\n    SAN\r\n  FRANCISCO",
-     "section": "SF",
-     "grade": "So",
-     "record": "1-4",
-     "rating": 1264,
-     "rd": 201
-    },
-    {
-     "rank": 25,
      "name": "Elias Pedroza",
      "team": "Granite Hills",
      "section": "SD",
@@ -551,14 +549,26 @@
      "rd": 136
     },
     {
+     "rank": 25,
+     "name": "Ryan Lancin",
+     "team": "George Washington SAN FRANCISCO",
+     "section": "SF",
+     "grade": "So",
+     "record": "1-6",
+     "rating": 1210,
+     "rd": 179,
+     "tier": "NR"
+    },
+    {
      "rank": 26,
-     "name": "- Morgan Stevens",
+     "name": "Morgan Stevens",
      "team": "Shasta",
      "section": "NS",
      "grade": "So",
      "record": "0-7",
      "rating": 1123,
-     "rd": 173
+     "rd": 173,
+     "tier": "NR"
     }
    ]
   },
@@ -595,17 +605,17 @@
     {
      "rank": 3,
      "name": "Eliazar Valdez",
-     "team": "Central\r\n  Catholic      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Central Catholic SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "16-5",
-     "rating": 1867,
-     "rd": 103
+     "rating": 1869,
+     "rd": 102
     },
     {
      "rank": 4,
      "name": "Nathan Reynolds",
-     "team": "St.\r\n  John Bosco",
+     "team": "St. John Bosco",
      "section": "SS",
      "grade": "Fr",
      "record": "17-4",
@@ -615,7 +625,7 @@
     {
      "rank": 5,
      "name": "Joey Guanella",
-     "team": "Windsor      \r\n    NORTH\r\n  COAST",
+     "team": "Windsor NORTH COAST",
      "section": "NC",
      "grade": "So",
      "record": "16-5",
@@ -625,7 +635,7 @@
     {
      "rank": 6,
      "name": "Benicio Thome",
-     "team": "Bishop\r\n  Amat",
+     "team": "Bishop Amat",
      "section": "SS",
      "grade": "Jr",
      "record": "13-5",
@@ -635,17 +645,17 @@
     {
      "rank": 7,
      "name": "Camm Colgate",
-     "team": "Evergreen      \r\n    Institution",
+     "team": "Evergreen Institution",
      "section": "NS",
      "grade": "So",
      "record": "9-5",
-     "rating": 1686,
+     "rating": 1692,
      "rd": 136
     },
     {
      "rank": 8,
      "name": "Kayleb Chao",
-     "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Elk Grove SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "19-12",
@@ -659,8 +669,8 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "14-12",
-     "rating": 1623,
-     "rd": 85,
+     "rating": 1619,
+     "rd": 86,
      "proj": true,
      "origin_weight": 113
     },
@@ -676,18 +686,8 @@
     },
     {
      "rank": 11,
-     "name": "Aiden Garcia",
-     "team": "Palma",
-     "section": "CC",
-     "grade": "Jr",
-     "record": "20-9",
-     "rating": 1586,
-     "rd": 84
-    },
-    {
-     "rank": 12,
      "name": "Jason Lin",
-     "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+     "team": "La Costa Canyon SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "10-6",
@@ -695,9 +695,9 @@
      "rd": 112
     },
     {
-     "rank": 13,
+     "rank": 12,
      "name": "Knox Espinoza",
-     "team": "Long Beach      \r\n    Poly",
+     "team": "Long Beach Poly",
      "section": "SS",
      "grade": "Jr",
      "record": "17-14",
@@ -705,9 +705,19 @@
      "rd": 88
     },
     {
+     "rank": 13,
+     "name": "Aiden Garcia",
+     "team": "Palma",
+     "section": "CC",
+     "grade": "Jr",
+     "record": "20-9",
+     "rating": 1570,
+     "rd": 84
+    },
+    {
      "rank": 14,
      "name": "Gabryel Juarez",
-     "team": "Garces      \r\n    Memorial",
+     "team": "Garces Memorial",
      "section": "CS",
      "grade": "So",
      "record": "14-10",
@@ -759,7 +769,7 @@
     {
      "rank": 19,
      "name": "Alex Ramos",
-     "team": "Clovis\r\n  West",
+     "team": "Clovis West",
      "section": "CS",
      "grade": "Jr",
      "record": "13-12",
@@ -779,7 +789,7 @@
     {
      "rank": 21,
      "name": "Julius Mark Villamil",
-     "team": "Poway      \r\n    SAN\r\n  DIEGO",
+     "team": "Poway SAN DIEGO",
      "section": "SD",
      "grade": "So",
      "record": "6-9",
@@ -811,7 +821,7 @@
     {
      "rank": 24,
      "name": "Anthony Strahm",
-     "team": "Holtville      \r\n    SAN\r\n  DIEGO",
+     "team": "Holtville SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "7-10",
@@ -820,33 +830,36 @@
     },
     {
      "rank": 25,
-     "name": "HM Raymond Carbajal",
-     "team": "Santa\r\n  Fe",
+     "name": "Raymond Carbajal",
+     "team": "Santa Fe",
      "section": "SS",
      "grade": "So",
      "record": "7-10",
      "rating": 1414,
-     "rd": 110
+     "rd": 110,
+     "tier": "HM"
     },
     {
      "rank": 26,
-     "name": "- Kaden Owens",
-     "team": "Foothill      \r\n    Palo\r\n  Cedro",
+     "name": "Kaden Owens",
+     "team": "Foothill Palo Cedro",
      "section": "NS",
      "grade": "Jr",
      "record": "3-4",
      "rating": 1344,
-     "rd": 184
+     "rd": 184,
+     "tier": "NR"
     },
     {
      "rank": 27,
-     "name": "- Andrew Sandoval",
-     "team": "Woodlake\r\n  Union",
+     "name": "Andrew Sandoval",
+     "team": "Woodlake Union",
      "section": "CS",
      "grade": "Fr",
      "record": "5-15",
      "rating": 1294,
-     "rd": 113
+     "rd": 113,
+     "tier": "NR"
     }
    ]
   },
@@ -861,8 +874,8 @@
      "section": "CS",
      "grade": "So",
      "record": "19-3",
-     "rating": 2029,
-     "rd": 107
+     "rating": 2026,
+     "rd": 108
     },
     {
      "rank": 2,
@@ -887,7 +900,7 @@
     {
      "rank": 4,
      "name": "Julian Holguin",
-     "team": "Bellarmine\r\n  Prep",
+     "team": "Bellarmine Prep",
      "section": "CC",
      "grade": "Fr",
      "record": "11-3",
@@ -910,7 +923,7 @@
     {
      "rank": 6,
      "name": "Rene Cordero",
-     "team": "Poway      \r\n    SAN\r\n  DIEGO",
+     "team": "Poway SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "13-4",
@@ -922,11 +935,11 @@
     {
      "rank": 7,
      "name": "Elias Castaneda",
-     "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Bella Vista SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "23-7",
-     "rating": 1774,
+     "rating": 1773,
      "rd": 94
     },
     {
@@ -942,7 +955,7 @@
     {
      "rank": 9,
      "name": "Caden Garriott",
-     "team": "South      \r\n    Torrance",
+     "team": "South Torrance",
      "section": "SS",
      "grade": "Jr",
      "record": "16-6",
@@ -962,7 +975,7 @@
     {
      "rank": 11,
      "name": "Vincent Peyron",
-     "team": "Mission\r\n  Oak",
+     "team": "Mission Oak",
      "section": "CS",
      "grade": "So",
      "record": "13-4",
@@ -982,7 +995,7 @@
     {
      "rank": 13,
      "name": "Jesse Quiroz",
-     "team": "Eleanor\r\n        \r\n    Roosevelt",
+     "team": "Eleanor Roosevelt",
      "section": "SS",
      "grade": "Jr",
      "record": "14-9",
@@ -1021,18 +1034,19 @@
     },
     {
      "rank": 17,
-     "name": "HM Matthew Gonzales",
-     "team": "San\r\n  Fernando      \r\n    LOS\r\n  ANGELES",
+     "name": "Matthew Gonzales",
+     "team": "San Fernando LOS ANGELES",
      "section": "LA",
      "grade": "Jr",
      "record": "1-1",
      "rating": 1513,
-     "rd": 234
+     "rd": 234,
+     "tier": "HM"
     },
     {
      "rank": 18,
      "name": "Chris Anderson",
-     "team": "Liberty      \r\n    Brentwood      \r\n    NORTH\r\n  COAST",
+     "team": "Liberty Brentwood NORTH COAST",
      "section": "NC",
      "grade": "Jr",
      "record": "5-7",
@@ -1041,43 +1055,47 @@
     },
     {
      "rank": 19,
-     "name": "HM Brandon Bruns",
+     "name": "Brandon Bruns",
      "team": "Christopher",
      "section": "CC",
      "grade": "Jr",
-     "record": "5-10",
-     "rating": 1356,
-     "rd": 124
+     "record": "8-12",
+     "rating": 1397,
+     "rd": 108,
+     "tier": "HM"
     },
     {
      "rank": 20,
-     "name": "HM Matthew Ramos",
-     "team": "Exeter\r\n  Union",
+     "name": "Matthew Ramos",
+     "team": "Exeter Union",
      "section": "CS",
      "grade": "So",
-     "record": "6-10",
-     "rating": 1344,
-     "rd": 118
+     "record": "7-12",
+     "rating": 1318,
+     "rd": 106,
+     "tier": "HM"
     },
     {
      "rank": 21,
-     "name": "- Isaac Navarro",
-     "team": "Vista      \r\n    SAN\r\n  DIEGO",
+     "name": "Isaac Navarro",
+     "team": "Vista SAN DIEGO",
      "section": "SD",
      "grade": "So",
      "record": "2-10",
      "rating": 1303,
-     "rd": 164
+     "rd": 164,
+     "tier": "NR"
     },
     {
      "rank": 22,
-     "name": "HM Ezekiel Bayardo",
+     "name": "Ezekiel Bayardo",
      "team": "Immanuel",
      "section": "CS",
      "grade": "So",
      "record": "6-11",
      "rating": 1287,
-     "rd": 112
+     "rd": 112,
+     "tier": "HM"
     }
    ]
   },
@@ -1098,7 +1116,7 @@
     {
      "rank": 2,
      "name": "Luke Schoch",
-     "team": "Los\r\n  Gatos",
+     "team": "Los Gatos",
      "section": "CC",
      "grade": "So",
      "record": "12-6",
@@ -1130,7 +1148,7 @@
     {
      "rank": 5,
      "name": "Marco Costa",
-     "team": "Redlands      \r\n    East Valley",
+     "team": "Redlands East Valley",
      "section": "SS",
      "grade": "Fr",
      "record": "14-6",
@@ -1150,7 +1168,7 @@
     {
      "rank": 7,
      "name": "Roman Zelenka",
-     "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+     "team": "Carlsbad SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "18-7",
@@ -1160,7 +1178,7 @@
     {
      "rank": 8,
      "name": "Nate Mitchell",
-     "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Del Oro SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "18-9",
@@ -1172,22 +1190,23 @@
     {
      "rank": 9,
      "name": "John Benitez",
-     "team": "Redwood      \r\n    Visalia",
+     "team": "Redwood Visalia",
      "section": "CS",
      "grade": "Jr",
      "record": "17-11",
-     "rating": 1647,
+     "rating": 1646,
      "rd": 87
     },
     {
      "rank": 10,
-     "name": "- Tommy Magallanes",
-     "team": "Justin\r\n  Garza",
+     "name": "Tommy Magallanes",
+     "team": "Justin Garza",
      "section": "CS",
      "grade": "So",
      "record": "5-6",
      "rating": 1566,
-     "rd": 139
+     "rd": 139,
+     "tier": "NR"
     },
     {
      "rank": 11,
@@ -1202,22 +1221,23 @@
     {
      "rank": 12,
      "name": "Cole Cronan",
-     "team": "Turlock      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Turlock SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "15-13",
-     "rating": 1526,
+     "rating": 1530,
      "rd": 84
     },
     {
      "rank": 13,
-     "name": "- Daniel Guerra",
-     "team": "Southwest      \r\n    El\r\n  Cajon      \r\n    SAN\r\n  DIEGO",
+     "name": "Daniel Guerra",
+     "team": "Southwest El Cajon SAN DIEGO",
      "section": "SD",
      "grade": "So",
      "record": "6-8",
      "rating": 1453,
-     "rd": 117
+     "rd": 117,
+     "tier": "NR"
     },
     {
      "rank": 14,
@@ -1226,7 +1246,7 @@
      "section": "CS",
      "grade": "So",
      "record": "15-27",
-     "rating": 1356,
+     "rating": 1351,
      "rd": 74
     }
    ]
@@ -1248,7 +1268,7 @@
     {
      "rank": 2,
      "name": "Orion Hill",
-     "team": "Folsom      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Folsom SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "14-3",
@@ -1270,7 +1290,7 @@
     {
      "rank": 4,
      "name": "Vinnie Gutierrez",
-     "team": "Fountain\r\n  Valley",
+     "team": "Fountain Valley",
      "section": "SS",
      "grade": "Jr",
      "record": "16-9",
@@ -1294,8 +1314,8 @@
      "section": "NS",
      "grade": "Jr",
      "record": "16-6",
-     "rating": 1723,
-     "rd": 98,
+     "rating": 1726,
+     "rd": 97,
      "proj": true,
      "origin_weight": 132
     },
@@ -1306,7 +1326,7 @@
      "section": "SS",
      "grade": "So",
      "record": "15-5",
-     "rating": 1700,
+     "rating": 1702,
      "rd": 103
     },
     {
@@ -1322,17 +1342,17 @@
     {
      "rank": 9,
      "name": "Declan Shea",
-     "team": "Sutter\r\n  Union",
+     "team": "Sutter Union",
      "section": "SJ",
      "grade": "So",
      "record": "16-9",
-     "rating": 1682,
-     "rd": 91
+     "rating": 1690,
+     "rd": 90
     },
     {
      "rank": 10,
      "name": "Brian Miller",
-     "team": "Palo\r\n  Alto",
+     "team": "Palo Alto",
      "section": "CC",
      "grade": "Jr",
      "record": "11-4",
@@ -1354,7 +1374,7 @@
     {
      "rank": 12,
      "name": "Liam Henson",
-     "team": "Mission\r\n  Oak",
+     "team": "Mission Oak",
      "section": "CS",
      "grade": "Jr",
      "record": "15-8",
@@ -1364,7 +1384,7 @@
     {
      "rank": 13,
      "name": "Luke Menzimer",
-     "team": "La Costa      \r\n    Canyon",
+     "team": "La Costa Canyon",
      "section": "SD",
      "grade": "Jr",
      "record": "7-4",
@@ -1404,7 +1424,7 @@
     {
      "rank": 17,
      "name": "Jack Giangrasso",
-     "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Vacaville SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "16-12",
@@ -1424,7 +1444,7 @@
     {
      "rank": 19,
      "name": "Mason Blair",
-     "team": "Clovis\r\n  North",
+     "team": "Clovis North",
      "section": "CS",
      "grade": "So",
      "record": "14-16",
@@ -1456,7 +1476,7 @@
     {
      "rank": 22,
      "name": "Cameron James",
-     "team": "Centennial      \r\n    Corona",
+     "team": "Centennial Corona",
      "section": "SS",
      "grade": "Jr",
      "record": "9-11",
@@ -1502,7 +1522,7 @@
     {
      "rank": 3,
      "name": "Kavi Garvey",
-     "team": "Fountain\r\n  Valley",
+     "team": "Fountain Valley",
      "section": "SS",
      "grade": "Jr",
      "record": "14-3",
@@ -1536,7 +1556,7 @@
      "section": "CC",
      "grade": "So",
      "record": "15-5",
-     "rating": 1802,
+     "rating": 1803,
      "rd": 103
     },
     {
@@ -1556,8 +1576,8 @@
      "section": "CS",
      "grade": "Jr",
      "record": "22-9",
-     "rating": 1748,
-     "rd": 82
+     "rating": 1754,
+     "rd": 81
     },
     {
      "rank": 9,
@@ -1584,7 +1604,7 @@
     {
      "rank": 11,
      "name": "Greg Ruiz",
-     "team": "Sonora      \r\n    La\r\n  Habra",
+     "team": "Sonora La Habra",
      "section": "SS",
      "grade": "So",
      "record": "12-8",
@@ -1593,13 +1613,14 @@
     },
     {
      "rank": 12,
-     "name": "- Ayers Reich",
-     "team": "Cathedral      \r\n    Catholic",
+     "name": "Ayers Reich",
+     "team": "Cathedral Catholic",
      "section": "SD",
      "grade": "Jr",
      "record": "4-4",
      "rating": 1580,
-     "rd": 150
+     "rd": 150,
+     "tier": "NR"
     },
     {
      "rank": 13,
@@ -1624,7 +1645,7 @@
     {
      "rank": 15,
      "name": "Michael Coelho",
-     "team": "Los\r\n  Banos      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Los Banos SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "15-13",
@@ -1633,23 +1654,25 @@
     },
     {
      "rank": 16,
-     "name": "- Connor Miller",
+     "name": "Connor Miller",
      "team": "Chico",
      "section": "NS",
      "grade": "Jr",
      "record": "3-4",
      "rating": 1444,
-     "rd": 168
+     "rd": 168,
+     "tier": "NR"
     },
     {
      "rank": 17,
-     "name": "HM Uriel Hernandez",
+     "name": "Uriel Hernandez",
      "team": "Madera South",
      "section": "CS",
      "grade": "Jr",
      "record": "10-23",
      "rating": 1361,
-     "rd": 85
+     "rd": 85,
+     "tier": "HM"
     }
    ]
   },
@@ -1692,7 +1715,7 @@
     {
      "rank": 4,
      "name": "Cooper Sheesley",
-     "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Del Oro SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "14-5",
@@ -1712,7 +1735,7 @@
     {
      "rank": 6,
      "name": "Damen Vollmer",
-     "team": "Temecula\r\n        \r\n    Valley",
+     "team": "Temecula Valley",
      "section": "SS",
      "grade": "So",
      "record": "13-10",
@@ -1748,23 +1771,23 @@
      "section": "CC",
      "grade": "So",
      "record": "11-8",
-     "rating": 1649,
-     "rd": 106
+     "rating": 1637,
+     "rd": 107
     },
     {
      "rank": 10,
      "name": "Gage Clark",
-     "team": "Highland      \r\n    North\r\n  Highlands      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Highland North Highlands SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "12-5",
-     "rating": 1628,
+     "rating": 1629,
      "rd": 113
     },
     {
      "rank": 11,
      "name": "David Daniels",
-     "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
+     "team": "Granite Hills SAN DIEGO",
      "section": "SD",
      "grade": "So",
      "record": "8-5",
@@ -1773,16 +1796,6 @@
     },
     {
      "rank": 12,
-     "name": "Sean Griffin",
-     "team": "Central Catholic",
-     "section": "SJ",
-     "grade": "So",
-     "record": "15-13",
-     "rating": 1558,
-     "rd": 98
-    },
-    {
-     "rank": 13,
      "name": "Hunter Luna",
      "team": "St. Francis",
      "section": "CC",
@@ -1792,13 +1805,23 @@
      "rd": 97
     },
     {
+     "rank": 13,
+     "name": "Sean Griffin",
+     "team": "Central Catholic",
+     "section": "SJ",
+     "grade": "So",
+     "record": "15-13",
+     "rating": 1557,
+     "rd": 98
+    },
+    {
      "rank": 14,
      "name": "Charlie Herrington",
      "team": "Granada",
      "section": "NC",
      "grade": "Jr",
      "record": "16-14",
-     "rating": 1535,
+     "rating": 1540,
      "rd": 83
     },
     {
@@ -1814,7 +1837,7 @@
     {
      "rank": 16,
      "name": "Landon Nelms",
-     "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+     "team": "Carlsbad SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "5-8",
@@ -1823,13 +1846,14 @@
     },
     {
      "rank": 17,
-     "name": "HM Charles Rice",
+     "name": "Charles Rice",
      "team": "Red Bluff",
      "section": "NS",
      "grade": "Jr",
      "record": "3-6",
      "rating": 1366,
-     "rd": 159
+     "rd": 159,
+     "tier": "HM"
     }
    ]
   },
@@ -1840,7 +1864,7 @@
     {
      "rank": 1,
      "name": "Wyatt Lewis",
-     "team": "Del Norte      \r\n    Crescent City",
+     "team": "Del Norte Crescent City",
      "section": "NC",
      "grade": "Jr",
      "record": "14-2",
@@ -1850,7 +1874,7 @@
     {
      "rank": 2,
      "name": "Bailey Holman",
-     "team": "Poway      \r\n    SAN\r\n  DIEGO",
+     "team": "Poway SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "13-3",
@@ -1942,17 +1966,17 @@
     {
      "rank": 11,
      "name": "Jisias Rodriguez",
-     "team": "Los\r\n  Gatos",
+     "team": "Los Gatos",
      "section": "CC",
      "grade": "So",
      "record": "22-15",
-     "rating": 1638,
-     "rd": 75
+     "rating": 1641,
+     "rd": 74
     },
     {
      "rank": 12,
      "name": "Chase Young",
-     "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Del Oro SAC JOAQUIN",
      "section": "SJ",
      "grade": "So",
      "record": "14-12",
@@ -1962,7 +1986,7 @@
     {
      "rank": 13,
      "name": "Brock Kenney",
-     "team": "Trabuco\r\n  Hills",
+     "team": "Trabuco Hills",
      "section": "SS",
      "grade": "Jr",
      "record": "15-10",
@@ -1971,13 +1995,14 @@
     },
     {
      "rank": 14,
-     "name": "HM Logan Lopez",
+     "name": "Logan Lopez",
      "team": "Clovis East",
      "section": "CS",
      "grade": "Jr",
-     "record": "16-13",
-     "rating": 1537,
-     "rd": 79
+     "record": "18-15",
+     "rating": 1539,
+     "rd": 76,
+     "tier": "HM"
     },
     {
      "rank": 15,
@@ -2001,33 +2026,36 @@
     },
     {
      "rank": 17,
-     "name": "- Skylar Groke",
-     "team": "La\r\n  Costa      \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+     "name": "Skylar Groke",
+     "team": "La Costa Canyon SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "7-7",
      "rating": 1476,
-     "rd": 117
+     "rd": 117,
+     "tier": "NR"
     },
     {
      "rank": 18,
-     "name": "HM Juan Gallardo",
+     "name": "Juan Gallardo",
      "team": "Wasco",
      "section": "CS",
      "grade": "Jr",
      "record": "8-11",
      "rating": 1415,
-     "rd": 93
+     "rd": 93,
+     "tier": "HM"
     },
     {
      "rank": 19,
-     "name": "- Maceson Vasquez",
-     "team": "Redwood\r\n        \r\n    Visalia",
+     "name": "Maceson Vasquez",
+     "team": "Redwood Visalia",
      "section": "CS",
      "grade": "Jr",
-     "record": "4-10",
-     "rating": 1331,
-     "rd": 132
+     "record": "7-12",
+     "rating": 1403,
+     "rd": 106,
+     "tier": "NR"
     }
    ]
   },
@@ -2070,7 +2098,7 @@
     {
      "rank": 4,
      "name": "Christian Acosta Stoeber",
-     "team": "Fountain       \r\n    Valley",
+     "team": "Fountain Valley",
      "section": "SS",
      "grade": "Jr",
      "record": "21-5",
@@ -2090,7 +2118,7 @@
     {
      "rank": 6,
      "name": "James Emery",
-     "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
+     "team": "James Logan NORTH COAST",
      "section": "NC",
      "grade": "Jr",
      "record": "12-5",
@@ -2100,7 +2128,7 @@
     {
      "rank": 7,
      "name": "Leon Murphy",
-     "team": "Santiago      \r\n    Corona",
+     "team": "Santiago Corona",
      "section": "SS",
      "grade": "Jr",
      "record": "17-10",
@@ -2110,7 +2138,7 @@
     {
      "rank": 8,
      "name": "Adrian Harris",
-     "team": "Highland      \r\n    Palmdale",
+     "team": "Highland Palmdale",
      "section": "SS",
      "grade": "Jr",
      "record": "7-4",
@@ -2120,7 +2148,7 @@
     {
      "rank": 9,
      "name": "Keanu Garcia",
-     "team": "Garces      \r\n    Memorial",
+     "team": "Garces Memorial",
      "section": "CS",
      "grade": "So",
      "record": "14-11",
@@ -2154,7 +2182,7 @@
      "section": "SJ",
      "grade": "So",
      "record": "18-15",
-     "rating": 1513,
+     "rating": 1507,
      "rd": 78
     },
     {
@@ -2169,43 +2197,47 @@
     },
     {
      "rank": 14,
-     "name": "HM Francois Ngambia",
+     "name": "Francois Ngambia",
      "team": "Clovis North",
      "section": "CS",
      "grade": "Jr",
      "record": "14-16",
      "rating": 1453,
-     "rd": 85
+     "rd": 85,
+     "tier": "HM"
     },
     {
      "rank": 15,
-     "name": "HM Noah Soto",
+     "name": "Noah Soto",
      "team": "Tulare Union",
      "section": "CS",
      "grade": "So",
      "record": "3-4",
      "rating": 1422,
-     "rd": 141
+     "rd": 141,
+     "tier": "HM"
     },
     {
      "rank": 16,
-     "name": "- Cole Matayoshi",
+     "name": "Cole Matayoshi",
      "team": "w",
      "section": "?",
      "grade": "Jr",
      "record": "4-7",
      "rating": 1349,
-     "rd": 144
+     "rd": 144,
+     "tier": "NR"
     },
     {
      "rank": 17,
-     "name": "- Issac Lopez",
-     "team": "North\n\r\n  Bakersfield",
+     "name": "Issac Lopez",
+     "team": "North Bakersfield",
      "section": "CS",
      "grade": "So",
      "record": "3-10",
      "rating": 1238,
-     "rd": 134
+     "rd": 134,
+     "tier": "NR"
     }
    ]
   },
@@ -2238,7 +2270,7 @@
     {
      "rank": 3,
      "name": "Isai Fernandez",
-     "team": "St.\r\n  John Bosco",
+     "team": "St. John Bosco",
      "section": "SS",
      "grade": "So",
      "record": "8-1",
@@ -2248,7 +2280,7 @@
     {
      "rank": 4,
      "name": "Elijah Ornelas",
-     "team": "Clovis\r\n  North",
+     "team": "Clovis North",
      "section": "CS",
      "grade": "So",
      "record": "13-7",
@@ -2258,12 +2290,12 @@
     {
      "rank": 5,
      "name": "Lucius Hayden",
-     "team": "Los\r\n  Gatos",
+     "team": "Los Gatos",
      "section": "CC",
      "grade": "Fr",
      "record": "13-3",
-     "rating": 1763,
-     "rd": 111
+     "rating": 1766,
+     "rd": 110
     },
     {
      "rank": 6,
@@ -2288,7 +2320,7 @@
     {
      "rank": 8,
      "name": "Rex Topete",
-     "team": "South\r\n  Hills",
+     "team": "South Hills",
      "section": "SS",
      "grade": "Jr",
      "record": "14-7",
@@ -2308,7 +2340,7 @@
     {
      "rank": 10,
      "name": "Mehtaab Bhanghu",
-     "team": "St.\r\n  Mary�s       \r\n    SAC\r\n  JOAQUIN",
+     "team": "St. Mary�s SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "15-5",
@@ -2327,16 +2359,6 @@
     },
     {
      "rank": 12,
-     "name": "HM Jayden Gonzalez",
-     "team": "Shafter",
-     "section": "CS",
-     "grade": "So",
-     "record": "9-8",
-     "rating": 1512,
-     "rd": 99
-    },
-    {
-     "rank": 13,
      "name": "Jonathan Muxlow",
      "team": "Kingsburg",
      "section": "CS",
@@ -2344,6 +2366,17 @@
      "record": "5-7",
      "rating": 1505,
      "rd": 122
+    },
+    {
+     "rank": 13,
+     "name": "Jayden Gonzalez",
+     "team": "Shafter",
+     "section": "CS",
+     "grade": "So",
+     "record": "10-12",
+     "rating": 1473,
+     "rd": 88,
+     "tier": "HM"
     },
     {
      "rank": 14,
@@ -2358,7 +2391,7 @@
     {
      "rank": 15,
      "name": "Liam Gonzalez",
-     "team": "Ramona      \r\n    SAN\r\n  DIEGO",
+     "team": "Ramona SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "5-5",
@@ -2367,23 +2400,25 @@
     },
     {
      "rank": 16,
-     "name": "HM Leon Bleess",
-     "team": "Junipero\r\n  Serra",
+     "name": "Leon Bleess",
+     "team": "Junipero Serra",
      "section": "CC",
      "grade": "So",
-     "record": "9-15",
-     "rating": 1365,
-     "rd": 97
+     "record": "12-17",
+     "rating": 1387,
+     "rd": 87,
+     "tier": "HM"
     },
     {
      "rank": 17,
-     "name": "HM Conception Salas",
+     "name": "Conception Salas",
      "team": "Sanger West",
      "section": "CS",
      "grade": "Jr",
      "record": "11-17",
      "rating": 1348,
-     "rd": 83
+     "rd": 83,
+     "tier": "HM"
     }
    ]
   },
@@ -2416,7 +2451,7 @@
     {
      "rank": 3,
      "name": "Xander Birakos",
-     "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Oakdale SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "22-9",
@@ -2426,7 +2461,7 @@
     {
      "rank": 4,
      "name": "Ari Hasani",
-     "team": "Birmingham      \r\n    LOS\r\n  ANGELES",
+     "team": "Birmingham LOS ANGELES",
      "section": "LA",
      "grade": "Jr",
      "record": "13-6",
@@ -2446,7 +2481,7 @@
     {
      "rank": 6,
      "name": "William Schindele",
-     "team": "El\r\n  Toro",
+     "team": "El Toro",
      "section": "SS",
      "grade": "Jr",
      "record": "15-9",
@@ -2456,7 +2491,7 @@
     {
      "rank": 7,
      "name": "Ojas Shastri",
-     "team": "Los\r\n  Gatos",
+     "team": "Los Gatos",
      "section": "CC",
      "grade": "Jr",
      "record": "9-5",
@@ -2476,7 +2511,7 @@
     {
      "rank": 9,
      "name": "Jovanni Mansour",
-     "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
+     "team": "Granite Hills SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "7-7",
@@ -2486,7 +2521,7 @@
     {
      "rank": 10,
      "name": "Daryn Leon",
-     "team": "Brawley\r\n  Union      \r\n    SAN\r\n  DIEGO",
+     "team": "Brawley Union SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "7-9",
@@ -2495,13 +2530,14 @@
     },
     {
      "rank": 11,
-     "name": "- Jack Latta",
+     "name": "Jack Latta",
      "team": "Minaretes",
      "section": "CS",
      "grade": "Jr",
      "record": "4-2",
      "rating": 1477,
-     "rd": 162
+     "rd": 162,
+     "tier": "NR"
     },
     {
      "rank": 12,
@@ -2525,13 +2561,14 @@
     },
     {
      "rank": 14,
-     "name": "- Odell Jones",
+     "name": "Odell Jones",
      "team": "Clovis West",
      "section": "CS",
      "grade": "Jr",
      "record": "3-13",
      "rating": 1160,
-     "rd": 138
+     "rd": 138,
+     "tier": "NR"
     }
    ]
   },
@@ -2552,7 +2589,7 @@
     {
      "rank": 2,
      "name": "Daniel Mick Moylan",
-     "team": "Poway      \r\n    SAN\r\n  DIEGO",
+     "team": "Poway SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "9-1",
@@ -2631,33 +2668,36 @@
     },
     {
      "rank": 10,
-     "name": "HM James Hayden",
+     "name": "James Hayden",
      "team": "Bellarmine",
      "section": "CC",
      "grade": "Jr",
      "record": "7-4",
      "rating": 1557,
-     "rd": 134
+     "rd": 134,
+     "tier": "HM"
     },
     {
      "rank": 11,
-     "name": "HM Bernie Phillips",
+     "name": "Bernie Phillips",
      "team": "Palma",
      "section": "CC",
      "grade": "Jr",
      "record": "8-7",
      "rating": 1459,
-     "rd": 109
+     "rd": 109,
+     "tier": "HM"
     },
     {
      "rank": 12,
-     "name": "HM Luke Borelli",
+     "name": "Luke Borelli",
      "team": "Los Banos",
      "section": "SJ",
      "grade": "So",
      "record": "6-14",
      "rating": 1290,
-     "rd": 119
+     "rd": 119,
+     "tier": "HM"
     }
    ]
   },
@@ -2688,7 +2728,7 @@
     {
      "rank": 3,
      "name": "Matthew Cooley",
-     "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
+     "team": "Oakdale SAC JOAQUIN",
      "section": "SJ",
      "grade": "Jr",
      "record": "17-4",
@@ -2698,7 +2738,7 @@
     {
      "rank": 4,
      "name": "Noah Larios",
-     "team": "Imperial      \r\n    SAN\r\n  DIEGO      \r\n   \r\n   \r\n    I-D,\r\n  Qtrs. LCC Hamada (285)",
+     "team": "Imperial SAN DIEGO I-D, Qtrs. LCC Hamada (285)",
      "section": "SD",
      "grade": "Jr",
      "record": "11-4",
@@ -2738,7 +2778,7 @@
     {
      "rank": 8,
      "name": "Travin Shahbaz",
-     "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
+     "team": "Granite Hills SAN DIEGO",
      "section": "SD",
      "grade": "Jr",
      "record": "8-5",
@@ -2747,28 +2787,30 @@
     },
     {
      "rank": 9,
-     "name": "HM Solomon Zumbardo",
+     "name": "Solomon Zumbardo",
      "team": "Junipero Serra",
      "section": "CC",
      "grade": "So",
      "record": "9-10",
      "rating": 1554,
-     "rd": 107
+     "rd": 107,
+     "tier": "HM"
     },
     {
      "rank": 10,
-     "name": "HM Liam Cavaness",
+     "name": "Liam Cavaness",
      "team": "Ramona",
      "section": "SD",
      "grade": "So",
      "record": "5-6",
      "rating": 1526,
-     "rd": 121
+     "rd": 121,
+     "tier": "HM"
     },
     {
      "rank": 11,
      "name": "Gabriel Attia",
-     "team": "San Lorenzo       \r\n    Valley",
+     "team": "San Lorenzo Valley",
      "section": "CC",
      "grade": "Jr",
      "record": "10-7",
@@ -2797,13 +2839,14 @@
     },
     {
      "rank": 14,
-     "name": "- Ricky Gaoteote",
+     "name": "Ricky Gaoteote",
      "team": "St. Francis",
      "section": "CC",
      "grade": "Jr",
      "record": "9-15",
      "rating": 1314,
-     "rd": 90
+     "rd": 90,
+     "tier": "NR"
     }
    ]
   },
@@ -3453,65 +3496,17 @@
   }
  ],
  "source": "carank.neocities.org (automated)",
- "notes": "Ratings are Glicko-2. Base is folkstyle competition tracked on carank.neocities.org. Freestyle is folded in as a post-season rating period at 0.65 style weight: the 2026 CAUSAW state event (85 both-on-board bouts) and Fargo 2026 CA-vs-CA bouts (11 bouts, 9 wrestlers). Junior and 16U boys freestyle only; no Greco. Junior National Duals and Kids Nationals contributed 0 bouts (structural). The 'Record' column is TRACKED head-to-head only: it counts bouts ingested from the sources above, not a wrestler's full season record. A wrestler's real record is almost always better than what this column shows. Rank order is not strictly monotonic with rating on every board, because folkstyle head-to-head tiebreaks are preserved for wrestlers who did not compete in freestyle. 691 Fargo CA-vs-out-of-state bouts are EXCLUDED: no validated rating exists for out-of-state opponents, and estimating one would be a guess. Wrestlers who competed in summer freestyle are therefore evaluated on more evidence than those who did not, and carry tighter rating deviations (rd) as a result. This is a property of the data available, not a judgment about wrestlers who did not compete in the summer. Graduated seniors are filtered at build time. Girls board entries carry no grade data, so graduated girls may remain listed until early-season results identify them. METHOD (Sept 2026): board order derived from Glicko-2 rating, not inherited from carank; carank remains a data source for results, grade and team only. Glicko-2 weights each bout by margin of victory: ln(mov+1) with decision=1, major decision=2, tech fall=3, fall=3 (a tech fall and a pin are weighted equally), damped by the rating gap so a heavy favourite gains less, then normalised to mean bout weight 1.0. Head-to-head is graded rather than absolute: a win reorders the pair when the rating gap is within the allowance for that result - decision 50, major decision 100, tech fall or fall 175. A close win over a much higher-rated wrestler therefore earns full rating credit without by itself reversing the order. CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) folded in at 1.0 style weight; competed weight not used for board placement; record column includes these results.",
+ "notes": "Ratings are Glicko-2. Base is folkstyle competition tracked on carank.neocities.org. Freestyle is folded in as a post-season rating period at 0.65 style weight: the 2026 CAUSAW state event (85 both-on-board bouts) and Fargo 2026 CA-vs-CA bouts (11 bouts, 9 wrestlers). Junior and 16U boys freestyle only; no Greco. Junior National Duals and Kids Nationals contributed 0 bouts (structural). The 'Record' column is TRACKED head-to-head only: it counts bouts ingested from the sources above, not a wrestler's full season record. A wrestler's real record is almost always better than what this column shows. Rank order is not strictly monotonic with rating on every board, because folkstyle head-to-head tiebreaks are preserved for wrestlers who did not compete in freestyle. 691 Fargo CA-vs-out-of-state bouts are EXCLUDED: no validated rating exists for out-of-state opponents, and estimating one would be a guess. Wrestlers who competed in summer freestyle are therefore evaluated on more evidence than those who did not, and carry tighter rating deviations (rd) as a result. This is a property of the data available, not a judgment about wrestlers who did not compete in the summer. Graduated seniors are filtered at build time. Girls board entries carry no grade data, so graduated girls may remain listed until early-season results identify them. METHOD (Sept 2026): board order is derived from Glicko-2 rating, not inherited from the upstream carank published order; carank remains a data source for results, grade and team only. Glicko-2 weights each bout by margin of victory: ln(mov+1) with decision=1, major decision=2, tech fall=3, fall=3 (a tech fall and a pin weigh the same), damped by the rating gap so a heavy favourite gains less for a one-sided win, then normalised to mean bout weight 1.0. Head-to-head is graded rather than absolute: a win reorders the pair when the rating gap is within that result type allowance - decision 50, major decision 100, tech fall or fall 175 - so a close win over a much stronger wrestler earns full rating credit without by itself reversing the order. Wrestler names previously carried carank ranking prefixes (HM, -) in the name field; these are now stripped and recorded in a separate tier field. CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) folded in at 1.0 style weight; competed weight not used for board placement; record column includes these results.",
  "watch": [
-  {
-   "name": "J. Vang",
-   "gender": "boys",
-   "competed_weight": 120,
-   "team": "SBTC",
-   "rank": null,
-   "rating": 1894,
-   "rd": 219,
-   "record": "7-1",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "B. Dacoco",
-   "gender": "boys",
-   "competed_weight": 120,
-   "team": "Vasky Bros",
-   "rank": null,
-   "rating": 1884,
-   "rd": 222,
-   "record": "5-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "K. Kaneshige",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "Valiant College Prep",
-   "rank": null,
-   "rating": 1876,
-   "rd": 228,
-   "record": "6-1",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
   {
    "name": "J. Palomino",
    "gender": "boys",
    "competed_weight": 150,
    "team": "Bay Area Dragons WC",
    "rank": null,
-   "rating": 1861,
-   "rd": 168,
+   "rating": 1829,
+   "rd": 180,
    "record": "10-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "B. Silva",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1842,
-   "rd": 183,
-   "record": "5-1",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3521,21 +3516,9 @@
    "competed_weight": 126,
    "team": "Dethrone",
    "rank": null,
-   "rating": 1795,
-   "rd": 210,
+   "rating": 1812,
+   "rd": 199,
    "record": "6-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "S. Barajas jr",
-   "gender": "boys",
-   "competed_weight": 165,
-   "team": "Vasky Bros",
-   "rank": null,
-   "rating": 1738,
-   "rd": 251,
-   "record": "6-4",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3545,33 +3528,9 @@
    "competed_weight": 157,
    "team": "OCRTC",
    "rank": null,
-   "rating": 1736,
-   "rd": 170,
+   "rating": 1767,
+   "rd": 175,
    "record": "8-1",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "R. Castillo",
-   "gender": "boys",
-   "competed_weight": 144,
-   "team": "",
-   "rank": null,
-   "rating": 1695,
-   "rd": 246,
-   "record": "4-1",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Greene",
-   "gender": "boys",
-   "competed_weight": 132,
-   "team": "The Empire",
-   "rank": null,
-   "rating": 1693,
-   "rd": 253,
-   "record": "4-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3581,45 +3540,9 @@
    "competed_weight": 113,
    "team": "Mountain View (Mesa) HS",
    "rank": null,
-   "rating": 1678,
-   "rd": 236,
+   "rating": 1761,
+   "rd": 189,
    "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "K. Lim",
-   "gender": "boys",
-   "competed_weight": 120,
-   "team": "War Room WC",
-   "rank": null,
-   "rating": 1653,
-   "rd": 236,
-   "record": "5-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "A. Khachatryan",
-   "gender": "boys",
-   "competed_weight": 106,
-   "team": "",
-   "rank": null,
-   "rating": 1631,
-   "rd": 224,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "S. Cervantes",
-   "gender": "boys",
-   "competed_weight": 120,
-   "team": "SBTC",
-   "rank": null,
-   "rating": 1628,
-   "rd": 219,
-   "record": "4-3",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3629,21 +3552,9 @@
    "competed_weight": 113,
    "team": "DCWA",
    "rank": null,
-   "rating": 1621,
-   "rd": 188,
+   "rating": 1729,
+   "rd": 184,
    "record": "5-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "R. Chun",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "Grapplers HI",
-   "rank": null,
-   "rating": 1614,
-   "rd": 220,
-   "record": "3-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3653,69 +3564,9 @@
    "competed_weight": 132,
    "team": "The Empire",
    "rank": null,
-   "rating": 1604,
-   "rd": 171,
-   "record": "5-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Thai",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1601,
-   "rd": 213,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Samperi",
-   "gender": "boys",
-   "competed_weight": 190,
-   "team": "Team Thunder",
-   "rank": null,
-   "rating": 1600,
-   "rd": 218,
-   "record": "1-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "L. Prieto",
-   "gender": "boys",
-   "competed_weight": 190,
-   "team": "Credo",
-   "rank": null,
-   "rating": 1600,
-   "rd": 218,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "L. Ormonde",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "",
-   "rank": null,
-   "rating": 1559,
-   "rd": 218,
-   "record": "1-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "L. Chicas",
-   "gender": "boys",
-   "competed_weight": 150,
-   "team": "",
-   "rank": null,
    "rating": 1553,
-   "rd": 215,
-   "record": "6-2",
+   "rd": 189,
+   "record": "5-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3725,45 +3576,9 @@
    "competed_weight": 120,
    "team": "Aptos",
    "rank": null,
-   "rating": 1541,
-   "rd": 199,
+   "rating": 1542,
+   "rd": 196,
    "record": "3-4",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "G. Dixon",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "Oakdale",
-   "rank": null,
-   "rating": 1540,
-   "rd": 213,
-   "record": "4-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Suarez",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "SBTC",
-   "rank": null,
-   "rating": 1529,
-   "rd": 216,
-   "record": "4-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "A. Martinez",
-   "gender": "boys",
-   "competed_weight": 132,
-   "team": "Mantanona TC",
-   "rank": null,
-   "rating": 1518,
-   "rd": 207,
-   "record": "4-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3773,21 +3588,21 @@
    "competed_weight": 175,
    "team": "",
    "rank": null,
-   "rating": 1515,
-   "rd": 192,
+   "rating": 1454,
+   "rd": 193,
    "record": "3-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
   {
-   "name": "K. Khim",
+   "name": "B. Garcia",
    "gender": "boys",
-   "competed_weight": 113,
-   "team": "Clovis West",
+   "competed_weight": 132,
+   "team": "Hesperia",
    "rank": null,
-   "rating": 1505,
-   "rd": 199,
-   "record": "5-3",
+   "rating": 1383,
+   "rd": 172,
+   "record": "4-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   },
@@ -3797,164 +3612,8 @@
    "competed_weight": 126,
    "team": "Threshold WC",
    "rank": null,
-   "rating": 1485,
-   "rd": 212,
-   "record": "1-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "M. Vasquez",
-   "gender": "boys",
-   "competed_weight": 165,
-   "team": "",
-   "rank": null,
-   "rating": 1432,
-   "rd": 186,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Lopez",
-   "gender": "boys",
-   "competed_weight": 144,
-   "team": "",
-   "rank": null,
-   "rating": 1374,
-   "rd": 238,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "Z. Rogers",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "Pounders WC",
-   "rank": null,
-   "rating": 1369,
-   "rd": 236,
-   "record": "4-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "B. Bruns",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1362,
-   "rd": 230,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "A. Escobar",
-   "gender": "boys",
-   "competed_weight": 165,
-   "team": "CYC",
-   "rank": null,
-   "rating": 1352,
-   "rd": 223,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "D. Monier",
-   "gender": "boys",
-   "competed_weight": 175,
-   "team": "Bruin Elite",
-   "rank": null,
-   "rating": 1350,
-   "rd": 224,
-   "record": "5-3",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "C. Lane",
-   "gender": "boys",
-   "competed_weight": 157,
-   "team": "",
-   "rank": null,
-   "rating": 1335,
-   "rd": 220,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "C. Villegas",
-   "gender": "boys",
-   "competed_weight": 190,
-   "team": "",
-   "rank": null,
-   "rating": 1326,
-   "rd": 213,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Garza",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1323,
-   "rd": 231,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "P. Schinieder",
-   "gender": "boys",
-   "competed_weight": 157,
-   "team": "",
-   "rank": null,
-   "rating": 1322,
-   "rd": 229,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "M. Kiriakos",
-   "gender": "boys",
-   "competed_weight": 157,
-   "team": "",
-   "rank": null,
-   "rating": 1322,
-   "rd": 229,
-   "record": "5-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "A. Yip",
-   "gender": "boys",
-   "competed_weight": 144,
-   "team": "",
-   "rank": null,
-   "rating": 1310,
-   "rd": 222,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "W. Creech",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1303,
-   "rd": 218,
+   "rating": 1371,
+   "rd": 174,
    "record": "1-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
@@ -3965,116 +3624,8 @@
    "competed_weight": 285,
    "team": "TMWC",
    "rank": null,
-   "rating": 1300,
-   "rd": 209,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "C. Buckingham",
-   "gender": "boys",
-   "competed_weight": 165,
-   "team": "Wright WA",
-   "rank": null,
-   "rating": 1299,
-   "rd": 216,
-   "record": "0-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "D. Alexander",
-   "gender": "boys",
-   "competed_weight": 165,
-   "team": "Junipero Serra HS",
-   "rank": null,
-   "rating": 1299,
-   "rd": 216,
-   "record": "0-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "A. Kho",
-   "gender": "boys",
-   "competed_weight": 150,
-   "team": "Wright WA",
-   "rank": null,
-   "rating": 1297,
-   "rd": 215,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "C. Banuelos rubio",
-   "gender": "boys",
-   "competed_weight": 150,
-   "team": "",
-   "rank": null,
-   "rating": 1297,
-   "rd": 215,
-   "record": "3-3",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "M. Arriaga",
-   "gender": "boys",
-   "competed_weight": 113,
-   "team": "Grapevine Grapplers",
-   "rank": null,
-   "rating": 1296,
-   "rd": 218,
-   "record": "2-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "B. Garcia",
-   "gender": "boys",
-   "competed_weight": 132,
-   "team": "Hesperia",
-   "rank": null,
-   "rating": 1294,
-   "rd": 209,
-   "record": "4-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "B. Mccarthy",
-   "gender": "boys",
-   "competed_weight": 157,
-   "team": "GBHS",
-   "rank": null,
-   "rating": 1290,
-   "rd": 210,
-   "record": "3-2",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "J. Ramos",
-   "gender": "boys",
-   "competed_weight": 132,
-   "team": "Silverback RTC",
-   "rank": null,
-   "rating": 1287,
-   "rd": 246,
-   "record": "2-4",
-   "weight_source": "competed_unconfirmed",
-   "status": "provisional"
-  },
-  {
-   "name": "M. Powers",
-   "gender": "boys",
-   "competed_weight": 138,
-   "team": "",
-   "rank": null,
-   "rating": 1265,
-   "rd": 208,
+   "rating": 1285,
+   "rd": 194,
    "record": "2-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
@@ -4085,8 +3636,8 @@
    "competed_weight": 150,
    "team": "",
    "rank": null,
-   "rating": 1244,
-   "rd": 208,
+   "rating": 1232,
+   "rd": 199,
    "record": "2-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
@@ -4097,12 +3648,24 @@
    "competed_weight": 165,
    "team": "Mat Time",
    "rank": null,
-   "rating": 1244,
-   "rd": 210,
+   "rating": 1222,
+   "rd": 193,
    "record": "3-2",
+   "weight_source": "competed_unconfirmed",
+   "status": "provisional"
+  },
+  {
+   "name": "E. Snyder",
+   "gender": "boys",
+   "competed_weight": 138,
+   "team": "",
+   "rank": null,
+   "rating": 1112,
+   "rd": 197,
+   "record": "2-2",
    "weight_source": "competed_unconfirmed",
    "status": "provisional"
   }
  ],
- "watch_notes": "Provisional entrants from CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) who are not on any board. Rated in a first pass against fixed board ratings; they do not appear in the ranked lists and carry no rank. competed_weight is the weight wrestled at Gilroy and is NOT a board placement: wrestlers had not cut to competition weight at this event. Weight will be re-derived from season data on promotion. Promotion to a live board requires RD < 150 and 5 or more tracked bouts; as of this build no entrant qualifies (lowest RD 168). Listed entrants are those with RD < 250; 145 further entrants were rated but withheld as their RD stays near the 350 prior."
+ "watch_notes": "Provisional entrants from CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) not on any board. Rated in a first pass against fixed board ratings, so they do not affect ranked wrestlers, carry no rank, and are not comparable to board ratings: a board rating is built from a season, these come from one weekend off a 1500/350 prior and run high. competed_weight is the weight wrestled at Gilroy, NOT a board placement (wrestlers had not cut to competition weight); weight is re-derived from season data on promotion. Promotion requires RD below 150 with 5 or more tracked bouts; no entrant yet qualifies (lowest RD 172). Listed here are entrants with RD below 200; a further 191 were rated but withheld as their RD remains near the 350 prior."
 }
