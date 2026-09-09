@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T13:16:38.161506+00:00",
+ "generated": "2026-09-09T13:30:31.145433+00:00",
  "title": "California HS Wrestling Rankings",
  "weights": [
   {
@@ -33,8 +33,8 @@
      "section": "NC",
      "grade": "So",
      "record": "19-5",
-     "rating": 1830,
-     "rd": 98
+     "rating": 1831,
+     "rd": 97
     },
     {
      "rank": 4,
@@ -113,7 +113,7 @@
      "section": "CC",
      "grade": "So",
      "record": "15-9",
-     "rating": 1698,
+     "rating": 1696,
      "rd": 102
     },
     {
@@ -153,7 +153,7 @@
      "section": "SS",
      "grade": "So",
      "record": "15-12",
-     "rating": 1601,
+     "rating": 1600,
      "rd": 84
     },
     {
@@ -183,7 +183,7 @@
      "section": "SJ",
      "grade": "So",
      "record": "17-12",
-     "rating": 1529,
+     "rating": 1533,
      "rd": 87
     },
     {
@@ -307,26 +307,16 @@
     },
     {
      "rank": 2,
-     "name": "Santos Tizoc",
-     "team": "Silver Creek",
-     "section": "CC",
-     "grade": "So",
-     "record": "19-7",
-     "rating": 1796,
-     "rd": 90
-    },
-    {
-     "rank": 3,
      "name": "Nathan Solorio",
      "team": "Damien",
      "section": "SS",
      "grade": "Fr",
      "record": "22-3",
-     "rating": 1921,
-     "rd": 118
+     "rating": 1920,
+     "rd": 117
     },
     {
-     "rank": 4,
+     "rank": 3,
      "name": "Thales Silva",
      "team": "Buchanan",
      "section": "CS",
@@ -339,17 +329,17 @@
      "seed_reason": "Fargo Junior 2nd (113)"
     },
     {
-     "rank": 5,
+     "rank": 4,
      "name": "Eli Mendoza",
      "team": "Gilroy",
      "section": "CC",
      "grade": "So",
      "record": "18-5",
-     "rating": 1869,
+     "rating": 1866,
      "rd": 91
     },
     {
-     "rank": 6,
+     "rank": 5,
      "name": "Lennox Cruzat",
      "team": "Folsom",
      "section": "SJ",
@@ -357,6 +347,16 @@
      "record": "22-5",
      "rating": 1833,
      "rd": 102
+    },
+    {
+     "rank": 6,
+     "name": "Santos Tizoc",
+     "team": "Silver Creek",
+     "section": "CC",
+     "grade": "So",
+     "record": "19-7",
+     "rating": 1799,
+     "rd": 89
     },
     {
      "rank": 7,
@@ -405,7 +405,7 @@
      "section": "SS",
      "grade": "Jr",
      "record": "17-9",
-     "rating": 1698,
+     "rating": 1702,
      "rd": 95
     },
     {
@@ -415,7 +415,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "18-8",
-     "rating": 1687,
+     "rating": 1686,
      "rd": 87
     },
     {
@@ -599,7 +599,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "16-5",
-     "rating": 1865,
+     "rating": 1867,
      "rd": 103
     },
     {
@@ -619,7 +619,7 @@
      "section": "NC",
      "grade": "So",
      "record": "16-5",
-     "rating": 1781,
+     "rating": 1782,
      "rd": 102
     },
     {
@@ -639,7 +639,7 @@
      "section": "NS",
      "grade": "So",
      "record": "9-5",
-     "rating": 1691,
+     "rating": 1686,
      "rd": 136
     },
     {
@@ -649,8 +649,8 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "19-12",
-     "rating": 1633,
-     "rd": 82
+     "rating": 1631,
+     "rd": 81
     },
     {
      "rank": 9,
@@ -659,7 +659,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "14-12",
-     "rating": 1625,
+     "rating": 1623,
      "rd": 85,
      "proj": true,
      "origin_weight": 113
@@ -676,6 +676,16 @@
     },
     {
      "rank": 11,
+     "name": "Aiden Garcia",
+     "team": "Palma",
+     "section": "CC",
+     "grade": "Jr",
+     "record": "20-9",
+     "rating": 1586,
+     "rd": 84
+    },
+    {
+     "rank": 12,
      "name": "Jason Lin",
      "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
      "section": "SD",
@@ -685,16 +695,6 @@
      "rd": 112
     },
     {
-     "rank": 12,
-     "name": "Aiden Garcia",
-     "team": "Palma",
-     "section": "CC",
-     "grade": "Jr",
-     "record": "20-9",
-     "rating": 1585,
-     "rd": 84
-    },
-    {
      "rank": 13,
      "name": "Knox Espinoza",
      "team": "Long Beach      \r\n    Poly",
@@ -702,7 +702,7 @@
      "grade": "Jr",
      "record": "17-14",
      "rating": 1585,
-     "rd": 89
+     "rd": 88
     },
     {
      "rank": 14,
@@ -711,7 +711,7 @@
      "section": "CS",
      "grade": "So",
      "record": "14-10",
-     "rating": 1564,
+     "rating": 1562,
      "rd": 89
     },
     {
@@ -861,8 +861,8 @@
      "section": "CS",
      "grade": "So",
      "record": "19-3",
-     "rating": 2028,
-     "rd": 108
+     "rating": 2029,
+     "rd": 107
     },
     {
      "rank": 2,
@@ -927,7 +927,7 @@
      "grade": "Jr",
      "record": "23-7",
      "rating": 1774,
-     "rd": 95
+     "rd": 94
     },
     {
      "rank": 8,
@@ -976,8 +976,8 @@
      "section": "CC",
      "grade": "Fr",
      "record": "17-8",
-     "rating": 1691,
-     "rd": 88
+     "rating": 1693,
+     "rd": 87
     },
     {
      "rank": 13,
@@ -1016,7 +1016,7 @@
      "section": "SJ",
      "grade": "So",
      "record": "17-13",
-     "rating": 1573,
+     "rating": 1572,
      "rd": 86
     },
     {
@@ -1102,8 +1102,8 @@
      "section": "CC",
      "grade": "So",
      "record": "12-6",
-     "rating": 1816,
-     "rd": 116,
+     "rating": 1823,
+     "rd": 115,
      "proj": true,
      "origin_weight": 126
     },
@@ -1114,7 +1114,7 @@
      "section": "SD",
      "grade": "Jr",
      "record": "15-6",
-     "rating": 1829,
+     "rating": 1826,
      "rd": 107
     },
     {
@@ -1176,7 +1176,7 @@
      "section": "CS",
      "grade": "Jr",
      "record": "17-11",
-     "rating": 1648,
+     "rating": 1647,
      "rd": 87
     },
     {
@@ -1197,7 +1197,7 @@
      "grade": "Jr",
      "record": "14-11",
      "rating": 1535,
-     "rd": 90
+     "rd": 89
     },
     {
      "rank": 12,
@@ -1206,8 +1206,8 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "15-13",
-     "rating": 1527,
-     "rd": 85
+     "rating": 1526,
+     "rd": 84
     },
     {
      "rank": 13,
@@ -1226,7 +1226,7 @@
      "section": "CS",
      "grade": "So",
      "record": "15-27",
-     "rating": 1355,
+     "rating": 1356,
      "rd": 74
     }
    ]
@@ -1289,38 +1289,28 @@
     },
     {
      "rank": 6,
-     "name": "Mason Blair",
-     "team": "Clovis\r\n  North",
-     "section": "CS",
-     "grade": "So",
-     "record": "14-16",
-     "rating": 1543,
-     "rd": 86
-    },
-    {
-     "rank": 7,
      "name": "Landon Salindong",
      "team": "Durham",
      "section": "NS",
      "grade": "Jr",
      "record": "16-6",
      "rating": 1723,
-     "rd": 97,
+     "rd": 98,
      "proj": true,
      "origin_weight": 132
     },
     {
-     "rank": 8,
+     "rank": 7,
      "name": "Jonah Guerra",
      "team": "Montclair",
      "section": "SS",
      "grade": "So",
      "record": "15-5",
-     "rating": 1699,
+     "rating": 1700,
      "rd": 103
     },
     {
-     "rank": 9,
+     "rank": 8,
      "name": "Micah Wegman",
      "team": "Calabasas",
      "section": "SS",
@@ -1330,17 +1320,17 @@
      "rd": 117
     },
     {
-     "rank": 10,
+     "rank": 9,
      "name": "Declan Shea",
      "team": "Sutter\r\n  Union",
      "section": "SJ",
      "grade": "So",
      "record": "16-9",
-     "rating": 1683,
+     "rating": 1682,
      "rd": 91
     },
     {
-     "rank": 11,
+     "rank": 10,
      "name": "Brian Miller",
      "team": "Palo\r\n  Alto",
      "section": "CC",
@@ -1352,7 +1342,7 @@
      "origin_weight": 132
     },
     {
-     "rank": 12,
+     "rank": 11,
      "name": "Anjelo Reyes",
      "team": "Madera",
      "section": "CS",
@@ -1362,7 +1352,7 @@
      "rd": 91
     },
     {
-     "rank": 13,
+     "rank": 12,
      "name": "Liam Henson",
      "team": "Mission\r\n  Oak",
      "section": "CS",
@@ -1372,7 +1362,7 @@
      "rd": 88
     },
     {
-     "rank": 14,
+     "rank": 13,
      "name": "Luke Menzimer",
      "team": "La Costa      \r\n    Canyon",
      "section": "SD",
@@ -1382,7 +1372,7 @@
      "rd": 122
     },
     {
-     "rank": 15,
+     "rank": 14,
      "name": "Gabriel Champagne",
      "team": "Grace Davis",
      "section": "SJ",
@@ -1392,7 +1382,7 @@
      "rd": 113
     },
     {
-     "rank": 16,
+     "rank": 15,
      "name": "Joseph Ramirez",
      "team": "El Modena",
      "section": "SS",
@@ -1402,7 +1392,7 @@
      "rd": 90
     },
     {
-     "rank": 17,
+     "rank": 16,
      "name": "Cole Schmidt",
      "team": "Windsor",
      "section": "NC",
@@ -1412,7 +1402,7 @@
      "rd": 113
     },
     {
-     "rank": 18,
+     "rank": 17,
      "name": "Jack Giangrasso",
      "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
      "section": "SJ",
@@ -1422,7 +1412,7 @@
      "rd": 88
     },
     {
-     "rank": 19,
+     "rank": 18,
      "name": "Aeden Ortega",
      "team": "El Diamante",
      "section": "CS",
@@ -1432,13 +1422,23 @@
      "rd": 96
     },
     {
+     "rank": 19,
+     "name": "Mason Blair",
+     "team": "Clovis\r\n  North",
+     "section": "CS",
+     "grade": "So",
+     "record": "14-16",
+     "rating": 1541,
+     "rd": 86
+    },
+    {
      "rank": 20,
      "name": "Cruz Contreras",
      "team": "Aptos",
      "section": "CC",
      "grade": "Jr",
      "record": "14-14",
-     "rating": 1542,
+     "rating": 1539,
      "rd": 93,
      "proj": true,
      "origin_weight": 132
@@ -1536,8 +1536,8 @@
      "section": "CC",
      "grade": "So",
      "record": "15-5",
-     "rating": 1797,
-     "rd": 104
+     "rating": 1802,
+     "rd": 103
     },
     {
      "rank": 7,
@@ -1556,7 +1556,7 @@
      "section": "CS",
      "grade": "Jr",
      "record": "22-9",
-     "rating": 1746,
+     "rating": 1748,
      "rd": 82
     },
     {
@@ -1566,7 +1566,7 @@
      "section": "SS",
      "grade": "So",
      "record": "15-8",
-     "rating": 1679,
+     "rating": 1678,
      "rd": 90
     },
     {
@@ -1618,8 +1618,8 @@
      "section": "SJ",
      "grade": "So",
      "record": "13-9",
-     "rating": 1530,
-     "rd": 94
+     "rating": 1526,
+     "rd": 95
     },
     {
      "rank": 15,
@@ -1628,7 +1628,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "15-13",
-     "rating": 1507,
+     "rating": 1506,
      "rd": 83
     },
     {
@@ -1748,8 +1748,8 @@
      "section": "CC",
      "grade": "So",
      "record": "11-8",
-     "rating": 1648,
-     "rd": 105
+     "rating": 1649,
+     "rd": 106
     },
     {
      "rank": 10,
@@ -1758,7 +1758,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "12-5",
-     "rating": 1631,
+     "rating": 1628,
      "rd": 113
     },
     {
@@ -1773,6 +1773,16 @@
     },
     {
      "rank": 12,
+     "name": "Sean Griffin",
+     "team": "Central Catholic",
+     "section": "SJ",
+     "grade": "So",
+     "record": "15-13",
+     "rating": 1558,
+     "rd": 98
+    },
+    {
+     "rank": 13,
      "name": "Hunter Luna",
      "team": "St. Francis",
      "section": "CC",
@@ -1782,23 +1792,13 @@
      "rd": 97
     },
     {
-     "rank": 13,
-     "name": "Sean Griffin",
-     "team": "Central Catholic",
-     "section": "SJ",
-     "grade": "So",
-     "record": "15-13",
-     "rating": 1555,
-     "rd": 98
-    },
-    {
      "rank": 14,
      "name": "Charlie Herrington",
      "team": "Granada",
      "section": "NC",
      "grade": "Jr",
      "record": "16-14",
-     "rating": 1538,
+     "rating": 1535,
      "rd": 83
     },
     {
@@ -1844,7 +1844,7 @@
      "section": "NC",
      "grade": "Jr",
      "record": "14-2",
-     "rating": 1964,
+     "rating": 1965,
      "rd": 124
     },
     {
@@ -1906,7 +1906,7 @@
      "section": "CC",
      "grade": "Jr",
      "record": "26-12",
-     "rating": 1709,
+     "rating": 1705,
      "rd": 75
     },
     {
@@ -1926,8 +1926,8 @@
      "section": "CS",
      "grade": "So",
      "record": "13-9",
-     "rating": 1655,
-     "rd": 99
+     "rating": 1657,
+     "rd": 98
     },
     {
      "rank": 10,
@@ -2042,7 +2042,7 @@
      "section": "SS",
      "grade": "So",
      "record": "18-1",
-     "rating": 2061,
+     "rating": 2062,
      "rd": 126
     },
     {
@@ -2074,7 +2074,7 @@
      "section": "SS",
      "grade": "Jr",
      "record": "21-5",
-     "rating": 1843,
+     "rating": 1841,
      "rd": 97
     },
     {
@@ -2124,7 +2124,7 @@
      "section": "CS",
      "grade": "So",
      "record": "14-11",
-     "rating": 1628,
+     "rating": 1627,
      "rd": 88
     },
     {
@@ -2154,7 +2154,7 @@
      "section": "SJ",
      "grade": "So",
      "record": "18-15",
-     "rating": 1515,
+     "rating": 1513,
      "rd": 78
     },
     {
@@ -2257,6 +2257,16 @@
     },
     {
      "rank": 5,
+     "name": "Lucius Hayden",
+     "team": "Los\r\n  Gatos",
+     "section": "CC",
+     "grade": "Fr",
+     "record": "13-3",
+     "rating": 1763,
+     "rd": 111
+    },
+    {
+     "rank": 6,
      "name": "Jude Holiday",
      "team": "Esperanza",
      "section": "SS",
@@ -2266,23 +2276,13 @@
      "rd": 111
     },
     {
-     "rank": 6,
-     "name": "Lucius Hayden",
-     "team": "Los\r\n  Gatos",
-     "section": "CC",
-     "grade": "Fr",
-     "record": "13-3",
-     "rating": 1759,
-     "rd": 111
-    },
-    {
      "rank": 7,
      "name": "Brayden Carson",
      "team": "Fountain Valley",
      "section": "SS",
      "grade": "Jr",
      "record": "22-9",
-     "rating": 1720,
+     "rating": 1719,
      "rd": 89
     },
     {
@@ -2420,7 +2420,7 @@
      "section": "SJ",
      "grade": "Jr",
      "record": "22-9",
-     "rating": 1731,
+     "rating": 1730,
      "rd": 82
     },
     {
@@ -2440,7 +2440,7 @@
      "section": "CS",
      "grade": "Jr",
      "record": "19-15",
-     "rating": 1649,
+     "rating": 1648,
      "rd": 80
     },
     {
@@ -2561,23 +2561,23 @@
     },
     {
      "rank": 3,
-     "name": "Brian Haran",
-     "team": "Gilroy",
-     "section": "CC",
-     "grade": "Jr",
-     "record": "16-4",
-     "rating": 1825,
-     "rd": 105
-    },
-    {
-     "rank": 4,
      "name": "Adan Castillo",
      "team": "Clovis",
      "section": "CS",
      "grade": "Jr",
      "record": "20-5",
-     "rating": 1930,
+     "rating": 1928,
      "rd": 89
+    },
+    {
+     "rank": 4,
+     "name": "Brian Haran",
+     "team": "Gilroy",
+     "section": "CC",
+     "grade": "Jr",
+     "record": "16-4",
+     "rating": 1828,
+     "rd": 105
     },
     {
      "rank": 5,
@@ -2616,7 +2616,7 @@
      "section": "CS",
      "grade": "So",
      "record": "15-15",
-     "rating": 1588,
+     "rating": 1587,
      "rd": 78
     },
     {
@@ -2626,7 +2626,7 @@
      "section": "CS",
      "grade": "Jr",
      "record": "16-13",
-     "rating": 1582,
+     "rating": 1580,
      "rd": 75
     },
     {
@@ -2682,8 +2682,8 @@
      "section": "CS",
      "grade": "So",
      "record": "21-4",
-     "rating": 1909,
-     "rd": 92
+     "rating": 1907,
+     "rd": 93
     },
     {
      "rank": 3,
@@ -2966,8 +2966,8 @@
      "section": "CS",
      "grade": "",
      "record": "3-1",
-     "rating": 1513,
-     "rd": 178
+     "rating": 1514,
+     "rd": 180
     },
     {
      "rank": 3,
@@ -3068,8 +3068,8 @@
      "section": "CS",
      "grade": "",
      "record": "2-1",
-     "rating": 1506,
-     "rd": 197
+     "rating": 1505,
+     "rd": 201
     },
     {
      "rank": 4,
@@ -3196,8 +3196,8 @@
      "section": "SJ",
      "grade": "",
      "record": "4-1",
-     "rating": 1674,
-     "rd": 172
+     "rating": 1671,
+     "rd": 175
     },
     {
      "rank": 3,
@@ -3380,8 +3380,8 @@
      "section": "CS",
      "grade": "",
      "record": "4-1",
-     "rating": 1663,
-     "rd": 176
+     "rating": 1660,
+     "rd": 179
     },
     {
      "rank": 3,
@@ -3453,7 +3453,7 @@
   }
  ],
  "source": "carank.neocities.org (automated)",
- "notes": "Ratings are Glicko-2. Base is folkstyle competition tracked on carank.neocities.org. Freestyle is folded in as a post-season rating period at 0.65 style weight: the 2026 CAUSAW state event (85 both-on-board bouts) and Fargo 2026 CA-vs-CA bouts (11 bouts, 9 wrestlers). Junior and 16U boys freestyle only; no Greco. Junior National Duals and Kids Nationals contributed 0 bouts (structural). The 'Record' column is TRACKED head-to-head only: it counts bouts ingested from the sources above, not a wrestler's full season record. A wrestler's real record is almost always better than what this column shows. Rank order is not strictly monotonic with rating on every board, because folkstyle head-to-head tiebreaks are preserved for wrestlers who did not compete in freestyle. 691 Fargo CA-vs-out-of-state bouts are EXCLUDED: no validated rating exists for out-of-state opponents, and estimating one would be a guess. Wrestlers who competed in summer freestyle are therefore evaluated on more evidence than those who did not, and carry tighter rating deviations (rd) as a result. This is a property of the data available, not a judgment about wrestlers who did not compete in the summer. Graduated seniors are filtered at build time. Girls board entries carry no grade data, so graduated girls may remain listed until early-season results identify them. METHOD CHANGE (Sept 2026): (1) Board order is now derived from the rating, not inherited from the upstream carank published order; carank remains a data source for results, grade and team only. (2) Glicko-2 now weights each bout by margin of victory: multiplier = ln(mov+1) where decision=1, major=2, tech fall=3, fall=4, damped by the rating gap so a heavy favourite gains less for a pin, then normalised so the mean bout weight is 1.0. Realised average weights: decision 0.59, major 0.92, tech fall 1.15, fall 1.35. (3) Head-to-head override applied after the rating sort: where two wrestlers on a board met in tracked competition and the result contradicts rating order, the winner is placed above the loser; split pairs are left in rating order. (4) CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) folded in at 1.0 style weight; competed weight not used for board placement; record column includes these results.",
+ "notes": "Ratings are Glicko-2. Base is folkstyle competition tracked on carank.neocities.org. Freestyle is folded in as a post-season rating period at 0.65 style weight: the 2026 CAUSAW state event (85 both-on-board bouts) and Fargo 2026 CA-vs-CA bouts (11 bouts, 9 wrestlers). Junior and 16U boys freestyle only; no Greco. Junior National Duals and Kids Nationals contributed 0 bouts (structural). The 'Record' column is TRACKED head-to-head only: it counts bouts ingested from the sources above, not a wrestler's full season record. A wrestler's real record is almost always better than what this column shows. Rank order is not strictly monotonic with rating on every board, because folkstyle head-to-head tiebreaks are preserved for wrestlers who did not compete in freestyle. 691 Fargo CA-vs-out-of-state bouts are EXCLUDED: no validated rating exists for out-of-state opponents, and estimating one would be a guess. Wrestlers who competed in summer freestyle are therefore evaluated on more evidence than those who did not, and carry tighter rating deviations (rd) as a result. This is a property of the data available, not a judgment about wrestlers who did not compete in the summer. Graduated seniors are filtered at build time. Girls board entries carry no grade data, so graduated girls may remain listed until early-season results identify them. METHOD (Sept 2026): board order derived from Glicko-2 rating, not inherited from carank; carank remains a data source for results, grade and team only. Glicko-2 weights each bout by margin of victory: ln(mov+1) with decision=1, major decision=2, tech fall=3, fall=3 (a tech fall and a pin are weighted equally), damped by the rating gap so a heavy favourite gains less, then normalised to mean bout weight 1.0. Head-to-head is graded rather than absolute: a win reorders the pair when the rating gap is within the allowance for that result - decision 50, major decision 100, tech fall or fall 175. A close win over a much higher-rated wrestler therefore earns full rating credit without by itself reversing the order. CA Super 32 Early Entry (Gilroy, 09/05-09/06/2026) folded in at 1.0 style weight; competed weight not used for board placement; record column includes these results.",
  "watch": [
   {
    "name": "J. Vang",
