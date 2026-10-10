@@ -67,7 +67,12 @@ def extract_roster(text):
         gm = GRADE_RE.search(seg[:120])
         if not gm:
             continue
-        name = split_name(seg[:gm.start()].lstrip(" 0123456789"))
+        raw = seg[:gm.start()].lstrip(" 0123456789")
+        # html_to_text re-emits carank's last-week token (a number, "HM" or "-")
+        # ahead of the name; the digits are stripped above, HM/- must be too or
+        # they end up in the displayed name (and defeat grad_overrides matching)
+        raw = re.sub(r"^\s*(?:HM|-)\s+", "", raw)
+        name = split_name(raw)
         grade = GRADE_MAP[gm.group(1)]
         after = seg[gm.end():]
         plc = PLACEMENT_RE.search(after)

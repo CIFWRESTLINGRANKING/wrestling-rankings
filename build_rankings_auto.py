@@ -18,18 +18,24 @@ SAFETY GUARDS (the whole point - so the job can't silently lie):
 Usage:  python3 build_rankings_auto.py [path/to/rankings.json]
 Exit codes: 0 = ok (built or legitimately unchanged), 1 = too many weights failed.
 """
-import json, sys, datetime
+import copy, json, os, sys, datetime
 import carank_auto as A
 from fargo_step import apply_fargo_moves  # preseason Fargo projection
 from grad_overrides import is_graduated  # manual Class-of-2026 drops
+from tournament_ingest import apply_tournaments, strip_prefix  # in-season events
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
 OUT = sys.argv[1] if len(sys.argv) > 1 else "rankings.json"
+# Pre-tournament snapshot (carank boys + girls + Fargo projection, NO tournament
+# results). Boards not rebuilt from carank this run (girls, skipped weights) are
+# taken from HERE, never from rankings.json, so tournament results can't be
+# applied twice.
+BASE = os.path.join(os.path.dirname(os.path.abspath(OUT)), "rankings_base.json")
 
 
 def main():
-    data = json.load(open(OUT, encoding="utf-8"))
+    data = json.load(open(BASE if os.path.exists(BASE) else OUT, encoding="utf-8"))
     by_key = {(b["gender"], b["weight"]): b for b in data["weights"]}
 
     ok, failed, total_bouts = [], [], 0
@@ -64,6 +70,8 @@ def main():
     # grade filter alone lets them back onto every rebuild (see run #2).
     for b in data["weights"]:
         if b["gender"] == "boys":
+            for w in b["wrestlers"]:
+                w["name"] = strip_prefix(w["name"])
             b["wrestlers"] = [w for w in b["wrestlers"]
                               if not is_graduated(w["name"])]
     
@@ -77,8 +85,17 @@ def main():
         if b["gender"] == "boys":
             b["wrestlers"] = boys[b["weight"]]
     
+    # In-season tournaments (tournaments/*.tsv) are re-applied on EVERY build,
+    # on top of the carank base, so a weekly rebuild can no longer erase them.
+    base = copy.deepcopy(data)
+    base.pop("watch", None); base.pop("watch_notes", None); base.pop("tournaments", None)
+    apply_tournaments(data, folder=os.path.join(os.path.dirname(os.path.abspath(OUT)),
+                                                "tournaments"))
+
     data["generated"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    data["source"] = "carank.neocities.org (automated)"
+    data["source"] = ("carank.neocities.org (automated) + tournament results in "
+                      "tournaments/ (Boutboard)")
+    json.dump(base, open(BASE, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     json.dump(data, open(OUT, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     print(f"\nWrote {OUT}: {len(ok)} weights updated, {total_bouts} total bouts, "
           f"{len(failed)} skipped.")
