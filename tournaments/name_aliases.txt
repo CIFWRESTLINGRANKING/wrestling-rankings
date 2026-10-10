@@ -1,3 +1,5 @@
 # Identities Jeff has confirmed: name as a tournament printed it = name on the board.
 # Confirmed aliases match exactly instead of being flagged as fuzzy.
 Francois Landry Ngambia = Francois Ngambia   # confirmed 2026-10-10 (CAUSAW / Clovis North)
+Nathaniel Solorio = Nathan Solorio           # confirmed 2026-10-10 (Gilroy, Total Kaos / Damien)
+Charles Herrington = Charlie Herrington      # confirmed 2026-10-10 (Gilroy, Livermore Elite / Granada)
