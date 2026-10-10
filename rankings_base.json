@@ -302,24 +302,10 @@
           "rating": 2016,
           "rd": 98,
           "proj": true,
-          "origin_weight": 106,
-          "seed_reason": "Fargo 16U champ (113); H2H 3-2 over Thales Silva"
+          "origin_weight": 106
         },
         {
           "rank": 2,
-          "name": "Thales Silva",
-          "team": "Buchanan",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "17-4",
-          "rating": 1885,
-          "rd": 99,
-          "proj": true,
-          "origin_weight": 106,
-          "seed_reason": "Fargo Junior 2nd (113)"
-        },
-        {
-          "rank": 3,
           "name": "Eli Mendoza",
           "team": "Gilroy",
           "section": "CC",
@@ -329,7 +315,7 @@
           "rd": 96
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Nathan Solorio",
           "team": "Damien",
           "section": "SS",
@@ -337,6 +323,18 @@
           "record": "18-2",
           "rating": 1928,
           "rd": 127
+        },
+        {
+          "rank": 4,
+          "name": "Thales Silva",
+          "team": "Buchanan",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "17-4",
+          "rating": 1885,
+          "rd": 99,
+          "proj": true,
+          "origin_weight": 106
         },
         {
           "rank": 5,
@@ -430,126 +428,6 @@
         },
         {
           "rank": 14,
-          "name": "Ryder Doleschal",
-          "team": "Junipero\r\n  Serra",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "12-9",
-          "rating": 1565,
-          "rd": 91
-        },
-        {
-          "rank": 15,
-          "name": "Andrew Reyes",
-          "team": "Pacifica      \r\n    Garden Grove",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "13-9",
-          "rating": 1523,
-          "rd": 97
-        },
-        {
-          "rank": 16,
-          "name": "Brodie Henderson",
-          "team": "Orland",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "6-2",
-          "rating": 1677,
-          "rd": 163
-        },
-        {
-          "rank": 17,
-          "name": "Adan Board",
-          "team": "Garces\r\n        \r\n    Memorial",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "9-8",
-          "rating": 1505,
-          "rd": 94
-        },
-        {
-          "rank": 18,
-          "name": "Shane Ito",
-          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "8-6",
-          "rating": 1545,
-          "rd": 121
-        },
-        {
-          "rank": 19,
-          "name": "Xavier Garcia",
-          "team": "Clovis\r\n  West",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "8-8",
-          "rating": 1502,
-          "rd": 114
-        },
-        {
-          "rank": 20,
-          "name": "Kaiden Lepe",
-          "team": "Walnut",
-          "section": "SS",
-          "grade": "So",
-          "record": "7-5",
-          "rating": 1486,
-          "rd": 122
-        },
-        {
-          "rank": 21,
-          "name": "Reshad Ahmadi",
-          "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
-          "section": "NC",
-          "grade": "So",
-          "record": "5-7",
-          "rating": 1454,
-          "rd": 129
-        },
-        {
-          "rank": 22,
-          "name": "Elijah Duran",
-          "team": "Golden\r\n  Valley      \r\n    Bakersfield",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "7-11",
-          "rating": 1363,
-          "rd": 109
-        },
-        {
-          "rank": 23,
-          "name": "Elias Pedroza",
-          "team": "Granite Hills",
-          "section": "SD",
-          "grade": "Fr",
-          "record": "3-7",
-          "rating": 1233,
-          "rd": 136
-        },
-        {
-          "rank": 24,
-          "name": "Ryan Lancin",
-          "team": "George      \r\n    Washington      \r\n    SAN\r\n  FRANCISCO",
-          "section": "SF",
-          "grade": "So",
-          "record": "1-4",
-          "rating": 1264,
-          "rd": 201
-        },
-        {
-          "rank": 25,
-          "name": "Morgan Stevens",
-          "team": "Shasta",
-          "section": "NS",
-          "grade": "So",
-          "record": "0-7",
-          "rating": 1123,
-          "rd": 173
-        },
-        {
-          "rank": 26,
           "name": "Eli Mayer",
           "team": "Vacaville",
           "section": "SJ",
@@ -559,6 +437,126 @@
           "rd": 99,
           "proj": true,
           "origin_weight": 106
+        },
+        {
+          "rank": 15,
+          "name": "Ryder Doleschal",
+          "team": "Junipero\r\n  Serra",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "12-9",
+          "rating": 1565,
+          "rd": 91
+        },
+        {
+          "rank": 16,
+          "name": "Andrew Reyes",
+          "team": "Pacifica      \r\n    Garden Grove",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "13-9",
+          "rating": 1523,
+          "rd": 97
+        },
+        {
+          "rank": 17,
+          "name": "Brodie Henderson",
+          "team": "Orland",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "6-2",
+          "rating": 1677,
+          "rd": 163
+        },
+        {
+          "rank": 18,
+          "name": "Adan Board",
+          "team": "Garces\r\n        \r\n    Memorial",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "9-8",
+          "rating": 1505,
+          "rd": 94
+        },
+        {
+          "rank": 19,
+          "name": "Shane Ito",
+          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "8-6",
+          "rating": 1545,
+          "rd": 121
+        },
+        {
+          "rank": 20,
+          "name": "Xavier Garcia",
+          "team": "Clovis\r\n  West",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "8-8",
+          "rating": 1502,
+          "rd": 114
+        },
+        {
+          "rank": 21,
+          "name": "Kaiden Lepe",
+          "team": "Walnut",
+          "section": "SS",
+          "grade": "So",
+          "record": "7-5",
+          "rating": 1486,
+          "rd": 122
+        },
+        {
+          "rank": 22,
+          "name": "Reshad Ahmadi",
+          "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
+          "section": "NC",
+          "grade": "So",
+          "record": "5-7",
+          "rating": 1454,
+          "rd": 129
+        },
+        {
+          "rank": 23,
+          "name": "Elijah Duran",
+          "team": "Golden\r\n  Valley      \r\n    Bakersfield",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "7-11",
+          "rating": 1363,
+          "rd": 109
+        },
+        {
+          "rank": 24,
+          "name": "Elias Pedroza",
+          "team": "Granite Hills",
+          "section": "SD",
+          "grade": "Fr",
+          "record": "3-7",
+          "rating": 1233,
+          "rd": 136
+        },
+        {
+          "rank": 25,
+          "name": "Ryan Lancin",
+          "team": "George      \r\n    Washington      \r\n    SAN\r\n  FRANCISCO",
+          "section": "SF",
+          "grade": "So",
+          "record": "1-4",
+          "rating": 1264,
+          "rd": 201
+        },
+        {
+          "rank": 26,
+          "name": "Morgan Stevens",
+          "team": "Shasta",
+          "section": "NS",
+          "grade": "So",
+          "record": "0-7",
+          "rating": 1123,
+          "rd": 173
         }
       ]
     },
@@ -576,8 +574,7 @@
           "rating": 2092,
           "rd": 120,
           "proj": true,
-          "origin_weight": 113,
-          "seed_reason": "H2H 3-0 over Thiago Silva"
+          "origin_weight": 113
         },
         {
           "rank": 2,
@@ -589,8 +586,7 @@
           "rating": 1878,
           "rd": 100,
           "proj": true,
-          "origin_weight": 113,
-          "seed_reason": "Fargo Junior AA (120)"
+          "origin_weight": 113
         },
         {
           "rank": 3,
@@ -674,146 +670,6 @@
         },
         {
           "rank": 11,
-          "name": "Gabryel Juarez",
-          "team": "Garces      \r\n    Memorial",
-          "section": "CS",
-          "grade": "So",
-          "record": "12-8",
-          "rating": 1577,
-          "rd": 97
-        },
-        {
-          "rank": 12,
-          "name": "Jason Lin",
-          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "10-6",
-          "rating": 1586,
-          "rd": 112
-        },
-        {
-          "rank": 13,
-          "name": "Camm Colgate",
-          "team": "Evergreen      \r\n    Institution",
-          "section": "NS",
-          "grade": "So",
-          "record": "7-3",
-          "rating": 1700,
-          "rd": 158
-        },
-        {
-          "rank": 14,
-          "name": "Colton Meixner",
-          "team": "Clovis North",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "11-13",
-          "rating": 1506,
-          "rd": 96
-        },
-        {
-          "rank": 15,
-          "name": "Caleb Cisneros",
-          "team": "Selma",
-          "section": "CS",
-          "grade": "So",
-          "record": "11-10",
-          "rating": 1499,
-          "rd": 90
-        },
-        {
-          "rank": 16,
-          "name": "Alex Ramos",
-          "team": "Clovis\r\n  West",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "13-12",
-          "rating": 1492,
-          "rd": 91
-        },
-        {
-          "rank": 17,
-          "name": "Maddox Hazard",
-          "team": "Sultana",
-          "section": "SS",
-          "grade": "So",
-          "record": "13-8",
-          "rating": 1509,
-          "rd": 99
-        },
-        {
-          "rank": 18,
-          "name": "Gavin Pongsai",
-          "team": "Gilroy",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "9-8",
-          "rating": 1489,
-          "rd": 106
-        },
-        {
-          "rank": 19,
-          "name": "Luke Tran",
-          "team": "Independence",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "8-10",
-          "rating": 1426,
-          "rd": 102
-        },
-        {
-          "rank": 20,
-          "name": "Anthony Strahm",
-          "team": "Holtville      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "7-10",
-          "rating": 1436,
-          "rd": 112
-        },
-        {
-          "rank": 21,
-          "name": "Sergio Valencia",
-          "team": "Farmersville",
-          "section": "CS",
-          "grade": "So",
-          "record": "4-5",
-          "rating": 1463,
-          "rd": 130
-        },
-        {
-          "rank": 22,
-          "name": "Raymond Carbajal",
-          "team": "Santa\r\n  Fe",
-          "section": "SS",
-          "grade": "So",
-          "record": "7-10",
-          "rating": 1414,
-          "rd": 110
-        },
-        {
-          "rank": 23,
-          "name": "Andrew Sandoval",
-          "team": "Woodlake\r\n  Union",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "5-15",
-          "rating": 1294,
-          "rd": 113
-        },
-        {
-          "rank": 24,
-          "name": "Kaden Owens",
-          "team": "Foothill      \r\n    Palo\r\n  Cedro",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "3-4",
-          "rating": 1344,
-          "rd": 184
-        },
-        {
-          "rank": 25,
           "name": "Declan Leonard",
           "team": "Del Oro",
           "section": "SJ",
@@ -825,7 +681,47 @@
           "origin_weight": 113
         },
         {
-          "rank": 26,
+          "rank": 12,
+          "name": "Gabryel Juarez",
+          "team": "Garces      \r\n    Memorial",
+          "section": "CS",
+          "grade": "So",
+          "record": "12-8",
+          "rating": 1577,
+          "rd": 97
+        },
+        {
+          "rank": 13,
+          "name": "Jason Lin",
+          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "10-6",
+          "rating": 1586,
+          "rd": 112
+        },
+        {
+          "rank": 14,
+          "name": "Camm Colgate",
+          "team": "Evergreen      \r\n    Institution",
+          "section": "NS",
+          "grade": "So",
+          "record": "7-3",
+          "rating": 1700,
+          "rd": 158
+        },
+        {
+          "rank": 15,
+          "name": "Colton Meixner",
+          "team": "Clovis North",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "11-13",
+          "rating": 1506,
+          "rd": 96
+        },
+        {
+          "rank": 16,
           "name": "Caden Herrera",
           "team": "Bakersfield",
           "section": "CS",
@@ -837,7 +733,47 @@
           "origin_weight": 113
         },
         {
-          "rank": 27,
+          "rank": 17,
+          "name": "Caleb Cisneros",
+          "team": "Selma",
+          "section": "CS",
+          "grade": "So",
+          "record": "11-10",
+          "rating": 1499,
+          "rd": 90
+        },
+        {
+          "rank": 18,
+          "name": "Alex Ramos",
+          "team": "Clovis\r\n  West",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "13-12",
+          "rating": 1492,
+          "rd": 91
+        },
+        {
+          "rank": 19,
+          "name": "Maddox Hazard",
+          "team": "Sultana",
+          "section": "SS",
+          "grade": "So",
+          "record": "13-8",
+          "rating": 1509,
+          "rd": 99
+        },
+        {
+          "rank": 20,
+          "name": "Gavin Pongsai",
+          "team": "Gilroy",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "9-8",
+          "rating": 1489,
+          "rd": 106
+        },
+        {
+          "rank": 21,
           "name": "Julius Mark Villamil",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -847,6 +783,66 @@
           "rd": 118,
           "proj": true,
           "origin_weight": 113
+        },
+        {
+          "rank": 22,
+          "name": "Luke Tran",
+          "team": "Independence",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "8-10",
+          "rating": 1426,
+          "rd": 102
+        },
+        {
+          "rank": 23,
+          "name": "Anthony Strahm",
+          "team": "Holtville      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "7-10",
+          "rating": 1436,
+          "rd": 112
+        },
+        {
+          "rank": 24,
+          "name": "Sergio Valencia",
+          "team": "Farmersville",
+          "section": "CS",
+          "grade": "So",
+          "record": "4-5",
+          "rating": 1463,
+          "rd": 130
+        },
+        {
+          "rank": 25,
+          "name": "Raymond Carbajal",
+          "team": "Santa\r\n  Fe",
+          "section": "SS",
+          "grade": "So",
+          "record": "7-10",
+          "rating": 1414,
+          "rd": 110
+        },
+        {
+          "rank": 26,
+          "name": "Andrew Sandoval",
+          "team": "Woodlake\r\n  Union",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "5-15",
+          "rating": 1294,
+          "rd": 113
+        },
+        {
+          "rank": 27,
+          "name": "Kaden Owens",
+          "team": "Foothill      \r\n    Palo\r\n  Cedro",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "3-4",
+          "rating": 1344,
+          "rd": 184
         }
       ]
     },
@@ -856,19 +852,6 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Samuel Sanchez",
-          "team": "Esperanza",
-          "section": "NS",
-          "grade": "So",
-          "record": "5-1",
-          "rating": 1798,
-          "rd": 163,
-          "proj": true,
-          "origin_weight": 120,
-          "seed_reason": "Fargo Junior champ (126)"
-        },
-        {
-          "rank": 2,
           "name": "Aaron Meza",
           "team": "Esperanza",
           "section": "SS",
@@ -878,7 +861,7 @@
           "rd": 117
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "Massimo Ortiz",
           "team": "Servite",
           "section": "SS",
@@ -888,7 +871,7 @@
           "rd": 90
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Julian Holguin",
           "team": "Bellarmine\r\n  Prep",
           "section": "CC",
@@ -898,167 +881,19 @@
           "rd": 120
         },
         {
-          "rank": 5,
-          "name": "Elias Castaneda",
-          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "18-5",
-          "rating": 1771,
-          "rd": 104
-        },
-        {
-          "rank": 6,
-          "name": "Caden Garriott",
-          "team": "South      \r\n    Torrance",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "16-6",
-          "rating": 1753,
-          "rd": 106
-        },
-        {
-          "rank": 7,
-          "name": "Dylan Matthews",
-          "team": "Shasta",
+          "rank": 4,
+          "name": "Samuel Sanchez",
+          "team": "Esperanza",
           "section": "NS",
-          "grade": "Jr",
-          "record": "10-5",
-          "rating": 1761,
-          "rd": 120
-        },
-        {
-          "rank": 8,
-          "name": "Jackson Humphrey",
-          "team": "Sultana",
-          "section": "SS",
           "grade": "So",
-          "record": "11-6",
-          "rating": 1726,
-          "rd": 108
+          "record": "5-1",
+          "rating": 1798,
+          "rd": 163,
+          "proj": true,
+          "origin_weight": 120
         },
         {
-          "rank": 9,
-          "name": "Vincent Peyron",
-          "team": "Mission\r\n  Oak",
-          "section": "CS",
-          "grade": "So",
-          "record": "13-4",
-          "rating": 1719,
-          "rd": 112
-        },
-        {
-          "rank": 10,
-          "name": "Jesse Quiroz",
-          "team": "Eleanor\r\n        \r\n    Roosevelt",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "14-9",
-          "rating": 1645,
-          "rd": 93
-        },
-        {
-          "rank": 11,
-          "name": "Maximus Torrez",
-          "team": "Gilroy",
-          "section": "CC",
-          "grade": "Fr",
-          "record": "13-7",
-          "rating": 1651,
-          "rd": 98
-        },
-        {
-          "rank": 12,
-          "name": "Manuel Gutierrez",
-          "team": "Selma",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "13-13",
-          "rating": 1624,
-          "rd": 94
-        },
-        {
-          "rank": 13,
-          "name": "Elias Flores",
-          "team": "Northview",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "14-9",
-          "rating": 1596,
-          "rd": 94
-        },
-        {
-          "rank": 14,
-          "name": "Jovani Sandoval",
-          "team": "Elk Grove",
-          "section": "SJ",
-          "grade": "So",
-          "record": "10-11",
-          "rating": 1494,
-          "rd": 103
-        },
-        {
-          "rank": 15,
-          "name": "Chris Anderson",
-          "team": "Liberty      \r\n    Brentwood      \r\n    NORTH\r\n  COAST",
-          "section": "NC",
-          "grade": "Jr",
-          "record": "5-7",
-          "rating": 1464,
-          "rd": 138
-        },
-        {
-          "rank": 16,
-          "name": "Matthew Ramos",
-          "team": "Exeter\r\n  Union",
-          "section": "CS",
-          "grade": "So",
-          "record": "6-10",
-          "rating": 1344,
-          "rd": 118
-        },
-        {
-          "rank": 17,
-          "name": "Brandon Bruns",
-          "team": "Christopher",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "5-10",
-          "rating": 1356,
-          "rd": 124
-        },
-        {
-          "rank": 18,
-          "name": "Ezekiel Bayardo",
-          "team": "Immanuel",
-          "section": "CS",
-          "grade": "So",
-          "record": "6-11",
-          "rating": 1287,
-          "rd": 112
-        },
-        {
-          "rank": 19,
-          "name": "Matthew Gonzales",
-          "team": "San\r\n  Fernando      \r\n    LOS\r\n  ANGELES",
-          "section": "LA",
-          "grade": "Jr",
-          "record": "1-1",
-          "rating": 1513,
-          "rd": 234
-        },
-        {
-          "rank": 20,
-          "name": "Isaac Navarro",
-          "team": "Vista      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "So",
-          "record": "2-10",
-          "rating": 1303,
-          "rd": 164
-        },
-        {
-          "rank": 21,
+          "rank": 5,
           "name": "Rene Cordero",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1068,6 +903,166 @@
           "rd": 113,
           "proj": true,
           "origin_weight": 120
+        },
+        {
+          "rank": 6,
+          "name": "Elias Castaneda",
+          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "18-5",
+          "rating": 1771,
+          "rd": 104
+        },
+        {
+          "rank": 7,
+          "name": "Caden Garriott",
+          "team": "South      \r\n    Torrance",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "16-6",
+          "rating": 1753,
+          "rd": 106
+        },
+        {
+          "rank": 8,
+          "name": "Dylan Matthews",
+          "team": "Shasta",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "10-5",
+          "rating": 1761,
+          "rd": 120
+        },
+        {
+          "rank": 9,
+          "name": "Jackson Humphrey",
+          "team": "Sultana",
+          "section": "SS",
+          "grade": "So",
+          "record": "11-6",
+          "rating": 1726,
+          "rd": 108
+        },
+        {
+          "rank": 10,
+          "name": "Vincent Peyron",
+          "team": "Mission\r\n  Oak",
+          "section": "CS",
+          "grade": "So",
+          "record": "13-4",
+          "rating": 1719,
+          "rd": 112
+        },
+        {
+          "rank": 11,
+          "name": "Jesse Quiroz",
+          "team": "Eleanor\r\n        \r\n    Roosevelt",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "14-9",
+          "rating": 1645,
+          "rd": 93
+        },
+        {
+          "rank": 12,
+          "name": "Maximus Torrez",
+          "team": "Gilroy",
+          "section": "CC",
+          "grade": "Fr",
+          "record": "13-7",
+          "rating": 1651,
+          "rd": 98
+        },
+        {
+          "rank": 13,
+          "name": "Manuel Gutierrez",
+          "team": "Selma",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "13-13",
+          "rating": 1624,
+          "rd": 94
+        },
+        {
+          "rank": 14,
+          "name": "Elias Flores",
+          "team": "Northview",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "14-9",
+          "rating": 1596,
+          "rd": 94
+        },
+        {
+          "rank": 15,
+          "name": "Jovani Sandoval",
+          "team": "Elk Grove",
+          "section": "SJ",
+          "grade": "So",
+          "record": "10-11",
+          "rating": 1494,
+          "rd": 103
+        },
+        {
+          "rank": 16,
+          "name": "Chris Anderson",
+          "team": "Liberty      \r\n    Brentwood      \r\n    NORTH\r\n  COAST",
+          "section": "NC",
+          "grade": "Jr",
+          "record": "5-7",
+          "rating": 1464,
+          "rd": 138
+        },
+        {
+          "rank": 17,
+          "name": "Matthew Ramos",
+          "team": "Exeter\r\n  Union",
+          "section": "CS",
+          "grade": "So",
+          "record": "6-10",
+          "rating": 1344,
+          "rd": 118
+        },
+        {
+          "rank": 18,
+          "name": "Brandon Bruns",
+          "team": "Christopher",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "5-10",
+          "rating": 1356,
+          "rd": 124
+        },
+        {
+          "rank": 19,
+          "name": "Ezekiel Bayardo",
+          "team": "Immanuel",
+          "section": "CS",
+          "grade": "So",
+          "record": "6-11",
+          "rating": 1287,
+          "rd": 112
+        },
+        {
+          "rank": 20,
+          "name": "Matthew Gonzales",
+          "team": "San\r\n  Fernando      \r\n    LOS\r\n  ANGELES",
+          "section": "LA",
+          "grade": "Jr",
+          "record": "1-1",
+          "rating": 1513,
+          "rd": 234
+        },
+        {
+          "rank": 21,
+          "name": "Isaac Navarro",
+          "team": "Vista      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "So",
+          "record": "2-10",
+          "rating": 1303,
+          "rd": 164
         }
       ]
     },
@@ -1117,86 +1112,18 @@
         },
         {
           "rank": 5,
-          "name": "John Benitez",
-          "team": "Redwood      \r\n    Visalia",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "14-9",
-          "rating": 1662,
-          "rd": 92
+          "name": "Luke Schoch",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "So",
+          "record": "7-6",
+          "rating": 1705,
+          "rd": 132,
+          "proj": true,
+          "origin_weight": 126
         },
         {
           "rank": 6,
-          "name": "Joseph Albert",
-          "team": "Alvarez",
-          "section": "CC",
-          "grade": "So",
-          "record": "3-1",
-          "rating": 1770,
-          "rd": 167
-        },
-        {
-          "rank": 7,
-          "name": "Roman Zelenka",
-          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "13-6",
-          "rating": 1617,
-          "rd": 111
-        },
-        {
-          "rank": 8,
-          "name": "Jonah Rusca",
-          "team": "Reedley",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "12-9",
-          "rating": 1536,
-          "rd": 95
-        },
-        {
-          "rank": 9,
-          "name": "Cole Cronan",
-          "team": "Turlock      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "12-11",
-          "rating": 1519,
-          "rd": 93
-        },
-        {
-          "rank": 10,
-          "name": "Tommy Magallanes",
-          "team": "Justin\r\n  Garza",
-          "section": "CS",
-          "grade": "So",
-          "record": "5-6",
-          "rating": 1566,
-          "rd": 139
-        },
-        {
-          "rank": 11,
-          "name": "Jaden Garcia",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "So",
-          "record": "12-21",
-          "rating": 1372,
-          "rd": 84
-        },
-        {
-          "rank": 12,
-          "name": "Daniel Guerra",
-          "team": "Southwest      \r\n    El\r\n  Cajon      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "So",
-          "record": "6-8",
-          "rating": 1453,
-          "rd": 117
-        },
-        {
-          "rank": 13,
           "name": "Nate Mitchell",
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1208,16 +1135,84 @@
           "origin_weight": 126
         },
         {
-          "rank": 14,
-          "name": "Luke Schoch",
-          "team": "Los\r\n  Gatos",
+          "rank": 7,
+          "name": "John Benitez",
+          "team": "Redwood      \r\n    Visalia",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "14-9",
+          "rating": 1662,
+          "rd": 92
+        },
+        {
+          "rank": 8,
+          "name": "Joseph Albert",
+          "team": "Alvarez",
           "section": "CC",
           "grade": "So",
-          "record": "7-6",
-          "rating": 1705,
-          "rd": 132,
-          "proj": true,
-          "origin_weight": 126
+          "record": "3-1",
+          "rating": 1770,
+          "rd": 167
+        },
+        {
+          "rank": 9,
+          "name": "Roman Zelenka",
+          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "13-6",
+          "rating": 1617,
+          "rd": 111
+        },
+        {
+          "rank": 10,
+          "name": "Jonah Rusca",
+          "team": "Reedley",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "12-9",
+          "rating": 1536,
+          "rd": 95
+        },
+        {
+          "rank": 11,
+          "name": "Cole Cronan",
+          "team": "Turlock      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "12-11",
+          "rating": 1519,
+          "rd": 93
+        },
+        {
+          "rank": 12,
+          "name": "Tommy Magallanes",
+          "team": "Justin\r\n  Garza",
+          "section": "CS",
+          "grade": "So",
+          "record": "5-6",
+          "rating": 1566,
+          "rd": 139
+        },
+        {
+          "rank": 13,
+          "name": "Jaden Garcia",
+          "team": "Clovis",
+          "section": "CS",
+          "grade": "So",
+          "record": "12-21",
+          "rating": 1372,
+          "rd": 84
+        },
+        {
+          "rank": 14,
+          "name": "Daniel Guerra",
+          "team": "Southwest      \r\n    El\r\n  Cajon      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "So",
+          "record": "6-8",
+          "rating": 1453,
+          "rd": 117
         }
       ]
     },
@@ -1258,176 +1253,6 @@
         },
         {
           "rank": 4,
-          "name": "Vinnie Gutierrez",
-          "team": "Fountain\r\n  Valley",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "16-9",
-          "rating": 1733,
-          "rd": 89
-        },
-        {
-          "rank": 5,
-          "name": "Gabriel Estrada",
-          "team": "Frontier",
-          "section": "CS",
-          "grade": "So",
-          "record": "11-8",
-          "rating": 1732,
-          "rd": 98
-        },
-        {
-          "rank": 6,
-          "name": "Jonah Guerra",
-          "team": "Montclair",
-          "section": "SS",
-          "grade": "So",
-          "record": "11-3",
-          "rating": 1761,
-          "rd": 119
-        },
-        {
-          "rank": 7,
-          "name": "Declan Shea",
-          "team": "Sutter\r\n  Union",
-          "section": "SJ",
-          "grade": "So",
-          "record": "14-7",
-          "rating": 1699,
-          "rd": 98
-        },
-        {
-          "rank": 8,
-          "name": "Micah Wegman",
-          "team": "Calabasas",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "9-6",
-          "rating": 1694,
-          "rd": 117
-        },
-        {
-          "rank": 9,
-          "name": "Liam Henson",
-          "team": "Mission\r\n  Oak",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "15-8",
-          "rating": 1613,
-          "rd": 88
-        },
-        {
-          "rank": 10,
-          "name": "Anjelo Reyes",
-          "team": "Madera",
-          "section": "CS",
-          "grade": "So",
-          "record": "13-12",
-          "rating": 1620,
-          "rd": 91
-        },
-        {
-          "rank": 11,
-          "name": "Joseph Ramirez",
-          "team": "El Modena",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "14-10",
-          "rating": 1596,
-          "rd": 90
-        },
-        {
-          "rank": 12,
-          "name": "Gabriel Champagne",
-          "team": "Grace Davis",
-          "section": "SJ",
-          "grade": "So",
-          "record": "7-7",
-          "rating": 1599,
-          "rd": 113
-        },
-        {
-          "rank": 13,
-          "name": "Jack Giangrasso",
-          "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "16-12",
-          "rating": 1567,
-          "rd": 88
-        },
-        {
-          "rank": 14,
-          "name": "Aeden Ortega",
-          "team": "El Diamante",
-          "section": "CS",
-          "grade": "So",
-          "record": "12-8",
-          "rating": 1565,
-          "rd": 96
-        },
-        {
-          "rank": 15,
-          "name": "Luke Menzimer",
-          "team": "La Costa      \r\n    Canyon",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "7-4",
-          "rating": 1606,
-          "rd": 122
-        },
-        {
-          "rank": 16,
-          "name": "Cole Schmidt",
-          "team": "Windsor",
-          "section": "NC",
-          "grade": "So",
-          "record": "9-6",
-          "rating": 1575,
-          "rd": 113
-        },
-        {
-          "rank": 17,
-          "name": "Mason Blair",
-          "team": "Clovis\r\n  North",
-          "section": "CS",
-          "grade": "So",
-          "record": "11-14",
-          "rating": 1495,
-          "rd": 95
-        },
-        {
-          "rank": 18,
-          "name": "Theodore Young",
-          "team": "Whitney",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "5-9",
-          "rating": 1522,
-          "rd": 126
-        },
-        {
-          "rank": 19,
-          "name": "Cameron James",
-          "team": "Centennial      \r\n    Corona",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "9-11",
-          "rating": 1448,
-          "rd": 102
-        },
-        {
-          "rank": 20,
-          "name": "Christian Ripa",
-          "team": "Mission Vista",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "4-8",
-          "rating": 1404,
-          "rd": 136
-        },
-        {
-          "rank": 21,
           "name": "Cael Humphrey",
           "team": "Sultana",
           "section": "SS",
@@ -1439,7 +1264,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 22,
+          "rank": 5,
           "name": "Landon Salindong",
           "team": "Durham",
           "section": "NS",
@@ -1451,7 +1276,57 @@
           "origin_weight": 132
         },
         {
-          "rank": 23,
+          "rank": 6,
+          "name": "Vinnie Gutierrez",
+          "team": "Fountain\r\n  Valley",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "16-9",
+          "rating": 1733,
+          "rd": 89
+        },
+        {
+          "rank": 7,
+          "name": "Gabriel Estrada",
+          "team": "Frontier",
+          "section": "CS",
+          "grade": "So",
+          "record": "11-8",
+          "rating": 1732,
+          "rd": 98
+        },
+        {
+          "rank": 8,
+          "name": "Jonah Guerra",
+          "team": "Montclair",
+          "section": "SS",
+          "grade": "So",
+          "record": "11-3",
+          "rating": 1761,
+          "rd": 119
+        },
+        {
+          "rank": 9,
+          "name": "Declan Shea",
+          "team": "Sutter\r\n  Union",
+          "section": "SJ",
+          "grade": "So",
+          "record": "14-7",
+          "rating": 1699,
+          "rd": 98
+        },
+        {
+          "rank": 10,
+          "name": "Micah Wegman",
+          "team": "Calabasas",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "9-6",
+          "rating": 1694,
+          "rd": 117
+        },
+        {
+          "rank": 11,
           "name": "Brian Miller",
           "team": "Palo\r\n  Alto",
           "section": "CC",
@@ -1463,7 +1338,87 @@
           "origin_weight": 132
         },
         {
-          "rank": 24,
+          "rank": 12,
+          "name": "Liam Henson",
+          "team": "Mission\r\n  Oak",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "15-8",
+          "rating": 1613,
+          "rd": 88
+        },
+        {
+          "rank": 13,
+          "name": "Anjelo Reyes",
+          "team": "Madera",
+          "section": "CS",
+          "grade": "So",
+          "record": "13-12",
+          "rating": 1620,
+          "rd": 91
+        },
+        {
+          "rank": 14,
+          "name": "Joseph Ramirez",
+          "team": "El Modena",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "14-10",
+          "rating": 1596,
+          "rd": 90
+        },
+        {
+          "rank": 15,
+          "name": "Gabriel Champagne",
+          "team": "Grace Davis",
+          "section": "SJ",
+          "grade": "So",
+          "record": "7-7",
+          "rating": 1599,
+          "rd": 113
+        },
+        {
+          "rank": 16,
+          "name": "Jack Giangrasso",
+          "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "16-12",
+          "rating": 1567,
+          "rd": 88
+        },
+        {
+          "rank": 17,
+          "name": "Aeden Ortega",
+          "team": "El Diamante",
+          "section": "CS",
+          "grade": "So",
+          "record": "12-8",
+          "rating": 1565,
+          "rd": 96
+        },
+        {
+          "rank": 18,
+          "name": "Luke Menzimer",
+          "team": "La Costa      \r\n    Canyon",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "7-4",
+          "rating": 1606,
+          "rd": 122
+        },
+        {
+          "rank": 19,
+          "name": "Cole Schmidt",
+          "team": "Windsor",
+          "section": "NC",
+          "grade": "So",
+          "record": "9-6",
+          "rating": 1575,
+          "rd": 113
+        },
+        {
+          "rank": 20,
           "name": "Cruz Contreras",
           "team": "Aptos",
           "section": "CC",
@@ -1473,6 +1428,46 @@
           "rd": 103,
           "proj": true,
           "origin_weight": 132
+        },
+        {
+          "rank": 21,
+          "name": "Mason Blair",
+          "team": "Clovis\r\n  North",
+          "section": "CS",
+          "grade": "So",
+          "record": "11-14",
+          "rating": 1495,
+          "rd": 95
+        },
+        {
+          "rank": 22,
+          "name": "Theodore Young",
+          "team": "Whitney",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "5-9",
+          "rating": 1522,
+          "rd": 126
+        },
+        {
+          "rank": 23,
+          "name": "Cameron James",
+          "team": "Centennial      \r\n    Corona",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "9-11",
+          "rating": 1448,
+          "rd": 102
+        },
+        {
+          "rank": 24,
+          "name": "Christian Ripa",
+          "team": "Mission Vista",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "4-8",
+          "rating": 1404,
+          "rd": 136
         }
       ]
     },
@@ -1572,76 +1567,6 @@
         },
         {
           "rank": 10,
-          "name": "Jayden Ramirez",
-          "team": "Frontier",
-          "section": "CS",
-          "grade": "So",
-          "record": "17-18",
-          "rating": 1544,
-          "rd": 77
-        },
-        {
-          "rank": 11,
-          "name": "Greg Ruiz",
-          "team": "Sonora      \r\n    La\r\n  Habra",
-          "section": "SS",
-          "grade": "So",
-          "record": "12-8",
-          "rating": 1594,
-          "rd": 104
-        },
-        {
-          "rank": 12,
-          "name": "Michael Coelho",
-          "team": "Los\r\n  Banos      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "11-11",
-          "rating": 1475,
-          "rd": 93
-        },
-        {
-          "rank": 13,
-          "name": "Ayers Reich",
-          "team": "Cathedral      \r\n    Catholic",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "4-4",
-          "rating": 1580,
-          "rd": 150
-        },
-        {
-          "rank": 14,
-          "name": "Jonah Helo Blackwell",
-          "team": "Central Catholic",
-          "section": "SJ",
-          "grade": "So",
-          "record": "8-7",
-          "rating": 1469,
-          "rd": 114
-        },
-        {
-          "rank": 15,
-          "name": "Uriel Hernandez",
-          "team": "Madera South",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "10-23",
-          "rating": 1361,
-          "rd": 85
-        },
-        {
-          "rank": 16,
-          "name": "Connor Miller",
-          "team": "Chico",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "3-4",
-          "rating": 1444,
-          "rd": 168
-        },
-        {
-          "rank": 17,
           "name": "Sergio Gomez",
           "team": "St. John Bosco",
           "section": "SS",
@@ -1651,6 +1576,76 @@
           "rd": 127,
           "proj": true,
           "origin_weight": 157
+        },
+        {
+          "rank": 11,
+          "name": "Jayden Ramirez",
+          "team": "Frontier",
+          "section": "CS",
+          "grade": "So",
+          "record": "17-18",
+          "rating": 1544,
+          "rd": 77
+        },
+        {
+          "rank": 12,
+          "name": "Greg Ruiz",
+          "team": "Sonora      \r\n    La\r\n  Habra",
+          "section": "SS",
+          "grade": "So",
+          "record": "12-8",
+          "rating": 1594,
+          "rd": 104
+        },
+        {
+          "rank": 13,
+          "name": "Michael Coelho",
+          "team": "Los\r\n  Banos      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "11-11",
+          "rating": 1475,
+          "rd": 93
+        },
+        {
+          "rank": 14,
+          "name": "Ayers Reich",
+          "team": "Cathedral      \r\n    Catholic",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "4-4",
+          "rating": 1580,
+          "rd": 150
+        },
+        {
+          "rank": 15,
+          "name": "Jonah Helo Blackwell",
+          "team": "Central Catholic",
+          "section": "SJ",
+          "grade": "So",
+          "record": "8-7",
+          "rating": 1469,
+          "rd": 114
+        },
+        {
+          "rank": 16,
+          "name": "Uriel Hernandez",
+          "team": "Madera South",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "10-23",
+          "rating": 1361,
+          "rd": 85
+        },
+        {
+          "rank": 17,
+          "name": "Connor Miller",
+          "team": "Chico",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "3-4",
+          "rating": 1444,
+          "rd": 168
         }
       ]
     },
@@ -1680,136 +1675,6 @@
         },
         {
           "rank": 3,
-          "name": "Cooper Sheesley",
-          "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "14-5",
-          "rating": 1716,
-          "rd": 103
-        },
-        {
-          "rank": 4,
-          "name": "Damen Vollmer",
-          "team": "Temecula\r\n        \r\n    Valley",
-          "section": "SS",
-          "grade": "So",
-          "record": "13-10",
-          "rating": 1660,
-          "rd": 92
-        },
-        {
-          "rank": 5,
-          "name": "Bryson Constantino",
-          "team": "Frontier",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "17-11",
-          "rating": 1654,
-          "rd": 80
-        },
-        {
-          "rank": 6,
-          "name": "Mateo Centeno",
-          "team": "Esperanza",
-          "section": "SS",
-          "grade": "So",
-          "record": "12-5",
-          "rating": 1694,
-          "rd": 109
-        },
-        {
-          "rank": 7,
-          "name": "Hunter Luna",
-          "team": "St. Francis",
-          "section": "CC",
-          "grade": "So",
-          "record": "12-10",
-          "rating": 1557,
-          "rd": 97
-        },
-        {
-          "rank": 8,
-          "name": "David Daniels",
-          "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "So",
-          "record": "8-5",
-          "rating": 1563,
-          "rd": 117
-        },
-        {
-          "rank": 9,
-          "name": "Charlie Herrington",
-          "team": "Granada",
-          "section": "NC",
-          "grade": "Jr",
-          "record": "10-11",
-          "rating": 1507,
-          "rd": 98
-        },
-        {
-          "rank": 10,
-          "name": "Gage Clark",
-          "team": "Highland      \r\n    North\r\n  Highlands      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "8-3",
-          "rating": 1595,
-          "rd": 135
-        },
-        {
-          "rank": 11,
-          "name": "Levi Landeros",
-          "team": "Monache",
-          "section": "CS",
-          "grade": "So",
-          "record": "10-8",
-          "rating": 1477,
-          "rd": 95
-        },
-        {
-          "rank": 12,
-          "name": "Sean Griffin",
-          "team": "Central Catholic",
-          "section": "SJ",
-          "grade": "So",
-          "record": "10-11",
-          "rating": 1510,
-          "rd": 112
-        },
-        {
-          "rank": 13,
-          "name": "Wesley Hayden",
-          "team": "Los Gatos",
-          "section": "CC",
-          "grade": "So",
-          "record": "4-7",
-          "rating": 1499,
-          "rd": 143
-        },
-        {
-          "rank": 14,
-          "name": "Landon Nelms",
-          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "5-8",
-          "rating": 1393,
-          "rd": 139
-        },
-        {
-          "rank": 15,
-          "name": "Charles Rice",
-          "team": "Red Bluff",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "3-6",
-          "rating": 1366,
-          "rd": 159
-        },
-        {
-          "rank": 16,
           "name": "Jack Bronte",
           "team": "Granada",
           "section": "NC",
@@ -1821,7 +1686,47 @@
           "origin_weight": 138
         },
         {
-          "rank": 17,
+          "rank": 4,
+          "name": "Cooper Sheesley",
+          "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "14-5",
+          "rating": 1716,
+          "rd": 103
+        },
+        {
+          "rank": 5,
+          "name": "Damen Vollmer",
+          "team": "Temecula\r\n        \r\n    Valley",
+          "section": "SS",
+          "grade": "So",
+          "record": "13-10",
+          "rating": 1660,
+          "rd": 92
+        },
+        {
+          "rank": 6,
+          "name": "Bryson Constantino",
+          "team": "Frontier",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "17-11",
+          "rating": 1654,
+          "rd": 80
+        },
+        {
+          "rank": 7,
+          "name": "Mateo Centeno",
+          "team": "Esperanza",
+          "section": "SS",
+          "grade": "So",
+          "record": "12-5",
+          "rating": 1694,
+          "rd": 109
+        },
+        {
+          "rank": 8,
           "name": "Marcello Calavitta",
           "team": "Esperanza",
           "section": "SS",
@@ -1831,6 +1736,96 @@
           "rd": 112,
           "proj": true,
           "origin_weight": 138
+        },
+        {
+          "rank": 9,
+          "name": "Hunter Luna",
+          "team": "St. Francis",
+          "section": "CC",
+          "grade": "So",
+          "record": "12-10",
+          "rating": 1557,
+          "rd": 97
+        },
+        {
+          "rank": 10,
+          "name": "David Daniels",
+          "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "So",
+          "record": "8-5",
+          "rating": 1563,
+          "rd": 117
+        },
+        {
+          "rank": 11,
+          "name": "Charlie Herrington",
+          "team": "Granada",
+          "section": "NC",
+          "grade": "Jr",
+          "record": "10-11",
+          "rating": 1507,
+          "rd": 98
+        },
+        {
+          "rank": 12,
+          "name": "Gage Clark",
+          "team": "Highland      \r\n    North\r\n  Highlands      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "8-3",
+          "rating": 1595,
+          "rd": 135
+        },
+        {
+          "rank": 13,
+          "name": "Levi Landeros",
+          "team": "Monache",
+          "section": "CS",
+          "grade": "So",
+          "record": "10-8",
+          "rating": 1477,
+          "rd": 95
+        },
+        {
+          "rank": 14,
+          "name": "Sean Griffin",
+          "team": "Central Catholic",
+          "section": "SJ",
+          "grade": "So",
+          "record": "10-11",
+          "rating": 1510,
+          "rd": 112
+        },
+        {
+          "rank": 15,
+          "name": "Wesley Hayden",
+          "team": "Los Gatos",
+          "section": "CC",
+          "grade": "So",
+          "record": "4-7",
+          "rating": 1499,
+          "rd": 143
+        },
+        {
+          "rank": 16,
+          "name": "Landon Nelms",
+          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "5-8",
+          "rating": 1393,
+          "rd": 139
+        },
+        {
+          "rank": 17,
+          "name": "Charles Rice",
+          "team": "Red Bluff",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "3-6",
+          "rating": 1366,
+          "rd": 159
         }
       ]
     },
@@ -1890,136 +1885,6 @@
         },
         {
           "rank": 6,
-          "name": "Sebastian Garcia",
-          "team": "Junipero Serra",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "19-8",
-          "rating": 1719,
-          "rd": 85
-        },
-        {
-          "rank": 7,
-          "name": "Mason McDonnell",
-          "team": "Fountain Valley",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "17-11",
-          "rating": 1673,
-          "rd": 88
-        },
-        {
-          "rank": 8,
-          "name": "Adam Salas",
-          "team": "Los Alamitos",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "17-9",
-          "rating": 1648,
-          "rd": 89
-        },
-        {
-          "rank": 9,
-          "name": "Dylan Tirapelle",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "So",
-          "record": "10-8",
-          "rating": 1633,
-          "rd": 103
-        },
-        {
-          "rank": 10,
-          "name": "Chase Young",
-          "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "So",
-          "record": "14-12",
-          "rating": 1580,
-          "rd": 87
-        },
-        {
-          "rank": 11,
-          "name": "Jisias Rodriguez",
-          "team": "Los\r\n  Gatos",
-          "section": "CC",
-          "grade": "So",
-          "record": "10-10",
-          "rating": 1585,
-          "rd": 94
-        },
-        {
-          "rank": 12,
-          "name": "Logan Lopez",
-          "team": "Clovis East",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "16-13",
-          "rating": 1537,
-          "rd": 79
-        },
-        {
-          "rank": 13,
-          "name": "Brock Kenney",
-          "team": "Trabuco\r\n  Hills",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "15-10",
-          "rating": 1556,
-          "rd": 97
-        },
-        {
-          "rank": 14,
-          "name": "Jesse Cruz",
-          "team": "Clovis North",
-          "section": "CS",
-          "grade": "So",
-          "record": "11-13",
-          "rating": 1515,
-          "rd": 87
-        },
-        {
-          "rank": 15,
-          "name": "Paxton Palomar",
-          "team": "Kingsburg",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "9-7",
-          "rating": 1511,
-          "rd": 103
-        },
-        {
-          "rank": 16,
-          "name": "Skylar Groke",
-          "team": "La\r\n  Costa      \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "7-7",
-          "rating": 1476,
-          "rd": 117
-        },
-        {
-          "rank": 17,
-          "name": "Juan Gallardo",
-          "team": "Wasco",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "8-11",
-          "rating": 1415,
-          "rd": 93
-        },
-        {
-          "rank": 18,
-          "name": "Maceson Vasquez",
-          "team": "Redwood\r\n        \r\n    Visalia",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "4-10",
-          "rating": 1331,
-          "rd": 132
-        },
-        {
-          "rank": 19,
           "name": "Diego Valdiviezo",
           "team": "Poway",
           "section": "SD",
@@ -2029,6 +1894,136 @@
           "rd": 113,
           "proj": true,
           "origin_weight": 144
+        },
+        {
+          "rank": 7,
+          "name": "Sebastian Garcia",
+          "team": "Junipero Serra",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "19-8",
+          "rating": 1719,
+          "rd": 85
+        },
+        {
+          "rank": 8,
+          "name": "Mason McDonnell",
+          "team": "Fountain Valley",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "17-11",
+          "rating": 1673,
+          "rd": 88
+        },
+        {
+          "rank": 9,
+          "name": "Adam Salas",
+          "team": "Los Alamitos",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "17-9",
+          "rating": 1648,
+          "rd": 89
+        },
+        {
+          "rank": 10,
+          "name": "Dylan Tirapelle",
+          "team": "Clovis",
+          "section": "CS",
+          "grade": "So",
+          "record": "10-8",
+          "rating": 1633,
+          "rd": 103
+        },
+        {
+          "rank": 11,
+          "name": "Chase Young",
+          "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "So",
+          "record": "14-12",
+          "rating": 1580,
+          "rd": 87
+        },
+        {
+          "rank": 12,
+          "name": "Jisias Rodriguez",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "So",
+          "record": "10-10",
+          "rating": 1585,
+          "rd": 94
+        },
+        {
+          "rank": 13,
+          "name": "Logan Lopez",
+          "team": "Clovis East",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "16-13",
+          "rating": 1537,
+          "rd": 79
+        },
+        {
+          "rank": 14,
+          "name": "Brock Kenney",
+          "team": "Trabuco\r\n  Hills",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "15-10",
+          "rating": 1556,
+          "rd": 97
+        },
+        {
+          "rank": 15,
+          "name": "Jesse Cruz",
+          "team": "Clovis North",
+          "section": "CS",
+          "grade": "So",
+          "record": "11-13",
+          "rating": 1515,
+          "rd": 87
+        },
+        {
+          "rank": 16,
+          "name": "Paxton Palomar",
+          "team": "Kingsburg",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "9-7",
+          "rating": 1511,
+          "rd": 103
+        },
+        {
+          "rank": 17,
+          "name": "Skylar Groke",
+          "team": "La\r\n  Costa      \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "7-7",
+          "rating": 1476,
+          "rd": 117
+        },
+        {
+          "rank": 18,
+          "name": "Juan Gallardo",
+          "team": "Wasco",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "8-11",
+          "rating": 1415,
+          "rd": 93
+        },
+        {
+          "rank": 19,
+          "name": "Maceson Vasquez",
+          "team": "Redwood\r\n        \r\n    Visalia",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "4-10",
+          "rating": 1331,
+          "rd": 132
         }
       ]
     },
@@ -2058,146 +2053,6 @@
         },
         {
           "rank": 3,
-          "name": "Christian Acosta Stoeber",
-          "team": "Fountain       \r\n    Valley",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "17-4",
-          "rating": 1853,
-          "rd": 106
-        },
-        {
-          "rank": 4,
-          "name": "Luques Sorenson",
-          "team": "Yucaipa",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "13-6",
-          "rating": 1802,
-          "rd": 100
-        },
-        {
-          "rank": 5,
-          "name": "James Emery",
-          "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
-          "section": "NC",
-          "grade": "Jr",
-          "record": "12-5",
-          "rating": 1754,
-          "rd": 111
-        },
-        {
-          "rank": 6,
-          "name": "Leon Murphy",
-          "team": "Santiago      \r\n    Corona",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "17-10",
-          "rating": 1700,
-          "rd": 90
-        },
-        {
-          "rank": 7,
-          "name": "Keanu Garcia",
-          "team": "Garces      \r\n    Memorial",
-          "section": "CS",
-          "grade": "So",
-          "record": "10-10",
-          "rating": 1601,
-          "rd": 96
-        },
-        {
-          "rank": 8,
-          "name": "Adrian Harris",
-          "team": "Highland      \r\n    Palmdale",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "7-4",
-          "rating": 1663,
-          "rd": 121
-        },
-        {
-          "rank": 9,
-          "name": "Ehren Thompson",
-          "team": "Chaparral",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "16-11",
-          "rating": 1563,
-          "rd": 89
-        },
-        {
-          "rank": 10,
-          "name": "Stephen Seymour",
-          "team": "Hollister",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "10-10",
-          "rating": 1558,
-          "rd": 103
-        },
-        {
-          "rank": 11,
-          "name": "Cole Moules",
-          "team": "Aptos",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "10-12",
-          "rating": 1506,
-          "rd": 93
-        },
-        {
-          "rank": 12,
-          "name": "Griffin Gerber",
-          "team": "Oakdale",
-          "section": "SJ",
-          "grade": "So",
-          "record": "15-14",
-          "rating": 1451,
-          "rd": 84
-        },
-        {
-          "rank": 13,
-          "name": "Francois Ngambia",
-          "team": "Clovis North",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "14-16",
-          "rating": 1453,
-          "rd": 85
-        },
-        {
-          "rank": 14,
-          "name": "Noah Soto",
-          "team": "Tulare Union",
-          "section": "CS",
-          "grade": "So",
-          "record": "3-4",
-          "rating": 1422,
-          "rd": 141
-        },
-        {
-          "rank": 15,
-          "name": "Cole Matayoshi",
-          "team": "w",
-          "section": "?",
-          "grade": "Jr",
-          "record": "4-7",
-          "rating": 1349,
-          "rd": 144
-        },
-        {
-          "rank": 16,
-          "name": "Issac Lopez",
-          "team": "North\n\r\n  Bakersfield",
-          "section": "CS",
-          "grade": "So",
-          "record": "3-10",
-          "rating": 1238,
-          "rd": 134
-        },
-        {
-          "rank": 17,
           "name": "Chris Anguiano",
           "team": "Millikan",
           "section": "SS",
@@ -2207,6 +2062,146 @@
           "rd": 99,
           "proj": true,
           "origin_weight": 157
+        },
+        {
+          "rank": 4,
+          "name": "Christian Acosta Stoeber",
+          "team": "Fountain       \r\n    Valley",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "17-4",
+          "rating": 1853,
+          "rd": 106
+        },
+        {
+          "rank": 5,
+          "name": "Luques Sorenson",
+          "team": "Yucaipa",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "13-6",
+          "rating": 1802,
+          "rd": 100
+        },
+        {
+          "rank": 6,
+          "name": "James Emery",
+          "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
+          "section": "NC",
+          "grade": "Jr",
+          "record": "12-5",
+          "rating": 1754,
+          "rd": 111
+        },
+        {
+          "rank": 7,
+          "name": "Leon Murphy",
+          "team": "Santiago      \r\n    Corona",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "17-10",
+          "rating": 1700,
+          "rd": 90
+        },
+        {
+          "rank": 8,
+          "name": "Keanu Garcia",
+          "team": "Garces      \r\n    Memorial",
+          "section": "CS",
+          "grade": "So",
+          "record": "10-10",
+          "rating": 1601,
+          "rd": 96
+        },
+        {
+          "rank": 9,
+          "name": "Adrian Harris",
+          "team": "Highland      \r\n    Palmdale",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "7-4",
+          "rating": 1663,
+          "rd": 121
+        },
+        {
+          "rank": 10,
+          "name": "Ehren Thompson",
+          "team": "Chaparral",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "16-11",
+          "rating": 1563,
+          "rd": 89
+        },
+        {
+          "rank": 11,
+          "name": "Stephen Seymour",
+          "team": "Hollister",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "10-10",
+          "rating": 1558,
+          "rd": 103
+        },
+        {
+          "rank": 12,
+          "name": "Cole Moules",
+          "team": "Aptos",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "10-12",
+          "rating": 1506,
+          "rd": 93
+        },
+        {
+          "rank": 13,
+          "name": "Griffin Gerber",
+          "team": "Oakdale",
+          "section": "SJ",
+          "grade": "So",
+          "record": "15-14",
+          "rating": 1451,
+          "rd": 84
+        },
+        {
+          "rank": 14,
+          "name": "Francois Ngambia",
+          "team": "Clovis North",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "14-16",
+          "rating": 1453,
+          "rd": 85
+        },
+        {
+          "rank": 15,
+          "name": "Noah Soto",
+          "team": "Tulare Union",
+          "section": "CS",
+          "grade": "So",
+          "record": "3-4",
+          "rating": 1422,
+          "rd": 141
+        },
+        {
+          "rank": 16,
+          "name": "Cole Matayoshi",
+          "team": "w",
+          "section": "?",
+          "grade": "Jr",
+          "record": "4-7",
+          "rating": 1349,
+          "rd": 144
+        },
+        {
+          "rank": 17,
+          "name": "Issac Lopez",
+          "team": "North\n\r\n  Bakersfield",
+          "section": "CS",
+          "grade": "So",
+          "record": "3-10",
+          "rating": 1238,
+          "rd": 134
         }
       ]
     },
@@ -2216,166 +2211,6 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Mario Carini",
-          "team": "Poway",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "10-1",
-          "rating": 1954,
-          "rd": 136
-        },
-        {
-          "rank": 2,
-          "name": "Isai Fernandez",
-          "team": "St.\r\n  John Bosco",
-          "section": "SS",
-          "grade": "So",
-          "record": "8-1",
-          "rating": 1908,
-          "rd": 130
-        },
-        {
-          "rank": 3,
-          "name": "Elijah Ornelas",
-          "team": "Clovis\r\n  North",
-          "section": "CS",
-          "grade": "So",
-          "record": "13-7",
-          "rating": 1803,
-          "rd": 96
-        },
-        {
-          "rank": 4,
-          "name": "Brayden Carson",
-          "team": "Fountain Valley",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "18-7",
-          "rating": 1732,
-          "rd": 94
-        },
-        {
-          "rank": 5,
-          "name": "Jude Holiday",
-          "team": "Esperanza",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "12-6",
-          "rating": 1762,
-          "rd": 111
-        },
-        {
-          "rank": 6,
-          "name": "Rex Topete",
-          "team": "South\r\n  Hills",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "14-7",
-          "rating": 1675,
-          "rd": 95
-        },
-        {
-          "rank": 7,
-          "name": "Eliart Manzur",
-          "team": "Palma",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "12-10",
-          "rating": 1674,
-          "rd": 114
-        },
-        {
-          "rank": 8,
-          "name": "Mehtaab Bhanghu",
-          "team": "St.\r\n  Mary�s       \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "15-5",
-          "rating": 1629,
-          "rd": 103
-        },
-        {
-          "rank": 9,
-          "name": "Lucius Hayden",
-          "team": "Los\r\n  Gatos",
-          "section": "CC",
-          "grade": "Fr",
-          "record": "8-3",
-          "rating": 1649,
-          "rd": 134
-        },
-        {
-          "rank": 10,
-          "name": "Christian Tapia",
-          "team": "Porterville",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "14-11",
-          "rating": 1542,
-          "rd": 93
-        },
-        {
-          "rank": 11,
-          "name": "Jayden Gonzalez",
-          "team": "Shafter",
-          "section": "CS",
-          "grade": "So",
-          "record": "9-8",
-          "rating": 1512,
-          "rd": 99
-        },
-        {
-          "rank": 12,
-          "name": "Shane Struthers",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "10-14",
-          "rating": 1451,
-          "rd": 92
-        },
-        {
-          "rank": 13,
-          "name": "Jonathan Muxlow",
-          "team": "Kingsburg",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "5-7",
-          "rating": 1505,
-          "rd": 122
-        },
-        {
-          "rank": 14,
-          "name": "Conception Salas",
-          "team": "Sanger West",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "11-17",
-          "rating": 1348,
-          "rd": 83
-        },
-        {
-          "rank": 15,
-          "name": "Leon Bleess",
-          "team": "Junipero\r\n  Serra",
-          "section": "CC",
-          "grade": "So",
-          "record": "9-15",
-          "rating": 1365,
-          "rd": 97
-        },
-        {
-          "rank": 16,
-          "name": "Liam Gonzalez",
-          "team": "Ramona      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "5-5",
-          "rating": 1409,
-          "rd": 149
-        },
-        {
-          "rank": 17,
           "name": "Mason Carnrite",
           "team": "Poway",
           "section": "SD",
@@ -2385,6 +2220,166 @@
           "rd": 154,
           "proj": true,
           "origin_weight": 165
+        },
+        {
+          "rank": 2,
+          "name": "Mario Carini",
+          "team": "Poway",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "10-1",
+          "rating": 1954,
+          "rd": 136
+        },
+        {
+          "rank": 3,
+          "name": "Isai Fernandez",
+          "team": "St.\r\n  John Bosco",
+          "section": "SS",
+          "grade": "So",
+          "record": "8-1",
+          "rating": 1908,
+          "rd": 130
+        },
+        {
+          "rank": 4,
+          "name": "Elijah Ornelas",
+          "team": "Clovis\r\n  North",
+          "section": "CS",
+          "grade": "So",
+          "record": "13-7",
+          "rating": 1803,
+          "rd": 96
+        },
+        {
+          "rank": 5,
+          "name": "Brayden Carson",
+          "team": "Fountain Valley",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "18-7",
+          "rating": 1732,
+          "rd": 94
+        },
+        {
+          "rank": 6,
+          "name": "Jude Holiday",
+          "team": "Esperanza",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "12-6",
+          "rating": 1762,
+          "rd": 111
+        },
+        {
+          "rank": 7,
+          "name": "Rex Topete",
+          "team": "South\r\n  Hills",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "14-7",
+          "rating": 1675,
+          "rd": 95
+        },
+        {
+          "rank": 8,
+          "name": "Eliart Manzur",
+          "team": "Palma",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "12-10",
+          "rating": 1674,
+          "rd": 114
+        },
+        {
+          "rank": 9,
+          "name": "Mehtaab Bhanghu",
+          "team": "St.\r\n  Mary�s       \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "15-5",
+          "rating": 1629,
+          "rd": 103
+        },
+        {
+          "rank": 10,
+          "name": "Lucius Hayden",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "Fr",
+          "record": "8-3",
+          "rating": 1649,
+          "rd": 134
+        },
+        {
+          "rank": 11,
+          "name": "Christian Tapia",
+          "team": "Porterville",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "14-11",
+          "rating": 1542,
+          "rd": 93
+        },
+        {
+          "rank": 12,
+          "name": "Jayden Gonzalez",
+          "team": "Shafter",
+          "section": "CS",
+          "grade": "So",
+          "record": "9-8",
+          "rating": 1512,
+          "rd": 99
+        },
+        {
+          "rank": 13,
+          "name": "Shane Struthers",
+          "team": "Clovis",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "10-14",
+          "rating": 1451,
+          "rd": 92
+        },
+        {
+          "rank": 14,
+          "name": "Jonathan Muxlow",
+          "team": "Kingsburg",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "5-7",
+          "rating": 1505,
+          "rd": 122
+        },
+        {
+          "rank": 15,
+          "name": "Conception Salas",
+          "team": "Sanger West",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "11-17",
+          "rating": 1348,
+          "rd": 83
+        },
+        {
+          "rank": 16,
+          "name": "Leon Bleess",
+          "team": "Junipero\r\n  Serra",
+          "section": "CC",
+          "grade": "So",
+          "record": "9-15",
+          "rating": 1365,
+          "rd": 97
+        },
+        {
+          "rank": 17,
+          "name": "Liam Gonzalez",
+          "team": "Ramona      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "5-5",
+          "rating": 1409,
+          "rd": 149
         }
       ]
     },
@@ -2404,126 +2399,6 @@
         },
         {
           "rank": 2,
-          "name": "Xander Birakos",
-          "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "17-8",
-          "rating": 1703,
-          "rd": 89
-        },
-        {
-          "rank": 3,
-          "name": "Ari Hasani",
-          "team": "Birmingham      \r\n    LOS\r\n  ANGELES",
-          "section": "LA",
-          "grade": "Jr",
-          "record": "13-6",
-          "rating": 1724,
-          "rd": 100
-        },
-        {
-          "rank": 4,
-          "name": "Raiden Bishop",
-          "team": "Buchanan",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "15-14",
-          "rating": 1631,
-          "rd": 85
-        },
-        {
-          "rank": 5,
-          "name": "William Schindele",
-          "team": "El\r\n  Toro",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "15-9",
-          "rating": 1647,
-          "rd": 94
-        },
-        {
-          "rank": 6,
-          "name": "Ojas Shastri",
-          "team": "Los\r\n  Gatos",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "9-5",
-          "rating": 1629,
-          "rd": 109
-        },
-        {
-          "rank": 7,
-          "name": "Michael Martinez",
-          "team": "Carter",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "11-7",
-          "rating": 1578,
-          "rd": 116
-        },
-        {
-          "rank": 8,
-          "name": "Jovanni Mansour",
-          "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "7-7",
-          "rating": 1518,
-          "rd": 111
-        },
-        {
-          "rank": 9,
-          "name": "Alejandro Rodriquez",
-          "team": "Bakersfield",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "12-13",
-          "rating": 1443,
-          "rd": 88
-        },
-        {
-          "rank": 10,
-          "name": "Daryn Leon",
-          "team": "Brawley\r\n  Union      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "7-9",
-          "rating": 1484,
-          "rd": 107
-        },
-        {
-          "rank": 11,
-          "name": "Jack Latta",
-          "team": "Minaretes",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "4-2",
-          "rating": 1477,
-          "rd": 162
-        },
-        {
-          "rank": 12,
-          "name": "Jacob Martinez",
-          "team": "Palma",
-          "section": "CC",
-          "grade": "So",
-          "record": "8-14",
-          "rating": 1283,
-          "rd": 98
-        },
-        {
-          "rank": 13,
-          "name": "Odell Jones",
-          "team": "Clovis West",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "3-13",
-          "rating": 1160,
-          "rd": 138
-        },
-        {
-          "rank": 14,
           "name": "James Holiday",
           "team": "Esperanza",
           "section": "SS",
@@ -2533,6 +2408,126 @@
           "rd": 98,
           "proj": true,
           "origin_weight": 165
+        },
+        {
+          "rank": 3,
+          "name": "Xander Birakos",
+          "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "17-8",
+          "rating": 1703,
+          "rd": 89
+        },
+        {
+          "rank": 4,
+          "name": "Ari Hasani",
+          "team": "Birmingham      \r\n    LOS\r\n  ANGELES",
+          "section": "LA",
+          "grade": "Jr",
+          "record": "13-6",
+          "rating": 1724,
+          "rd": 100
+        },
+        {
+          "rank": 5,
+          "name": "Raiden Bishop",
+          "team": "Buchanan",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "15-14",
+          "rating": 1631,
+          "rd": 85
+        },
+        {
+          "rank": 6,
+          "name": "William Schindele",
+          "team": "El\r\n  Toro",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "15-9",
+          "rating": 1647,
+          "rd": 94
+        },
+        {
+          "rank": 7,
+          "name": "Ojas Shastri",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "9-5",
+          "rating": 1629,
+          "rd": 109
+        },
+        {
+          "rank": 8,
+          "name": "Michael Martinez",
+          "team": "Carter",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "11-7",
+          "rating": 1578,
+          "rd": 116
+        },
+        {
+          "rank": 9,
+          "name": "Jovanni Mansour",
+          "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "7-7",
+          "rating": 1518,
+          "rd": 111
+        },
+        {
+          "rank": 10,
+          "name": "Alejandro Rodriquez",
+          "team": "Bakersfield",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "12-13",
+          "rating": 1443,
+          "rd": 88
+        },
+        {
+          "rank": 11,
+          "name": "Daryn Leon",
+          "team": "Brawley\r\n  Union      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "7-9",
+          "rating": 1484,
+          "rd": 107
+        },
+        {
+          "rank": 12,
+          "name": "Jack Latta",
+          "team": "Minaretes",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "4-2",
+          "rating": 1477,
+          "rd": 162
+        },
+        {
+          "rank": 13,
+          "name": "Jacob Martinez",
+          "team": "Palma",
+          "section": "CC",
+          "grade": "So",
+          "record": "8-14",
+          "rating": 1283,
+          "rd": 98
+        },
+        {
+          "rank": 14,
+          "name": "Odell Jones",
+          "team": "Clovis West",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "3-13",
+          "rating": 1160,
+          "rd": 138
         }
       ]
     },
