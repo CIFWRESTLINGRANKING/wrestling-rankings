@@ -58,10 +58,10 @@ ORDER
   On any board that gained a result, rows are ordered by rating (ties: lower
   RD), then graded head-to-head from the tournament bouts: a win reorders an
   adjacent pair when the rating gap is within the result's allowance
-  (decision 50, major 100, tech/fall 175). Fargo projection rows ('proj')
-  keep their block positions (seeded on top, appended at bottom) because
-  their ratings come from a different weight pool. Untouched boards keep
-  their existing order. Everything renumbers sequentially.
+  (decision 50, major 100, tech/fall 175). Fargo weight-move rows ('proj')
+  are ordered by rating like everyone else (Jeff, 2026-10-10); a Fargo
+  medal at a new weight no longer seeds anyone to the top. Untouched boards
+  keep their existing order. Everything renumbers sequentially.
 """
 import glob
 import math
@@ -157,6 +157,22 @@ def _team_tokens(t):
     return {x for x in _tokens(t) if x not in stop and len(x) > 2}
 
 
+def _load_aliases(folder):
+    """tournaments/name_aliases.txt: 'Name As Printed = Board Name' per line,
+    for identities Jeff has confirmed. Confirmed aliases match exactly and are
+    no longer logged as fuzzy."""
+    path = os.path.join(folder, "name_aliases.txt")
+    out = {}
+    if os.path.exists(path):
+        for l in open(path, encoding="utf-8"):
+            l = l.split("#")[0]
+            if "=" in l:
+                a, b = (x.strip() for x in l.split("=", 1))
+                if a and b:
+                    out[" ".join(_tokens(a))] = b
+    return out
+
+
 def _norm_team(t):
     return " ".join(_ascii(t or "").lower().split())
 
@@ -223,6 +239,7 @@ class Resolver:
                 if toks:
                     self.by_surname[(g, toks[-1])].append(ent)
         self.cache = {}
+        self.aliases = {}
 
     @staticmethod
     def _uniq(ents):
@@ -243,6 +260,9 @@ class Resolver:
 
     def _resolve(self, gender, first, last, team):
         label = f"{first} {last} ({team})"
+        alias = self.aliases.get(" ".join(_tokens(f"{first} {last}")))
+        if alias:
+            first, last = alias.split(" ", 1)
         for k in name_keys(first, last):
             ents = self._uniq(self.by_key.get((gender, k), []))
             if len(ents) == 1:
@@ -341,6 +361,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
     for meta, rows in events:
         log(f"TOURNAMENT {meta['date']} {meta['event']}: {len(rows)} bouts in file")
         res = Resolver(boards, log)
+        res.aliases = _load_aliases(folder)
         ids, row_of, states = {}, {}, {}
 
         def ident(g, wt, first, last, team):
@@ -475,9 +496,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
 
     for key in touched:
         rows = boards[key]
-        seeded = [r for r in rows if r.get("proj") and r.get("seed_reason")]
-        appended = [r for r in rows if r.get("proj") and not r.get("seed_reason")]
-        mid = [r for r in rows if not r.get("proj")]
+        mid = list(rows)
         mid.sort(key=lambda r: (-r["rating"], r["rd"]))
         for _ in range(8):
             swapped = False
@@ -488,7 +507,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
                     swapped = True
             if not swapped:
                 break
-        rows[:] = seeded + mid + appended
+        rows[:] = mid
         for n, r in enumerate(rows, 1):
             r["rank"] = n
 

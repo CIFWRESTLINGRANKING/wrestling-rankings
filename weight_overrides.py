@@ -51,15 +51,8 @@ def apply_weight_overrides(data, verbose=True):
             row.pop(k, None)
         row["weight_source"] = "manual"
         dest = boards[(gender, target)]
-        # place by rating among natives (Fargo 'proj' blocks keep their spots)
-        pos = len(dest)
-        for i, r in enumerate(dest):
-            if not r.get("proj") and r["rating"] < row["rating"]:
-                pos = i
-                break
-        else:
-            pos = next((i for i, r in enumerate(dest)
-                        if r.get("proj") and not r.get("seed_reason")), len(dest))
+        # place by rating
+        pos = next((i for i, r in enumerate(dest) if r["rating"] < row["rating"]), len(dest))
         dest.insert(pos, row)
         for rows in (boards[(gender, cur)], dest):
             for n, r in enumerate(rows, 1):

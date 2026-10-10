@@ -146,20 +146,28 @@ def apply_fargo_moves(boards, verbose=True):
             print(f"FARGO STEP: {name}: {cur} -> {target} "
                   f"(was #{row['rank']} at {cur})")
 
-    # seeded arrivals above natives; uncredentialed arrivals below, by origin
-    # rank; then renumber every board sequentially
+    # Arrivals are placed BY RATING among the natives (Jeff, 2026-10-10: a
+    # Fargo medal at a new weight does not by itself put a wrestler at the
+    # top of that board). Natives keep their existing relative order; each
+    # arrival goes in front of the first native rated below him. The
+    # credential/H2H seeding in _seed_arrivals is no longer used.
     for wt, rows in boards.items():
         natives = [r for r in rows if not r.get("proj")]
-        arrivals = [r for r in rows if r.get("proj")]
-        seeded, appended = _seed_arrivals(arrivals, wt)
-        appended.sort(key=lambda r: (r["rank"], r["origin_weight"]))
-        boards[wt] = seeded + natives + appended
+        arrivals = sorted((r for r in rows if r.get("proj")),
+                          key=lambda r: (-r["rating"], r["rd"]))
+        out = list(natives)
+        for a in arrivals:
+            a.pop("seed_reason", None)
+            pos = next((i for i, r in enumerate(out)
+                        if not r.get("proj") and r["rating"] < a["rating"]), len(out))
+            out.insert(pos, a)
+        boards[wt] = out
         for i, r in enumerate(boards[wt], 1):
             r["rank"] = i
         if verbose:
-            for r in seeded:
-                print(f"FARGO STEP: seeded #{r['rank']} at {wt}: {r['name']} "
-                      f"[{r['seed_reason']}]")
+            for r in arrivals:
+                print(f"FARGO STEP: placed #{r['rank']} at {wt}: {r['name']} "
+                      f"(from {r['origin_weight']}, R{r['rating']})")
 
     report = {"moved": [(n, c, t) for n, c, t in moves],
               "stayed": stays, "not_on_boards": absent}
