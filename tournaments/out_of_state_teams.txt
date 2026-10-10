@@ -1,0 +1,10 @@
+# Teams/clubs from outside California seen at California tournaments.
+# Their wrestlers are rated as opponents but never placed on a CA board.
+# One name per line, exactly as the tournament site prints it (case-insensitive).
+Pearl City HS          # Hawaii
+Grapplers HI           # Hawaii
+Mountain View (Mesa) HS  # Arizona
+Nevada Elite           # Nevada
+Snoqualmie Valley WC   # Washington
+Ingraham WC            # Washington
+Lincoln Southeast HS   # Nebraska
