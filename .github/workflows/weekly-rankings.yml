@@ -23,6 +23,8 @@ on:
     paths:
       - 'tournaments/**'
       - 'tournament_ingest.py'
+      - 'weight_overrides.py'
+      - 'build_rankings_auto.py'
 
 permissions:
   contents: write              # allow the bot to push rankings.json
