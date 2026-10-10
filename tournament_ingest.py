@@ -43,11 +43,13 @@ RATING (one Glicko-2 rating period per event, two passes)
   Bout weights: decision 1.0, major 1.15, tech fall 1.30, fall 1.30 (tech and
   pin weigh the same), DQ 1.0. Forfeits, medical forfeits and injury defaults
   are not contested bouts and are excluded from ratings AND records.
-  Folkstyle style weight 1.0.
+  Style weight from the file's '# style:' header via Config.style_weights:
+  folkstyle 1.0, freestyle 0.65, greco 0.55 (multiplies the bout weight).
 
 BOARD ENTRY (evidence-based, replaces the RD<150 statistical gate)
   A non-board entrant who wins at least one contested bout over a board
-  wrestler of the same gender at a varsity event is placed on the board at
+  wrestler of the same gender at a varsity FOLKSTYLE event ('# level: varsity',
+  '# style: folkstyle') is placed on the board at
   the weight he/she competed at, flagged provisional with
   weight_source="competed_unconfirmed". Others with RD < 200 go to the watch
   list.
@@ -345,6 +347,13 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
             states.setdefault(i, (entrants[i]["rating"], entrants[i]["rd"]))
             return i
 
+        style = meta.get("style", "folkstyle").lower()
+        style_w = cfg.style_weights.get(style)
+        if style_w is None:
+            raise ValueError(f"{meta['path']}: unknown style '{style}'")
+        # only a varsity folkstyle event can put a new wrestler on a board
+        entry_ok = (meta.get("level", "").lower() == "varsity" and style == "folkstyle")
+
         bouts, skipped = [], Counter()
         for b in rows:
             if b["result"] in NON_CONTESTED:
@@ -354,6 +363,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
             if wt is None:
                 skipped["unknown:" + b["result"]] += 1
                 continue
+            wt *= style_w
             g = b["gender"]
             wi = ident(g, b["weight"], b["w_first"], b["w_last"], b["w_team"])
             li = ident(g, b["weight"], b["l_first"], b["l_last"], b["l_team"])
@@ -385,7 +395,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
             rec[li][1] += 1
             if wi[0] == "B" and li[0] == "B":
                 h2h[(wi[1], li[1])] = (meta["date"], b["result"])
-            if wi[0] == "E" and li[0] == "B":
+            if entry_ok and wi[0] == "E" and li[0] == "B":
                 entrants[wi]["board_wins"].append(
                     (row_of[li][2]["name"], b["result"], b["score"], meta["event"]))
         for i, (w, l) in rec.items():
@@ -397,6 +407,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
                 entrants[i]["l"] += l
 
         report["events"].append({"event": meta["event"], "date": meta["date"],
+                                 "style": style,
                                  "bouts_rated": len(bouts),
                                  "board_wrestlers_updated": n_board,
                                  "excluded": dict(skipped)})
