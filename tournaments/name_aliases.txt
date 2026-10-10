@@ -1,0 +1,3 @@
+# Identities Jeff has confirmed: name as a tournament printed it = name on the board.
+# Confirmed aliases match exactly instead of being flagged as fuzzy.
+Francois Landry Ngambia = Francois Ngambia   # confirmed 2026-10-10 (CAUSAW / Clovis North)
