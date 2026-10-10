@@ -23,6 +23,7 @@ import carank_auto as A
 from fargo_step import apply_fargo_moves  # preseason Fargo projection
 from grad_overrides import is_graduated  # manual Class-of-2026 drops
 from tournament_ingest import apply_tournaments, strip_prefix  # in-season events
+from weight_overrides import apply_weight_overrides  # manual 2026-27 weights
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
@@ -87,6 +88,9 @@ def main():
     
     # In-season tournaments (tournaments/*.tsv) are re-applied on EVERY build,
     # on top of the carank base, so a weekly rebuild can no longer erase them.
+    # Manual weight placements (weight_overrides.py) win over carank + Fargo.
+    apply_weight_overrides(data)
+
     base = copy.deepcopy(data)
     base.pop("watch", None); base.pop("watch_notes", None); base.pop("tournaments", None)
     apply_tournaments(data, folder=os.path.join(os.path.dirname(os.path.abspath(OUT)),
