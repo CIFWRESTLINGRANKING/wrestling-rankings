@@ -1,0 +1,93 @@
+# event: CAUSAW 2026 State Freestyle (Cadet + Junior boys) - both-on-board bouts only
+# date: 2026-06-01
+# source: usabracketing.com /results, scraped 2026-07-01 (originally hand-applied in July); 2,105 HS-age boys FS bouts filtered to the 85 where both wrestlers were on a board
+# style: freestyle
+# level: state
+# note: date approximate (event preceded Fargo); weight = wrestler's board weight at the time, not competed weight.
+# note: 5 medical forfeits (MF) and 1 injury default (INJ) are kept for the record but not rated.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+boys	144	1	CAUSAW FS	0	D	13-4	Xander	Fronhofer	CA	Gabriel	Champagne	CA
+boys	157	2	CAUSAW FS	0	D	2-0	Mason	McDonnell	CA	Leon	Bleess	CA
+boys	157	3	CAUSAW FS	0	F		Mason	McDonnell	CA	Keanu	Garcia	CA
+boys	157	4	CAUSAW FS	0	T	14-3 1:43	Peter	Brown	CA	Jayden	Gonzalez	CA
+boys	126	5	CAUSAW FS	0	T	12-2 2:37	Massimo	Ortiz	CA	Knox	Espinoza	CA
+boys	120	6	CAUSAW FS	0	T	16-4 5:03	Maddox	Hazard	CA	Gavin	Pongsai	CA
+boys	126	7	CAUSAW FS	0	T	13-2 5:16	Massimo	Ortiz	CA	Anthony	Garza	CA
+boys	126	8	CAUSAW FS	0	D	5-3	Luke	Schoch	CA	Massimo	Ortiz	CA
+boys	120	9	CAUSAW FS	0	F	5:55	Carlos	Melgoza III	CA	Jason	Lin	CA
+boys	132	10	CAUSAW FS	0	T	10-0 1:49	Cole	Cronan	CA	Maddox	Hazard	CA
+boys	126	11	CAUSAW FS	0	D	11-8	Luke	Schoch	CA	Joseph	Guardado	CA
+boys	113	12	CAUSAW FS	0	T	10-0 2:28	Anthony	Garza	CA	Maddox	Hazard	CA
+boys	132	13	CAUSAW FS	0	MF		Cole	Cronan	CA	Carlos	Melgoza III	CA
+boys	113	14	CAUSAW FS	0	T	10-0 2:04	Anthony	Garza	CA	Jason	Lin	CA
+boys	113	15	CAUSAW FS	0	D	10-9	Anthony	Garza	CA	Joseph	Guardado	CA
+boys	120	16	CAUSAW FS	0	MF		Jason	Lin	CA	Massimo	Ortiz	CA
+boys	132	17	CAUSAW FS	0	MF		Joseph	Guardado	CA	Carlos	Melgoza III	CA
+boys	132	18	CAUSAW FS	0	T	14-3 3:38	Cole	Cronan	CA	Luke	Schoch	CA
+boys	215	19	CAUSAW FS	0	F	3:48	Brian	Haran	CA	Stryker	Conley	CA
+boys	215	20	CAUSAW FS	0	T	12-0 1:25	Brian	Haran	CA	Andre	Sandoval Espana	CA
+boys	215	21	CAUSAW FS	0	T	11-0 2:00	Stryker	Conley	CA	Luke	Borelli	CA
+boys	215	22	CAUSAW FS	0	T	11-0 2:11	Adan	Castillo	CA	Caleb	Ocampo	CA
+boys	215	23	CAUSAW FS	0	D	14-11	Andre	Sandoval Espana	CA	Caleb	Ocampo	CA
+boys	215	24	CAUSAW FS	0	F	3:32	Adan	Castillo	CA	Brian	Haran	CA
+boys	144	25	CAUSAW FS	0	T	12-2 2:21	Uriel	Hernandez	CA	Sean	Griffin	CA
+boys	138	26	CAUSAW FS	0	T	17-5 4:07	Cameron	James	CA	Connor	Miller	CA
+boys	144	27	CAUSAW FS	0	T	12-2 2:46	Zander	Schaefer	CA	Juan	Gallardo	CA
+boys	144	28	CAUSAW FS	0	T	10-0 2:08	Kavi	Garvey	CA	Uriel	Hernandez	CA
+boys	150	29	CAUSAW FS	0	F	1:10	Gage	Clark	CA	Connor	Miller	CA
+boys	138	30	CAUSAW FS	0	D	19-10	Gabriel	Estrada	CA	Cameron	James	CA
+boys	144	31	CAUSAW FS	0	F	0:39	Zander	Schaefer	CA	Gage	Clark	CA
+boys	144	32	CAUSAW FS	0	D	3-1	Kavi	Garvey	CA	Damen	Vollmer	CA
+boys	144	33	CAUSAW FS	0	F	2:11	Zander	Schaefer	CA	Gabriel	Estrada	CA
+boys	144	34	CAUSAW FS	0	T	10-0 3:00	Zander	Schaefer	CA	Damen	Vollmer	CA
+boys	144	35	CAUSAW FS	0	MF		Greg	Ruiz	CA	Gabriel	Champagne	CA
+boys	144	36	CAUSAW FS	0	T	10-0 2:10	James	Ruiz	CA	Greg	Ruiz	CA
+boys	132	37	CAUSAW FS	0	D	12-5	Roman	Zelenka	CA	Jacob	Fernandez	CA
+boys	144	38	CAUSAW FS	0	F	1:47	James	Ruiz	CA	Roman	Zelenka	CA
+boys	138	39	CAUSAW FS	0	D	7-0	Jack	Bronte	CA	Wesley	Hayden	CA
+boys	144	40	CAUSAW FS	0	T	11-0 1:02	Jacob	Fernandez	CA	Greg	Ruiz	CA
+boys	144	41	CAUSAW FS	0	T	12-2 5:24	James	Ruiz	CA	Jack	Bronte	CA
+boys	150	42	CAUSAW FS	0	F	3:28	Wesley	Hayden	CA	Roman	Zelenka	CA
+boys	144	43	CAUSAW FS	0	T	13-2 4:15	Jacob	Fernandez	CA	Roman	Zelenka	CA
+boys	138	44	CAUSAW FS	0	D	13-4	Jack	Bronte	CA	Wesley	Hayden	CA
+boys	144	45	CAUSAW FS	0	D	13-8	James	Ruiz	CA	Jack	Malinconico	CA
+boys	157	46	CAUSAW FS	0	D	11-10	Dimetry	Molina	CA	Christian	Stoeber	CA
+boys	150	47	CAUSAW FS	0	INJ	1:19	Charlie	Herrington	CA	Jisias	Rodriguez	CA
+boys	165	48	CAUSAW FS	0	MF		Stephen	Seymour	CA	Jisias	Rodriguez	CA
+boys	157	49	CAUSAW FS	0	F	0:59	Adam	Salas	CA	Stephen	Seymour	CA
+boys	165	50	CAUSAW FS	0	D	12-5	Christian	Stoeber	CA	Charlie	Herrington	CA
+boys	157	51	CAUSAW FS	0	F	0:31	Adam	Salas	CA	Christian	Stoeber	CA
+boys	113	52	CAUSAW FS	0	D	21-12	Declan	Leonard	CA	Luke	Tran	CA
+boys	120	53	CAUSAW FS	0	T	11-1 5:14	Aiden	Garcia	CA	Nathiel	Nava	CA
+boys	106	54	CAUSAW FS	0	T	10-0 0:33	Frank	Fuentes	CA	Elham	Hashimi	CA
+boys	106	55	CAUSAW FS	0	F	2:37	Elham	Hashimi	CA	Nathiel	Nava	CA
+boys	106	56	CAUSAW FS	0	T	10-0 1:52	Michael	Bernabe	CA	Frank	Fuentes	CA
+boys	175	57	CAUSAW FS	0	F	4:54	Jude	Holiday	CA	Francois	Landry Ngambia	CA
+boys	175	58	CAUSAW FS	0	T	13-3 5:28	Lucius	Hayden	CA	Brayden	Carson	CA
+boys	165	59	CAUSAW FS	0	D	4-3	Jesus	Guzman	CA	Jude	Holiday	CA
+boys	175	60	CAUSAW FS	0	F	3:13	Brayden	Carson	CA	Jude	Holiday	CA
+boys	165	61	CAUSAW FS	0	D	13-7	Francois	Landry Ngambia	CA	Lucius	Hayden	CA
+boys	175	62	CAUSAW FS	0	T	14-1 4:24	Lucius	Hayden	CA	Jude	Holiday	CA
+boys	175	63	CAUSAW FS	0	T	10-0 1:05	Brayden	Carson	CA	Francois	Landry Ngambia	CA
+boys	190	64	CAUSAW FS	0	T	15-4 5:06	Jovanni	Mansour	CA	Leon	Bleess	CA
+boys	190	65	CAUSAW FS	0	F	5:59	Jovanni	Mansour	CA	Rex	Topete	CA
+boys	285	66	CAUSAW FS	0	D	7-4	Andrew	Arroyo	CA	Matthew	Cooley	CA
+boys	285	67	CAUSAW FS	0	F	1:40	Matthew	Cooley	CA	Matthew	Milner	CA
+boys	285	68	CAUSAW FS	0	D	13-10	Matthew	Cooley	CA	Eli	Swartz	CA
+boys	126	69	CAUSAW FS	0	F	4:19	Jovani	Sandoval	CA	Christian	Ripa	CA
+boys	120	70	CAUSAW FS	0	F	3:54	Josiah	Leyvas	CA	Manuel	Gutierrez	CA
+boys	126	71	CAUSAW FS	0	D	6-0	Jovani	Sandoval	CA	Jonah	Rusca	CA
+boys	126	72	CAUSAW FS	0	T	13-3 3:32	Jovani	Sandoval	CA	Marco	Costa	CA
+boys	132	73	CAUSAW FS	0	D	19-11	Marco	Costa	CA	Daniel	Guerra	CA
+boys	126	74	CAUSAW FS	0	D	3-2	Jackson	Humphrey	CA	Jovani	Sandoval	CA
+boys	132	75	CAUSAW FS	0	D	7-6	Brian	Miller	CA	Jackson	Humphrey	CA
+boys	106	76	CAUSAW FS	0	T	19-8 5:42	Cody	Holtberg	CA	Julian	Bigueur	CA
+boys	120	77	CAUSAW FS	0	T	10-0 2:47	Aiden	Garcia	CA	Eli	Mayer	CA
+boys	120	78	CAUSAW FS	0	T	13-3 4:47	Aiden	Garcia	CA	Caden	Herrera	CA
+boys	120	79	CAUSAW FS	0	T	19-9 5:35	Aiden	Garcia	CA	Santos	Tizoc	CA
+boys	120	80	CAUSAW FS	0	T	11-0 2:40	Aiden	Garcia	CA	Giovani	Suarez	CA
+boys	106	81	CAUSAW FS	0	T	14-4 2:42	Daniel	Serrano	CA	Nathiel	Nava	CA
+boys	106	82	CAUSAW FS	0	T	13-0 1:42	Rama	Valencerina	CA	Aiden	Garcia	CA
+boys	106	83	CAUSAW FS	0	T	12-2 2:23	Nathiel	Nava	CA	Trevor	Lambert	CA
+boys	106	84	CAUSAW FS	0	F	1:02	Elham	Hashimi	CA	Michael	Bernabe	CA
+boys	126	85	CAUSAW FS	0	F	4:00	Jackson	Humphrey	CA	Marco	Costa	CA
