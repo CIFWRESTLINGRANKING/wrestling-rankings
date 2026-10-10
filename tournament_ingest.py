@@ -157,6 +157,21 @@ def _team_tokens(t):
     return {x for x in _tokens(t) if x not in stop and len(x) > 2}
 
 
+def _norm_team(t):
+    return " ".join(_ascii(t or "").lower().split())
+
+
+def _load_out_of_state(folder):
+    """tournaments/out_of_state_teams.txt: one team/club name per line ('#'
+    comments allowed). Their wrestlers are still rated (they are real
+    opponents) but never enter a California board or the watch list."""
+    path = os.path.join(folder, "out_of_state_teams.txt")
+    if not os.path.exists(path):
+        return set()
+    return {_norm_team(l.split("#")[0]) for l in open(path, encoding="utf-8")
+            if l.split("#")[0].strip()}
+
+
 # --------------------------------------------------------------------------- #
 # data files
 # --------------------------------------------------------------------------- #
@@ -344,6 +359,8 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
                                "w": 0, "l": 0, "board_wins": [],
                                "weights": Counter()}
             entrants[i]["weights"][wt] += 1
+            if team and team.strip().upper() not in ("CA", "NONE", "UNATTACHED", ""):
+                entrants[i]["team"] = team          # latest real club/school wins
             states.setdefault(i, (entrants[i]["rating"], entrants[i]["rd"]))
             return i
 
@@ -415,9 +432,14 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
             f"excluded {dict(skipped)}")
 
     # ---- board entry for entrants with a win over a board wrestler ----------
+    oos = _load_out_of_state(folder)
     promoted, watch = [], []
     for i, e in entrants.items():
         name = f"{e['first']} {e['last']}".strip()
+        if _norm_team(e["team"]) in oos:
+            if e["board_wins"]:
+                log(f"  ENTRY skipped {name} ({e['team']}): out-of-state team")
+            continue
         cw = e["weights"].most_common(1)[0][0]
         if e["board_wins"]:
             key = (e["gender"], cw)
@@ -425,7 +447,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
                 log(f"  ENTRY skipped {name}: no {e['gender']} {cw} board")
                 continue
             boards[key].append({
-                "rank": None, "name": name, "team": e["team"], "section": "?",
+                "rank": None, "name": name, "team": e["team"], "section": "",
                 "grade": "", "record": f"{e['w']}-{e['l']}",
                 "rating": round(e["rating"]), "rd": round(e["rd"]),
                 "provisional": True, "weight_source": "competed_unconfirmed",
