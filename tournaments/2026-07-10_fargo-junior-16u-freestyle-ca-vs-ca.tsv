@@ -1,0 +1,16 @@
+# event: Fargo 2026 (USMC Junior & 16U Nationals), Boys Freestyle - CA-vs-CA bouts only
+# date: 2026-07-10
+# source: usabracketing.com results, scraped 2026-08-04 (originally applied as commit 196a60f)
+# style: freestyle
+# level: national
+# note: CA-vs-out-of-state bouts (691) excluded: no validated rating for out-of-state opponents.
+# note: Gabriel Champagne vs Jack Torosian excluded pending identity confirmation; Gutierrez/Bartlow bout not retained (neither on a board).
+# note: weight 0 = Fargo weight not recorded for that bout.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+boys	106	1	Junior FS	0	T	10-0	Luke	Loren	CA	Frank	Fuentes	CA
+boys	120	2	Junior FS	0	T	10-0	Thiago	Silva	CA	Aiden	Garcia	CA
+boys	215	3	Junior FS	0	D	14-8	Adan	Castillo	CA	Rocco	Biasotti	CA
+boys	0	4	FS	0	T	10-0	Raymond	Castillo	CA	Marco	Costa	CA
+boys	0	5	FS	0	D	6-1	Raymond	Castillo	CA	Marco	Costa	CA
+boys	165	6	16U FS	0	D	6-5	Adrian	Barbosa	CA	Chase	Young	CA
+boys	190	6966	16U FS Cons. Quarters	1	T	10-0	Mason	McDonnell	CA	Keanu	Garcia	CA
