@@ -3,3 +3,4 @@
 Francois Landry Ngambia = Francois Ngambia   # confirmed 2026-10-10 (CAUSAW / Clovis North)
 Nathaniel Solorio = Nathan Solorio           # confirmed 2026-10-10 (Gilroy, Total Kaos / Damien)
 Charles Herrington = Charlie Herrington      # confirmed 2026-10-10 (Gilroy, Livermore Elite / Granada)
+Rylan Lancin = Ryan Lancin                   # confirmed 2026-10-10 (Gilroy, SSF Gators / George Washington)
