@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T20:09:41.316479+00:00",
+  "generated": "2026-10-10T20:10:42.402084+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -12,9 +12,9 @@
           "team": "St. John Bosco",
           "section": "SS",
           "grade": "Fr",
-          "record": "19-3",
-          "rating": 1994,
-          "rd": 99
+          "record": "20-3",
+          "rating": 2002,
+          "rd": 98
         },
         {
           "rank": 2,
@@ -88,16 +88,6 @@
         },
         {
           "rank": 9,
-          "name": "Frank Fuentes",
-          "team": "Chavez         \r\n     Stockton",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "10-5",
-          "rating": 1711,
-          "rd": 103
-        },
-        {
-          "rank": 10,
           "name": "Aiden Talavera",
           "team": "Reedley",
           "section": "CS",
@@ -107,7 +97,7 @@
           "rd": 89
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Arto Khachatryan",
           "team": "SBTC",
           "section": "?",
@@ -120,7 +110,7 @@
           "entry_reason": "beat Daniel Serrano (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Roman Fonseca",
           "team": "Gilroy",
           "section": "CC",
@@ -128,6 +118,16 @@
           "record": "15-9",
           "rating": 1705,
           "rd": 96
+        },
+        {
+          "rank": 12,
+          "name": "Frank Fuentes",
+          "team": "Chavez         \r\n     Stockton",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "10-6",
+          "rating": 1703,
+          "rd": 102
         },
         {
           "rank": 13,
@@ -702,9 +702,9 @@
           "team": "Buchanan",
           "section": "CS",
           "grade": "Fr",
-          "record": "16-6",
-          "rating": 1878,
-          "rd": 100,
+          "record": "17-6",
+          "rating": 1888,
+          "rd": 98,
           "proj": true,
           "origin_weight": 113,
           "seed_reason": "Fargo Junior AA (120)"
@@ -813,16 +813,6 @@
         },
         {
           "rank": 12,
-          "name": "Aiden Garcia",
-          "team": "Palma",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "15-6",
-          "rating": 1648,
-          "rd": 97
-        },
-        {
-          "rank": 13,
           "name": "Kayleb Chao",
           "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -830,6 +820,16 @@
           "record": "19-12",
           "rating": 1643,
           "rd": 78
+        },
+        {
+          "rank": 13,
+          "name": "Aiden Garcia",
+          "team": "Palma",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "15-7",
+          "rating": 1639,
+          "rd": 96
         },
         {
           "rank": 14,
@@ -1056,8 +1056,8 @@
           "section": "CS",
           "grade": "So",
           "record": "19-3",
-          "rating": 2060,
-          "rd": 100
+          "rating": 2067,
+          "rd": 99
         },
         {
           "rank": 3,
@@ -1368,12 +1368,22 @@
           "team": "Redlands      \r\n    East Valley",
           "section": "SS",
           "grade": "Fr",
-          "record": "14-6",
-          "rating": 1760,
-          "rd": 100
+          "record": "14-8",
+          "rating": 1740,
+          "rd": 97
         },
         {
           "rank": 5,
+          "name": "Roman Zelenka",
+          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "18-7",
+          "rating": 1722,
+          "rd": 92
+        },
+        {
+          "rank": 6,
           "name": "Robert Estrada",
           "team": "The Empire",
           "section": "?",
@@ -1386,7 +1396,7 @@
           "entry_reason": "beat Cole Cronan (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Joseph Jojo Guardado",
           "team": "Esperanza",
           "section": "SS",
@@ -1394,16 +1404,6 @@
           "record": "12-5",
           "rating": 1717,
           "rd": 104
-        },
-        {
-          "rank": 7,
-          "name": "Roman Zelenka",
-          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "18-7",
-          "rating": 1716,
-          "rd": 91
         },
         {
           "rank": 8,
@@ -1855,6 +1855,19 @@
         },
         {
           "rank": 2,
+          "name": "Raymond Castillo",
+          "team": "CA",
+          "section": "?",
+          "grade": "",
+          "record": "6-1",
+          "rating": 1955,
+          "rd": 168,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Roman Zelenka (T 20-4, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 3,
           "name": "James Ruiz",
           "team": "Esperanza",
           "section": "SS",
@@ -1864,7 +1877,7 @@
           "rd": 94
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Kavi Garvey",
           "team": "Fountain\r\n  Valley",
           "section": "SS",
@@ -1872,19 +1885,6 @@
           "record": "14-3",
           "rating": 1868,
           "rd": 108
-        },
-        {
-          "rank": 4,
-          "name": "Raymond Castillo",
-          "team": "Bay Area Dragons WC",
-          "section": "?",
-          "grade": "",
-          "record": "4-1",
-          "rating": 1847,
-          "rd": 176,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Roman Zelenka (T 20-4, CA Super 32 Early Entry (Gilroy))"
         },
         {
           "rank": 5,
@@ -2341,6 +2341,16 @@
         },
         {
           "rank": 8,
+          "name": "Mason McDonnell",
+          "team": "Fountain Valley",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "18-11",
+          "rating": 1687,
+          "rd": 87
+        },
+        {
+          "rank": 9,
           "name": "Dylan Tirapelle",
           "team": "Clovis",
           "section": "CS",
@@ -2348,16 +2358,6 @@
           "record": "13-9",
           "rating": 1685,
           "rd": 94
-        },
-        {
-          "rank": 9,
-          "name": "Mason McDonnell",
-          "team": "Fountain Valley",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "17-11",
-          "rating": 1673,
-          "rd": 88
         },
         {
           "rank": 10,
@@ -2385,8 +2385,8 @@
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
           "grade": "So",
-          "record": "14-12",
-          "rating": 1580,
+          "record": "14-13",
+          "rating": 1571,
           "rd": 87
         },
         {
@@ -2566,9 +2566,9 @@
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
           "grade": "So",
-          "record": "14-11",
-          "rating": 1654,
-          "rd": 83
+          "record": "14-12",
+          "rating": 1639,
+          "rd": 82
         },
         {
           "rank": 9,
@@ -2705,7 +2705,7 @@
           "section": "CC",
           "grade": "Fr",
           "record": "13-3",
-          "rating": 1766,
+          "rating": 1764,
           "rd": 106
         },
         {
@@ -3072,8 +3072,8 @@
           "team": "Clovis",
           "section": "CS",
           "grade": "Jr",
-          "record": "20-5",
-          "rating": 1917,
+          "record": "21-5",
+          "rating": 1920,
           "rd": 88
         },
         {
@@ -4239,6 +4239,18 @@
       "status": "provisional"
     },
     {
+      "name": "Zane Dean-verdadero",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Pearl City HS",
+      "rank": null,
+      "rating": 1667,
+      "rd": 185,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jameson Williams",
       "gender": "boys",
       "competed_weight": 144,
@@ -4623,18 +4635,6 @@
       "status": "provisional"
     },
     {
-      "name": "Zane Dean-verdadero",
-      "gender": "boys",
-      "competed_weight": 144,
-      "team": "Pearl City HS",
-      "rank": null,
-      "rating": 1599,
-      "rd": 179,
-      "record": "3-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Mila Otero",
       "gender": "girls",
       "competed_weight": 115,
@@ -4767,18 +4767,6 @@
       "status": "provisional"
     },
     {
-      "name": "Chris Villegas",
-      "gender": "boys",
-      "competed_weight": 190,
-      "team": "Rancho Bernardo WC",
-      "rank": null,
-      "rating": 1574,
-      "rd": 171,
-      "record": "3-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Ayden Yip",
       "gender": "boys",
       "competed_weight": 144,
@@ -4798,6 +4786,18 @@
       "rank": null,
       "rating": 1572,
       "rd": 181,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Chris Villegas",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Rancho Bernardo WC",
+      "rank": null,
+      "rating": 1570,
+      "rd": 171,
       "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -4887,18 +4887,6 @@
       "status": "provisional"
     },
     {
-      "name": "Brody Macdonald",
-      "gender": "boys",
-      "competed_weight": 190,
-      "team": "Elk Grove",
-      "rank": null,
-      "rating": 1551,
-      "rd": 168,
-      "record": "3-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Brady Mccarthy",
       "gender": "boys",
       "competed_weight": 157,
@@ -4955,6 +4943,18 @@
       "rating": 1546,
       "rd": 162,
       "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Brody Macdonald",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Elk Grove",
+      "rank": null,
+      "rating": 1546,
+      "rd": 167,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5559,18 +5559,6 @@
       "status": "provisional"
     },
     {
-      "name": "Easton Glanville",
-      "gender": "boys",
-      "competed_weight": 190,
-      "team": "Oakdale",
-      "rank": null,
-      "rating": 1497,
-      "rd": 177,
-      "record": "2-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Niko Dockery",
       "gender": "boys",
       "competed_weight": 165,
@@ -5579,6 +5567,18 @@
       "rating": 1493,
       "rd": 156,
       "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Easton Glanville",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Oakdale",
+      "rank": null,
+      "rating": 1492,
+      "rd": 177,
+      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5619,18 +5619,6 @@
       "status": "provisional"
     },
     {
-      "name": "Wyatt Walbeck",
-      "gender": "boys",
-      "competed_weight": 190,
-      "team": "Clovis High",
-      "rank": null,
-      "rating": 1486,
-      "rd": 186,
-      "record": "2-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Christian Banuelos rubio",
       "gender": "boys",
       "competed_weight": 150,
@@ -5639,6 +5627,18 @@
       "rating": 1484,
       "rd": 153,
       "record": "3-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Wyatt Walbeck",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Clovis High",
+      "rank": null,
+      "rating": 1481,
+      "rd": 185,
+      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6101,6 +6101,14 @@
   ],
   "watch_notes": "Tournament entrants not on any board, with RD below 200. Rated from a 1500/350 prior over the tournament data in tournaments/; not comparable to board ratings. competed_weight is the weight wrestled, not a board placement. An entrant joins the board (provisional) the first time he or she beats a board wrestler in a contested bout at a varsity event.",
   "tournaments": [
+    {
+      "event": "Fargo 2026 (USMC Junior & 16U Nationals), Boys Freestyle - CA-vs-CA bouts only",
+      "date": "2026-07-10",
+      "style": "freestyle",
+      "bouts_rated": 7,
+      "board_wrestlers_updated": 9,
+      "excluded": {}
+    },
     {
       "event": "CA Super 32 Early Entry (Gilroy)",
       "date": "2026-09-05",
