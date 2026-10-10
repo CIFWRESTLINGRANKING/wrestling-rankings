@@ -869,16 +869,6 @@
         },
         {
           "rank": 2,
-          "name": "Paul Ruiz",
-          "team": "Buchanan",
-          "section": "CS",
-          "grade": "So",
-          "record": "14-3",
-          "rating": 2003,
-          "rd": 113
-        },
-        {
-          "rank": 3,
           "name": "Aaron Meza",
           "team": "Esperanza",
           "section": "SS",
@@ -888,7 +878,7 @@
           "rd": 117
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Massimo Ortiz",
           "team": "Servite",
           "section": "SS",
@@ -898,7 +888,7 @@
           "rd": 90
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Julian Holguin",
           "team": "Bellarmine\r\n  Prep",
           "section": "CC",
@@ -908,7 +898,7 @@
           "rd": 120
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Elias Castaneda",
           "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -918,7 +908,7 @@
           "rd": 104
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Caden Garriott",
           "team": "South      \r\n    Torrance",
           "section": "SS",
@@ -928,7 +918,7 @@
           "rd": 106
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Dylan Matthews",
           "team": "Shasta",
           "section": "NS",
@@ -938,7 +928,7 @@
           "rd": 120
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Jackson Humphrey",
           "team": "Sultana",
           "section": "SS",
@@ -948,7 +938,7 @@
           "rd": 108
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Vincent Peyron",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -958,7 +948,7 @@
           "rd": 112
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Jesse Quiroz",
           "team": "Eleanor\r\n        \r\n    Roosevelt",
           "section": "SS",
@@ -968,7 +958,7 @@
           "rd": 93
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Maximus Torrez",
           "team": "Gilroy",
           "section": "CC",
@@ -978,7 +968,7 @@
           "rd": 98
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Manuel Gutierrez",
           "team": "Selma",
           "section": "CS",
@@ -988,7 +978,7 @@
           "rd": 94
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Elias Flores",
           "team": "Northview",
           "section": "SS",
@@ -998,7 +988,7 @@
           "rd": 94
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Jovani Sandoval",
           "team": "Elk Grove",
           "section": "SJ",
@@ -1008,7 +998,7 @@
           "rd": 103
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Chris Anderson",
           "team": "Liberty      \r\n    Brentwood      \r\n    NORTH\r\n  COAST",
           "section": "NC",
@@ -1018,7 +1008,7 @@
           "rd": 138
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Matthew Ramos",
           "team": "Exeter\r\n  Union",
           "section": "CS",
@@ -1028,7 +1018,7 @@
           "rd": 118
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Brandon Bruns",
           "team": "Christopher",
           "section": "CC",
@@ -1038,7 +1028,7 @@
           "rd": 124
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Ezekiel Bayardo",
           "team": "Immanuel",
           "section": "CS",
@@ -1048,7 +1038,7 @@
           "rd": 112
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Matthew Gonzales",
           "team": "San\r\n  Fernando      \r\n    LOS\r\n  ANGELES",
           "section": "LA",
@@ -1058,7 +1048,7 @@
           "rd": 234
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Isaac Navarro",
           "team": "Vista      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1068,7 +1058,7 @@
           "rd": 164
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Rene Cordero",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1237,6 +1227,17 @@
       "wrestlers": [
         {
           "rank": 1,
+          "name": "Paul Ruiz",
+          "team": "Buchanan",
+          "section": "CS",
+          "grade": "So",
+          "record": "14-3",
+          "rating": 2003,
+          "rd": 113,
+          "weight_source": "manual"
+        },
+        {
+          "rank": 2,
           "name": "Matthew Orbeta",
           "team": "Poway",
           "section": "SD",
@@ -1246,7 +1247,7 @@
           "rd": 122
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Orion Hill",
           "team": "Folsom      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1256,7 +1257,7 @@
           "rd": 123
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Vinnie Gutierrez",
           "team": "Fountain\r\n  Valley",
           "section": "SS",
@@ -1266,7 +1267,7 @@
           "rd": 89
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Gabriel Estrada",
           "team": "Frontier",
           "section": "CS",
@@ -1276,7 +1277,7 @@
           "rd": 98
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Jonah Guerra",
           "team": "Montclair",
           "section": "SS",
@@ -1286,7 +1287,7 @@
           "rd": 119
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Declan Shea",
           "team": "Sutter\r\n  Union",
           "section": "SJ",
@@ -1296,7 +1297,7 @@
           "rd": 98
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Micah Wegman",
           "team": "Calabasas",
           "section": "SS",
@@ -1306,7 +1307,7 @@
           "rd": 117
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Liam Henson",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -1316,7 +1317,7 @@
           "rd": 88
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Anjelo Reyes",
           "team": "Madera",
           "section": "CS",
@@ -1326,7 +1327,7 @@
           "rd": 91
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Joseph Ramirez",
           "team": "El Modena",
           "section": "SS",
@@ -1336,7 +1337,7 @@
           "rd": 90
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Gabriel Champagne",
           "team": "Grace Davis",
           "section": "SJ",
@@ -1346,7 +1347,7 @@
           "rd": 113
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Jack Giangrasso",
           "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1356,7 +1357,7 @@
           "rd": 88
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Aeden Ortega",
           "team": "El Diamante",
           "section": "CS",
@@ -1366,7 +1367,7 @@
           "rd": 96
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Luke Menzimer",
           "team": "La Costa      \r\n    Canyon",
           "section": "SD",
@@ -1376,7 +1377,7 @@
           "rd": 122
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cole Schmidt",
           "team": "Windsor",
           "section": "NC",
@@ -1386,7 +1387,7 @@
           "rd": 113
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Mason Blair",
           "team": "Clovis\r\n  North",
           "section": "CS",
@@ -1396,7 +1397,7 @@
           "rd": 95
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Theodore Young",
           "team": "Whitney",
           "section": "SJ",
@@ -1406,7 +1407,7 @@
           "rd": 126
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cameron James",
           "team": "Centennial      \r\n    Corona",
           "section": "SS",
@@ -1416,7 +1417,7 @@
           "rd": 102
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Christian Ripa",
           "team": "Mission Vista",
           "section": "SD",
@@ -1426,7 +1427,7 @@
           "rd": 136
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Cael Humphrey",
           "team": "Sultana",
           "section": "SS",
@@ -1438,7 +1439,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Landon Salindong",
           "team": "Durham",
           "section": "NS",
@@ -1450,7 +1451,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Brian Miller",
           "team": "Palo\r\n  Alto",
           "section": "CC",
@@ -1462,7 +1463,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Cruz Contreras",
           "team": "Aptos",
           "section": "CC",
