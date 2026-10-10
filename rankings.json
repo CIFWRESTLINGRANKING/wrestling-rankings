@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T20:04:17.041476+00:00",
+  "generated": "2026-10-10T20:09:41.316479+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -6104,6 +6104,7 @@
     {
       "event": "CA Super 32 Early Entry (Gilroy)",
       "date": "2026-09-05",
+      "style": "folkstyle",
       "bouts_rated": 1133,
       "board_wrestlers_updated": 78,
       "excluded": {
