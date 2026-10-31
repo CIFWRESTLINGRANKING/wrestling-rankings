@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T16:57:24.041378+00:00",
+  "generated": "2026-10-31T16:35:20.165600+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -22,9 +22,9 @@
           "team": "Livermore",
           "section": "NC",
           "grade": "So",
-          "record": "21-6",
-          "rating": 1867,
-          "rd": 88
+          "record": "22-7",
+          "rating": 1851,
+          "rd": 85
         },
         {
           "rank": 3,
@@ -58,6 +58,16 @@
         },
         {
           "rank": 6,
+          "name": "Frank Fuentes",
+          "team": "Chavez         \r\n     Stockton",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "13-7",
+          "rating": 1778,
+          "rd": 92
+        },
+        {
+          "rank": 7,
           "name": "Daniel Serrano",
           "team": "Clovis East",
           "section": "CS",
@@ -67,7 +77,17 @@
           "rd": 78
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "name": "David Cash McClurg",
+          "team": "Granite Hills",
+          "section": "SD",
+          "grade": "Fr",
+          "record": "10-4",
+          "rating": 1758,
+          "rd": 106
+        },
+        {
+          "rank": 9,
           "name": "Giovani Suarez",
           "team": "Esperanza",
           "section": "SS",
@@ -77,17 +97,7 @@
           "rd": 124
         },
         {
-          "rank": 8,
-          "name": "Frank Fuentes",
-          "team": "Chavez         \r\n     Stockton",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "11-7",
-          "rating": 1724,
-          "rd": 98
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "name": "Arto Khachatryan",
           "team": "SBTC",
           "section": "",
@@ -100,7 +110,7 @@
           "entry_reason": "beat Daniel Serrano (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aiden Talavera",
           "team": "Reedley",
           "section": "CS",
@@ -110,7 +120,7 @@
           "rd": 89
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Roman Fonseca",
           "team": "Gilroy",
           "section": "CC",
@@ -118,16 +128,6 @@
           "record": "15-9",
           "rating": 1706,
           "rd": 96
-        },
-        {
-          "rank": 12,
-          "name": "David Cash McClurg",
-          "team": "Granite Hills",
-          "section": "SD",
-          "grade": "Fr",
-          "record": "9-4",
-          "rating": 1694,
-          "rd": 110
         },
         {
           "rank": 13,
@@ -307,18 +307,6 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Michael Bernabe",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "17-4",
-          "rating": 1991,
-          "rd": 95,
-          "proj": true,
-          "origin_weight": 106
-        },
-        {
-          "rank": 2,
           "name": "Quentin Walls",
           "team": "Clovis East",
           "section": "",
@@ -331,17 +319,19 @@
           "entry_reason": "beat Elham Hashimi (M 13-4, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 3,
-          "name": "Nathan Solorio",
-          "team": "Damien",
-          "section": "SS",
+          "rank": 2,
+          "name": "Michael Bernabe",
+          "team": "Clovis",
+          "section": "CS",
           "grade": "Fr",
-          "record": "22-3",
-          "rating": 1940,
-          "rd": 108
+          "record": "17-5",
+          "rating": 1971,
+          "rd": 93,
+          "proj": true,
+          "origin_weight": 106
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "Thales Silva",
           "team": "Buchanan",
           "section": "CS",
@@ -351,6 +341,16 @@
           "rd": 99,
           "proj": true,
           "origin_weight": 106
+        },
+        {
+          "rank": 4,
+          "name": "Nathan Solorio",
+          "team": "Damien",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "22-4",
+          "rating": 1879,
+          "rd": 105
         },
         {
           "rank": 5,
@@ -480,16 +480,6 @@
         },
         {
           "rank": 17,
-          "name": "Brodie Henderson",
-          "team": "Orland",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "8-4",
-          "rating": 1660,
-          "rd": 134
-        },
-        {
-          "rank": 18,
           "name": "Leonidas Agtarap",
           "team": "Central Catholic",
           "section": "",
@@ -502,20 +492,17 @@
           "entry_reason": "beat Titus Khamjoi (D 7-6, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 19,
-          "name": "Grant Dixon",
-          "team": "Oakdale",
-          "section": "",
-          "grade": "",
-          "record": "4-2",
-          "rating": 1626,
-          "rd": 160,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Elijah Ramirez (D 4-1, CA Super 32 Early Entry (Gilroy))"
+          "rank": 18,
+          "name": "Brodie Henderson",
+          "team": "Orland",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "9-6",
+          "rating": 1636,
+          "rd": 113
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Eli Mayer",
           "team": "Vacaville",
           "section": "SJ",
@@ -527,7 +514,30 @@
           "origin_weight": 106
         },
         {
+          "rank": 20,
+          "name": "Shane Ito",
+          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "9-6",
+          "rating": 1585,
+          "rd": 115
+        },
+        {
           "rank": 21,
+          "name": "Grant Dixon",
+          "team": "Oakdale WC",
+          "section": "",
+          "grade": "",
+          "record": "4-3",
+          "rating": 1567,
+          "rd": 146,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Elijah Ramirez (D 4-1, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 22,
           "name": "Ryder Doleschal",
           "team": "Junipero\r\n  Serra",
           "section": "CC",
@@ -535,16 +545,6 @@
           "record": "12-9",
           "rating": 1565,
           "rd": 91
-        },
-        {
-          "rank": 22,
-          "name": "Shane Ito",
-          "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "8-6",
-          "rating": 1545,
-          "rd": 121
         },
         {
           "rank": 23,
@@ -648,9 +648,9 @@
           "team": "Clovis",
           "section": "CS",
           "grade": "Jr",
-          "record": "24-2",
-          "rating": 2082,
-          "rd": 107,
+          "record": "25-2",
+          "rating": 2089,
+          "rd": 106,
           "proj": true,
           "origin_weight": 113
         },
@@ -660,9 +660,9 @@
           "team": "SBTC",
           "section": "",
           "grade": "",
-          "record": "7-1",
-          "rating": 1974,
-          "rd": 150,
+          "record": "8-1",
+          "rating": 2030,
+          "rd": 139,
           "provisional": true,
           "weight_source": "competed_unconfirmed",
           "entry_reason": "beat Brodie Henderson (M 14-5, CA Super 32 Early Entry (Gilroy)); Eli Mendoza (D 10-4, CA Super 32 Early Entry (Gilroy)); Isaiah Gonzaga (D 1-0, CA Super 32 Early Entry (Gilroy))"
@@ -718,9 +718,9 @@
           "team": "Windsor      \r\n    NORTH\r\n  COAST",
           "section": "NC",
           "grade": "So",
-          "record": "16-5",
-          "rating": 1805,
-          "rd": 95
+          "record": "16-6",
+          "rating": 1780,
+          "rd": 93
         },
         {
           "rank": 8,
@@ -761,8 +761,8 @@
           "team": "Palma",
           "section": "CC",
           "grade": "Jr",
-          "record": "20-8",
-          "rating": 1705,
+          "record": "20-9",
+          "rating": 1701,
           "rd": 84
         },
         {
@@ -829,9 +829,9 @@
           "team": "Long Beach      \r\n    Poly",
           "section": "SS",
           "grade": "Jr",
-          "record": "17-15",
+          "record": "18-16",
           "rating": 1577,
-          "rd": 84
+          "rd": 80
         },
         {
           "rank": 18,
@@ -849,9 +849,9 @@
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
           "grade": "So",
-          "record": "14-10",
-          "rating": 1548,
-          "rd": 88
+          "record": "14-11",
+          "rating": 1526,
+          "rd": 86
         },
         {
           "rank": 20,
@@ -865,16 +865,6 @@
         },
         {
           "rank": 21,
-          "name": "Colton Meixner",
-          "team": "Clovis North",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "11-13",
-          "rating": 1506,
-          "rd": 96
-        },
-        {
-          "rank": 22,
           "name": "Caleb Cisneros",
           "team": "Selma",
           "section": "CS",
@@ -882,6 +872,16 @@
           "record": "11-10",
           "rating": 1499,
           "rd": 90
+        },
+        {
+          "rank": 22,
+          "name": "Colton Meixner",
+          "team": "Clovis North",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "11-14",
+          "rating": 1494,
+          "rd": 94
         },
         {
           "rank": 23,
@@ -999,9 +999,9 @@
           "team": "Esperanza",
           "section": "SS",
           "grade": "So",
-          "record": "15-3",
-          "rating": 1954,
-          "rd": 117
+          "record": "16-4",
+          "rating": 1965,
+          "rd": 107
         },
         {
           "rank": 2,
@@ -1015,16 +1015,6 @@
         },
         {
           "rank": 3,
-          "name": "Elias Castaneda",
-          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "23-7",
-          "rating": 1806,
-          "rd": 87
-        },
-        {
-          "rank": 4,
           "name": "Julian Holguin",
           "team": "Bellarmine\r\n  Prep",
           "section": "CC",
@@ -1034,7 +1024,7 @@
           "rd": 120
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Samuel Sanchez",
           "team": "Esperanza",
           "section": "NS",
@@ -1044,6 +1034,16 @@
           "rd": 163,
           "proj": true,
           "origin_weight": 120
+        },
+        {
+          "rank": 5,
+          "name": "Elias Castaneda",
+          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "23-8",
+          "rating": 1795,
+          "rd": 86
         },
         {
           "rank": 6,
@@ -1271,9 +1271,9 @@
           "team": "Valencia",
           "section": "SS",
           "grade": "Jr",
-          "record": "19-1",
-          "rating": 2016,
-          "rd": 109
+          "record": "20-2",
+          "rating": 1999,
+          "rd": 102
         },
         {
           "rank": 2,
@@ -1309,6 +1309,19 @@
         },
         {
           "rank": 5,
+          "name": "Jj Greene",
+          "team": "The Empire",
+          "section": "",
+          "grade": "",
+          "record": "5-2",
+          "rating": 1755,
+          "rd": 151,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Jonah Rusca (M 12-1, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 6,
           "name": "Robert Estrada",
           "team": "The Empire",
           "section": "",
@@ -1321,20 +1334,20 @@
           "entry_reason": "beat Cole Cronan (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 6,
-          "name": "Abraham Coronado",
-          "team": "Gold Rush WA",
+          "rank": 7,
+          "name": "Jacob Rodriguez",
+          "team": "Dark Horse",
           "section": "",
           "grade": "",
-          "record": "3-1",
-          "rating": 1715,
-          "rd": 184,
+          "record": "5-2",
+          "rating": 1703,
+          "rd": 154,
           "provisional": true,
           "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Matthew Ramos (T 19-1, CA Super 32 Early Entry (Gilroy))"
+          "entry_reason": "beat Luke Tran (D 5-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Joseph Jojo Guardado",
           "team": "Esperanza",
           "section": "SS",
@@ -1344,7 +1357,7 @@
           "rd": 101
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Marco Costa",
           "team": "Redlands      \r\n    East Valley",
           "section": "SS",
@@ -1354,7 +1367,7 @@
           "rd": 93
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Nate Mitchell",
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1366,7 +1379,7 @@
           "origin_weight": 126
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Roman Zelenka",
           "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1376,33 +1389,7 @@
           "rd": 85
         },
         {
-          "rank": 11,
-          "name": "Jj Greene",
-          "team": "The Empire",
-          "section": "",
-          "grade": "",
-          "record": "4-2",
-          "rating": 1671,
-          "rd": 163,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Jonah Rusca (M 12-1, CA Super 32 Early Entry (Gilroy))"
-        },
-        {
           "rank": 12,
-          "name": "Jacob Rodriguez",
-          "team": "Dark Horse",
-          "section": "",
-          "grade": "",
-          "record": "4-2",
-          "rating": 1664,
-          "rd": 167,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Luke Tran (D 5-1, CA Super 32 Early Entry (Gilroy))"
-        },
-        {
-          "rank": 13,
           "name": "John Benitez",
           "team": "Redwood      \r\n    Visalia",
           "section": "CS",
@@ -1412,7 +1399,7 @@
           "rd": 83
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Anthony Martinez",
           "team": "Mantanona TC",
           "section": "",
@@ -1425,17 +1412,7 @@
           "entry_reason": "beat Jonah Rusca (D 4-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 15,
-          "name": "Cole Cronan",
-          "team": "Turlock      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "17-13",
-          "rating": 1594,
-          "rd": 78
-        },
-        {
-          "rank": 16,
+          "rank": 14,
           "name": "Brandon Garcia",
           "team": "Hesperia",
           "section": "",
@@ -1448,7 +1425,7 @@
           "entry_reason": "beat Matthew Ramos (F 10-9, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Joseph Moreno",
           "team": "Poway",
           "section": "",
@@ -1461,7 +1438,17 @@
           "entry_reason": "beat Gabryel Juarez (M 9-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 18,
+          "rank": 16,
+          "name": "Cole Cronan",
+          "team": "Turlock      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "17-14",
+          "rating": 1575,
+          "rd": 77
+        },
+        {
+          "rank": 17,
           "name": "Tommy Magallanes",
           "team": "Justin\r\n  Garza",
           "section": "CS",
@@ -1471,17 +1458,17 @@
           "rd": 139
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Jonah Rusca",
           "team": "Reedley",
           "section": "CS",
           "grade": "Jr",
-          "record": "14-12",
-          "rating": 1542,
-          "rd": 85
+          "record": "15-12",
+          "rating": 1564,
+          "rd": 83
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Daniel Guerra",
           "team": "Southwest      \r\n    El\r\n  Cajon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1491,7 +1478,7 @@
           "rd": 115
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Jaden Garcia",
           "team": "Clovis",
           "section": "CS",
@@ -1512,9 +1499,9 @@
           "team": "Buchanan",
           "section": "CS",
           "grade": "So",
-          "record": "19-3",
-          "rating": 2065,
-          "rd": 99,
+          "record": "20-3",
+          "rating": 2085,
+          "rd": 96,
           "weight_source": "manual"
         },
         {
@@ -1552,18 +1539,6 @@
         },
         {
           "rank": 5,
-          "name": "Cael Humphrey",
-          "team": "Sultana",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "11-4",
-          "rating": 1778,
-          "rd": 112,
-          "proj": true,
-          "origin_weight": 132
-        },
-        {
-          "rank": 6,
           "name": "Landon Salindong",
           "team": "Durham",
           "section": "NS",
@@ -1573,6 +1548,16 @@
           "rd": 91,
           "proj": true,
           "origin_weight": 132
+        },
+        {
+          "rank": 6,
+          "name": "Vinnie Gutierrez",
+          "team": "Fountain\r\n  Valley",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "17-9",
+          "rating": 1756,
+          "rd": 87
         },
         {
           "rank": 7,
@@ -1586,13 +1571,15 @@
         },
         {
           "rank": 8,
-          "name": "Vinnie Gutierrez",
-          "team": "Fountain\r\n  Valley",
+          "name": "Cael Humphrey",
+          "team": "Sultana",
           "section": "SS",
           "grade": "Jr",
-          "record": "16-9",
-          "rating": 1733,
-          "rd": 89
+          "record": "11-5",
+          "rating": 1742,
+          "rd": 107,
+          "proj": true,
+          "origin_weight": 132
         },
         {
           "rank": 9,
@@ -1776,16 +1763,6 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Jesse Grajeda",
-          "team": "St. John Bosco",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "11-0",
-          "rating": 1977,
-          "rd": 125
-        },
-        {
-          "rank": 2,
           "name": "James Ruiz",
           "team": "Esperanza",
           "section": "SS",
@@ -1795,7 +1772,7 @@
           "rd": 89
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "Raymond Castillo",
           "team": "Bay Area Dragons WC",
           "section": "",
@@ -1806,6 +1783,16 @@
           "provisional": true,
           "weight_source": "competed_unconfirmed",
           "entry_reason": "beat Roman Zelenka (T 20-4, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 3,
+          "name": "Jesse Grajeda",
+          "team": "St. John Bosco",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "11-1",
+          "rating": 1922,
+          "rd": 120
         },
         {
           "rank": 4,
@@ -1819,6 +1806,16 @@
         },
         {
           "rank": 5,
+          "name": "Christopher Arreola",
+          "team": "Clovis North",
+          "section": "CS",
+          "grade": "So",
+          "record": "15-4",
+          "rating": 1857,
+          "rd": 99
+        },
+        {
+          "rank": 6,
           "name": "Michael Terrell",
           "team": "Los Gatos",
           "section": "CC",
@@ -1828,23 +1825,13 @@
           "rd": 97
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Sebastian Rodriguez",
           "team": "Palm Desert",
           "section": "SS",
           "grade": "So",
           "record": "15-7",
           "rating": 1824,
-          "rd": 102
-        },
-        {
-          "rank": 7,
-          "name": "Christopher Arreola",
-          "team": "Clovis North",
-          "section": "CS",
-          "grade": "So",
-          "record": "14-4",
-          "rating": 1820,
           "rd": 102
         },
         {
@@ -2388,9 +2375,9 @@
           "team": "Redwood\r\n        \r\n    Visalia",
           "section": "CS",
           "grade": "Jr",
-          "record": "7-13",
-          "rating": 1415,
-          "rd": 102
+          "record": "7-14",
+          "rating": 1392,
+          "rd": 98
         },
         {
           "rank": 21,
@@ -2398,9 +2385,9 @@
           "team": "Wasco",
           "section": "CS",
           "grade": "Jr",
-          "record": "8-12",
-          "rating": 1408,
-          "rd": 92
+          "record": "8-13",
+          "rating": 1384,
+          "rd": 90
         }
       ]
     },
@@ -2506,9 +2493,9 @@
           "team": "Chaparral",
           "section": "SS",
           "grade": "Jr",
-          "record": "16-11",
-          "rating": 1563,
-          "rd": 89
+          "record": "17-11",
+          "rating": 1581,
+          "rd": 87
         },
         {
           "rank": 11,
@@ -2526,9 +2513,9 @@
           "team": "Oakdale",
           "section": "SJ",
           "grade": "So",
-          "record": "18-15",
-          "rating": 1509,
-          "rd": 77
+          "record": "19-15",
+          "rating": 1523,
+          "rd": 76
         },
         {
           "rank": 13,
@@ -2566,9 +2553,9 @@
           "team": "w",
           "section": "?",
           "grade": "Jr",
-          "record": "4-7",
-          "rating": 1349,
-          "rd": 144
+          "record": "5-7",
+          "rating": 1407,
+          "rd": 134
         },
         {
           "rank": 17,
@@ -2690,19 +2677,6 @@
         },
         {
           "rank": 11,
-          "name": "Jeremy Valdez",
-          "team": "Credo",
-          "section": "",
-          "grade": "",
-          "record": "3-2",
-          "rating": 1603,
-          "rd": 161,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Brayden Carson (D 1-0, CA Super 32 Early Entry (Gilroy))"
-        },
-        {
-          "rank": 12,
           "name": "Christian Tapia",
           "team": "Porterville",
           "section": "CS",
@@ -2710,6 +2684,19 @@
           "record": "14-11",
           "rating": 1542,
           "rd": 93
+        },
+        {
+          "rank": 12,
+          "name": "Jeremy Valdez",
+          "team": "Servite",
+          "section": "",
+          "grade": "",
+          "record": "3-3",
+          "rating": 1536,
+          "rd": 147,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Brayden Carson (D 1-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
           "rank": 13,
@@ -2827,16 +2814,6 @@
         },
         {
           "rank": 4,
-          "name": "Xander Birakos",
-          "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "22-9",
-          "rating": 1741,
-          "rd": 79
-        },
-        {
-          "rank": 5,
           "name": "Ari Hasani",
           "team": "Birmingham      \r\n    LOS\r\n  ANGELES",
           "section": "LA",
@@ -2844,6 +2821,16 @@
           "record": "13-6",
           "rating": 1724,
           "rd": 100
+        },
+        {
+          "rank": 5,
+          "name": "Xander Birakos",
+          "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "22-10",
+          "rating": 1719,
+          "rd": 78
         },
         {
           "rank": 6,
@@ -3016,6 +3003,16 @@
         },
         {
           "rank": 6,
+          "name": "Andre Sandoval Espana",
+          "team": "Buchanan",
+          "section": "CS",
+          "grade": "Fr",
+          "record": "16-13",
+          "rating": 1652,
+          "rd": 82
+        },
+        {
+          "rank": 7,
           "name": "Steven Gomez III",
           "team": "Granite Hills",
           "section": "SD",
@@ -3023,16 +3020,6 @@
           "record": "10-5",
           "rating": 1641,
           "rd": 118
-        },
-        {
-          "rank": 7,
-          "name": "Andre Sandoval Espana",
-          "team": "Buchanan",
-          "section": "CS",
-          "grade": "Fr",
-          "record": "15-13",
-          "rating": 1628,
-          "rd": 83
         },
         {
           "rank": 8,
@@ -3096,9 +3083,9 @@
           "team": "Buchanan",
           "section": "CS",
           "grade": "So",
-          "record": "20-5",
-          "rating": 1961,
-          "rd": 89
+          "record": "21-5",
+          "rating": 1979,
+          "rd": 87
         },
         {
           "rank": 2,
@@ -3106,9 +3093,9 @@
           "team": "Clovis",
           "section": "CS",
           "grade": "So",
-          "record": "22-4",
-          "rating": 1915,
-          "rd": 90
+          "record": "22-5",
+          "rating": 1896,
+          "rd": 88
         },
         {
           "rank": 3,
@@ -3284,36 +3271,26 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Angelica Serratos",
-          "team": "Santa Ana",
-          "section": "SS",
-          "grade": "",
-          "record": "2-0",
-          "rating": 1757,
-          "rd": 249
-        },
-        {
-          "rank": 2,
           "name": "Marcia Nunez",
           "team": "Buchanan",
           "section": "CS",
           "grade": "",
-          "record": "1-1",
-          "rating": 1500,
-          "rd": 253
+          "record": "2-1",
+          "rating": 1624,
+          "rd": 236
+        },
+        {
+          "rank": 2,
+          "name": "Angelica Serratos",
+          "team": "Santa Ana",
+          "section": "SS",
+          "grade": "",
+          "record": "2-1",
+          "rating": 1637,
+          "rd": 233
         },
         {
           "rank": 3,
-          "name": "Sophia Lazaro",
-          "team": "Northview",
-          "section": "SS",
-          "grade": "",
-          "record": "0-1",
-          "rating": 1322,
-          "rd": 284
-        },
-        {
-          "rank": 4,
           "name": "Ava Fodera",
           "team": "Poway",
           "section": "SD",
@@ -3321,6 +3298,16 @@
           "record": "0-1",
           "rating": 1338,
           "rd": 290
+        },
+        {
+          "rank": 4,
+          "name": "Sophia Lazaro",
+          "team": "Northview",
+          "section": "SS",
+          "grade": "",
+          "record": "0-1",
+          "rating": 1322,
+          "rd": 284
         }
       ]
     },
@@ -4152,18 +4139,6 @@
       "rank": null,
       "rating": 1673,
       "rd": 187,
-      "record": "3-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Jameson Williams",
-      "gender": "boys",
-      "competed_weight": 144,
-      "team": "Gold Rush WA",
-      "rank": null,
-      "rating": 1666,
-      "rd": 182,
       "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -5357,18 +5332,6 @@
       "status": "provisional"
     },
     {
-      "name": "Bronwynn Garrett",
-      "gender": "girls",
-      "competed_weight": 105,
-      "team": "Gold Rush WA",
-      "rank": null,
-      "rating": 1500,
-      "rd": 199,
-      "record": "2-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Romina Jiménez",
       "gender": "girls",
       "competed_weight": 115,
@@ -5705,18 +5668,6 @@
       "status": "provisional"
     },
     {
-      "name": "Archer Ferguson",
-      "gender": "boys",
-      "competed_weight": 106,
-      "team": "Gold Rush WA",
-      "rank": null,
-      "rating": 1431,
-      "rd": 200,
-      "record": "1-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Marshall Palmer",
       "gender": "boys",
       "competed_weight": 190,
@@ -5941,6 +5892,32 @@
         "MF": 11,
         "INJ": 2
       }
+    },
+    {
+      "event": "Freakshow 2026 (Las Vegas), Boys 18U + 18U Elite - both-on-board bouts only",
+      "date": "2026-10-24",
+      "style": "folkstyle",
+      "bouts_rated": 13,
+      "board_wrestlers_updated": 17,
+      "excluded": {
+        "MF": 1
+      }
+    },
+    {
+      "event": "Super 32 Challenge 2026 (Greensboro), HS Boys - CA-vs-CA bouts, both on board",
+      "date": "2026-10-24",
+      "style": "folkstyle",
+      "bouts_rated": 9,
+      "board_wrestlers_updated": 15,
+      "excluded": {}
+    },
+    {
+      "event": "Super 32 Challenge 2026 (Greensboro), HS Girls (freestyle) - CA-vs-CA bouts, both on board",
+      "date": "2026-10-24",
+      "style": "freestyle",
+      "bouts_rated": 1,
+      "board_wrestlers_updated": 2,
+      "excluded": {}
     }
   ]
 }
