@@ -24,6 +24,7 @@ from fargo_step import apply_fargo_moves  # preseason Fargo projection
 from grad_overrides import is_graduated  # manual Class-of-2026 drops
 from tournament_ingest import apply_tournaments, strip_prefix  # in-season events
 from weight_overrides import apply_weight_overrides  # manual 2026-27 weights
+from weight_history import extract_history, apply_history_moves  # 2025-26 weights carried forward
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
@@ -86,6 +87,21 @@ def main():
         if b["gender"] == "boys":
             b["wrestlers"] = boys[b["weight"]]
     
+    # Last season's tournament weights carried forward (weight_history.py):
+    # a wrestler who wrestled a higher weight at 2+ tournaments in 2025-26
+    # starts 2026-27 there, not at his February cut weight. Up only.
+    # Runs after Fargo, before manual overrides (which win). A parse problem
+    # here must never block the rebuild, so it is logged and skipped.
+    try:
+        history = {}
+        for wt in ok:
+            for k, v in extract_history(A.TEXT_CACHE.get(wt, "")).items():
+                history.setdefault(k, v)
+        print(f"WEIGHT HISTORY: {len(history)} carank blocks with tournament weights")
+        apply_history_moves(data, history)
+    except Exception as e:
+        print(f"WEIGHT HISTORY: skipped - {type(e).__name__}: {e}")
+
     # In-season tournaments (tournaments/*.tsv) are re-applied on EVERY build,
     # on top of the carank base, so a weekly rebuild can no longer erase them.
     # Manual weight placements (weight_overrides.py) win over carank + Fargo.
