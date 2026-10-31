@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T21:26:35.744055+00:00",
+  "generated": "2026-10-31T21:27:31.974537+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -78,16 +78,6 @@
         },
         {
           "rank": 8,
-          "name": "David Cash McClurg",
-          "team": "Granite Hills",
-          "section": "SD",
-          "grade": "Fr",
-          "record": "10-4",
-          "rating": 1758,
-          "rd": 106
-        },
-        {
-          "rank": 9,
           "name": "Giovani Suarez",
           "team": "Esperanza",
           "section": "SS",
@@ -97,7 +87,7 @@
           "rd": 124
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Arto Khachatryan",
           "team": "SBTC",
           "section": "",
@@ -110,7 +100,7 @@
           "entry_reason": "beat Daniel Serrano (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Aiden Talavera",
           "team": "Reedley",
           "section": "CS",
@@ -120,7 +110,7 @@
           "rd": 89
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Roman Fonseca",
           "team": "Gilroy",
           "section": "CC",
@@ -130,7 +120,7 @@
           "rd": 96
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Nathiel Nava",
           "team": "Stockdale",
           "section": "CS",
@@ -140,7 +130,7 @@
           "rd": 106
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Wyatt Carnrite",
           "team": "Poway",
           "section": "SD",
@@ -150,7 +140,7 @@
           "rd": 111
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Elijah Ramirez",
           "team": "Mission Viejo",
           "section": "SS",
@@ -160,17 +150,7 @@
           "rd": 86
         },
         {
-          "rank": 16,
-          "name": "Cody Holtberg",
-          "team": "St. Mary�s",
-          "section": "SJ",
-          "grade": "So",
-          "record": "18-12",
-          "rating": 1583,
-          "rd": 81
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "name": "Julian Bigueur",
           "team": "Chaparral",
           "section": "SS",
@@ -180,7 +160,7 @@
           "rd": 103
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Rama Valencerina",
           "team": "John F. \n\r\n  Kennedy",
           "section": "NC",
@@ -190,7 +170,7 @@
           "rd": 96
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Aydann Correa",
           "team": "Brawley Union",
           "section": "SD",
@@ -200,7 +180,7 @@
           "rd": 93
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Kevin Martinez",
           "team": "Western",
           "section": "SS",
@@ -210,7 +190,7 @@
           "rd": 105
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Ryder Bareng",
           "team": "Mar Vista",
           "section": "SD",
@@ -220,7 +200,7 @@
           "rd": 104
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Junior Lopez",
           "team": "Banning",
           "section": "LA",
@@ -230,7 +210,7 @@
           "rd": 199
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Jason Liau",
           "team": "Bellarmine Prep",
           "section": "CC",
@@ -240,7 +220,7 @@
           "rd": 141
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Jayden Yacuta",
           "team": "Porterville",
           "section": "CS",
@@ -250,7 +230,7 @@
           "rd": 102
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "Adrian Vera",
           "team": "No. Bakersfield",
           "section": "CS",
@@ -260,7 +240,7 @@
           "rd": 137
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Trevor Lambert",
           "team": "Temecula Valley",
           "section": "SS",
@@ -270,7 +250,7 @@
           "rd": 101
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Aiden Salindong",
           "team": "Pleasant Valley",
           "section": "NS",
@@ -280,7 +260,7 @@
           "rd": 115
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Qusay Altowiti",
           "team": "North         \r\n     Monterey         \r\n     County",
           "section": "CC",
@@ -290,7 +270,7 @@
           "rd": 136
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Daniel Taylor",
           "team": "Foothill         \r\n     Palo Cedro",
           "section": "NC",
@@ -344,16 +324,6 @@
         },
         {
           "rank": 4,
-          "name": "Nathan Solorio",
-          "team": "Damien",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "22-4",
-          "rating": 1879,
-          "rd": 105
-        },
-        {
-          "rank": 5,
           "name": "Eli Mendoza",
           "team": "Gilroy",
           "section": "CC",
@@ -363,7 +333,7 @@
           "rd": 86
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Lennox Cruzat",
           "team": "Folsom",
           "section": "SJ",
@@ -373,7 +343,7 @@
           "rd": 102
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Isaiah Gonzaga",
           "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -383,17 +353,7 @@
           "rd": 76
         },
         {
-          "rank": 8,
-          "name": "Santos Tizoc",
-          "team": "Silver Creek",
-          "section": "CC",
-          "grade": "So",
-          "record": "19-8",
-          "rating": 1807,
-          "rd": 85
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "name": "Max Murillo",
           "team": "Esperanza",
           "section": "SS",
@@ -403,7 +363,7 @@
           "rd": 114
         },
         {
-          "rank": 10,
+          "rank": 8,
           "name": "Uriah Correa",
           "team": "Servite",
           "section": "SS",
@@ -413,7 +373,7 @@
           "rd": 111
         },
         {
-          "rank": 11,
+          "rank": 9,
           "name": "Elijah Butler",
           "team": "Northview",
           "section": "SS",
@@ -423,7 +383,7 @@
           "rd": 88
         },
         {
-          "rank": 12,
+          "rank": 10,
           "name": "Phillip Hernandez",
           "team": "Clovis\r\n  North",
           "section": "CS",
@@ -433,7 +393,7 @@
           "rd": 96
         },
         {
-          "rank": 13,
+          "rank": 11,
           "name": "Titus Khamjoi",
           "team": "St.\r\n  Mary�s      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -443,7 +403,7 @@
           "rd": 83
         },
         {
-          "rank": 14,
+          "rank": 12,
           "name": "Kayden Khim",
           "team": "Clovis West",
           "section": "",
@@ -456,17 +416,7 @@
           "entry_reason": "beat Titus Khamjoi (T 20-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 15,
-          "name": "Alekzander Espinoza",
-          "team": "Palm\r\n  Desert",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "12-8",
-          "rating": 1671,
-          "rd": 98
-        },
-        {
-          "rank": 16,
+          "rank": 13,
           "name": "Carson Wyatt",
           "team": "SBTC",
           "section": "",
@@ -479,7 +429,7 @@
           "entry_reason": "beat Aiden Salindong (F 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 17,
+          "rank": 14,
           "name": "Leonidas Agtarap",
           "team": "Central Catholic",
           "section": "",
@@ -492,7 +442,7 @@
           "entry_reason": "beat Titus Khamjoi (D 7-6, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 18,
+          "rank": 15,
           "name": "Brodie Henderson",
           "team": "Orland",
           "section": "NS",
@@ -502,7 +452,7 @@
           "rd": 113
         },
         {
-          "rank": 19,
+          "rank": 16,
           "name": "Eli Mayer",
           "team": "Vacaville",
           "section": "SJ",
@@ -514,7 +464,7 @@
           "origin_weight": 106
         },
         {
-          "rank": 20,
+          "rank": 17,
           "name": "Shane Ito",
           "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -524,7 +474,20 @@
           "rd": 115
         },
         {
-          "rank": 21,
+          "rank": 18,
+          "name": "Cody Holtberg",
+          "team": "St. Mary�s",
+          "section": "SJ",
+          "grade": "So",
+          "record": "18-12",
+          "rating": 1583,
+          "rd": 81,
+          "origin_weight": 106,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 113"
+        },
+        {
+          "rank": 19,
           "name": "Grant Dixon",
           "team": "Oakdale WC",
           "section": "",
@@ -537,7 +500,7 @@
           "entry_reason": "beat Elijah Ramirez (D 4-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Ryder Doleschal",
           "team": "Junipero\r\n  Serra",
           "section": "CC",
@@ -547,7 +510,7 @@
           "rd": 91
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Andrew Reyes",
           "team": "Pacifica      \r\n    Garden Grove",
           "section": "SS",
@@ -557,7 +520,7 @@
           "rd": 97
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Adan Board",
           "team": "Garces\r\n        \r\n    Memorial",
           "section": "CS",
@@ -567,7 +530,7 @@
           "rd": 94
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "Xavier Garcia",
           "team": "Clovis\r\n  West",
           "section": "CS",
@@ -577,7 +540,7 @@
           "rd": 114
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Kaiden Lepe",
           "team": "Walnut",
           "section": "SS",
@@ -587,7 +550,7 @@
           "rd": 122
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Reshad Ahmadi",
           "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
           "section": "NC",
@@ -597,7 +560,7 @@
           "rd": 129
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Elijah Duran",
           "team": "Golden\r\n  Valley      \r\n    Bakersfield",
           "section": "CS",
@@ -607,7 +570,7 @@
           "rd": 109
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Elias Pedroza",
           "team": "Granite Hills",
           "section": "SD",
@@ -617,7 +580,7 @@
           "rd": 136
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Ryan Lancin",
           "team": "George      \r\n    Washington      \r\n    SAN\r\n  FRANCISCO",
           "section": "SF",
@@ -627,7 +590,7 @@
           "rd": 177
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Morgan Stevens",
           "team": "Shasta",
           "section": "NS",
@@ -691,6 +654,19 @@
         },
         {
           "rank": 5,
+          "name": "Nathan Solorio",
+          "team": "Damien",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "22-4",
+          "rating": 1879,
+          "rd": 105,
+          "origin_weight": 113,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 120"
+        },
+        {
+          "rank": 6,
           "name": "Bryce Dacoco",
           "team": "Vasky Bros",
           "section": "",
@@ -703,17 +679,20 @@
           "entry_reason": "beat Camm Colgate (D 14-10, CA Super 32 Early Entry (Gilroy)); Isaiah Gonzaga (D 4-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 6,
-          "name": "Nathan Reynolds",
-          "team": "St.\r\n  John Bosco",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "17-4",
-          "rating": 1819,
-          "rd": 103
+          "rank": 7,
+          "name": "Santos Tizoc",
+          "team": "Silver Creek",
+          "section": "CC",
+          "grade": "So",
+          "record": "19-8",
+          "rating": 1807,
+          "rd": 85,
+          "origin_weight": 113,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 120"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Joey Guanella",
           "team": "Windsor      \r\n    NORTH\r\n  COAST",
           "section": "NC",
@@ -723,7 +702,7 @@
           "rd": 93
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Kaiden Lim",
           "team": "War Room WC",
           "section": "",
@@ -736,7 +715,20 @@
           "entry_reason": "beat Brodie Henderson (D 6-1, CA Super 32 Early Entry (Gilroy)); Camm Colgate (D 10-3, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "David Cash McClurg",
+          "team": "Granite Hills",
+          "section": "SD",
+          "grade": "Fr",
+          "record": "10-4",
+          "rating": 1758,
+          "rd": 106,
+          "origin_weight": 106,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 120"
+        },
+        {
+          "rank": 11,
           "name": "Benicio Thome",
           "team": "Bishop\r\n  Amat",
           "section": "SS",
@@ -746,7 +738,7 @@
           "rd": 107
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Camm Colgate",
           "team": "Evergreen      \r\n    Institution",
           "section": "NS",
@@ -756,7 +748,7 @@
           "rd": 122
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "Aiden Garcia",
           "team": "Palma",
           "section": "CC",
@@ -766,7 +758,20 @@
           "rd": 84
         },
         {
-          "rank": 12,
+          "rank": 14,
+          "name": "Alekzander Espinoza",
+          "team": "Palm\r\n  Desert",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "12-8",
+          "rating": 1671,
+          "rd": 98,
+          "origin_weight": 113,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 120"
+        },
+        {
+          "rank": 15,
           "name": "Sonny Cervantes",
           "team": "SBTC",
           "section": "",
@@ -779,7 +784,7 @@
           "entry_reason": "beat Eli Mendoza (D 11-9, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 13,
+          "rank": 16,
           "name": "Kayleb Chao",
           "team": "Elk\r\n  Grove      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -789,7 +794,7 @@
           "rd": 78
         },
         {
-          "rank": 14,
+          "rank": 17,
           "name": "Noah Espinoza",
           "team": "Central Catholic",
           "section": "",
@@ -802,7 +807,7 @@
           "entry_reason": "beat Ryan Lancin (F 7-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 15,
+          "rank": 18,
           "name": "Declan Leonard",
           "team": "Del Oro",
           "section": "SJ",
@@ -814,7 +819,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 16,
+          "rank": 19,
           "name": "Josiah Leyvas",
           "team": "La Serna",
           "section": "SS",
@@ -824,7 +829,7 @@
           "rd": 88
         },
         {
-          "rank": 17,
+          "rank": 20,
           "name": "Knox Espinoza",
           "team": "Long Beach      \r\n    Poly",
           "section": "SS",
@@ -834,7 +839,7 @@
           "rd": 80
         },
         {
-          "rank": 18,
+          "rank": 21,
           "name": "Jason Lin",
           "team": "La\r\n  Costa       \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -844,7 +849,7 @@
           "rd": 109
         },
         {
-          "rank": 19,
+          "rank": 22,
           "name": "Gabryel Juarez",
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
@@ -854,7 +859,7 @@
           "rd": 86
         },
         {
-          "rank": 20,
+          "rank": 23,
           "name": "Maddox Hazard",
           "team": "Sultana",
           "section": "SS",
@@ -864,7 +869,7 @@
           "rd": 93
         },
         {
-          "rank": 21,
+          "rank": 24,
           "name": "Caleb Cisneros",
           "team": "Selma",
           "section": "CS",
@@ -874,7 +879,7 @@
           "rd": 90
         },
         {
-          "rank": 22,
+          "rank": 25,
           "name": "Colton Meixner",
           "team": "Clovis North",
           "section": "CS",
@@ -884,7 +889,7 @@
           "rd": 94
         },
         {
-          "rank": 23,
+          "rank": 26,
           "name": "Alex Ramos",
           "team": "Clovis\r\n  West",
           "section": "CS",
@@ -894,7 +899,7 @@
           "rd": 91
         },
         {
-          "rank": 24,
+          "rank": 27,
           "name": "Caden Herrera",
           "team": "Bakersfield",
           "section": "CS",
@@ -906,7 +911,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 25,
+          "rank": 28,
           "name": "Julius Mark Villamil",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -918,7 +923,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 26,
+          "rank": 29,
           "name": "Gavin Pongsai",
           "team": "Gilroy",
           "section": "CC",
@@ -928,7 +933,7 @@
           "rd": 103
         },
         {
-          "rank": 27,
+          "rank": 30,
           "name": "Sergio Valencia",
           "team": "Farmersville",
           "section": "CS",
@@ -938,7 +943,7 @@
           "rd": 130
         },
         {
-          "rank": 28,
+          "rank": 31,
           "name": "Anthony Strahm",
           "team": "Holtville      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -948,7 +953,7 @@
           "rd": 112
         },
         {
-          "rank": 29,
+          "rank": 32,
           "name": "Luke Tran",
           "team": "Independence",
           "section": "CC",
@@ -958,7 +963,7 @@
           "rd": 90
         },
         {
-          "rank": 30,
+          "rank": 33,
           "name": "Raymond Carbajal",
           "team": "Santa\r\n  Fe",
           "section": "SS",
@@ -968,7 +973,7 @@
           "rd": 110
         },
         {
-          "rank": 31,
+          "rank": 34,
           "name": "Kaden Owens",
           "team": "Foothill      \r\n    Palo\r\n  Cedro",
           "section": "NS",
@@ -978,7 +983,7 @@
           "rd": 184
         },
         {
-          "rank": 32,
+          "rank": 35,
           "name": "Andrew Sandoval",
           "team": "Woodlake\r\n  Union",
           "section": "CS",
@@ -995,16 +1000,6 @@
       "wrestlers": [
         {
           "rank": 1,
-          "name": "Aaron Meza",
-          "team": "Esperanza",
-          "section": "SS",
-          "grade": "So",
-          "record": "16-4",
-          "rating": 1965,
-          "rd": 107
-        },
-        {
-          "rank": 2,
           "name": "Massimo Ortiz",
           "team": "Servite",
           "section": "SS",
@@ -1012,6 +1007,19 @@
           "record": "25-8",
           "rating": 1856,
           "rd": 86
+        },
+        {
+          "rank": 2,
+          "name": "Nathan Reynolds",
+          "team": "St.\r\n  John Bosco",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "17-4",
+          "rating": 1819,
+          "rd": 103,
+          "origin_weight": 120,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 126"
         },
         {
           "rank": 3,
@@ -1037,16 +1045,6 @@
         },
         {
           "rank": 5,
-          "name": "Elias Castaneda",
-          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "23-8",
-          "rating": 1795,
-          "rd": 86
-        },
-        {
-          "rank": 6,
           "name": "Rene Cordero",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1058,7 +1056,7 @@
           "origin_weight": 120
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Dylan Matthews",
           "team": "Shasta",
           "section": "NS",
@@ -1068,7 +1066,7 @@
           "rd": 120
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Caden Garriott",
           "team": "South      \r\n    Torrance",
           "section": "SS",
@@ -1078,7 +1076,7 @@
           "rd": 106
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Jackson Humphrey",
           "team": "Sultana",
           "section": "SS",
@@ -1088,7 +1086,7 @@
           "rd": 100
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Phillip Green",
           "team": "Dethrone",
           "section": "",
@@ -1101,7 +1099,7 @@
           "entry_reason": "beat Knox Espinoza (M 12-2, CA Super 32 Early Entry (Gilroy)); Declan Leonard (F 0-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Vincent Peyron",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -1111,7 +1109,7 @@
           "rd": 112
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Maximus Torrez",
           "team": "Gilroy",
           "section": "CC",
@@ -1121,7 +1119,7 @@
           "rd": 85
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Artasam Feizi",
           "team": "Bay Area Dragons WC",
           "section": "",
@@ -1134,7 +1132,7 @@
           "entry_reason": "beat Jayden Gonzalez (D 5-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Jaiden Palomino",
           "team": "West Valley",
           "section": "",
@@ -1147,7 +1145,7 @@
           "entry_reason": "beat Kayleb Chao (D 3-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Jesse Quiroz",
           "team": "Eleanor\r\n        \r\n    Roosevelt",
           "section": "SS",
@@ -1157,17 +1155,7 @@
           "rd": 93
         },
         {
-          "rank": 16,
-          "name": "Jovani Sandoval",
-          "team": "Elk Grove",
-          "section": "SJ",
-          "grade": "So",
-          "record": "20-14",
-          "rating": 1624,
-          "rd": 79
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "name": "Manuel Gutierrez",
           "team": "Selma",
           "section": "CS",
@@ -1177,7 +1165,7 @@
           "rd": 92
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Elias Flores",
           "team": "Northview",
           "section": "SS",
@@ -1187,7 +1175,7 @@
           "rd": 94
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Mateo Ruiz",
           "team": "CYC",
           "section": "",
@@ -1200,7 +1188,7 @@
           "entry_reason": "beat Jayden Gonzalez (D 11-5, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Matthew Gonzales",
           "team": "San\r\n  Fernando      \r\n    LOS\r\n  ANGELES",
           "section": "LA",
@@ -1210,7 +1198,7 @@
           "rd": 234
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Brandon Bruns",
           "team": "Christopher",
           "section": "CC",
@@ -1220,7 +1208,7 @@
           "rd": 104
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Matthew Ramos",
           "team": "Exeter\r\n  Union",
           "section": "CS",
@@ -1230,7 +1218,7 @@
           "rd": 108
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "Isaac Navarro",
           "team": "Vista      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1240,7 +1228,7 @@
           "rd": 164
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Ezekiel Bayardo",
           "team": "Immanuel",
           "section": "CS",
@@ -1268,6 +1256,19 @@
         },
         {
           "rank": 2,
+          "name": "Aaron Meza",
+          "team": "Esperanza",
+          "section": "SS",
+          "grade": "So",
+          "record": "16-4",
+          "rating": 1965,
+          "rd": 107,
+          "origin_weight": 126,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 132"
+        },
+        {
+          "rank": 3,
           "name": "Slater Hicks",
           "team": "Valencia",
           "section": "SS",
@@ -1277,7 +1278,7 @@
           "rd": 102
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Luke Schoch",
           "team": "Los\r\n  Gatos",
           "section": "CC",
@@ -1289,17 +1290,20 @@
           "origin_weight": 126
         },
         {
-          "rank": 4,
-          "name": "Gabriel Pacheco",
-          "team": "Central Union",
-          "section": "SD",
+          "rank": 5,
+          "name": "Elias Castaneda",
+          "team": "Bella\r\n  Vista      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
           "grade": "Jr",
-          "record": "15-6",
-          "rating": 1861,
-          "rd": 101
+          "record": "23-8",
+          "rating": 1795,
+          "rd": 86,
+          "origin_weight": 126,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 132"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Joseph Albert",
           "team": "Alvarez",
           "section": "CC",
@@ -1309,7 +1313,7 @@
           "rd": 167
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Jj Greene",
           "team": "The Empire",
           "section": "",
@@ -1322,7 +1326,7 @@
           "entry_reason": "beat Jonah Rusca (M 12-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Robert Estrada",
           "team": "The Empire",
           "section": "",
@@ -1335,7 +1339,7 @@
           "entry_reason": "beat Cole Cronan (D 8-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Jacob Rodriguez",
           "team": "Dark Horse",
           "section": "",
@@ -1346,16 +1350,6 @@
           "provisional": true,
           "weight_source": "competed_unconfirmed",
           "entry_reason": "beat Luke Tran (D 5-1, CA Super 32 Early Entry (Gilroy))"
-        },
-        {
-          "rank": 9,
-          "name": "Joseph Jojo Guardado",
-          "team": "Esperanza",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "12-7",
-          "rating": 1695,
-          "rd": 101
         },
         {
           "rank": 10,
@@ -1381,16 +1375,6 @@
         },
         {
           "rank": 12,
-          "name": "Roman Zelenka",
-          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
-          "section": "SD",
-          "grade": "Jr",
-          "record": "19-10",
-          "rating": 1682,
-          "rd": 85
-        },
-        {
-          "rank": 13,
           "name": "John Benitez",
           "team": "Redwood      \r\n    Visalia",
           "section": "CS",
@@ -1400,7 +1384,7 @@
           "rd": 83
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Anthony Martinez",
           "team": "Mantanona TC",
           "section": "",
@@ -1411,6 +1395,19 @@
           "provisional": true,
           "weight_source": "competed_unconfirmed",
           "entry_reason": "beat Jonah Rusca (D 4-1, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 14,
+          "name": "Jovani Sandoval",
+          "team": "Elk Grove",
+          "section": "SJ",
+          "grade": "So",
+          "record": "20-14",
+          "rating": 1624,
+          "rd": 79,
+          "origin_weight": 126,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 132"
         },
         {
           "rank": 15,
@@ -1519,13 +1516,16 @@
         },
         {
           "rank": 3,
-          "name": "Orion Hill",
-          "team": "Folsom      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
+          "name": "Gabriel Pacheco",
+          "team": "Central Union",
+          "section": "SD",
           "grade": "Jr",
-          "record": "14-3",
-          "rating": 1862,
-          "rd": 123
+          "record": "15-6",
+          "rating": 1861,
+          "rd": 101,
+          "origin_weight": 132,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 138"
         },
         {
           "rank": 4,
@@ -1583,6 +1583,19 @@
         },
         {
           "rank": 9,
+          "name": "Joseph Jojo Guardado",
+          "team": "Esperanza",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "12-7",
+          "rating": 1695,
+          "rd": 101,
+          "origin_weight": 132,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 138"
+        },
+        {
+          "rank": 10,
           "name": "Micah Wegman",
           "team": "Calabasas",
           "section": "SS",
@@ -1592,7 +1605,7 @@
           "rd": 117
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Declan Shea",
           "team": "Sutter\r\n  Union",
           "section": "SJ",
@@ -1602,7 +1615,7 @@
           "rd": 88
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Brian Miller",
           "team": "Palo\r\n  Alto",
           "section": "CC",
@@ -1614,7 +1627,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Anjelo Reyes",
           "team": "Madera",
           "section": "CS",
@@ -1624,7 +1637,7 @@
           "rd": 91
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Liam Henson",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -1634,7 +1647,7 @@
           "rd": 88
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Luke Menzimer",
           "team": "La Costa      \r\n    Canyon",
           "section": "SD",
@@ -1644,7 +1657,7 @@
           "rd": 122
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Joseph Ramirez",
           "team": "El Modena",
           "section": "SS",
@@ -1654,7 +1667,7 @@
           "rd": 90
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Gabriel Champagne",
           "team": "Grace Davis",
           "section": "SJ",
@@ -1664,7 +1677,7 @@
           "rd": 111
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Cole Schmidt",
           "team": "Windsor",
           "section": "NC",
@@ -1674,7 +1687,7 @@
           "rd": 113
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cruz Contreras",
           "team": "Aptos",
           "section": "CC",
@@ -1686,7 +1699,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jack Giangrasso",
           "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1696,7 +1709,7 @@
           "rd": 88
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Aeden Ortega",
           "team": "El Diamante",
           "section": "CS",
@@ -1706,7 +1719,7 @@
           "rd": 96
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Mason Blair",
           "team": "Clovis\r\n  North",
           "section": "CS",
@@ -1716,7 +1729,7 @@
           "rd": 84
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Theodore Young",
           "team": "Whitney",
           "section": "SJ",
@@ -1726,7 +1739,7 @@
           "rd": 126
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Cameron James",
           "team": "Centennial      \r\n    Corona",
           "section": "SS",
@@ -1736,7 +1749,7 @@
           "rd": 98
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Christian Ripa",
           "team": "Mission Vista",
           "section": "SD",
@@ -1796,26 +1809,6 @@
         },
         {
           "rank": 5,
-          "name": "Michael Terrell",
-          "team": "Los Gatos",
-          "section": "CC",
-          "grade": "So",
-          "record": "15-5",
-          "rating": 1828,
-          "rd": 97
-        },
-        {
-          "rank": 6,
-          "name": "Zander Schaefer",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "Jr",
-          "record": "26-9",
-          "rating": 1805,
-          "rd": 73
-        },
-        {
-          "rank": 7,
           "name": "Xander Fronhofer",
           "team": "Nordhoff",
           "section": "SS",
@@ -1825,7 +1818,7 @@
           "rd": 90
         },
         {
-          "rank": 8,
+          "rank": 6,
           "name": "Jacob Fernandez",
           "team": "Bonita",
           "section": "SS",
@@ -1835,7 +1828,20 @@
           "rd": 83
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "name": "Roman Zelenka",
+          "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
+          "section": "SD",
+          "grade": "Jr",
+          "record": "19-10",
+          "rating": 1682,
+          "rd": 85,
+          "origin_weight": 132,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 144"
+        },
+        {
+          "rank": 8,
           "name": "Sergio Gomez",
           "team": "St. John Bosco",
           "section": "SS",
@@ -1847,7 +1853,7 @@
           "origin_weight": 157
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Ayers Reich",
           "team": "Cathedral      \r\n    Catholic",
           "section": "SD",
@@ -1857,7 +1863,7 @@
           "rd": 150
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Greg Ruiz",
           "team": "Sonora      \r\n    La\r\n  Habra",
           "section": "SS",
@@ -1867,7 +1873,7 @@
           "rd": 100
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Michael Coelho",
           "team": "Los\r\n  Banos      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1877,7 +1883,7 @@
           "rd": 80
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Jonah Helo Blackwell",
           "team": "Central Catholic",
           "section": "SJ",
@@ -1887,7 +1893,7 @@
           "rd": 92
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Jayden Ramirez",
           "team": "Frontier",
           "section": "CS",
@@ -1897,7 +1903,7 @@
           "rd": 77
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Uriel Hernandez",
           "team": "Madera South",
           "section": "CS",
@@ -1907,7 +1913,7 @@
           "rd": 84
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Connor Miller",
           "team": "Chico",
           "section": "NS",
@@ -1968,6 +1974,58 @@
         },
         {
           "rank": 5,
+          "name": "Orion Hill",
+          "team": "Folsom      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "14-3",
+          "rating": 1862,
+          "rd": 123,
+          "origin_weight": 138,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 150"
+        },
+        {
+          "rank": 6,
+          "name": "Carlo Contino",
+          "team": "Buchanan",
+          "section": "CS",
+          "grade": "So",
+          "record": "16-6",
+          "rating": 1839,
+          "rd": 98,
+          "origin_weight": 157,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 150"
+        },
+        {
+          "rank": 7,
+          "name": "Michael Terrell",
+          "team": "Los Gatos",
+          "section": "CC",
+          "grade": "So",
+          "record": "15-5",
+          "rating": 1828,
+          "rd": 97,
+          "origin_weight": 144,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 150"
+        },
+        {
+          "rank": 8,
+          "name": "Zander Schaefer",
+          "team": "Clovis",
+          "section": "CS",
+          "grade": "Jr",
+          "record": "26-9",
+          "rating": 1805,
+          "rd": 73,
+          "origin_weight": 144,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 150"
+        },
+        {
+          "rank": 9,
           "name": "Jack Malinconico",
           "team": "Poway",
           "section": "SD",
@@ -1979,7 +2037,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 6,
+          "rank": 10,
           "name": "Jack Bronte",
           "team": "Granada",
           "section": "NC",
@@ -1991,7 +2049,7 @@
           "origin_weight": 138
         },
         {
-          "rank": 7,
+          "rank": 11,
           "name": "Levi Chicas",
           "team": "Way Out West WC",
           "section": "",
@@ -2004,7 +2062,7 @@
           "entry_reason": "beat Michael Coelho (D 4-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 8,
+          "rank": 12,
           "name": "Cooper Sheesley",
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -2014,7 +2072,7 @@
           "rd": 103
         },
         {
-          "rank": 9,
+          "rank": 13,
           "name": "Mateo Centeno",
           "team": "Esperanza",
           "section": "SS",
@@ -2024,17 +2082,7 @@
           "rd": 109
         },
         {
-          "rank": 10,
-          "name": "Wesley Hayden",
-          "team": "Los Gatos",
-          "section": "CC",
-          "grade": "So",
-          "record": "12-10",
-          "rating": 1679,
-          "rd": 96
-        },
-        {
-          "rank": 11,
+          "rank": 14,
           "name": "Bryson Constantino",
           "team": "Frontier",
           "section": "CS",
@@ -2044,7 +2092,7 @@
           "rd": 80
         },
         {
-          "rank": 12,
+          "rank": 15,
           "name": "Marcello Calavitta",
           "team": "Esperanza",
           "section": "SS",
@@ -2056,7 +2104,7 @@
           "origin_weight": 138
         },
         {
-          "rank": 13,
+          "rank": 16,
           "name": "Damen Vollmer",
           "team": "Temecula\r\n        \r\n    Valley",
           "section": "SS",
@@ -2066,17 +2114,7 @@
           "rd": 89
         },
         {
-          "rank": 14,
-          "name": "Gage Clark",
-          "team": "Highland      \r\n    North\r\n  Highlands      \r\n    SAC\r\n  JOAQUIN",
-          "section": "SJ",
-          "grade": "Jr",
-          "record": "13-6",
-          "rating": 1636,
-          "rd": 99
-        },
-        {
-          "rank": 15,
+          "rank": 17,
           "name": "Isaiah Ebersbach",
           "team": "TMWC",
           "section": "",
@@ -2089,7 +2127,7 @@
           "entry_reason": "beat Zander Schaefer (D 7-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Sean Griffin",
           "team": "Central Catholic",
           "section": "SJ",
@@ -2099,7 +2137,7 @@
           "rd": 89
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "David Daniels",
           "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2109,7 +2147,7 @@
           "rd": 117
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Hunter Luna",
           "team": "St. Francis",
           "section": "CC",
@@ -2119,7 +2157,7 @@
           "rd": 97
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "Charlie Herrington",
           "team": "Granada",
           "section": "NC",
@@ -2129,7 +2167,7 @@
           "rd": 79
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "Levi Landeros",
           "team": "Monache",
           "section": "CS",
@@ -2139,7 +2177,7 @@
           "rd": 95
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "Landon Nelms",
           "team": "Carlsbad      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2149,7 +2187,7 @@
           "rd": 139
         },
         {
-          "rank": 22,
+          "rank": 24,
           "name": "Charles Rice",
           "team": "Red Bluff",
           "section": "NS",
@@ -2197,26 +2235,6 @@
         },
         {
           "rank": 4,
-          "name": "Carlo Contino",
-          "team": "Buchanan",
-          "section": "CS",
-          "grade": "So",
-          "record": "16-6",
-          "rating": 1839,
-          "rd": 98
-        },
-        {
-          "rank": 5,
-          "name": "Dimetry Molina",
-          "team": "Esperanza",
-          "section": "SS",
-          "grade": "So",
-          "record": "14-5",
-          "rating": 1837,
-          "rd": 105
-        },
-        {
-          "rank": 6,
           "name": "Rasik Garvey",
           "team": "OCRTC",
           "section": "",
@@ -2229,7 +2247,7 @@
           "entry_reason": "beat Logan Lopez (D 14-7, CA Super 32 Early Entry (Gilroy)); Sean Griffin (D 5-1, CA Super 32 Early Entry (Gilroy)); Gage Clark (D 4-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "name": "Peter Brown",
           "team": "Canyon Springs",
           "section": "SS",
@@ -2239,7 +2257,20 @@
           "rd": 96
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "name": "Christian Acosta Stoeber",
+          "team": "Fountain       \r\n    Valley",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "22-7",
+          "rating": 1822,
+          "rd": 88,
+          "origin_weight": 165,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 157"
+        },
+        {
+          "rank": 7,
           "name": "Diego Valdiviezo",
           "team": "Poway",
           "section": "SD",
@@ -2251,17 +2282,7 @@
           "origin_weight": 144
         },
         {
-          "rank": 9,
-          "name": "Sebastian Garcia",
-          "team": "Junipero Serra",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "24-10",
-          "rating": 1728,
-          "rd": 76
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "name": "Mason McDonnell",
           "team": "Fountain Valley",
           "section": "SS",
@@ -2271,7 +2292,7 @@
           "rd": 85
         },
         {
-          "rank": 11,
+          "rank": 9,
           "name": "Adam Salas",
           "team": "Los Alamitos",
           "section": "SS",
@@ -2281,27 +2302,33 @@
           "rd": 86
         },
         {
-          "rank": 12,
-          "name": "Dylan Tirapelle",
-          "team": "Clovis",
-          "section": "CS",
-          "grade": "So",
-          "record": "13-9",
-          "rating": 1685,
-          "rd": 94
-        },
-        {
-          "rank": 13,
-          "name": "Jisias Rodriguez",
-          "team": "Los\r\n  Gatos",
+          "rank": 10,
+          "name": "Wesley Hayden",
+          "team": "Los Gatos",
           "section": "CC",
           "grade": "So",
-          "record": "14-11",
-          "rating": 1658,
-          "rd": 85
+          "record": "12-10",
+          "rating": 1679,
+          "rd": 96,
+          "origin_weight": 150,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 157"
         },
         {
-          "rank": 14,
+          "rank": 11,
+          "name": "Gage Clark",
+          "team": "Highland      \r\n    North\r\n  Highlands      \r\n    SAC\r\n  JOAQUIN",
+          "section": "SJ",
+          "grade": "Jr",
+          "record": "13-6",
+          "rating": 1636,
+          "rd": 99,
+          "origin_weight": 150,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 157"
+        },
+        {
+          "rank": 12,
           "name": "Chase Young",
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -2311,7 +2338,7 @@
           "rd": 87
         },
         {
-          "rank": 15,
+          "rank": 13,
           "name": "Brock Kenney",
           "team": "Trabuco\r\n  Hills",
           "section": "SS",
@@ -2321,7 +2348,7 @@
           "rd": 97
         },
         {
-          "rank": 16,
+          "rank": 14,
           "name": "Logan Lopez",
           "team": "Clovis East",
           "section": "CS",
@@ -2331,7 +2358,7 @@
           "rd": 75
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Jesse Cruz",
           "team": "Clovis North",
           "section": "CS",
@@ -2341,7 +2368,7 @@
           "rd": 87
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Paxton Palomar",
           "team": "Kingsburg",
           "section": "CS",
@@ -2351,7 +2378,7 @@
           "rd": 103
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Skylar Groke",
           "team": "La\r\n  Costa      \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2361,7 +2388,7 @@
           "rd": 117
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Thomas Zubia",
           "team": "TMWC",
           "section": "",
@@ -2374,7 +2401,7 @@
           "entry_reason": "beat Logan Lopez (D 7-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 21,
+          "rank": 19,
           "name": "Maceson Vasquez",
           "team": "Redwood\r\n        \r\n    Visalia",
           "section": "CS",
@@ -2384,7 +2411,7 @@
           "rd": 98
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "Juan Gallardo",
           "team": "Wasco",
           "section": "CS",
@@ -2433,13 +2460,16 @@
         },
         {
           "rank": 4,
-          "name": "Christian Acosta Stoeber",
-          "team": "Fountain       \r\n    Valley",
+          "name": "Dimetry Molina",
+          "team": "Esperanza",
           "section": "SS",
-          "grade": "Jr",
-          "record": "22-7",
-          "rating": 1822,
-          "rd": 88
+          "grade": "So",
+          "record": "14-5",
+          "rating": 1837,
+          "rd": 105,
+          "origin_weight": 157,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 165"
         },
         {
           "rank": 5,
@@ -2463,6 +2493,19 @@
         },
         {
           "rank": 7,
+          "name": "Sebastian Garcia",
+          "team": "Junipero Serra",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "24-10",
+          "rating": 1728,
+          "rd": 76,
+          "origin_weight": 157,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 165"
+        },
+        {
+          "rank": 8,
           "name": "Leon Murphy",
           "team": "Santiago      \r\n    Corona",
           "section": "SS",
@@ -2472,7 +2515,7 @@
           "rd": 90
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Adrian Harris",
           "team": "Highland      \r\n    Palmdale",
           "section": "SS",
@@ -2482,7 +2525,20 @@
           "rd": 121
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "Jisias Rodriguez",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "So",
+          "record": "14-11",
+          "rating": 1658,
+          "rd": 85,
+          "origin_weight": 157,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 165"
+        },
+        {
+          "rank": 11,
           "name": "Keanu Garcia",
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
@@ -2492,7 +2548,7 @@
           "rd": 81
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Ehren Thompson",
           "team": "Chaparral",
           "section": "SS",
@@ -2502,7 +2558,7 @@
           "rd": 87
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "Stephen Seymour",
           "team": "Hollister",
           "section": "CC",
@@ -2512,7 +2568,7 @@
           "rd": 100
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Griffin Gerber",
           "team": "Oakdale",
           "section": "SJ",
@@ -2522,7 +2578,7 @@
           "rd": 76
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Cole Moules",
           "team": "Aptos",
           "section": "CC",
@@ -2532,7 +2588,7 @@
           "rd": 93
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Francois Ngambia",
           "team": "Clovis North",
           "section": "CS",
@@ -2542,7 +2598,7 @@
           "rd": 82
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Noah Soto",
           "team": "Tulare Union",
           "section": "CS",
@@ -2552,7 +2608,7 @@
           "rd": 141
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Cole Matayoshi",
           "team": "w",
           "section": "?",
@@ -2562,7 +2618,7 @@
           "rd": 134
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Issac Lopez",
           "team": "North\n\r\n  Bakersfield",
           "section": "CS",
@@ -2621,16 +2677,6 @@
         },
         {
           "rank": 5,
-          "name": "Lucius Hayden",
-          "team": "Los\r\n  Gatos",
-          "section": "CC",
-          "grade": "Fr",
-          "record": "15-4",
-          "rating": 1781,
-          "rd": 99
-        },
-        {
-          "rank": 6,
           "name": "Brayden Carson",
           "team": "Fountain Valley",
           "section": "SS",
@@ -2640,7 +2686,7 @@
           "rd": 79
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Jude Holiday",
           "team": "Esperanza",
           "section": "SS",
@@ -2648,6 +2694,19 @@
           "record": "13-9",
           "rating": 1708,
           "rd": 101
+        },
+        {
+          "rank": 7,
+          "name": "Dylan Tirapelle",
+          "team": "Clovis",
+          "section": "CS",
+          "grade": "So",
+          "record": "13-9",
+          "rating": 1685,
+          "rd": 94,
+          "origin_weight": 157,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 175"
         },
         {
           "rank": 8,
@@ -2805,6 +2864,19 @@
         },
         {
           "rank": 3,
+          "name": "Lucius Hayden",
+          "team": "Los\r\n  Gatos",
+          "section": "CC",
+          "grade": "Fr",
+          "record": "15-4",
+          "rating": 1781,
+          "rd": 99,
+          "origin_weight": 175,
+          "weight_source": "cut_event",
+          "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 190"
+        },
+        {
+          "rank": 4,
           "name": "Tyler Tonella",
           "team": "Palo Alto HS",
           "section": "",
@@ -2817,7 +2889,7 @@
           "entry_reason": "beat Leon Bleess (F 0-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Ari Hasani",
           "team": "Birmingham      \r\n    LOS\r\n  ANGELES",
           "section": "LA",
@@ -2827,7 +2899,7 @@
           "rd": 100
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Xander Birakos",
           "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -2837,7 +2909,7 @@
           "rd": 78
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Raiden Bishop",
           "team": "Buchanan",
           "section": "CS",
@@ -2847,7 +2919,7 @@
           "rd": 77
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "William Schindele",
           "team": "El\r\n  Toro",
           "section": "SS",
@@ -2857,7 +2929,7 @@
           "rd": 94
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ojas Shastri",
           "team": "Los\r\n  Gatos",
           "section": "CC",
@@ -2867,7 +2939,7 @@
           "rd": 109
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Michael Martinez",
           "team": "Carter",
           "section": "SS",
@@ -2877,7 +2949,7 @@
           "rd": 116
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Jovanni Mansour",
           "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2887,7 +2959,7 @@
           "rd": 105
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Cruz Taylor",
           "team": "DCWA",
           "section": "",
@@ -2900,7 +2972,7 @@
           "entry_reason": "beat Leon Bleess (D 3-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Daryn Leon",
           "team": "Brawley\r\n  Union      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2910,7 +2982,7 @@
           "rd": 107
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Jack Latta",
           "team": "Minaretes",
           "section": "CS",
@@ -2920,7 +2992,7 @@
           "rd": 162
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Alejandro Rodriquez",
           "team": "Bakersfield",
           "section": "CS",
@@ -2930,7 +3002,7 @@
           "rd": 88
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Jacob Martinez",
           "team": "Palma",
           "section": "CC",
@@ -2940,7 +3012,7 @@
           "rd": 98
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Odell Jones",
           "team": "Clovis West",
           "section": "CS",
