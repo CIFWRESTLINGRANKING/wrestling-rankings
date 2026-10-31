@@ -19,7 +19,10 @@ RULE (same for everyone):
   * Snap up to a real board weight (e.g. 162 -> 165).
   * Only moves UP, and only if that beats his current board weight
     (carank + Fargo projection). Never moves anyone down.
-  * Manual placements in weight_overrides.py run AFTER this and win.
+  * Manual placements in weight_overrides.py run AFTER this and win; a
+    wrestler listed there is skipped here.
+  * A Fargo projection (row has "proj") is newer evidence (summer 2026) and
+    is left alone.
   * Fall 2026 competed weights (Gilroy, Super 32, Freakshow) are NOT used:
     wrestlers had not cut (standing decision). Use weight_overrides.py when
     Jeff confirms a fall weight.
@@ -85,21 +88,25 @@ def projected_weight(events):
 
 def apply_history_moves(data, history, verbose=True):
     """Move boys wrestlers up to their projected weight. Returns list of moves."""
+    try:
+        from weight_overrides import OVERRIDES
+        manual = {_norm(n) for (g, n) in OVERRIDES if g == "boys"}
+    except ImportError:
+        manual = set()
     boards = {b["weight"]: b["wrestlers"] for b in data["weights"] if b["gender"] == "boys"}
     plan = []
     for wt, rows in boards.items():
         for row in rows:
-            events = history.get(_norm(row["name"]))
-            if not events:
+            key = _norm(row["name"])
+            events = history.get(key)
+            if not events or key in manual or row.get("proj"):
                 continue
             target, used = projected_weight(events)
             if target and target > wt and target in boards:
                 plan.append((wt, target, row, used))
     for cur, target, row, used in plan:
         boards[cur].remove(row)
-        row.pop("proj", None)
-        row.pop("seed_reason", None)
-        row["origin_weight"] = row.get("origin_weight", cur)
+        row["origin_weight"] = cur
         row["weight_source"] = "history"
         row["weight_reason"] = "2025-26: " + "; ".join(f"{ev} ({w})" for ev, w in used)
         dest = boards[target]
