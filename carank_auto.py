@@ -104,14 +104,10 @@ def board_from_text(wt, text):
     return rows, n_bouts, len(roster)
 
 
-TEXT_CACHE = {}   # wt -> page text from the last board_auto() (weight_history reads it)
-
-
 def board_auto(wt):
     """Full path: fetch live page, convert, parse, rate."""
     raw = fetch_page(wt)
     text = html_to_text(raw)
-    TEXT_CACHE[wt] = text
     return board_from_text(wt, text)
 
 

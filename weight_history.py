@@ -1,50 +1,44 @@
 """
-weight_history.py - carry each wrestler's 2025-26 tournament weights forward
-into his 2026-27 board placement.
+weight_history.py - put wrestlers at the weight they wrestled at the most
+recent CUT event (a tournament where guys make their competition weight).
 
-THE GAP THIS CLOSES (Jeff, 2026-10-31): board weight was carank's final
-(February) weight. Julian Holguin (Bellarmine) won Elk Grove Mettler at 132
-and took 3rd at Zinkin at 132, then cut to 126 for the postseason - so he
-sat on the 126 board for 2026-27 even though a year older he will not be
-lighter than he was last December.
+WHY (Jeff, 2026-10-31): not every tournament says anything about weight.
+At World Challenge, Arballo Holiday Hammer, Gilroy or Freakshow the guys
+don't cut much; at Super 32 or Doc B they cut, and that is where they will
+end up. Only cut events can move a wrestler. (An earlier version of this
+file carried last season's carank tournament weights forward; Jeff dropped
+that - early-season events like Mettler and Zinkin are not a weight signal,
+and last season is not this season.)
 
-RULE (same for everyone):
-  * Read every tournament placement on the wrestler's carank block, e.g.
-    "1st Elk Grove Curt Mettler (132)". League, section, division, regional
-    and dual results are ignored - those are the postseason cut weight
-    (already the board weight) or team events.
-  * Projected weight = the highest weight he wrestled at TWO or more
-    tournaments last season (the second-highest tournament weight). One
-    outing up a weight is not enough.
-  * Snap up to a real board weight (e.g. 162 -> 165).
-  * Only moves UP, and only if that beats his current board weight
-    (carank + Fargo projection). Never moves anyone down.
-  * Manual placements in weight_overrides.py run AFTER this and win; a
-    wrestler listed there is skipped here.
-  * A Fargo projection (row has "proj") is newer evidence (summer 2026) and
-    is left alone.
-  * Fall 2026 competed weights (Gilroy, Super 32, Freakshow) are NOT used:
-    wrestlers had not cut (standing decision). Use weight_overrides.py when
-    Jeff confirms a fall weight.
+HOW AN EVENT BECOMES A CUT EVENT: its file carries the header line
+    # weight_signal: cut
+Two kinds of file count:
+  * tournaments/*.tsv            bout files (both wrestlers' weights)
+  * tournaments/weights/*.tsv    entrant lists: gender, weight, first, last,
+                                 team - every CA entrant, not just bouts
+                                 between two board wrestlers
+No header = no weight signal (default). Tag Doc B, Five Counties, state,
+etc. the same way when their files are added.
 
-A moved wrestler is placed by rating on his new board (same as a manual
-override) and carries weight_source "history", origin_weight and a
-weight_reason listing the tournaments. Idempotent: once carank lists him at
-the new weight, he is already there and nothing happens.
+RULE:
+  * For each boys board wrestler found at a cut event (same name matching as
+    tournament_ingest), take his weight at the LATEST cut event.
+  * Move him to that board - up or down. A cut event this season beats
+    carank's February weight and a summer Fargo projection.
+  * Identity guard: a jump of more than 2 weight classes is NOT applied, only
+    logged ("check identity") - set it in weight_overrides.py once confirmed.
+  * Manual placements (weight_overrides.py) are skipped here and applied
+    after, so Jeff's calls always win.
+  * Placed by rating on the new board; row carries weight_source "cut_event",
+    origin_weight and weight_reason.
 """
+import glob
+import os
 import re
 import unicodedata
 
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
-MIN_EVENTS = 2
-
-GRADE_RE = re.compile(r"(FRESHMAN|SOPHOMORE|JUNIOR|SENIOR)")
-# "1st Elk Grove Curt Mettler (132)", "3-2 Qtrs. Top 12 Reno TOC (157)", "I-D, ... (165)"
-PLACE_RE = re.compile(
-    r"((?:\d{1,2}(?:st|nd|rd|th)|\d+-\d+|I-D,?|DNP)\s[^()]{2,60}?)\s*\((\d{3})\)")
-# not a weight signal: postseason/league/section (that's the cut weight) or duals
-SKIP_RE = re.compile(r"league|section|\bdiv\b|div\.|regional|\breg\.|conf\.|conference|"
-                     r"athl\.|athletic|duals|masters", re.I)
+MAX_CLASS_JUMP = 2
 
 
 def _norm(n):
@@ -53,71 +47,98 @@ def _norm(n):
     return re.sub(r"\s+", " ", re.sub(r"[^a-z ]", "", n.lower())).strip()
 
 
-def extract_history(text):
-    """From html_to_text() output, return {norm_name: [(event, weight), ...]}."""
-    import carank_auto as A
-    import carank_gen as G
-    marks = list(G.BLOCK_RE.finditer(text))
-    hist = {}
-    for i, mk in enumerate(marks):
-        seg = text[mk.end(): marks[i + 1].start() if i + 1 < len(marks) else len(text)]
-        gm = GRADE_RE.search(seg[:120])
-        if not gm:
+def _read(path):
+    meta, header, rows = {}, None, []
+    for line in open(path, encoding="utf-8"):
+        line = line.rstrip("\n")
+        if not line.strip():
             continue
-        raw = re.sub(r"^\s*(?:HM|-)\s+", "", seg[:gm.start()].lstrip(" 0123456789"))
-        name = A.split_name(raw)
-        body = seg[gm.end():]
-        cut = body.find("KEY HEAD-TO-HEADS")
-        body = re.sub(r"\s+", " ", body[:cut] if cut >= 0 else body[:1500])
-        events = [(m.group(1).strip(), int(m.group(2))) for m in PLACE_RE.finditer(body)]
-        if events:
-            hist.setdefault(_norm(name), events)
-    return hist
+        if line.startswith("#"):
+            k, _, v = line[1:].partition(":")
+            meta[k.strip()] = v.strip()
+            continue
+        f = line.split("\t")
+        if header is None:
+            header = f
+            continue
+        rows.append(dict(zip(header, f)))
+    meta.setdefault("date", os.path.basename(path)[:10])
+    meta.setdefault("event", os.path.basename(path))
+    return meta, rows
 
 
-def projected_weight(events):
-    """Highest weight wrestled at MIN_EVENTS+ tournaments, snapped to a board weight."""
-    ws = sorted((w for ev, w in events if not SKIP_RE.search(ev)), reverse=True)
-    if len(ws) < MIN_EVENTS:
-        return None, []
-    floor = ws[MIN_EVENTS - 1]
-    target = next((b for b in BOYS_WEIGHTS if b >= floor), None)
-    used = [(ev, w) for ev, w in events if not SKIP_RE.search(ev) and w >= floor]
-    return target, used
+def cut_event_entries(folder="tournaments"):
+    """[(date, event, gender, weight, first, last, team)] from cut-tagged files."""
+    out = []
+    paths = sorted(glob.glob(os.path.join(folder, "*.tsv")) +
+                   glob.glob(os.path.join(folder, "weights", "*.tsv")))
+    for p in paths:
+        meta, rows = _read(p)
+        if meta.get("weight_signal", "").lower() != "cut":
+            continue
+        for r in rows:
+            wt = int(float(r["weight"]))
+            if "w_first" in r:      # bout file: both sides
+                for s in ("w", "l"):
+                    out.append((meta["date"], meta["event"], r["gender"], wt,
+                                r[s + "_first"], r[s + "_last"], r.get(s + "_team", "")))
+            else:                   # entrant list
+                out.append((meta["date"], meta["event"], r["gender"], wt,
+                            r["first"], r["last"], r.get("team", "")))
+    return out
 
 
-def apply_history_moves(data, history, verbose=True):
-    """Move boys wrestlers up to their projected weight. Returns list of moves."""
+def apply_cut_event_weights(data, folder="tournaments", verbose=True):
+    from tournament_ingest import Resolver, _load_aliases
     try:
         from weight_overrides import OVERRIDES
         manual = {_norm(n) for (g, n) in OVERRIDES if g == "boys"}
     except ImportError:
         manual = set()
-    boards = {b["weight"]: b["wrestlers"] for b in data["weights"] if b["gender"] == "boys"}
-    plan = []
-    for wt, rows in boards.items():
-        for row in rows:
-            key = _norm(row["name"])
-            events = history.get(key)
-            if not events or key in manual or row.get("proj"):
-                continue
-            target, used = projected_weight(events)
-            if target and target > wt and target in boards:
-                plan.append((wt, target, row, used))
-    for cur, target, row, used in plan:
-        boards[cur].remove(row)
+    log = print if verbose else (lambda *a, **k: None)
+    boards = {(b["gender"], b["weight"]): b["wrestlers"] for b in data["weights"]}
+    res = Resolver(boards, lambda *a, **k: None)
+    res.aliases = _load_aliases(folder)
+
+    latest = {}   # id(row) -> (date, event, weight, cur_weight, row)
+    for date, event, g, wt, first, last, team in cut_event_entries(folder):
+        if g != "boys":
+            continue
+        ent = res.resolve(g, first, last, team)
+        if not ent:
+            continue
+        _, cur, row = ent
+        prev = latest.get(id(row))
+        if prev is None or date > prev[0] or (date == prev[0] and wt > prev[2]):
+            latest[id(row)] = (date, event, wt, cur, row)
+
+    moved = []
+    for date, event, wt, cur, row in latest.values():
+        target = next((b for b in BOYS_WEIGHTS if b >= wt), None)
+        if target is None or target == cur or ("boys", target) not in boards:
+            continue
+        if _norm(row["name"]) in manual:
+            log(f"CUT EVENT: {row['name']} wrestled {wt} at {event}; manual override applies")
+            continue
+        jump = abs(BOYS_WEIGHTS.index(target) - BOYS_WEIGHTS.index(cur))
+        if jump > MAX_CLASS_JUMP:
+            log(f"CUT EVENT: {row['name']} ({row.get('team','')}) board {cur}, wrestled "
+                f"{wt} at {event} - {jump} classes, NOT moved (check identity)")
+            continue
+        boards[("boys", cur)].remove(row)
+        for k in ("proj", "seed_reason"):
+            row.pop(k, None)
         row["origin_weight"] = cur
-        row["weight_source"] = "history"
-        row["weight_reason"] = "2025-26: " + "; ".join(f"{ev} ({w})" for ev, w in used)
-        dest = boards[target]
+        row["weight_source"] = "cut_event"
+        row["weight_reason"] = f"{event} ({date}): {wt}"
+        dest = boards[("boys", target)]
         pos = next((i for i, r in enumerate(dest) if r["rating"] < row["rating"]), len(dest))
         dest.insert(pos, row)
-        if verbose:
-            print(f"WEIGHT HISTORY: {row['name']}: {cur} -> {target} (#{pos + 1}) "
-                  f"- {row['weight_reason']}")
-    for rows in boards.values():
-        for n, r in enumerate(rows, 1):
-            r["rank"] = n
-    if verbose:
-        print(f"WEIGHT HISTORY: {len(plan)} wrestlers moved up")
-    return plan
+        moved.append((row["name"], cur, target))
+        log(f"CUT EVENT: {row['name']}: {cur} -> {target} (#{pos + 1}) - wrestled {wt} at {event}")
+    for (g, _), rows in boards.items():
+        if g == "boys":
+            for n, r in enumerate(rows, 1):
+                r["rank"] = n
+    log(f"CUT EVENT: {len(moved)} wrestlers moved")
+    return moved
