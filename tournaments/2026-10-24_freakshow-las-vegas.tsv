@@ -4,7 +4,8 @@
 # style: folkstyle
 # level: national
 # note: team field is club name (no state); kept bouts where both wrestlers match a board entry by full name.
-# note: excluded pending identity check (common name, fuzzy match and/or 15+ lb gap from board weight): Andrew Reyes v Morgan Stevens; Christopher Anderson v Nate Mitchell; Michael Martinez v Jude Holiday; Kaiden Lim v Elijah Ramirez; Sebastian Rodriguez v Landon Salindong; Peter Brown v Adam Salas (DEF); James Emery v Liam Gonzalez (MF).
+# note: excluded pending identity check (common name, fuzzy match and/or 15+ lb gap from board weight): Andrew Reyes v Morgan Stevens; Christopher Anderson v Nate Mitchell; Michael Martinez v Jude Holiday; Kaiden Lim v Elijah Ramirez; Peter Brown v Adam Salas (DEF); James Emery v Liam Gonzalez (MF).
+# note: Sebastian Rodriguez (Mantanona TC) taken as the Palm Desert board wrestler (Jeff, 2026-10-31: probably). Christopher Anderson (MAW) moved to Arizona.
 # note: weight = Freakshow competed weight (wrestlers had not cut); not used for board placement.
 gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
 boys	126	3296	Quarter-Finals	0	D	4-3	Shane	Ito	La Costa Canyon	Knox	Espinoza	Surfside RTC
@@ -21,3 +22,4 @@ boys	113	3615	Consi-Semis	1	M	12-1	Elham	Hashimi	Tri Valley Elite	Brodie	Henders
 boys	126	2036	Consi-Semis	1	D	7-1	Jacob	Rodriguez	Dark Horse	Colton	Meixner	Dark Horse
 boys	126	2051	5th Place	1	MF		Kaiden	Lepe	Pounders WC	Colton	Meixner	Dark Horse
 boys	113	3594	Semi-Finals	0	M	13-3	Frank	Fuentes	Red Star Wrestling Academy	Brodie	Henderson	Durham WC
+boys	144	2824	Semi-Finals	0	D	2-0	Sebastian	Rodriguez	Mantanona TC	Landon	Salindong	Durham Elite
