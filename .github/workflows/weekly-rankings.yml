@@ -24,6 +24,7 @@ on:
       - 'tournaments/**'
       - 'tournament_ingest.py'
       - 'weight_overrides.py'
+      - 'weight_history.py'
       - 'build_rankings_auto.py'
 
 permissions:
