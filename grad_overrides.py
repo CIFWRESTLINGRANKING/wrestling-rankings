@@ -20,15 +20,20 @@ _GRADUATED_NAMES = [
     "Henry Aslikyan", "Zachary Samano", "Troy Montero",
     # 126
     "Issac Torres", "Ricardo Ortiz", "Aaron Klein", "Jake Simmons",
-    # 132
-    "Jack Malinconico", "Jack Maliniconico", "Arno Vardanyan", "Dominic Bozanic",
+    # 132  (Jack Malinconico removed 2026-10-31: senior in 2026-27, not graduated -- Jeff, 2026-10-12)
+    "Arno Vardanyan", "Dominic Bozanic",
     # 138
     "Zaydrein Hernandez", "Raymond Rivera",
     # 144
     "Edward Sheeran", "Ames-Michael Hoevker",
 ]
 
-GRADUATED = {_norm(n) for n in _GRADUATED_NAMES}
+# Not graduated, but no longer in California: dropped from every board the same way.
+_LEFT_CALIFORNIA_NAMES = [
+    "Chris Anderson",   # Liberty (Brentwood), 126 -- moved to Arizona (Jeff, 2026-10-31)
+]
+
+GRADUATED = {_norm(n) for n in _GRADUATED_NAMES + _LEFT_CALIFORNIA_NAMES}
 
 
 def is_graduated(name):

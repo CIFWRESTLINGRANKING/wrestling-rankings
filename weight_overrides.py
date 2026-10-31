@@ -13,7 +13,9 @@ import unicodedata
 
 # (gender, name) -> weight
 OVERRIDES = {
-    ("boys", "Paul Ruiz"): 138,     # Jeff, 2026-10-10: Buchanan, wrestling 138 this year
+    ("boys", "Paul Ruiz"): 132,     # Jeff, 2026-10-31: Buchanan, 132 for now (wrestled 132 at Super 32; may go 138)
+    ("boys", "Jesse Grajeda"): 150,  # Jeff, 2026-10-31: St. John Bosco, going up to 150
+    ("boys", "Christopher Arreola"): 157,  # Jeff, 2026-10-31: Clovis North, going up to 157
 }
 
 
