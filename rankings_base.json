@@ -1041,9 +1041,7 @@
           "record": "14-3",
           "rating": 2003,
           "rd": 113,
-          "origin_weight": 126,
-          "weight_source": "history",
-          "weight_reason": "2025-26: 1st Madera Arballo Hammer (132); 1st Oakdale James Riddle (132); 2nd Buch. Zinkin Classic (132); 1st Brecksville Holiday-OH (132)"
+          "weight_source": "manual"
         },
         {
           "rank": 2,
@@ -1603,6 +1601,18 @@
         },
         {
           "rank": 9,
+          "name": "Sergio Gomez",
+          "team": "St. John Bosco",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "9-4",
+          "rating": 1670,
+          "rd": 127,
+          "proj": true,
+          "origin_weight": 157
+        },
+        {
+          "rank": 10,
           "name": "Liam Henson",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -1615,7 +1625,7 @@
           "weight_reason": "2025-26: 2nd MO Superscramble (144); 5th Madera Arballo Hammer (144); 1st Reedley CA Classic (144)"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Gabriel Champagne",
           "team": "Grace Davis",
           "section": "SJ",
@@ -1628,7 +1638,7 @@
           "weight_reason": "2025-26: 2nd Clovis West Shootout (144); 3rd Fremont Webber Lawson (144)"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Jack Giangrasso",
           "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1641,7 +1651,7 @@
           "weight_reason": "2025-26: 3rd Clovis West Shootout (144); 7th Buch. Zinkin Classic (144); 2-2 Temecula V. Battle Belt (144)"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Jayden Ramirez",
           "team": "Frontier",
           "section": "CS",
@@ -1651,7 +1661,7 @@
           "rd": 77
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Greg Ruiz",
           "team": "Sonora      \r\n    La\r\n  Habra",
           "section": "SS",
@@ -1661,7 +1671,7 @@
           "rd": 104
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Jonah Helo Blackwell",
           "team": "Central Catholic",
           "section": "SJ",
@@ -1671,7 +1681,7 @@
           "rd": 114
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Connor Miller",
           "team": "Chico",
           "section": "NS",
@@ -1979,19 +1989,6 @@
         },
         {
           "rank": 9,
-          "name": "Sergio Gomez",
-          "team": "St. John Bosco",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "9-4",
-          "rating": 1670,
-          "rd": 127,
-          "origin_weight": 157,
-          "weight_source": "history",
-          "weight_reason": "2025-26: 1st Westminster Cossarek (157); 3-2 Reno TOC (157); 0-2 Doc Buchanan (157); 2nd Five Counties (157)"
-        },
-        {
-          "rank": 10,
           "name": "Adam Salas",
           "team": "Los Alamitos",
           "section": "SS",
@@ -2001,7 +1998,7 @@
           "rd": 89
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Chase Young",
           "team": "Del\r\n  Oro      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -2011,7 +2008,7 @@
           "rd": 87
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Jisias Rodriguez",
           "team": "Los\r\n  Gatos",
           "section": "CC",
@@ -2021,7 +2018,7 @@
           "rd": 94
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "David Daniels",
           "team": "Granite\r\n  Hills      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2034,7 +2031,7 @@
           "weight_reason": "2025-26: 6th LC Canyon Hamada (157); 2nd Cimarron Spartan-NV (157); 0-2 Doc Buchanan (157)"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Hunter Luna",
           "team": "St. Francis",
           "section": "CC",
@@ -2047,7 +2044,7 @@
           "weight_reason": "2025-26: 1st Righetti Old Dutch (157); 1st Fremont Webber Lawson (157); 1st El Camino Colt Inv. (157)"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Brock Kenney",
           "team": "Trabuco\r\n  Hills",
           "section": "SS",
@@ -2057,7 +2054,7 @@
           "rd": 97
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Jesse Cruz",
           "team": "Clovis North",
           "section": "CS",
@@ -2067,7 +2064,7 @@
           "rd": 87
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Paxton Palomar",
           "team": "Kingsburg",
           "section": "CS",
@@ -2077,7 +2074,7 @@
           "rd": 103
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Charlie Herrington",
           "team": "Granada",
           "section": "NC",
@@ -2090,7 +2087,7 @@
           "weight_reason": "2025-26: 1st Clovis West Shootout (157); 2nd Oakdale James Riddle (157)"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Levi Landeros",
           "team": "Monache",
           "section": "CS",
@@ -2103,7 +2100,7 @@
           "weight_reason": "2025-26: 5-0 Lancaster High Desert (157); 1st Lemoore Deliddo (157)"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Skylar Groke",
           "team": "La\r\n  Costa      \r\n    Canyon      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2113,7 +2110,7 @@
           "rd": 117
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Cameron James",
           "team": "Centennial      \r\n    Corona",
           "section": "SS",
@@ -2126,7 +2123,7 @@
           "weight_reason": "2025-26: 4-1 Orange Luth. Lancer (157); 1-2 Scuffle in Eastvale (157); 3-2 Marina Mann Classic (157); 1st Arroyo Vorobieff (157)"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Maceson Vasquez",
           "team": "Redwood\r\n        \r\n    Visalia",
           "section": "CS",
@@ -2166,6 +2163,18 @@
         },
         {
           "rank": 3,
+          "name": "Chris Anguiano",
+          "team": "Millikan",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "18-4",
+          "rating": 1881,
+          "rd": 99,
+          "proj": true,
+          "origin_weight": 157
+        },
+        {
+          "rank": 4,
           "name": "Christian Acosta Stoeber",
           "team": "Fountain       \r\n    Valley",
           "section": "SS",
@@ -2175,7 +2184,7 @@
           "rd": 106
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Luques Sorenson",
           "team": "Yucaipa",
           "section": "SS",
@@ -2185,7 +2194,7 @@
           "rd": 100
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Sebastian Garcia",
           "team": "Junipero Serra",
           "section": "CC",
@@ -2198,7 +2207,7 @@
           "weight_reason": "2025-26: 3rd Madera Arballo Hammer (165); 2nd Fremont Webber Lawson (165); 1st Sierra Nevada Classic (165); 4th Five Counties (165)"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Leon Murphy",
           "team": "Santiago      \r\n    Corona",
           "section": "SS",
@@ -2208,7 +2217,7 @@
           "rd": 90
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Dylan Tirapelle",
           "team": "Clovis",
           "section": "CS",
@@ -2221,7 +2230,7 @@
           "weight_reason": "2025-26: 1st Clovis West Shootout (165); 4th Madera Arballo Hammer (165)"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Adrian Harris",
           "team": "Highland      \r\n    Palmdale",
           "section": "SS",
@@ -2231,7 +2240,7 @@
           "rd": 121
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ehren Thompson",
           "team": "Chaparral",
           "section": "SS",
@@ -2241,7 +2250,7 @@
           "rd": 89
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Stephen Seymour",
           "team": "Hollister",
           "section": "CC",
@@ -2251,7 +2260,7 @@
           "rd": 103
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Logan Lopez",
           "team": "Clovis East",
           "section": "CS",
@@ -2264,7 +2273,7 @@
           "weight_reason": "2025-26: 5-0 Lancaster High Desert (165); 1st Los Banos Morning Star (165)"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Cole Moules",
           "team": "Aptos",
           "section": "CC",
@@ -2274,7 +2283,7 @@
           "rd": 93
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Francois Ngambia",
           "team": "Clovis North",
           "section": "CS",
@@ -2284,7 +2293,7 @@
           "rd": 85
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Juan Gallardo",
           "team": "Wasco",
           "section": "CS",
@@ -2297,7 +2306,7 @@
           "weight_reason": "2025-26: 4th Clovis West Shootout (165); 5th Bakersfield Rumble Rig (165); 1st Central Valley Invite (165); 3rd The Bash Don Olson (165)"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cole Matayoshi",
           "team": "w",
           "section": "?",
@@ -2349,19 +2358,6 @@
         },
         {
           "rank": 4,
-          "name": "Chris Anguiano",
-          "team": "Millikan",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "18-4",
-          "rating": 1881,
-          "rd": 99,
-          "origin_weight": 157,
-          "weight_source": "history",
-          "weight_reason": "2025-26: 3rd So. Torrance Spartan (175); 1st Norco Rodeo (175)"
-        },
-        {
-          "rank": 5,
           "name": "Elijah Ornelas",
           "team": "Clovis\r\n  North",
           "section": "CS",
@@ -2371,7 +2367,7 @@
           "rd": 96
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "James Emery",
           "team": "James\r\n  Logan      \r\n    NORTH\r\n  COAST",
           "section": "NC",
@@ -2384,7 +2380,7 @@
           "weight_reason": "2025-26: 2nd Redwood Rumble (175); 1st Castro Valley Bay Area 62 (175); 3-2 Buch. Zinkin Classic (175); 2nd Liberty Lou Bronzan (175)"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Brayden Carson",
           "team": "Fountain Valley",
           "section": "SS",
@@ -2394,7 +2390,7 @@
           "rd": 94
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Jude Holiday",
           "team": "Esperanza",
           "section": "SS",
@@ -2404,7 +2400,7 @@
           "rd": 111
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Rex Topete",
           "team": "South\r\n  Hills",
           "section": "SS",
@@ -2414,7 +2410,7 @@
           "rd": 95
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Eliart Manzur",
           "team": "Palma",
           "section": "CC",
@@ -2424,7 +2420,7 @@
           "rd": 114
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Mehtaab Bhanghu",
           "team": "St.\r\n  Mary�s       \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -2434,7 +2430,7 @@
           "rd": 103
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Lucius Hayden",
           "team": "Los\r\n  Gatos",
           "section": "CC",
@@ -2444,7 +2440,7 @@
           "rd": 134
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Keanu Garcia",
           "team": "Garces      \r\n    Memorial",
           "section": "CS",
@@ -2457,7 +2453,7 @@
           "weight_reason": "2025-26: 1st Evergreen Valley Classic (175); 2-2 Qtrs. Buch. Zinkin Classic (175); 0-2 Doc Buchanan (175)"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Jayden Gonzalez",
           "team": "Shafter",
           "section": "CS",
@@ -2467,7 +2463,7 @@
           "rd": 99
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Shane Struthers",
           "team": "Clovis",
           "section": "CS",
@@ -2477,7 +2473,7 @@
           "rd": 92
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Jonathan Muxlow",
           "team": "Kingsburg",
           "section": "CS",
@@ -2487,7 +2483,7 @@
           "rd": 122
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Griffin Gerber",
           "team": "Oakdale",
           "section": "SJ",
@@ -2500,7 +2496,7 @@
           "weight_reason": "2025-26: 3rd Westminster Cossarek (175); 1st Oakdale James Riddle (175)"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Noah Soto",
           "team": "Tulare Union",
           "section": "CS",
@@ -2513,7 +2509,7 @@
           "weight_reason": "2025-26: 3rd Coyote Classic (175); 1st Central Valley Invite (175); 1st Mission Oak Hawks Inv. (175)"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Leon Bleess",
           "team": "Junipero\r\n  Serra",
           "section": "CC",
@@ -2523,7 +2519,7 @@
           "rd": 97
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Liam Gonzalez",
           "team": "Ramona      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -2533,7 +2529,7 @@
           "rd": 149
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Issac Lopez",
           "team": "North\n\r\n  Bakersfield",
           "section": "CS",
