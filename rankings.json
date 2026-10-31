@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T18:01:02.587559+00:00",
+  "generated": "2026-10-31T18:01:31.900850+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -1529,18 +1529,6 @@
         },
         {
           "rank": 4,
-          "name": "Landon Salindong",
-          "team": "Durham",
-          "section": "NS",
-          "grade": "Jr",
-          "record": "16-6",
-          "rating": 1763,
-          "rd": 91,
-          "proj": true,
-          "origin_weight": 132
-        },
-        {
-          "rank": 5,
           "name": "Vinnie Gutierrez",
           "team": "Fountain\r\n  Valley",
           "section": "SS",
@@ -1548,6 +1536,18 @@
           "record": "17-9",
           "rating": 1756,
           "rd": 87
+        },
+        {
+          "rank": 5,
+          "name": "Landon Salindong",
+          "team": "Durham",
+          "section": "NS",
+          "grade": "Jr",
+          "record": "16-7",
+          "rating": 1745,
+          "rd": 89,
+          "proj": true,
+          "origin_weight": 132
         },
         {
           "rank": 6,
@@ -1786,6 +1786,16 @@
         },
         {
           "rank": 4,
+          "name": "Sebastian Rodriguez",
+          "team": "Palm Desert",
+          "section": "SS",
+          "grade": "So",
+          "record": "16-7",
+          "rating": 1846,
+          "rd": 99
+        },
+        {
+          "rank": 5,
           "name": "Michael Terrell",
           "team": "Los Gatos",
           "section": "CC",
@@ -1793,16 +1803,6 @@
           "record": "15-5",
           "rating": 1828,
           "rd": 97
-        },
-        {
-          "rank": 5,
-          "name": "Sebastian Rodriguez",
-          "team": "Palm Desert",
-          "section": "SS",
-          "grade": "So",
-          "record": "15-7",
-          "rating": 1824,
-          "rd": 102
         },
         {
           "rank": 6,
@@ -5901,8 +5901,8 @@
       "event": "Freakshow 2026 (Las Vegas), Boys 18U + 18U Elite - both-on-board bouts only",
       "date": "2026-10-24",
       "style": "folkstyle",
-      "bouts_rated": 13,
-      "board_wrestlers_updated": 17,
+      "bouts_rated": 14,
+      "board_wrestlers_updated": 19,
       "excluded": {
         "MF": 1
       }
