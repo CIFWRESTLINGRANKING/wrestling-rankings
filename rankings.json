@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T16:35:20.165600+00:00",
+  "generated": "2026-10-31T16:52:58.929502+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -2967,9 +2967,9 @@
           "team": "Clovis",
           "section": "CS",
           "grade": "Jr",
-          "record": "23-5",
-          "rating": 1935,
-          "rd": 86
+          "record": "24-6",
+          "rating": 1938,
+          "rd": 82
         },
         {
           "rank": 3,
@@ -3083,9 +3083,9 @@
           "team": "Buchanan",
           "section": "CS",
           "grade": "So",
-          "record": "21-5",
-          "rating": 1979,
-          "rd": 87
+          "record": "21-6",
+          "rating": 1951,
+          "rd": 84
         },
         {
           "rank": 2,
@@ -3103,9 +3103,9 @@
           "team": "Oakdale      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
           "grade": "Jr",
-          "record": "19-5",
-          "rating": 1848,
-          "rd": 97
+          "record": "20-5",
+          "rating": 1879,
+          "rd": 94
         },
         {
           "rank": 4,
@@ -5907,9 +5907,11 @@
       "event": "Super 32 Challenge 2026 (Greensboro), HS Boys - CA-vs-CA bouts, both on board",
       "date": "2026-10-24",
       "style": "folkstyle",
-      "bouts_rated": 9,
-      "board_wrestlers_updated": 15,
-      "excluded": {}
+      "bouts_rated": 11,
+      "board_wrestlers_updated": 17,
+      "excluded": {
+        "MF": 1
+      }
     },
     {
       "event": "Super 32 Challenge 2026 (Greensboro), HS Girls (freestyle) - CA-vs-CA bouts, both on board",
