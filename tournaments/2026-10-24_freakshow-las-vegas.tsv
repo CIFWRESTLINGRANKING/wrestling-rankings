@@ -1,0 +1,23 @@
+# event: Freakshow 2026 (Las Vegas), Boys 18U + 18U Elite - both-on-board bouts only
+# date: 2026-10-24
+# source: flowrestling event-hub 15302740, scraped 2026-10-31
+# style: folkstyle
+# level: national
+# note: team field is club name (no state); kept bouts where both wrestlers match a board entry by full name.
+# note: excluded pending identity check (common name, fuzzy match and/or 15+ lb gap from board weight): Andrew Reyes v Morgan Stevens; Christopher Anderson v Nate Mitchell; Michael Martinez v Jude Holiday; Kaiden Lim v Elijah Ramirez; Sebastian Rodriguez v Landon Salindong; Peter Brown v Adam Salas (DEF); James Emery v Liam Gonzalez (MF).
+# note: weight = Freakshow competed weight (wrestlers had not cut); not used for board placement.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+boys	126	3296	Quarter-Finals	0	D	4-3	Shane	Ito	La Costa Canyon	Knox	Espinoza	Surfside RTC
+boys	126	3305	Consi of 8 #2	1	M	16-7	Knox	Espinoza	Surfside RTC	Gabryel	Juarez	Lion of Judah
+boys	132	450	Consi of 8 #2	1	D	8-1	Jonah	Rusca	Reedley WC	Cole	Cronan	Turlock Wrestling
+boys	165	2401	Round of 16	0	D	5-4	Cole	Matayoshi	Rawc	Juan	Gallardo	Wasco WC
+boys	132	823	Finals	0	D	4-1	Jj	Greene	The Empire	Joey	Guanella	Windsor Wrestling Club
+boys	113	3527	Quarter-Finals	0	M	8-0	Brodie	Henderson	Durham WC	Grant	Dixon	Oakdale WC
+boys	165	3840	Quarter-Finals	0	M	10-1	Griffin	Gerber	Oakdale WC	Maceson	Vasquez	Wright Wrestling Academy
+boys	113	3407	Round of 16	0	D	3-2	Frank	Fuentes	Red Star Wrestling Academy	Elham	Hashimi	Tri Valley Elite
+boys	215	520	Round of 16	0	D	7-6	Andre	Sandoval Espana	The Empire	Xander	Birakos	Oakdale WC
+boys	175	2279	Consi of 8 #2	1	D	6-4	Ehren	Thompson	Chaparral HS	Jeremy	Valdez	Servite
+boys	113	3615	Consi-Semis	1	M	12-1	Elham	Hashimi	Tri Valley Elite	Brodie	Henderson	Durham WC
+boys	126	2036	Consi-Semis	1	D	7-1	Jacob	Rodriguez	Dark Horse	Colton	Meixner	Dark Horse
+boys	126	2051	5th Place	1	MF		Kaiden	Lepe	Pounders WC	Colton	Meixner	Dark Horse
+boys	113	3594	Semi-Finals	0	M	13-3	Frank	Fuentes	Red Star Wrestling Academy	Brodie	Henderson	Durham WC

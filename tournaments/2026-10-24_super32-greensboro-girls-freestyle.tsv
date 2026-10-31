@@ -1,0 +1,8 @@
+# event: Super 32 Challenge 2026 (Greensboro), HS Girls (freestyle) - CA-vs-CA bouts, both on board
+# date: 2026-10-24
+# source: flowrestling event-hub 15966539, scraped 2026-10-31
+# style: freestyle
+# level: national
+# note: VPO mapped to D.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+girls	106	9435	Round of 16	0	D	6-0	Marcia	Nunez	CA	Angelica	Serratos	CA

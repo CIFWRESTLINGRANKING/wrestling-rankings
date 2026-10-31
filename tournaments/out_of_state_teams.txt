@@ -9,3 +9,4 @@ Snoqualmie Valley WC   # Washington
 Ingraham WC            # Washington
 Lincoln Southeast HS   # Nebraska
 Valiant College Prep   # Arizona (Scottsdale)
+Gold Rush WA           # Washington

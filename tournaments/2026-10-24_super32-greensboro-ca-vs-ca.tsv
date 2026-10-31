@@ -1,0 +1,18 @@
+# event: Super 32 Challenge 2026 (Greensboro), HS Boys - CA-vs-CA bouts, both on board
+# date: 2026-10-24
+# source: flowrestling event-hub 15966539, scraped 2026-10-31
+# style: folkstyle
+# level: national
+# note: 18 CA-vs-CA HS bouts found (team field is state only); kept bouts where both wrestlers are on a board.
+# note: Adan Castillo (285 at Super 32; board 215, Clovis) bouts vs Seja, Cooley excluded pending identity check (70 lb gap).
+# note: weight = competed weight; not used for board placement.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+boys	132	1035	Quarter-Finals	0	M	13-2	Paul	Ruiz	CA	Aaron	Meza	CA
+boys	132	5254	Round of 16	0	M	10-0	Slater	Hicks	CA	Elias	Castaneda	CA
+boys	132	1187	Consi of 4	1	D	4-1	Aaron	Meza	CA	Slater	Hicks	CA
+boys	113	1010	Quarter-Finals	0	D	6-3	Jax	Vang	CA	Michael	Bernabe	CA
+boys	120	1178	Semi-Finals	0	D	10-8	Anthony	Garza	CA	Aiden	Garcia	CA
+boys	120	4248	Consi of 32 #2	1	F	3-0	Cash	McClurg	CA	Nathaniel	Solorio	CA
+boys	138	6286	Consi of 16 #1	1	D	7-4	Vinnie	Gutierrez	CA	Cael	Humphrey	CA
+boys	157	7259	Round of 16	0	D	4-1	Chris	Arreola	CA	Jesse	Grajeda	CA
+boys	285	1266	7th Place	1	D	9-3	Sammy	Seja	CA	Andrew	Arroyo	CA
