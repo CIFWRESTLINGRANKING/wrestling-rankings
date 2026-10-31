@@ -4,7 +4,7 @@
 # style: folkstyle
 # level: national
 # note: 18 CA-vs-CA HS bouts found (team field is state only); kept bouts where both wrestlers are on a board.
-# note: Adan Castillo (285 at Super 32; board 215, Clovis) bouts vs Seja, Cooley excluded pending identity check (70 lb gap).
+# note: Adan Castillo wrestled 285 here; Jeff confirmed 2026-10-31 he is the board 215 Adan Castillo (Clovis) and stays at 215.
 # note: weight = competed weight; not used for board placement.
 gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
 boys	132	1035	Quarter-Finals	0	M	13-2	Paul	Ruiz	CA	Aaron	Meza	CA
@@ -16,3 +16,6 @@ boys	120	4248	Consi of 32 #2	1	F	3-0	Cash	McClurg	CA	Nathaniel	Solorio	CA
 boys	138	6286	Consi of 16 #1	1	D	7-4	Vinnie	Gutierrez	CA	Cael	Humphrey	CA
 boys	157	7259	Round of 16	0	D	4-1	Chris	Arreola	CA	Jesse	Grajeda	CA
 boys	285	1266	7th Place	1	D	9-3	Sammy	Seja	CA	Andrew	Arroyo	CA
+boys	285	1107	Quarter-Finals	0	D	5-3	Matthew	Cooley	CA	Adan	Castillo	CA
+boys	285	1223	Consi of 4	1	F	4-0	Adan	Castillo	CA	Sammy	Seja	CA
+boys	285	1307	5th Place	1	MF		Adan	Castillo	CA	Matthew	Cooley	CA
