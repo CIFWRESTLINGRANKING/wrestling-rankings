@@ -78,6 +78,11 @@ RESULT_WEIGHT = {"D": 1.00, "M": 1.15, "T": 1.30, "F": 1.30, "DQ": 1.00}
 NON_CONTESTED = {"FF", "MF", "INJ"}
 H2H_ALLOWANCE = {"D": 50, "DQ": 50, "M": 100, "T": 175, "F": 175}
 WATCH_RD_MAX = 200
+# Offseason uncertainty (Jeff, 2026-11-02). Board ratings come from last
+# season's carank data. Before this season's events are applied, every board
+# RD is widened as RD' = min(350, sqrt(RD^2 + C^2)), so fall results count
+# more against last season. Ratings themselves don't change.
+OFFSEASON_RD_C = 200.0
 SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
 PREFIX_RE = re.compile(r"^\s*(?:HM|-)\s+")
 
@@ -383,6 +388,9 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
     for rows in boards.values():
         for r in rows:
             r["name"] = strip_prefix(r["name"])
+            r["rd"] = round(min(BASE_RD, math.sqrt(float(r["rd"]) ** 2
+                                                   + OFFSEASON_RD_C ** 2)))
+    log(f"OFFSEASON: board RDs widened by C={OFFSEASON_RD_C:g} (cap {BASE_RD:g})")
 
     entrants = {}            # eid -> dict(state, wins_over_board, weights Counter, ...)
     touched = set()
