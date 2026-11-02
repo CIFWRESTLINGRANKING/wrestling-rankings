@@ -16,7 +16,8 @@ OVERRIDES = {
     ("boys", "Paul Ruiz"): 132,     # Jeff, 2026-10-31: Buchanan, 132 for now (wrestled 132 at Super 32; may go 138)
     ("boys", "Jesse Grajeda"): 150,  # Jeff, 2026-10-31: St. John Bosco, going up to 150
     ("boys", "Christopher Arreola"): 157,  # Jeff, 2026-10-31: Clovis North, going up to 157
-    ("boys", "Adan Castillo"): 215,  # Jeff, 2026-10-31: Clovis, stays 215 (wrestled 285 at Super 32)
+    ("boys", "Adan Castillo"): 215,
+    ("boys", "Artasam Feizi"): 126,  # Jeff, 2026-11-02: Bay Area Dragons, hold at 126 (wrestled 120 at World Challenge, not a cut event)  # Jeff, 2026-10-31: Clovis, stays 215 (wrestled 285 at Super 32)
 }
 
 

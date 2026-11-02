@@ -173,6 +173,33 @@ def _load_aliases(folder):
     return out
 
 
+def _load_distinct(folder):
+    """tournaments/distinct_wrestlers.txt: 'Name As Printed | Team As Printed'
+    per line, for tournament wrestlers Jeff has confirmed are NOT the board
+    wrestler with the same name. They are treated as non-board entrants."""
+    path = os.path.join(folder, "distinct_wrestlers.txt")
+    out = set()
+    if os.path.exists(path):
+        for l in open(path, encoding="utf-8"):
+            l = l.split("#")[0]
+            if "|" in l:
+                a, b = (x.strip() for x in l.split("|", 1))
+                if a:
+                    out.add((" ".join(_tokens(a)), _norm_team(b)))
+    return out
+
+
+def _manual_weight(gender, name):
+    try:
+        from weight_overrides import OVERRIDES, _norm
+    except ImportError:
+        return None
+    for (g, n), w in OVERRIDES.items():
+        if g == gender and _norm(n) == _norm(name):
+            return w
+    return None
+
+
 def _norm_team(t):
     return " ".join(_ascii(t or "").lower().split())
 
@@ -240,6 +267,7 @@ class Resolver:
                     self.by_surname[(g, toks[-1])].append(ent)
         self.cache = {}
         self.aliases = {}
+        self.distinct = set()
 
     @staticmethod
     def _uniq(ents):
@@ -260,6 +288,9 @@ class Resolver:
 
     def _resolve(self, gender, first, last, team):
         label = f"{first} {last} ({team})"
+        if (" ".join(_tokens(f"{first} {last}")), _norm_team(team)) in self.distinct:
+            self.log(f"  DISTINCT {label}: confirmed not the board wrestler -> non-board")
+            return None
         alias = self.aliases.get(" ".join(_tokens(f"{first} {last}")))
         if alias:
             first, last = alias.split(" ", 1)
@@ -362,6 +393,7 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
         log(f"TOURNAMENT {meta['date']} {meta['event']}: {len(rows)} bouts in file")
         res = Resolver(boards, log)
         res.aliases = _load_aliases(folder)
+        res.distinct = _load_distinct(folder)
         ids, row_of, states = {}, {}, {}
 
         def ident(g, wt, first, last, team):
@@ -462,6 +494,10 @@ def apply_tournaments(data, folder="tournaments", verbose=True):
                 log(f"  ENTRY skipped {name} ({e['team']}): out-of-state team")
             continue
         cw = e["weights"].most_common(1)[0][0]
+        # a manual placement in weight_overrides.py wins over competed weight
+        ov = _manual_weight(e["gender"], name)
+        if ov:
+            cw = ov
         if e["board_wins"]:
             key = (e["gender"], cw)
             if key not in boards:
