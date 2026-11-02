@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T17:06:23.172454+00:00",
+  "generated": "2026-11-02T17:26:48.576434+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -955,16 +955,6 @@
         },
         {
           "rank": 28,
-          "name": "Luke Tran",
-          "team": "Independence",
-          "section": "CC",
-          "grade": "Jr",
-          "record": "17-17",
-          "rating": 1511,
-          "rd": 73
-        },
-        {
-          "rank": 29,
           "name": "Alex Ramos",
           "team": "Clovis\r\n  West",
           "section": "CS",
@@ -974,7 +964,7 @@
           "rd": 91
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Caleb Cisneros",
           "team": "Selma",
           "section": "CS",
@@ -984,7 +974,7 @@
           "rd": 84
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Caden Herrera",
           "team": "Bakersfield",
           "section": "CS",
@@ -996,7 +986,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Julius Mark Villamil",
           "team": "Poway      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1008,7 +998,7 @@
           "origin_weight": 113
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Sergio Valencia",
           "team": "Farmersville",
           "section": "CS",
@@ -1018,7 +1008,7 @@
           "rd": 130
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Anthony Strahm",
           "team": "Holtville      \r\n    SAN\r\n  DIEGO",
           "section": "SD",
@@ -1026,6 +1016,16 @@
           "record": "7-10",
           "rating": 1436,
           "rd": 112
+        },
+        {
+          "rank": 34,
+          "name": "Luke Tran",
+          "team": "Independence",
+          "section": "CC",
+          "grade": "Jr",
+          "record": "10-13",
+          "rating": 1427,
+          "rd": 90
         },
         {
           "rank": 35,
@@ -1150,11 +1150,11 @@
           "section": "",
           "grade": "",
           "record": "11-3",
-          "rating": 1775,
+          "rating": 1779,
           "rd": 118,
           "provisional": true,
           "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Knox Espinoza (M 12-2, CA Super 32 Early Entry (Gilroy)); Declan Leonard (F 0-0, CA Super 32 Early Entry (Gilroy)); Luke Tran (D 4-0, SCWAY Fall Classic)"
+          "entry_reason": "beat Knox Espinoza (M 12-2, CA Super 32 Early Entry (Gilroy)); Declan Leonard (F 0-0, CA Super 32 Early Entry (Gilroy))"
         },
         {
           "rank": 9,
@@ -1349,11 +1349,11 @@
           "section": "",
           "grade": "",
           "record": "13-2",
-          "rating": 1887,
-          "rd": 109,
+          "rating": 1895,
+          "rd": 111,
           "provisional": true,
           "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Jonah Rusca (M 12-1, CA Super 32 Early Entry (Gilroy)); Luke Tran (M 13-0, SCWAY Fall Classic)"
+          "entry_reason": "beat Jonah Rusca (M 12-1, CA Super 32 Early Entry (Gilroy))"
         },
         {
           "rank": 5,
@@ -1392,6 +1392,19 @@
         },
         {
           "rank": 8,
+          "name": "Robert Estrada",
+          "team": "The Empire",
+          "section": "",
+          "grade": "",
+          "record": "9-3",
+          "rating": 1766,
+          "rd": 118,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Cole Cronan (D 8-1, CA Super 32 Early Entry (Gilroy))"
+        },
+        {
+          "rank": 9,
           "name": "Jacob Rodriguez",
           "team": "Dark Horse",
           "section": "",
@@ -1402,19 +1415,6 @@
           "provisional": true,
           "weight_source": "competed_unconfirmed",
           "entry_reason": "beat Luke Tran (D 5-1, CA Super 32 Early Entry (Gilroy)); Eliazar Valdez (D 6-5, SCWAY World Challenge (Fresno))"
-        },
-        {
-          "rank": 9,
-          "name": "Robert Estrada",
-          "team": "The Empire",
-          "section": "",
-          "grade": "",
-          "record": "9-3",
-          "rating": 1748,
-          "rd": 120,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Cole Cronan (D 8-1, CA Super 32 Early Entry (Gilroy)); Luke Tran (D 7-0, SCWAY World Challenge (Fresno))"
         },
         {
           "rank": 10,
@@ -1674,19 +1674,6 @@
         },
         {
           "rank": 10,
-          "name": "Jimmy Jimenez",
-          "team": "Elk Grove Wrestling Academy",
-          "section": "",
-          "grade": "",
-          "record": "9-3",
-          "rating": 1705,
-          "rd": 120,
-          "provisional": true,
-          "weight_source": "competed_unconfirmed",
-          "entry_reason": "beat Luke Tran (D 7-2, SCWAY World Challenge (Fresno))"
-        },
-        {
-          "rank": 11,
           "name": "Joseph Jojo Guardado",
           "team": "Esperanza",
           "section": "SS",
@@ -1699,7 +1686,7 @@
           "weight_reason": "Super 32 Challenge 2026 (Greensboro), HS Boys - every CA entrant and the weight he wrestled (2026-10-24): 138"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Micah Wegman",
           "team": "Calabasas",
           "section": "SS",
@@ -1709,7 +1696,7 @@
           "rd": 117
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Declan Shea",
           "team": "Sutter\r\n  Union",
           "section": "SJ",
@@ -1719,7 +1706,7 @@
           "rd": 88
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Jack Giangrasso",
           "team": "Vacaville      \r\n    SAC\r\n  JOAQUIN",
           "section": "SJ",
@@ -1729,7 +1716,7 @@
           "rd": 73
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Brian Miller",
           "team": "Palo\r\n  Alto",
           "section": "CC",
@@ -1741,7 +1728,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Cruz Contreras",
           "team": "Aptos",
           "section": "CC",
@@ -1753,7 +1740,7 @@
           "origin_weight": 132
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Frank Lopez",
           "team": "The Empire",
           "section": "",
@@ -1766,7 +1753,7 @@
           "entry_reason": "beat Caleb Cisneros (D 11-10, SCWAY World Challenge (Fresno))"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Liam Henson",
           "team": "Mission\r\n  Oak",
           "section": "CS",
@@ -1776,7 +1763,7 @@
           "rd": 88
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Cole Schmidt",
           "team": "Windsor",
           "section": "NC",
@@ -1786,7 +1773,7 @@
           "rd": 93
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Luke Menzimer",
           "team": "La Costa      \r\n    Canyon",
           "section": "SD",
@@ -1796,7 +1783,7 @@
           "rd": 122
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Joseph Ramirez",
           "team": "El Modena",
           "section": "SS",
@@ -1806,7 +1793,7 @@
           "rd": 90
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Dalton Benicki",
           "team": "Motherlode Wrestling Club",
           "section": "",
@@ -1819,7 +1806,7 @@
           "entry_reason": "beat Kayleb Chao (D 2-1, SCWAY Clash)"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Anjelo Reyes",
           "team": "Madera",
           "section": "CS",
@@ -1829,7 +1816,7 @@
           "rd": 83
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Gabriel Champagne",
           "team": "Grace Davis",
           "section": "SJ",
@@ -1839,7 +1826,7 @@
           "rd": 111
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Aeden Ortega",
           "team": "El Diamante",
           "section": "CS",
@@ -1849,7 +1836,7 @@
           "rd": 96
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Mason Blair",
           "team": "Clovis\r\n  North",
           "section": "CS",
@@ -1859,7 +1846,7 @@
           "rd": 84
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Theodore Young",
           "team": "Whitney",
           "section": "SJ",
@@ -1869,7 +1856,7 @@
           "rd": 126
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Cameron James",
           "team": "Centennial      \r\n    Corona",
           "section": "SS",
@@ -1879,7 +1866,7 @@
           "rd": 98
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Christian Ripa",
           "team": "Mission Vista",
           "section": "SD",
@@ -4648,6 +4635,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jimmy Jimenez",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Elk Grove Wrestling Academy",
+      "rank": null,
+      "rating": 1726,
+      "rd": 120,
+      "record": "9-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Maddy Gray",
       "gender": "girls",
       "competed_weight": 110,
@@ -4840,6 +4839,18 @@
       "status": "provisional"
     },
     {
+      "name": "Luke Tran",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "The Snake Pit",
+      "rank": null,
+      "rating": 1693,
+      "rd": 119,
+      "record": "7-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Isaiah Reyes",
       "gender": "boys",
       "competed_weight": 126,
@@ -4900,6 +4911,18 @@
       "status": "provisional"
     },
     {
+      "name": "Gavin Hill",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "",
+      "rank": null,
+      "rating": 1683,
+      "rd": 131,
+      "record": "6-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jordan Duszynski",
       "gender": "boys",
       "competed_weight": 126,
@@ -4932,18 +4955,6 @@
       "rating": 1680,
       "rd": 125,
       "record": "8-3",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Gavin Hill",
-      "gender": "boys",
-      "competed_weight": 132,
-      "team": "",
-      "rank": null,
-      "rating": 1678,
-      "rd": 132,
-      "record": "6-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6328,6 +6339,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jeovanni Guerrero",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Clovis East",
+      "rank": null,
+      "rating": 1545,
+      "rd": 146,
+      "record": "4-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Colton Castle",
       "gender": "boys",
       "competed_weight": 132,
@@ -6484,6 +6507,18 @@
       "status": "provisional"
     },
     {
+      "name": "Javy Gray",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Vasky Bros",
+      "rank": null,
+      "rating": 1533,
+      "rd": 132,
+      "record": "5-5",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Alessandro Barrios",
       "gender": "boys",
       "competed_weight": 126,
@@ -6528,18 +6563,6 @@
       "rating": 1527,
       "rd": 121,
       "record": "7-6",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Javy Gray",
-      "gender": "boys",
-      "competed_weight": 138,
-      "team": "Vasky Bros",
-      "rank": null,
-      "rating": 1527,
-      "rd": 132,
-      "record": "5-5",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6784,6 +6807,18 @@
       "status": "provisional"
     },
     {
+      "name": "Samuel Briggs",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Cyc",
+      "rank": null,
+      "rating": 1513,
+      "rd": 139,
+      "record": "4-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Domenic Novosel",
       "gender": "boys",
       "competed_weight": 126,
@@ -6984,18 +7019,6 @@
       "rating": 1503,
       "rd": 185,
       "record": "2-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Jeovanni Guerrero",
-      "gender": "boys",
-      "competed_weight": 132,
-      "team": "Clovis East",
-      "rank": null,
-      "rating": 1502,
-      "rd": 141,
-      "record": "4-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7564,18 +7587,6 @@
       "status": "provisional"
     },
     {
-      "name": "Samuel Briggs",
-      "gender": "boys",
-      "competed_weight": 126,
-      "team": "Cyc",
-      "rank": null,
-      "rating": 1480,
-      "rd": 133,
-      "record": "4-4",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Leonidus Chhav",
       "gender": "boys",
       "competed_weight": 165,
@@ -7788,6 +7799,18 @@
       "rating": 1461,
       "rd": 141,
       "record": "3-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mikey Sheen",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Clovis High",
+      "rank": null,
+      "rating": 1460,
+      "rd": 122,
+      "record": "5-6",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -8064,18 +8087,6 @@
       "rating": 1434,
       "rd": 192,
       "record": "1-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Mikey Sheen",
-      "gender": "boys",
-      "competed_weight": 132,
-      "team": "Clovis High",
-      "rank": null,
-      "rating": 1430,
-      "rd": 122,
-      "record": "5-6",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -8896,6 +8907,18 @@
       "status": "provisional"
     },
     {
+      "name": "Issac Arismendez",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Elite Force Wrestling Club",
+      "rank": null,
+      "rating": 1360,
+      "rd": 196,
+      "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Israel Velasquez",
       "gender": "boys",
       "competed_weight": 144,
@@ -9040,18 +9063,6 @@
       "status": "provisional"
     },
     {
-      "name": "Mason Thor",
-      "gender": "boys",
-      "competed_weight": 132,
-      "team": "Merced Bears",
-      "rank": null,
-      "rating": 1328,
-      "rd": 199,
-      "record": "1-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Jaime Teodoro",
       "gender": "boys",
       "competed_weight": 120,
@@ -9180,18 +9191,6 @@
       "rating": 1306,
       "rd": 170,
       "record": "2-4",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Issac Arismendez",
-      "gender": "boys",
-      "competed_weight": 132,
-      "team": "Elite Force Wrestling Club",
-      "rank": null,
-      "rating": 1306,
-      "rd": 185,
-      "record": "1-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -9894,7 +9893,7 @@
       "date": "2026-09-19",
       "style": "folkstyle",
       "bouts_rated": 530,
-      "board_wrestlers_updated": 19,
+      "board_wrestlers_updated": 18,
       "excluded": {
         "FF": 19,
         "INJ": 1,
@@ -9906,7 +9905,7 @@
       "date": "2026-10-10",
       "style": "folkstyle",
       "bouts_rated": 786,
-      "board_wrestlers_updated": 49,
+      "board_wrestlers_updated": 48,
       "excluded": {
         "FF": 26,
         "INJ": 3,
