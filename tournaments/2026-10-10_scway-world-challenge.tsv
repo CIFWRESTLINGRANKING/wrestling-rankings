@@ -1,0 +1,833 @@
+# event: SCWAY World Challenge (Fresno)
+# date: 2026-10-10
+# source: boutboard tournamentId=fsdtb6kgn7igb8x
+# style: folkstyle
+# level: varsity
+# note: cleaned Boutboard name: Joseph "THE ROOSTER" Cervantes -> Joseph Cervantes.
+gender	weight	match	round	cons	result	score	w_first	w_last	w_team	l_first	l_last	l_team
+boys	106	2000	Round of 16	0	T	15-0	Ian	Perryman	Cgwc	Aiden	Alejo	Outlaws Wc
+boys	113	2002	Round of 32	0	D	6-5	Aiden	Salindong	Durham Wrestling Club	Matteo	Arriaga	Grapevine Grapplers
+boys	113	2003	Round of 32	0	M	13-1	Ryan	Shirazi	The 300 Wrestling Club	Triton	Paris	Clovis High
+boys	113	2004	Round of 32	0	T	15-0	Omar	Safi	Overtime Wrestling Academy	Marcus	Munoz	Wright Wrestling Academy
+boys	120	2005	Round of 64	0	M	10-0	Maddux	Guerra	Daniel Cormier Wrestling Academy	Jacob	Lee	Oakdale
+boys	126	2006	Round of 64	0	D	2-0	Mason	Vasquez	Awa	Dominic	Salazar	Darkhorse
+boys	126	2007	Round of 64	0	D	5-1	Mason	Jasper	Gallardo Wrestling Academy	Anthony	Maldonado	Paso Robles High School
+boys	126	2008	Round of 64	0	M	13-1	Christopher	Sizemore	Jg Takedown	Maverick	Ortiz	Clovis High
+boys	126	2009	Round of 64	0	D	4-1	Houston	Schneider	Wright Wrestling Academy	Jacob	Pham	Awa
+boys	126	2010	Round of 64	0	T	16-0	Jacob	Rodriguez	Darkhorse	Isaiah	Ybarra	Righetti High School
+boys	126	2011	Round of 64	0	F	6-8	Kawika	Roy	Silver Creek Wc	Christian	Bravo	Pacheco High School
+boys	126	2012	Round of 64	0	D	10-5	Angel	Bombela	Wright Wrestling Academy	Dylan	Felipe	Awa
+boys	126	2013	Round of 64	0	T	19-2	Angelo	Ortega	Gallardo Wrestling Academy	Adam	Pineda	Paso Robles High School
+boys	126	2014	Round of 64	0	M	16-4	Julian	Martinez	Jg Takedown	Alan	Taing	Clovis High
+boys	126	2015	Round of 64	0	F	7-0	Colton	Meixner	Darkhorse	Mike	Almaguer	Righetti High School
+boys	126	2016	Round of 64	0	T	18-2	Domenic	Novosel	The 300 Wrestling Club	Carter	Spangler	Vasky Bros
+boys	126	2017	Round of 64	0	F	7-0	Alex	Ortiz	Team Selma Wrestling Club	Lukas	Rodriguez	Vacaville Wrestling Club
+boys	132	2018	Round of 32	0	F	10-0	Caleb	Smith	Elite Force Wrestling Club	Ernesto	Sanchez	Corona 100
+boys	132	2019	Round of 32	0	F	10-2	Evan	Ruiz	Central Valley Bengals	Gavin	Stalsworth	High Desert Wrestling Club
+boys	132	2020	Round of 32	0	T	18-3	Mario	Calderon	Central Grizzlies Wrestling Club	Andres	Razon	Clovis West
+boys	132	2021	Round of 32	0	F	8-0	Peyton	Bowlin	Elite Force Wrestling Club	Amir	Vongphackdy	Clovis West
+boys	132	2022	Round of 32	0	T	21-5	Jimmy	Jimenez	Elk Grove Wrestling Academy	Jeovanni	Guerrero	Clovis East
+boys	132	2023	Round of 32	0	F	9-0	Colton	Castle	Buchanan	Julian	Flores IV	Kings Wrestling
+boys	132	2024	Round of 32	0	D	8-5	Ethan	Villagran	Corona 100	Arrian	Murillo	Central Valley Bengals
+boys	132	2026	Round of 32	0	D	7-3	Riley	Ballard	Daniel Cormier Wrestling Academy	Caiden	Avila	Mad-town
+boys	132	2027	Round of 32	0	T	20-5	Brett	Crowley	Vacaville Wrestling Club	Adam	Rezeik	Tri Valley Elite Wrestling Club
+boys	132	2028	Round of 32	0	D	6-2	Max	Mendoza	Wright Wrestling Academy	Steve	Martinez	Righetti High School
+boys	138	2029	Round of 64	0	M	9-1	tanner	frisco	Clovis High	Isaiah	Perez	Clovis High
+boys	138	2030	Round of 64	0	T	18-0	Carson	Quesada	Clovis High	Nicholas	Diaz	Cgwc
+boys	138	2031	Round of 64	0	D	2-0	Javy	Gray	Vasky Bros	Arkar	Hein	North Coast Grapplers
+boys	138	2032	Round of 64	0	T	15-0	Caleb	Chacon	Clovis High	Syrus	Saunders	Clovis High
+boys	138	2033	Round of 64	0	D	10-6	Marcus	Troxell	Oakdale	Joshua	Pullins	Cyc
+boys	138	2034	Round of 64	0	F	3-0	Mateo	Heredia	Daniel Cormier Wrestling Academy	Isaiah	Villasana	Clovis East
+boys	138	2035	Round of 64	0	D	2-1	Dylan	Morton	Brawlers Wrestling Club	Iziah	Enos	Wright Wrestling Academy
+boys	144	2036	Round of 32	0	F	5-0	Jake	Hocker	Elk Grove Wrestling Academy	Reynaldo	Saldana	Clovis East
+boys	144	2037	Round of 32	0	FF	0-0	Josh	Garcia	Vasky Bros	Ian	Negrete	Wright Wrestling Academy
+boys	144	2038	Round of 32	0	M	9-1	Benjamin	Marquez	Clovis High	Muhanad	Abdulkareem	The 300 Wrestling Club
+boys	144	2039	Round of 32	0	F	9-1	Barrett	Silva	Central Catholic	Logan	Cervantes	Scotsmen Wrestling Club
+boys	144	2040	Round of 32	0	F	3-0	Cole	Schmidt	Windsor Wrestling Club	Saul	Coronado	Paso Robles High School
+boys	144	2041	Round of 32	0	D	9-6	Adrian	Adame	The Empire	Andrew	Gomez	Livermore Elite Wrestling Club
+boys	144	2042	Round of 32	0	T	19-3	Landon	Salindong	Durham Wrestling Club	Tommy	Magallanes	Jg Takedown
+boys	144	2043	Round of 32	0	D	7-2	Maddox	Hazard	High Desert Wrestling Club	Uryah	Vallejo	Clovis East
+boys	144	2044	Round of 32	0	FF	0-0	Romi	Cohen	Vasky Bros	John	Benitez	Wright Wrestling Academy
+boys	144	2045	Round of 32	0	T	17-1	Cj	Lopez	Elk Grove Wrestling Academy	Brooks	Howard	Clovis West
+boys	144	2046	Round of 32	0	FF	0-0	Silas	Preciado	Sbtc	Brody	Sigala	Central Grizzlies Wrestling Club
+boys	144	2047	Round of 32	0	INJ	0-0	Naun	Mendez	Firebaugh Wrestling Club	Leonidas	Marinopoulos	Cardinal WC
+boys	144	2048	Round of 32	0	T	16-1	Michael	Nava	Southwest Stallions Wc	Benny	Gomez	Darkhorse
+boys	150	2049	Round of 32	0	F	0-0	Tyler	Wexler	The 300 Wrestling Club	Gabriel	Quintana	Wright Wrestling Academy
+boys	150	2050	Round of 32	0	D	1-0	Justice	Commendatore	Daniel Cormier Wrestling Academy	Jesse	Rivera	The Empire
+boys	150	2051	Round of 32	0	T	17-2	Raymond	Castillo	Bay Area Dragons	Adren	Avanes	Vasky Bros
+boys	150	2052	Round of 32	0	F	8-0	Helo	Blackwell	Central Catholic	Ray	Leon	Wright Wrestling Academy
+boys	150	2053	Round of 32	0	F	6-2	Maximino	Gonzalez III	Clovis High	Joshua	Flynt	Clovis East
+boys	150	2054	Round of 32	0	F	3-0	Michael	Disa Scott	Golden State Wrestling	Ryan	Da Luz	Paso Robles High School
+boys	150	2055	Round of 32	0	F	7-0	Jack	Bronte	Livermore Elite Wc	Devin	Garcia	Clovis High
+boys	150	2056	Round of 32	0	M	13-0	Troy	Ruiz	The Empire	Coleman	Smith	Wright Wrestling Academy
+boys	150	2057	Round of 32	0	T	18-2	Max	Torres	Daniel Cormier Wrestling Academy	Cyrus	Tamplen	The 300 Wrestling Club
+boys	150	2058	Round of 32	0	M	8-0	Angel	Nguyen	Central Catholic	Titus	Silveria	Vasky Bros
+boys	150	2060	Round of 32	0	F	0-1	Uriel	Perez	Clovis West	Jude	Baker	Wright Wrestling Academy
+boys	150	2061	Round of 32	0	D	6-3	Dwight	Skinner	Oakdale	Ozzy	Silveira	Chowchilla
+boys	150	2062	Round of 32	0	F	3-0	Kevin	Quinteros	Firebaugh Wrestling Club	Erdem	Ayaz	Darkhorse
+boys	157	2063	Round of 32	0	F	6-0	Calan	Childress	Righetti High School	Aaron	Lee	Corona 100
+boys	157	2064	Round of 32	0	D	7-5	Jaden	Peralta	Vacaville Wrestling Club	Adam	Alvarez	Team Selma Wrestling Club
+boys	157	2065	Round of 32	0	F	8-1	Anjelo	Reyes	Mad-town	Jodel	Biscocho	Golden State Wrestling
+boys	157	2066	Round of 32	0	D	5-2	Mattius	Gonzalez	Turlock Wrestling	Jacob	Rodriguez	Righetti High School
+boys	157	2067	Round of 32	0	M	8-0	Anthony	Oda	Ssf Gators	Malachi	Gomez	Central Valley Bengals
+boys	157	2068	Round of 32	0	T	16-1	jack	giangrasso	Vacaville Wrestling Club	Jusiah	Platas	Team Selma Wrestling Club
+boys	157	2069	Round of 32	0	M	9-1	Javian	Palomino	Bay Area Dragons	Joshua	Rodriguez	West Valley Grapplers
+boys	157	2070	Round of 32	0	D	7-1	Jayden	Jaramillo	Clovis High	Nathan	Villalovos	Righetti High School
+boys	157	2071	Round of 32	0	F	14-2	Anthony	Gamboa	Wright Wrestling Academy	Armaanpreet	Singh	Jg Takedown
+boys	157	2072	Round of 32	0	D	6-5	Samuel	montez	Team Selma Wrestling Club	Ethan	Lopez	Vasky Bros
+boys	165	2073	Round of 16	0	D	7-3	Shane	Struthers Jr	Clovis High	Addicus	Dansby	The Empire
+boys	165	2074	Round of 16	0	M	10-1	Grayson	Gaspar	Gallardo Wrestling Academy	Alexis	Toledo	Los Banos
+boys	165	2075	Round of 16	0	F	10-1	Jordan	Maldonado	Wright Wrestling Academy	Lucas	Valdez	Clovis High
+boys	165	2076	Round of 16	0	F	5-0	Leonidus	Chhav	The Empire	Tyler	Wise	Corona 100
+boys	165	2077	Round of 16	0	F	9-0	Ceaser	Soto	Clovis West	Nathan	Nunez	Porterville
+boys	165	2078	Round of 16	0	D	6-5	daniel	Cormier II	Daniel Cormier Wrestling Academy	Demicio	Ramirez	Clovis East
+boys	165	2079	Round of 16	0	D	12-5	Finn	Devine	Team Aggression	Charlie	Herrington	Livermore Elite Wc
+boys	175	2080	Round of 32	0	M	11-1	Jon	Zamora	Clovis High	Gabriel	DeHaro	Corona 100
+boys	175	2081	Round of 32	0	D	4-2	Jisias	Rodriguez	Bay Area Dragons	William	Moran	Team Agression
+boys	175	2082	Round of 32	0	T	17-1	Jayremia	Barrera	Firebaugh Wrestling Club	Cristofer	Melgar	Paso Robles High School
+boys	175	2083	Round of 32	0	D	13-6	Randy	Lopez	Clovis High	Carter	Steen	Corona 100
+boys	175	2084	Round of 32	0	FF	0-0	Zachary	Young	Swamp Monsters	Graeden	Garcia	Wright Wrestling Academy
+boys	175	2085	Round of 32	0	D	4-1	Jameson	King	Elite Force Wrestling Club	elias	tadros	Southwest Stallions Wc
+boys	175	2086	Round of 32	0	D	7-0	Drake	Mello	Durham Wrestling Club	Rowen	Melching	The Empire
+boys	190	2087	Round of 32	0	F	3-0	Easton	Glanville	Oakdale	Aidan	Lindsey	Corona 100
+boys	190	2088	Round of 32	0	F	6-1	Jermaine	Soto	Daniel Cormier Wrestling Academy	EVAN	MONTALVO	The Empire
+boys	190	2089	Round of 32	0	F	3-0	Jack	Ceja	Vasky Bros	Maddyx	Sherwood	Southwest Stallions Wc
+boys	215	2090	Round of 16	0	T	17-1	Landry	Ngambia	Darkhorse	Xavier	Salcedo	Clovis High
+boys	215	2091	Round of 16	0	F	9-0	Matthew	Vandermeer	The Empire	Ivan	Cisneros	Jg Takedown
+boys	215	2092	Round of 16	0	D	10-3	Isaac	Garcia	North Coast Grapplers	David	Gusimat	Vasky Bros
+boys	215	2093	Round of 16	0	F	13-0	Daniel	Garcia	Clovis High	Ennis	Allozy	Clovis West
+boys	215	2094	Round of 16	0	F	10-0	Leonidas Jacob	Garcia	Darkhorse	Gunner	Pommerville	CA Gladiators WC
+boys	215	2095	Round of 16	0	T	17-1	Esai	Sandez	The 300 Wrestling Club	Empyre	Pena	Daniel Cormier Wrestling Academy
+boys	215	2096	Round of 16	0	F	13-1	Tyson	Ahumada	Paso Robles High School	Jared	Ortiz	Firebaugh Wrestling Club
+boys	285	2097	Round of 16	0	F	9-2	Sammy	Seja	The Empire	Mike	Molinar	Corona 100
+boys	285	2098	Round of 16	0	M	11-3	Edwin	Davis	Central Grizzlies Wrestling Club	Vicente	Cordoza	Firebaugh Wrestling Club
+boys	285	2099	Round of 16	0	T	23-4	Michael	Roque	Team Selma Wrestling Club	Kenneth	Jacobus	Paso Robles High School
+boys	285	2100	Round of 16	0	M	10-0	Lewis	Fofanah	Poway	Carson	Smith	Darkhorse
+boys	285	2101	Round of 16	0	F	6-1	Eli	Swartz	Central Catholic	Jesus	Hernandez	Corona 100
+boys	285	2102	Round of 16	0	F	2-0	Saul	Paz	The Empire	Abner	Castellanos	Clovis West
+boys	285	2103	Round of 16	0	D	7-0	Chad	Sanchez	Clovis East	Vincent	Agbalog	Daniel Cormier Wrestling Academy
+boys	285	2104	Round of 16	0	M	12-4	Adan	Castillo	Clovis High	Michael	Gilinsky	Crater High School
+boys	106	2105	Quarter-Finals	0	F	10-4	Seth	Sobaje	The Empire	Ian	Perryman	Cgwc
+boys	106	2106	Quarter-Finals	0	D	9-3	Urijah	Rucobo	Righetti High School	rex kohner	kohner	Brawlers Wrestling Club
+boys	106	2107	Quarter-Finals	0	D	5-2	Nathan	Castro	Bullard	Zachary	Tirapelle	Clovis High
+boys	106	2108	Quarter-Finals	0	T	16-0	Aaron	Lopez	Clovis West	Ian	Lopez	Central Grizzlies Wrestling Club
+boys	113	2109	Round of 16	0	D	9-4	Nathiel	Nava	Southwest Stallions Wc	Mustafa	Mohammadi	Gallardo Wrestling Academy
+boys	113	2110	Round of 16	0	F	6-6	Landon	Wakabayashi	Vacaville Wrestling Club	Christopher	Madero	Central Valley Bengals
+boys	113	2111	Round of 16	0	F	3-0	Manuel	Cacoilo	Daniel Cormier Wrestling Academy	Jaedin	Chin	Ssf Gators
+boys	113	2112	Round of 16	0	T	18-0	Joseph	Cervantes	The Empire	Aiden	Salindong	Durham Wrestling Club
+boys	113	2113	Round of 16	0	D	3-1	Aaden	Lopez	Daniel Cormier Wrestling Academy	Ryan	Shirazi	The 300 Wrestling Club
+boys	113	2114	Round of 16	0	M	14-0	Slate	Bayona	Clovis High / Dethrone	Micah	Pettis	Team Aggression
+boys	113	2115	Round of 16	0	D	16-10	Steve	Garcia	Firebaugh Wrestling Club	Grant	Dixon	Oakdale
+boys	113	2116	Round of 16	0	M	12-0	Elham	Hashimi	Tri Valley Elite Wrestling Club	Omar	Safi	Overtime Wrestling Academy
+boys	120	2117	Round of 32	0	D	7-0	Maddux	Guerra	Daniel Cormier Wrestling Academy	Ayaan	Naseer	Clovis High
+boys	120	2119	Round of 32	0	F	6-3	Artasam	Feizi	Bay Area Dragons	Tyce	Day	CA Gladiators WC
+boys	120	2120	Round of 32	0	F	7-0	Carson	Wyatt	Sbtc	Isaac	Rivera	Clovis East
+boys	120	2121	Round of 32	0	T	16-1	Eli	Mayer	Vacaville Wrestling Club	Dreyten	Xiong	Clovis High
+boys	120	2122	Round of 32	0	D	12-7	Lucas	Duram	Mad-town	Darius	Saremi	Southwest Stallions Wc
+boys	120	2123	Round of 32	0	D	3-0	Jason	Liau	Awa	Mason	Gonzalez	Blades Wrestling
+boys	120	2124	Round of 32	0	D	7-3	Pancho	Fuentes	Edison High School	Noah	Espinoza	Central Catholic
+boys	120	2125	Round of 32	0	F	11-0	Roman	Fonseca	Daniel Cormier Wrestling Academy	Evan	Caito	Jaguars Wrestling Club
+boys	120	2126	Round of 32	0	F	15-2	Gabriel	Martinez	Vacaville Wrestling Club	Eli	Morgan	Oakdale
+boys	120	2127	Round of 32	0	D	7-4	Vander	Gibson	Origin Training Center	Mason	Moua	Clovis South/sbtc
+boys	120	2128	Round of 32	0	M	10-0	Jaden	Yacuta	Outlaws Wc	Jonas	Suarez	Team Selma Wrestling Club
+boys	120	2129	Round of 32	0	F	13-8	Jack	Moreno	Aptos	Daniel A	Moreno	Clovis High
+boys	120	2130	Round of 32	0	T	15-0	Brayden	Hankins	Wright Wrestling Academy	Juelz	Brewick	Livermore Elite Wrestling Club
+boys	120	2131	Round of 32	0	F	7-0	Logan	Tran	Livermore Elite Wc	Devin	Acosta	Vasky Bros
+boys	120	2132	Round of 32	0	T	19-4	Eli	Mendoza	Daniel Cormier Wrestling Academy	Jadyen	Dacanay	North Coast Grapplers
+boys	126	2133	Round of 32	0	D	3-2	Mason	Vasquez	Awa	Alessandro	Barrios	Wright Wrestling Academy
+boys	126	2134	Round of 32	0	F	7-0	Xavier	Garcia	Clovis West	Isiah	Vasquez	Vasky Bros
+boys	126	2135	Round of 32	0	M	12-4	Mason	Jasper	Gallardo Wrestling Academy	Matthew	Pelayo	Dethrone
+boys	126	2136	Round of 32	0	M	11-0	Christopher	Sizemore	Jg Takedown	Dylan	Limon	CA Gladiators WC
+boys	126	2137	Round of 32	0	M	10-2	Sebastian	Cisneros	The Empire	Houston	Schneider	Wright Wrestling Academy
+boys	126	2138	Round of 32	0	D	8-3	Jacob	Rodriguez	Darkhorse	Jaiden	Palomino	West Valley Grapplers
+boys	126	2139	Round of 32	0	F	3-0	Benjamin	Maradiaga	Elite Force Wrestling Club	Luis	Hernandez	Cgwc
+boys	126	2140	Round of 32	0	D	12-8	Kawika	Roy	Silver Creek Wc	Massi	Nawabi	North Coast Grapplers
+boys	126	2141	Round of 32	0	M	22-10	Bryce	Dacoco	Vasky Bros	Angel	Bombela	Wright Wrestling Academy
+boys	126	2142	Round of 32	0	F	3-10	Mason	Vital	Clovis West	Jacob	Correa	Righetti High School
+boys	126	2143	Round of 32	0	D	8-5	Angelo	Ortega	Gallardo Wrestling Academy	Jayden	Gonzalez	Dethrone
+boys	126	2144	Round of 32	0	F	9-11	Logan	Hayashi	Clovis High / Dethrone	Julian	Martinez	Jg Takedown
+boys	126	2145	Round of 32	0	F	6-1	Colton	Meixner	Darkhorse	Linkin	Vasquez	Wright Wrestling Academy
+boys	126	2146	Round of 32	0	D	5-0	Domenic	Novosel	The 300 Wrestling Club	Evan	Villagran	Corona 100
+boys	126	2147	Round of 32	0	M	8-0	Isaiah	Reyes	Scotsmen Wrestling Club	Julio	Zendejas	Team Aggression
+boys	126	2148	Round of 32	0	F	15-0	Eliazar	Valdez	Central Catholic	Alex	Ortiz	Team Selma Wrestling Club
+boys	132	2149	Round of 16	0	T	16-1	JJ	Greene	The Empire	Caleb	Smith	Elite Force Wrestling Club
+boys	132	2150	Round of 16	0	D	7-0	Mario	Calderon	Central Grizzlies Wrestling Club	Evan	Ruiz	Central Valley Bengals
+boys	132	2151	Consi-of-16-1	1	T	16-0	Gavin	Stalsworth	High Desert Wrestling Club	Andres	Razon	Clovis West
+boys	132	2152	Round of 16	0	D	10-3	Jimmy	Jimenez	Elk Grove Wrestling Academy	Peyton	Bowlin	Elite Force Wrestling Club
+boys	132	2153	Consi-of-16-1	1	F	6-0	Jeovanni	Guerrero	Clovis East	Amir	Vongphackdy	Clovis West
+boys	132	2154	Round of 16	0	F	3-4	Steven	Torres	Chowchilla	Colton	Castle	Buchanan
+boys	132	2155	Round of 16	0	D	10-6	Issac	Arismendez	Elite Force Wrestling Club	Ethan	Villagran	Corona 100
+boys	132	2156	Round of 16	0	F	9-1	Luke	Tran	The Snake Pit	Mikey	Sheen	Clovis High
+boys	132	2157	Round of 16	0	M	12-4	Brett	Crowley	Vacaville Wrestling Club	Riley	Ballard	Daniel Cormier Wrestling Academy
+boys	132	2158	Consi-of-16-1	1	M	10-0	Caiden	Avila	Mad-town	Adam	Rezeik	Tri Valley Elite Wrestling Club
+boys	132	2159	Round of 16	0	M	13-0	Robert	Estrada	The Empire	Max	Mendoza	Wright Wrestling Academy
+boys	138	2160	Round of 32	0	F	20-8	Paul	Ruiz	The Empire	tanner	frisco	Clovis High
+boys	138	2161	Round of 32	0	D	6-3	Gavin	Pongsai	Daniel Cormier Wrestling Academy	Caleb	Cisneros	Team Selma Wrestling Club
+boys	138	2162	Round of 32	0	F	3-0	Julian	Terrones	Clovis West	Gavin	Nelms	Porterville
+boys	138	2163	Round of 32	0	F	5-4	Mario	Jones	The 300 Wrestling Club	Jose	Rodriguez III	Los Banos
+boys	138	2164	Round of 32	0	F	9-2	Carson	Quesada	Clovis High	Frankie	Sandoval	Clovis High
+boys	138	2165	Round of 32	0	F	11-4	Jovani	Sandoval	Elk Grove Wrestling Academy	James	Gomez	Darkhorse
+boys	138	2166	Round of 32	0	T	22-2	William	Parsons	Vacaville Wrestling Club	Gabriel	Mata	Overtime Wrestling Academy
+boys	138	2167	Round of 32	0	M	16-3	Luke	Schoch	Bay Area Dragons	Javy	Gray	Vasky Bros
+boys	138	2168	Round of 32	0	F	3-0	Caleb	Chacon	Clovis High	Cole	Cronan	Turlock Wrestling
+boys	138	2169	Round of 32	0	M	8-0	Jake	Garza	Daniel Cormier Wrestling Academy	Noah	Flores	Team Selma Wrestling Club
+boys	138	2170	Round of 32	0	F	3-0	Frank	Lopez	The Empire	Reuben	Hernandez	CA Gladiators WC
+boys	138	2171	Round of 32	0	M	12-1	Grant	Langstaff	Livermore Elite Wc	Marcus	Troxell	Oakdale
+boys	138	2172	Round of 32	0	M	12-1	Mateo	Heredia	Daniel Cormier Wrestling Academy	Ryan	Rivera	Clovis High
+boys	138	2173	Round of 32	0	T	15-0	Malachi	Pettis	Team Aggression	Joe	Phillips	Corona 100
+boys	138	2174	Round of 32	0	T	17-0	Ethan	Beam	Southwest Stallions Wc	Johnny	Tabarez	Origin Training Center
+boys	138	2175	Round of 32	0	T	15-0	Elias	Castaneda	Clovis High	Dylan	Morton	Brawlers Wrestling Club
+boys	144	2176	Round of 16	0	T	17-2	Cael	Humphrey	High Desert Wrestling Club	Jake	Hocker	Elk Grove Wrestling Academy
+boys	144	2177	Round of 16	0	T	17-1	Josh	Garcia	Vasky Bros	Benjamin	Marquez	Clovis High
+boys	144	2178	Consi-of-16-1	1	FF	0-0	Muhanad	Abdulkareem	The 300 Wrestling Club	Ian	Negrete	Wright Wrestling Academy
+boys	144	2179	Round of 16	0	F	10-3	Barrett	Silva	Central Catholic	Cole	Schmidt	Windsor Wrestling Club
+boys	144	2180	Consi-of-16-1	1	D	7-4	Saul	Coronado	Paso Robles High School	Logan	Cervantes	Scotsmen Wrestling Club
+boys	144	2181	Round of 16	0	T	17-1	Landon	Salindong	Durham Wrestling Club	Adrian	Adame	The Empire
+boys	144	2182	Consi-of-16-1	1	T	21-3	Tommy	Magallanes	Jg Takedown	Andrew	Gomez	Livermore Elite Wrestling Club
+boys	144	2183	Round of 16	0	D	6-2	Cruz	Contreras	Aptos	Maddox	Hazard	High Desert Wrestling Club
+boys	144	2184	Round of 16	0	T	15-0	Cj	Lopez	Elk Grove Wrestling Academy	Romi	Cohen	Vasky Bros
+boys	144	2185	Consi-of-16-1	1	FF	0-0	Brooks	Howard	Clovis West	John	Benitez	Wright Wrestling Academy
+boys	144	2186	Round of 16	0	D	11-8	Naun	Mendez	Firebaugh Wrestling Club	Silas	Preciado	Sbtc
+boys	144	2187	Consi-of-16-1	1	FF	0-0	Brody	Sigala	Central Grizzlies Wrestling Club	Leonidas	Marinopoulos	Cardinal WC
+boys	144	2188	Round of 16	0	T	17-0	Julian (Gullien)	Holguin	Awa	Michael	Nava	Southwest Stallions Wc
+boys	150	2189	Round of 16	0	T	15-0	Jackson	Humphrey	High Desert Wrestling Club	Tyler	Wexler	The 300 Wrestling Club
+boys	150	2190	Round of 16	0	D	1-0	Raymond	Castillo	Bay Area Dragons	Justice	Commendatore	Daniel Cormier Wrestling Academy
+boys	150	2191	Consi-of-16-1	1	T	17-0	Jesse	Rivera	The Empire	Adren	Avanes	Vasky Bros
+boys	150	2192	Round of 16	0	F	3-0	Helo	Blackwell	Central Catholic	Maximino	Gonzalez III	Clovis High
+boys	150	2193	Consi-of-16-1	1	F	8-0	Joshua	Flynt	Clovis East	Ray	Leon	Wright Wrestling Academy
+boys	150	2194	Round of 16	0	D	1-0	Jack	Bronte	Livermore Elite Wc	Michael	Disa Scott	Golden State Wrestling
+boys	150	2195	Consi-of-16-1	1	M	10-2	Devin	Garcia	Clovis High	Ryan	Da Luz	Paso Robles High School
+boys	150	2196	Round of 16	0	D	1-0	Troy	Ruiz	The Empire	Max	Torres	Daniel Cormier Wrestling Academy
+boys	150	2197	Consi-of-16-1	1	D	5-1	Coleman	Smith	Wright Wrestling Academy	Cyrus	Tamplen	The 300 Wrestling Club
+boys	150	2198	Round of 16	0	D	3-2	Angel	Nguyen	Central Catholic	Cael	Staggs	Nevada Elite Wrestling
+boys	150	2200	Round of 16	0	F	3-0	Dwight	Skinner	Oakdale	Uriel	Perez	Clovis West
+boys	150	2201	Consi-of-16-1	1	D	4-0	Jude	Baker	Wright Wrestling Academy	Ozzy	Silveira	Chowchilla
+boys	150	2202	Round of 16	0	D	3-0	Osiris	Dossey	Diablo Wrestling Club	Kevin	Quinteros	Firebaugh Wrestling Club
+boys	157	2203	Round of 16	0	D	8-7	Ayden	Schlotthauer	Clovis High	Calan	Childress	Righetti High School
+boys	157	2204	Round of 16	0	F	3-0	Anjelo	Reyes	Mad-town	Jaden	Peralta	Vacaville Wrestling Club
+boys	157	2205	Consi-of-16-1	1	D	8-7	Adam	Alvarez	Team Selma Wrestling Club	Jodel	Biscocho	Golden State Wrestling
+boys	157	2206	Round of 16	0	D	2-1	Mattius	Gonzalez	Turlock Wrestling	Avery	Jones	Oakdale
+boys	157	2207	Round of 16	0	F	3-0	Michael	Coelho	Los Banos	Anthony	Oda	Ssf Gators
+boys	157	2208	Round of 16	0	F	3-0	Gage	Clark	Gallardo Wrestling Academy	Sylar	Welcome	Corona 100
+boys	157	2209	Round of 16	0	M	14-0	Javian	Palomino	Bay Area Dragons	jack	giangrasso	Vacaville Wrestling Club
+boys	157	2210	Consi-of-16-1	1	F	3-0	Joshua	Rodriguez	West Valley Grapplers	Jusiah	Platas	Team Selma Wrestling Club
+boys	157	2211	Round of 16	0	M	14-4	Jayden	Jaramillo	Clovis High	Anthony	Gamboa	Wright Wrestling Academy
+boys	157	2212	Consi-of-16-1	1	M	10-0	Nathan	Villalovos	Righetti High School	Armaanpreet	Singh	Jg Takedown
+boys	157	2213	Round of 16	0	M	8-0	Sean	Griffin	Central Catholic	Samuel	montez	Team Selma Wrestling Club
+boys	165	2214	Quarter-Finals	0	F	3-0	Shane	Struthers Jr	Clovis High	Jose	Toc	Corona 100
+boys	165	2215	Quarter-Finals	0	F	8-3	Jordan	Maldonado	Wright Wrestling Academy	Grayson	Gaspar	Gallardo Wrestling Academy
+boys	165	2216	Quarter-Finals	0	F	9-3	Leonidus	Chhav	The Empire	Ceaser	Soto	Clovis West
+boys	165	2217	Quarter-Finals	0	M	12-3	Finn	Devine	Team Aggression	daniel	Cormier II	Daniel Cormier Wrestling Academy
+boys	165	2218	Consi-of-8-1	1	F	5-2	Alexis	Toledo	Los Banos	Lucas	Valdez	Clovis High
+boys	165	2219	Consi-of-8-1	1	F	6-0	Tyler	Wise	Corona 100	Nathan	Nunez	Porterville
+boys	165	2220	Consi-of-8-1	1	F	5-0	Charlie	Herrington	Livermore Elite Wc	Demicio	Ramirez	Clovis East
+boys	175	2221	Round of 16	0	T	22-6	Chris	Arreola	Darkhorse	Jon	Zamora	Clovis High
+boys	175	2222	Round of 16	0	F	11-4	Maceson	Vasquez	Wright Wrestling Academy	Josue	Padilla	Swamp Monsters
+boys	175	2223	Round of 16	0	D	4-0	Jisias	Rodriguez	Bay Area Dragons	Jaime	Rodriguez	Riguetti High School
+boys	175	2224	Round of 16	0	F	18-5	Conception	Salas	Team Selma Wrestling Club	Jayremia	Barrera	Firebaugh Wrestling Club
+boys	175	2225	Round of 16	0	D	4-0	Israel	Mercado	Oakdale	Randy	Lopez	Clovis High
+boys	175	2226	Round of 16	0	FF	0-0	Zachary	Young	Swamp Monsters	Amir	Haidar	Clovis West
+boys	175	2227	Round of 16	0	T	17-0	Jameson	King	Elite Force Wrestling Club	Devin	Darter	Clovis East
+boys	175	2228	Round of 16	0	F	15-0	Griffin	Gerber	Oakdale	Drake	Mello	Durham Wrestling Club
+boys	190	2229	Round of 16	0	F	3-0	Raiden	Bishop	The Empire	Easton	Glanville	Oakdale
+boys	190	2230	Round of 16	0	F	12-0	Vincent	Akdag	Origin Training Center	Travis	Sepulveda	Team Selma Wrestling Club
+boys	190	2231	Round of 16	0	F	10-1	Bradley	Caygill	Daniel Cormier Wrestling Academy	Aiden	Yanez	Vacaville Wrestling Club
+boys	190	2232	Round of 16	0	D	6-2	Colton	Gonzalez	Central Catholic	Isaac	Wilder	Wright Wrestling Academy
+boys	190	2233	Round of 16	0	F	3-0	Tyler	Tonella	Palo Alto Hs	Jermaine	Soto	Daniel Cormier Wrestling Academy
+boys	190	2234	Round of 16	0	F	3-0	Joseph	Fierro	Clovis High	Henry	Hamilton	Central Coast Most Wanted
+boys	190	2235	Round of 16	0	D	8-1	Isis	Villagrana	Los Banos	Roashard	Murphy	Cgwc
+boys	190	2236	Round of 16	0	F	3-0	James	Emery	North Coast Grapplers	Jack	Ceja	Vasky Bros
+boys	215	2237	Quarter-Finals	0	M	10-1	Landry	Ngambia	Darkhorse	Odell	Jones	Clovis West
+boys	215	2238	Quarter-Finals	0	M	12-2	Isaac	Garcia	North Coast Grapplers	Matthew	Vandermeer	The Empire
+boys	215	2239	Quarter-Finals	0	F	4-0	Leonidas Jacob	Garcia	Darkhorse	Daniel	Garcia	Clovis High
+boys	215	2240	Quarter-Finals	0	D	5-3	Esai	Sandez	The 300 Wrestling Club	Tyson	Ahumada	Paso Robles High School
+boys	215	2241	Consi-of-8-1	1	T	15-0	David	Gusimat	Vasky Bros	Ivan	Cisneros	Jg Takedown
+boys	215	2242	Consi-of-8-1	1	F	3-0	Gunner	Pommerville	CA Gladiators WC	Ennis	Allozy	Clovis West
+boys	215	2243	Consi-of-8-1	1	F	3-0	Empyre	Pena	Daniel Cormier Wrestling Academy	Jared	Ortiz	Firebaugh Wrestling Club
+boys	285	2244	Quarter-Finals	0	F	9-2	Sammy	Seja	The Empire	Edwin	Davis	Central Grizzlies Wrestling Club
+boys	285	2245	Quarter-Finals	0	M	13-1	Lewis	Fofanah	Poway	Michael	Roque	Team Selma Wrestling Club
+boys	285	2246	Quarter-Finals	0	D	7-0	Eli	Swartz	Central Catholic	Saul	Paz	The Empire
+boys	285	2247	Quarter-Finals	0	F	9-2	Adan	Castillo	Clovis High	Chad	Sanchez	Clovis East
+boys	285	2248	Consi-of-8-1	1	D	13-8	Vicente	Cordoza	Firebaugh Wrestling Club	Mike	Molinar	Corona 100
+boys	285	2249	Consi-of-8-1	1	F	6-0	Carson	Smith	Darkhorse	Kenneth	Jacobus	Paso Robles High School
+boys	285	2250	Consi-of-8-1	1	M	11-0	Abner	Castellanos	Clovis West	Jesus	Hernandez	Corona 100
+boys	285	2251	Consi-of-8-1	1	F	3-0	Michael	Gilinsky	Crater High School	Vincent	Agbalog	Daniel Cormier Wrestling Academy
+boys	106	2252	Consi-of-8-2	1	F	5-0	Ian	Lopez	Central Grizzlies Wrestling Club	Aiden	Alejo	Outlaws Wc
+boys	113	2254	Consi-of-16-2	1	F	3-0	Matteo	Arriaga	Grapevine Grapplers	Ryan	Shirazi	The 300 Wrestling Club
+boys	113	2255	Consi-of-16-2	1	T	17-1	Aiden	Salindong	Durham Wrestling Club	Triton	Paris	Clovis High
+boys	113	2256	Consi-of-16-2	1	M	10-0	Mustafa	Mohammadi	Gallardo Wrestling Academy	Marcus	Munoz	Wright Wrestling Academy
+boys	120	2257	Consi-of-32-2	1	D	10-3	Jacob	Lee	Oakdale	Jadyen	Dacanay	North Coast Grapplers
+boys	126	2258	Consi-of-32-2	1	MF	0-0	Dominic	Salazar	Darkhorse	Alex	Ortiz	Team Selma Wrestling Club
+boys	126	2259	Consi-of-32-2	1	D	7-1	Anthony	Maldonado	Paso Robles High School	Evan	Villagran	Corona 100
+boys	126	2260	Consi-of-32-2	1	M	16-2	Linkin	Vasquez	Wright Wrestling Academy	Maverick	Ortiz	Clovis High
+boys	126	2261	Consi-of-32-2	1	M	15-1	Jacob	Pham	Awa	Julian	Martinez	Jg Takedown
+boys	126	2262	Consi-of-32-2	1	D	15-9	Jayden	Gonzalez	Dethrone	Isaiah	Ybarra	Righetti High School
+boys	126	2263	Consi-of-32-2	1	F	6-2	Angel	Bombela	Wright Wrestling Academy	Christian	Bravo	Pacheco High School
+boys	126	2264	Consi-of-32-2	1	F	11-6	Dylan	Felipe	Awa	Massi	Nawabi	North Coast Grapplers
+boys	126	2265	Consi-of-32-2	1	D	6-0	Jaiden	Palomino	West Valley Grapplers	Adam	Pineda	Paso Robles High School
+boys	126	2266	Consi-of-32-2	1	M	13-1	Houston	Schneider	Wright Wrestling Academy	Alan	Taing	Clovis High
+boys	126	2267	Consi-of-32-2	1	D	8-2	Mike	Almaguer	Righetti High School	Dylan	Limon	CA Gladiators WC
+boys	126	2268	Consi-of-32-2	1	D	9-6	Matthew	Pelayo	Dethrone	Carter	Spangler	Vasky Bros
+boys	126	2269	Consi-of-32-2	1	F	5-0	Alessandro	Barrios	Wright Wrestling Academy	Lukas	Rodriguez	Vacaville Wrestling Club
+boys	132	2270	Consi-of-16-2	1	F	5-0	Max	Mendoza	Wright Wrestling Academy	Ernesto	Sanchez	Corona 100
+boys	132	2271	Consi-of-16-2	1	D	4-0	Riley	Ballard	Daniel Cormier Wrestling Academy	Gavin	Stalsworth	High Desert Wrestling Club
+boys	132	2272	Consi-of-16-2	1	D	11-4	Jeovanni	Guerrero	Clovis East	Mikey	Sheen	Clovis High
+boys	132	2273	Consi-of-16-2	1	D	6-4	Julian	Flores IV	Kings Wrestling	Ethan	Villagran	Corona 100
+boys	132	2274	Consi-of-16-2	1	D	7-4	Colton	Castle	Buchanan	Arrian	Murillo	Central Valley Bengals
+boys	132	2276	Consi-of-16-2	1	M	13-5	Caiden	Avila	Mad-town	Evan	Ruiz	Central Valley Bengals
+boys	132	2277	Consi-of-16-2	1	D	7-4	Steve	Martinez	Righetti High School	Caleb	Smith	Elite Force Wrestling Club
+boys	138	2278	Consi-of-32-2	1	F	4-4	Dylan	Morton	Brawlers Wrestling Club	Isaiah	Perez	Clovis High
+boys	138	2279	Consi-of-32-2	1	F	5-0	Marcus	Troxell	Oakdale	Nicholas	Diaz	Cgwc
+boys	138	2280	Consi-of-32-2	1	F	10-0	Cole	Cronan	Turlock Wrestling	Arkar	Hein	North Coast Grapplers
+boys	138	2281	Consi-of-32-2	1	FF	0-0	Javy	Gray	Vasky Bros	Syrus	Saunders	Clovis High
+boys	138	2282	Consi-of-32-2	1	M	16-6	Frankie	Sandoval	Clovis High	Joshua	Pullins	Cyc
+boys	138	2283	Consi-of-32-2	1	M	15-3	Jose	Rodriguez III	Los Banos	Isaiah	Villasana	Clovis East
+boys	138	2284	Consi-of-32-2	1	D	3-0	tanner	frisco	Clovis High	Iziah	Enos	Wright Wrestling Academy
+boys	144	2285	Consi-of-16-2	1	T	17-1	Michael	Nava	Southwest Stallions Wc	Reynaldo	Saldana	Clovis East
+boys	144	2286	Consi-of-16-2	1	T	15-0	Silas	Preciado	Sbtc	Muhanad	Abdulkareem	The 300 Wrestling Club
+boys	144	2287	Consi-of-16-2	1	D	8-5	Romi	Cohen	Vasky Bros	Saul	Coronado	Paso Robles High School
+boys	144	2288	Consi-of-16-2	1	M	18-7	Maddox	Hazard	High Desert Wrestling Club	Tommy	Magallanes	Jg Takedown
+boys	144	2289	Consi-of-16-2	1	D	7-6	Uryah	Vallejo	Clovis East	Adrian	Adame	The Empire
+boys	144	2290	Consi-of-16-2	1	F	7-0	Cole	Schmidt	Windsor Wrestling Club	Brooks	Howard	Clovis West
+boys	144	2291	Consi-of-16-2	1	FF	0-0	Benjamin	Marquez	Clovis High	Brody	Sigala	Central Grizzlies Wrestling Club
+boys	144	2292	Consi-of-16-2	1	F	8-0	Jake	Hocker	Elk Grove Wrestling Academy	Benny	Gomez	Darkhorse
+boys	150	2293	Consi-of-16-2	1	FF	0-0	Kevin	Quinteros	Firebaugh Wrestling Club	Gabriel	Quintana	Wright Wrestling Academy
+boys	150	2294	Consi-of-16-2	1	D	5-0	Jesse	Rivera	The Empire	Uriel	Perez	Clovis West
+boys	150	2295	Consi-of-16-2	1	M	12-2	Cael	Staggs	Nevada Elite Wrestling	Joshua	Flynt	Clovis East
+boys	150	2296	Consi-of-16-2	1	F	9-1	Max	Torres	Daniel Cormier Wrestling Academy	Devin	Garcia	Clovis High
+boys	150	2297	Consi-of-16-2	1	M	8-0	Coleman	Smith	Wright Wrestling Academy	Michael	Disa Scott	Golden State Wrestling
+boys	150	2299	Consi-of-16-2	1	M	14-2	Justice	Commendatore	Daniel Cormier Wrestling Academy	Jude	Baker	Wright Wrestling Academy
+boys	150	2300	Consi-of-16-2	1	F	4-6	Erdem	Ayaz	Darkhorse	Tyler	Wexler	The 300 Wrestling Club
+boys	157	2301	Consi-of-16-2	1	D	5-3	Aaron	Lee	Corona 100	Samuel	montez	Team Selma Wrestling Club
+boys	157	2302	Consi-of-16-2	1	D	7-1	Anthony	Gamboa	Wright Wrestling Academy	Adam	Alvarez	Team Selma Wrestling Club
+boys	157	2303	Consi-of-16-2	1	F	2-0	jack	giangrasso	Vacaville Wrestling Club	Jacob	Rodriguez	Righetti High School
+boys	157	2304	Consi-of-16-2	1	M	13-1	Sylar	Welcome	Corona 100	Malachi	Gomez	Central Valley Bengals
+boys	157	2305	Consi-of-16-2	1	F	10-3	Joshua	Rodriguez	West Valley Grapplers	Avery	Jones	Oakdale
+boys	157	2306	Consi-of-16-2	1	D	5-4	Jaden	Peralta	Vacaville Wrestling Club	Nathan	Villalovos	Righetti High School
+boys	157	2307	Consi-of-16-2	1	D	6-3	Calan	Childress	Righetti High School	Ethan	Lopez	Vasky Bros
+boys	165	2308	Consi-of-8-2	1	M	10-1	Addicus	Dansby	The Empire	daniel	Cormier II	Daniel Cormier Wrestling Academy
+boys	165	2309	Consi-of-8-2	1	F	11-1	Alexis	Toledo	Los Banos	Ceaser	Soto	Clovis West
+boys	165	2310	Consi-of-8-2	1	F	10-0	Grayson	Gaspar	Gallardo Wrestling Academy	Tyler	Wise	Corona 100
+boys	165	2311	Consi-of-8-2	1	F	3-0	Charlie	Herrington	Livermore Elite Wc	Jose	Toc	Corona 100
+boys	175	2312	Consi-of-16-2	1	T	16-1	Drake	Mello	Durham Wrestling Club	Gabriel	DeHaro	Corona 100
+boys	175	2313	Consi-of-16-2	1	FF	0-0	William	Moran	Team Agression	Amir	Haidar	Clovis West
+boys	175	2314	Consi-of-16-2	1	D	11-7	Randy	Lopez	Clovis High	Cristofer	Melgar	Paso Robles High School
+boys	175	2315	Consi-of-16-2	1	F	3-0	Jayremia	Barrera	Firebaugh Wrestling Club	Carter	Steen	Corona 100
+boys	175	2316	Consi-of-16-2	1	FF	0-0	Jaime	Rodriguez	Riguetti High School	Graeden	Garcia	Wright Wrestling Academy
+boys	175	2317	Consi-of-16-2	1	D	7-3	elias	tadros	Southwest Stallions Wc	Josue	Padilla	Swamp Monsters
+boys	175	2318	Consi-of-16-2	1	FF	0-0	Rowen	Melching	The Empire	Jon	Zamora	Clovis High
+boys	190	2319	Consi-of-16-2	1	D	7-0	Jack	Ceja	Vasky Bros	Aidan	Lindsey	Corona 100
+boys	190	2320	Consi-of-16-2	1	F	9-0	EVAN	MONTALVO	The Empire	Isaac	Wilder	Wright Wrestling Academy
+boys	190	2321	Consi-of-16-2	1	F	3-0	Easton	Glanville	Oakdale	Maddyx	Sherwood	Southwest Stallions Wc
+boys	215	2322	Consi-of-8-2	1	M	11-3	Xavier	Salcedo	Clovis High	Tyson	Ahumada	Paso Robles High School
+boys	215	2323	Consi-of-8-2	1	D	6-5	Daniel	Garcia	Clovis High	David	Gusimat	Vasky Bros
+boys	215	2324	Consi-of-8-2	1	D	8-3	Matthew	Vandermeer	The Empire	Gunner	Pommerville	CA Gladiators WC
+boys	215	2325	Consi-of-8-2	1	D	9-3	Odell	Jones	Clovis West	Empyre	Pena	Daniel Cormier Wrestling Academy
+boys	285	2326	Consi-of-8-2	1	F	6-1	Vicente	Cordoza	Firebaugh Wrestling Club	Chad	Sanchez	Clovis East
+boys	285	2327	Consi-of-8-2	1	DQ	7-0	Saul	Paz	The Empire	Carson	Smith	Darkhorse
+boys	285	2328	Consi-of-8-2	1	F	6-0	Michael	Roque	Team Selma Wrestling Club	Abner	Castellanos	Clovis West
+boys	285	2329	Consi-of-8-2	1	F	3-0	Edwin	Davis	Central Grizzlies Wrestling Club	Michael	Gilinsky	Crater High School
+boys	106	2330	Semi-Finals	0	D	9-3	Seth	Sobaje	The Empire	Urijah	Rucobo	Righetti High School
+boys	106	2331	Consi-Semis-1	1	D	7-4	Ian	Lopez	Central Grizzlies Wrestling Club	Zachary	Tirapelle	Clovis High
+boys	106	2332	Semi-Finals	0	M	10-1	Aaron	Lopez	Clovis West	Nathan	Castro	Bullard
+boys	106	2333	Consi-Semis-1	1	F	4-13	rex kohner	kohner	Brawlers Wrestling Club	Ian	Perryman	Cgwc
+boys	113	2334	Quarter-Finals	0	T	15-0	Nathiel	Nava	Southwest Stallions Wc	Landon	Wakabayashi	Vacaville Wrestling Club
+boys	113	2335	Consi-of-8-1	1	F	3-0	Grant	Dixon	Oakdale	Omar	Safi	Overtime Wrestling Academy
+boys	113	2336	Quarter-Finals	0	M	9-0	Joseph	Cervantes	The Empire	Manuel	Cacoilo	Daniel Cormier Wrestling Academy
+boys	113	2337	Consi-of-8-1	1	D	7-3	Matteo	Arriaga	Grapevine Grapplers	Micah	Pettis	Team Aggression
+boys	113	2338	Consi-of-8-1	1	T	15-0	Aiden	Salindong	Durham Wrestling Club	Jaedin	Chin	Ssf Gators
+boys	113	2339	Quarter-Finals	0	M	13-1	Slate	Bayona	Clovis High / Dethrone	Aaden	Lopez	Daniel Cormier Wrestling Academy
+boys	113	2340	Quarter-Finals	0	D	9-6	Elham	Hashimi	Tri Valley Elite Wrestling Club	Steve	Garcia	Firebaugh Wrestling Club
+boys	113	2341	Consi-of-8-1	1	F	10-0	Mustafa	Mohammadi	Gallardo Wrestling Academy	Christopher	Madero	Central Valley Bengals
+boys	120	2342	Consi-of-16-1	1	F	11-0	Jacob	Lee	Oakdale	Devin	Acosta	Vasky Bros
+boys	120	2343	Round of 16	0	D	4-0	Kayden	Khim	Clovis West	Maddux	Guerra	Daniel Cormier Wrestling Academy
+boys	120	2344	Consi-of-16-1	1	M	15-6	Daniel A	Moreno	Clovis High	Juelz	Brewick	Livermore Elite Wrestling Club
+boys	120	2345	Round of 16	0	D	7-2	Carson	Wyatt	Sbtc	Artasam	Feizi	Bay Area Dragons
+boys	120	2346	Consi-of-16-1	1	D	9-6	Jonas	Suarez	Team Selma Wrestling Club	Mason	Moua	Clovis South/sbtc
+boys	120	2347	Round of 16	0	T	15-0	Eli	Mayer	Vacaville Wrestling Club	Lucas	Duram	Mad-town
+boys	120	2348	Round of 16	0	F	3-0	Pancho	Fuentes	Edison High School	Jason	Liau	Awa
+boys	120	2349	Consi-of-16-1	1	T	15-0	Eli	Morgan	Oakdale	Evan	Caito	Jaguars Wrestling Club
+boys	120	2350	Round of 16	0	D	4-2	Gabriel	Martinez	Vacaville Wrestling Club	Roman	Fonseca	Daniel Cormier Wrestling Academy
+boys	120	2351	Consi-of-16-1	1	M	8-0	Noah	Espinoza	Central Catholic	Mason	Gonzalez	Blades Wrestling
+boys	120	2352	Round of 16	0	D	3-2	Jaden	Yacuta	Outlaws Wc	Vander	Gibson	Origin Training Center
+boys	120	2353	Consi-of-16-1	1	F	10-0	Darius	Saremi	Southwest Stallions Wc	Dreyten	Xiong	Clovis High
+boys	120	2354	Round of 16	0	F	10-1	Brayden	Hankins	Wright Wrestling Academy	Jack	Moreno	Aptos
+boys	120	2355	Consi-of-16-1	1	F	15-1	Tyce	Day	CA Gladiators WC	Isaac	Rivera	Clovis East
+boys	120	2356	Round of 16	0	T	17-2	Eli	Mendoza	Daniel Cormier Wrestling Academy	Logan	Tran	Livermore Elite Wc
+boys	126	2358	Consi-of-16-1	1	M	14-2	Julio	Zendejas	Team Aggression	Dominic	Salazar	Darkhorse
+boys	126	2359	Round of 16	0	F	7-0	Xavier	Garcia	Clovis West	Mason	Vasquez	Awa
+boys	126	2360	Consi-of-16-1	1	D	8-5	Linkin	Vasquez	Wright Wrestling Academy	Anthony	Maldonado	Paso Robles High School
+boys	126	2361	Round of 16	0	D	5-3	Christopher	Sizemore	Jg Takedown	Mason	Jasper	Gallardo Wrestling Academy
+boys	126	2362	Consi-of-16-1	1	D	3-1	Jacob	Pham	Awa	Jayden	Gonzalez	Dethrone
+boys	126	2363	Round of 16	0	F	12-1	Jacob	Rodriguez	Darkhorse	Sebastian	Cisneros	The Empire
+boys	126	2364	Round of 16	0	F	3-0	Benjamin	Maradiaga	Elite Force Wrestling Club	Kawika	Roy	Silver Creek Wc
+boys	126	2365	Consi-of-16-1	1	M	10-1	Angel	Bombela	Wright Wrestling Academy	Jacob	Correa	Righetti High School
+boys	126	2366	Round of 16	0	T	20-3	Bryce	Dacoco	Vasky Bros	Mason	Vital	Clovis West
+boys	126	2367	Consi-of-16-1	1	T	16-0	Dylan	Felipe	Awa	Luis	Hernandez	Cgwc
+boys	126	2368	Round of 16	0	M	15-3	Logan	Hayashi	Clovis High / Dethrone	Angelo	Ortega	Gallardo Wrestling Academy
+boys	126	2369	Consi-of-16-1	1	F	0-0	Jaiden	Palomino	West Valley Grapplers	Houston	Schneider	Wright Wrestling Academy
+boys	126	2370	Round of 16	0	M	12-0	Colton	Meixner	Darkhorse	Domenic	Novosel	The 300 Wrestling Club
+boys	126	2371	Consi-of-16-1	1	T	17-0	Mike	Almaguer	Righetti High School	Matthew	Pelayo	Dethrone
+boys	126	2372	Round of 16	0	T	15-0	Eliazar	Valdez	Central Catholic	Isaiah	Reyes	Scotsmen Wrestling Club
+boys	126	2373	Consi-of-16-1	1	F	2-6	Alessandro	Barrios	Wright Wrestling Academy	Isiah	Vasquez	Vasky Bros
+boys	132	2374	Quarter-Finals	0	D	7-0	JJ	Greene	The Empire	Mario	Calderon	Central Grizzlies Wrestling Club
+boys	132	2375	Consi-of-8-1	1	D	3-1	Riley	Ballard	Daniel Cormier Wrestling Academy	Max	Mendoza	Wright Wrestling Academy
+boys	132	2376	Quarter-Finals	0	T	18-3	Jimmy	Jimenez	Elk Grove Wrestling Academy	Steven	Torres	Chowchilla
+boys	132	2377	Consi-of-8-1	1	M	16-3	Jeovanni	Guerrero	Clovis East	Julian	Flores IV	Kings Wrestling
+boys	132	2378	Consi-of-8-1	1	D	1-0	Colton	Castle	Buchanan	Peyton	Bowlin	Elite Force Wrestling Club
+boys	132	2379	Quarter-Finals	0	T	17-1	Luke	Tran	The Snake Pit	Issac	Arismendez	Elite Force Wrestling Club
+boys	132	2380	Quarter-Finals	0	M	11-0	Robert	Estrada	The Empire	Brett	Crowley	Vacaville Wrestling Club
+boys	132	2381	Consi-of-8-1	1	D	4-2	Caiden	Avila	Mad-town	Steve	Martinez	Righetti High School
+boys	138	2382	Consi-of-16-1	1	F	6-0	Dylan	Morton	Brawlers Wrestling Club	Johnny	Tabarez	Origin Training Center
+boys	138	2383	Round of 16	0	T	23-7	Paul	Ruiz	The Empire	Gavin	Pongsai	Daniel Cormier Wrestling Academy
+boys	138	2384	Consi-of-16-1	1	F	12-1	Ryan	Rivera	Clovis High	Joe	Phillips	Corona 100
+boys	138	2385	Round of 16	0	D	7-3	Mario	Jones	The 300 Wrestling Club	Julian	Terrones	Clovis West
+boys	138	2386	Consi-of-16-1	1	F	6-0	Marcus	Troxell	Oakdale	Reuben	Hernandez	CA Gladiators WC
+boys	138	2387	Round of 16	0	D	8-3	Jovani	Sandoval	Elk Grove Wrestling Academy	Carson	Quesada	Clovis High
+boys	138	2388	Round of 16	0	T	19-3	Luke	Schoch	Bay Area Dragons	William	Parsons	Vacaville Wrestling Club
+boys	138	2389	Consi-of-16-1	1	F	3-0	Cole	Cronan	Turlock Wrestling	Noah	Flores	Team Selma Wrestling Club
+boys	138	2390	Round of 16	0	M	11-0	Caleb	Chacon	Clovis High	Jake	Garza	Daniel Cormier Wrestling Academy
+boys	138	2391	Consi-of-16-1	1	T	18-2	Javy	Gray	Vasky Bros	Gabriel	Mata	Overtime Wrestling Academy
+boys	138	2392	Round of 16	0	D	7-2	Grant	Langstaff	Livermore Elite Wc	Frank	Lopez	The Empire
+boys	138	2393	Consi-of-16-1	1	T	19-2	Frankie	Sandoval	Clovis High	James	Gomez	Darkhorse
+boys	138	2394	Round of 16	0	M	11-3	Mateo	Heredia	Daniel Cormier Wrestling Academy	Malachi	Pettis	Team Aggression
+boys	138	2395	Consi-of-16-1	1	T	21-5	Jose	Rodriguez III	Los Banos	Gavin	Nelms	Porterville
+boys	138	2396	Round of 16	0	T	15-0	Elias	Castaneda	Clovis High	Ethan	Beam	Southwest Stallions Wc
+boys	138	2397	Consi-of-16-1	1	F	3-0	Caleb	Cisneros	Team Selma Wrestling Club	tanner	frisco	Clovis High
+boys	144	2398	Quarter-Finals	0	F	6-1	Cael	Humphrey	High Desert Wrestling Club	Josh	Garcia	Vasky Bros
+boys	144	2399	Consi-of-8-1	1	F	3-0	Michael	Nava	Southwest Stallions Wc	Silas	Preciado	Sbtc
+boys	144	2400	Quarter-Finals	0	D	4-1	Landon	Salindong	Durham Wrestling Club	Barrett	Silva	Central Catholic
+boys	144	2401	Consi-of-8-1	1	MF	6-1	Maddox	Hazard	High Desert Wrestling Club	Romi	Cohen	Vasky Bros
+boys	144	2402	Consi-of-8-1	1	F	3-0	Cole	Schmidt	Windsor Wrestling Club	Uryah	Vallejo	Clovis East
+boys	144	2403	Quarter-Finals	0	D	4-2	Cruz	Contreras	Aptos	Cj	Lopez	Elk Grove Wrestling Academy
+boys	144	2404	Quarter-Finals	0	T	21-3	Julian (Gullien)	Holguin	Awa	Naun	Mendez	Firebaugh Wrestling Club
+boys	144	2405	Consi-of-8-1	1	F	2-0	Jake	Hocker	Elk Grove Wrestling Academy	Benjamin	Marquez	Clovis High
+boys	150	2406	Quarter-Finals	0	D	7-2	Raymond	Castillo	Bay Area Dragons	Jackson	Humphrey	High Desert Wrestling Club
+boys	150	2407	Consi-of-8-1	1	F	11-0	Jesse	Rivera	The Empire	Kevin	Quinteros	Firebaugh Wrestling Club
+boys	150	2408	Quarter-Finals	0	D	4-0	Jack	Bronte	Livermore Elite Wc	Helo	Blackwell	Central Catholic
+boys	150	2409	Consi-of-8-1	1	D	11-5	Max	Torres	Daniel Cormier Wrestling Academy	Cael	Staggs	Nevada Elite Wrestling
+boys	150	2410	Consi-of-8-1	1	D	4-0	Coleman	Smith	Wright Wrestling Academy	Maximino	Gonzalez III	Clovis High
+boys	150	2411	Quarter-Finals	0	D	3-0	Troy	Ruiz	The Empire	Angel	Nguyen	Central Catholic
+boys	150	2412	Quarter-Finals	0	F	2-6	Dwight	Skinner	Oakdale	Osiris	Dossey	Diablo Wrestling Club
+boys	150	2413	Consi-of-8-1	1	F	3-0	Justice	Commendatore	Daniel Cormier Wrestling Academy	Erdem	Ayaz	Darkhorse
+boys	157	2414	Quarter-Finals	0	D	6-4	Ayden	Schlotthauer	Clovis High	Anjelo	Reyes	Mad-town
+boys	157	2415	Consi-of-8-1	1	F	9-0	Aaron	Lee	Corona 100	Anthony	Gamboa	Wright Wrestling Academy
+boys	157	2416	Quarter-Finals	0	F	14-1	Michael	Coelho	Los Banos	Mattius	Gonzalez	Turlock Wrestling
+boys	157	2417	Consi-of-8-1	1	F	3-0	jack	giangrasso	Vacaville Wrestling Club	Sylar	Welcome	Corona 100
+boys	157	2418	Consi-of-8-1	1	T	15-0	Joshua	Rodriguez	West Valley Grapplers	Anthony	Oda	Ssf Gators
+boys	157	2419	Quarter-Finals	0	T	16-0	Javian	Palomino	Bay Area Dragons	Gage	Clark	Gallardo Wrestling Academy
+boys	157	2420	Quarter-Finals	0	D	4-1	Sean	Griffin	Central Catholic	Jayden	Jaramillo	Clovis High
+boys	157	2421	Consi-of-8-1	1	T	15-0	Calan	Childress	Righetti High School	Jaden	Peralta	Vacaville Wrestling Club
+boys	165	2422	Semi-Finals	0	F	5-0	Shane	Struthers Jr	Clovis High	Jordan	Maldonado	Wright Wrestling Academy
+boys	165	2423	Consi-Semis-1	1	F	12-0	Addicus	Dansby	The Empire	Alexis	Toledo	Los Banos
+boys	165	2424	Semi-Finals	0	F	4-1	Finn	Devine	Team Aggression	Leonidus	Chhav	The Empire
+boys	165	2425	Consi-Semis-1	1	M	14-1	Charlie	Herrington	Livermore Elite Wc	Grayson	Gaspar	Gallardo Wrestling Academy
+boys	175	2426	Quarter-Finals	0	F	6-1	Chris	Arreola	Darkhorse	Maceson	Vasquez	Wright Wrestling Academy
+boys	175	2427	Consi-of-8-1	1	T	16-0	Drake	Mello	Durham Wrestling Club	Devin	Darter	Clovis East
+boys	175	2428	Quarter-Finals	0	D	7-3	Jisias	Rodriguez	Bay Area Dragons	Conception	Salas	Team Selma Wrestling Club
+boys	175	2429	Consi-of-8-1	1	T	16-1	William	Moran	Team Agression	Randy	Lopez	Clovis High
+boys	175	2430	Consi-of-8-1	1	F	12-0	Jaime	Rodriguez	Riguetti High School	Jayremia	Barrera	Firebaugh Wrestling Club
+boys	175	2431	Quarter-Finals	0	D	10-4	Israel	Mercado	Oakdale	Zachary	Young	Swamp Monsters
+boys	175	2432	Quarter-Finals	0	F	9-1	Griffin	Gerber	Oakdale	Jameson	King	Elite Force Wrestling Club
+boys	175	2433	Consi-of-8-1	1	D	2-0	elias	tadros	Southwest Stallions Wc	Rowen	Melching	The Empire
+boys	190	2434	Quarter-Finals	0	F	11-0	Raiden	Bishop	The Empire	Vincent	Akdag	Origin Training Center
+boys	190	2435	Consi-of-8-1	1	F	10-0	Jack	Ceja	Vasky Bros	Roashard	Murphy	Cgwc
+boys	190	2436	Quarter-Finals	0	F	14-11	Bradley	Caygill	Daniel Cormier Wrestling Academy	Colton	Gonzalez	Central Catholic
+boys	190	2437	Consi-of-8-1	1	F	7-0	Jermaine	Soto	Daniel Cormier Wrestling Academy	Henry	Hamilton	Central Coast Most Wanted
+boys	190	2438	Consi-of-8-1	1	F	12-0	EVAN	MONTALVO	The Empire	Aiden	Yanez	Vacaville Wrestling Club
+boys	190	2439	Quarter-Finals	0	T	17-2	Tyler	Tonella	Palo Alto Hs	Joseph	Fierro	Clovis High
+boys	190	2440	Quarter-Finals	0	F	6-0	James	Emery	North Coast Grapplers	Isis	Villagrana	Los Banos
+boys	190	2441	Consi-of-8-1	1	FF	0-0	Easton	Glanville	Oakdale	Travis	Sepulveda	Team Selma Wrestling Club
+boys	215	2442	Semi-Finals	0	D	7-2	Landry	Ngambia	Darkhorse	Isaac	Garcia	North Coast Grapplers
+boys	215	2443	Consi-Semis-1	1	D	4-3	Xavier	Salcedo	Clovis High	Daniel	Garcia	Clovis High
+boys	215	2444	Semi-Finals	0	F	0-3	Leonidas Jacob	Garcia	Darkhorse	Esai	Sandez	The 300 Wrestling Club
+boys	215	2445	Consi-Semis-1	1	D	8-3	Odell	Jones	Clovis West	Matthew	Vandermeer	The Empire
+boys	285	2446	Semi-Finals	0	M	13-5	Sammy	Seja	The Empire	Lewis	Fofanah	Poway
+boys	285	2447	Consi-Semis-1	1	D	7-5	Saul	Paz	The Empire	Vicente	Cordoza	Firebaugh Wrestling Club
+boys	285	2448	Semi-Finals	0	F	7-0	Adan	Castillo	Clovis High	Eli	Swartz	Central Catholic
+boys	285	2449	Consi-Semis-1	1	F	6-0	Edwin	Davis	Central Grizzlies Wrestling Club	Michael	Roque	Team Selma Wrestling Club
+boys	106	2450	Consi-Semis-2	1	D	7-0	Urijah	Rucobo	Righetti High School	Ian	Lopez	Central Grizzlies Wrestling Club
+boys	106	2451	Consi-Semis-2	1	F	9-0	rex kohner	kohner	Brawlers Wrestling Club	Nathan	Castro	Bullard
+boys	113	2452	Consi-of-8-2	1	D	7-2	Grant	Dixon	Oakdale	Manuel	Cacoilo	Daniel Cormier Wrestling Academy
+boys	113	2453	Consi-of-8-2	1	F	3-7	Matteo	Arriaga	Grapevine Grapplers	Landon	Wakabayashi	Vacaville Wrestling Club
+boys	113	2454	Consi-of-8-2	1	M	12-0	Steve	Garcia	Firebaugh Wrestling Club	Aiden	Salindong	Durham Wrestling Club
+boys	113	2455	Consi-of-8-2	1	M	8-0	Mustafa	Mohammadi	Gallardo Wrestling Academy	Aaden	Lopez	Daniel Cormier Wrestling Academy
+boys	120	2456	Consi-of-16-2	1	M	10-1	Jacob	Lee	Oakdale	Lucas	Duram	Mad-town
+boys	120	2457	Consi-of-16-2	1	M	13-3	Jason	Liau	Awa	Daniel A	Moreno	Clovis High
+boys	120	2458	Consi-of-16-2	1	M	12-0	Maddux	Guerra	Daniel Cormier Wrestling Academy	Jonas	Suarez	Team Selma Wrestling Club
+boys	120	2459	Consi-of-16-2	1	M	17-4	Artasam	Feizi	Bay Area Dragons	Eli	Morgan	Oakdale
+boys	120	2460	Consi-of-16-2	1	M	12-2	Noah	Espinoza	Central Catholic	Jack	Moreno	Aptos
+boys	120	2461	Consi-of-16-2	1	D	9-7	Darius	Saremi	Southwest Stallions Wc	Logan	Tran	Livermore Elite Wc
+boys	120	2462	Consi-of-16-2	1	T	15-0	Roman	Fonseca	Daniel Cormier Wrestling Academy	Tyce	Day	CA Gladiators WC
+boys	126	2464	Consi-of-16-2	1	M	9-1	Sebastian	Cisneros	The Empire	Julio	Zendejas	Team Aggression
+boys	126	2465	Consi-of-16-2	1	M	12-3	Kawika	Roy	Silver Creek Wc	Linkin	Vasquez	Wright Wrestling Academy
+boys	126	2466	Consi-of-16-2	1	M	11-0	Jacob	Pham	Awa	Mason	Vasquez	Awa
+boys	126	2467	Consi-of-16-2	1	M	11-3	Angel	Bombela	Wright Wrestling Academy	Mason	Jasper	Gallardo Wrestling Academy
+boys	126	2468	Consi-of-16-2	1	D	8-7	Domenic	Novosel	The 300 Wrestling Club	Dylan	Felipe	Awa
+boys	126	2469	Consi-of-16-2	1	D	3-2	Isaiah	Reyes	Scotsmen Wrestling Club	Jaiden	Palomino	West Valley Grapplers
+boys	126	2470	Consi-of-16-2	1	F	0-0	Mike	Almaguer	Righetti High School	Mason	Vital	Clovis West
+boys	126	2471	Consi-of-16-2	1	D	7-6	Angelo	Ortega	Gallardo Wrestling Academy	Alessandro	Barrios	Wright Wrestling Academy
+boys	132	2472	Consi-of-8-2	1	FF	0-0	Riley	Ballard	Daniel Cormier Wrestling Academy	Steven	Torres	Chowchilla
+boys	132	2473	Consi-of-8-2	1	D	13-6	Jeovanni	Guerrero	Clovis East	Mario	Calderon	Central Grizzlies Wrestling Club
+boys	132	2474	Consi-of-8-2	1	F	3-0	Brett	Crowley	Vacaville Wrestling Club	Colton	Castle	Buchanan
+boys	132	2475	Consi-of-8-2	1	M	10-0	Caiden	Avila	Mad-town	Issac	Arismendez	Elite Force Wrestling Club
+boys	138	2476	Consi-of-16-2	1	M	14-3	Dylan	Morton	Brawlers Wrestling Club	Carson	Quesada	Clovis High
+boys	138	2477	Consi-of-16-2	1	T	15-0	Ryan	Rivera	Clovis High	William	Parsons	Vacaville Wrestling Club
+boys	138	2478	Consi-of-16-2	1	F	11-0	Gavin	Pongsai	Daniel Cormier Wrestling Academy	Marcus	Troxell	Oakdale
+boys	138	2479	Consi-of-16-2	1	F	3-0	Cole	Cronan	Turlock Wrestling	Julian	Terrones	Clovis West
+boys	138	2480	Consi-of-16-2	1	M	10-1	Malachi	Pettis	Team Aggression	Javy	Gray	Vasky Bros
+boys	138	2481	Consi-of-16-2	1	D	6-5	Ethan	Beam	Southwest Stallions Wc	Frankie	Sandoval	Clovis High
+boys	138	2482	Consi-of-16-2	1	T	15-0	Jake	Garza	Daniel Cormier Wrestling Academy	Jose	Rodriguez III	Los Banos
+boys	138	2483	Consi-of-16-2	1	D	11-10	Frank	Lopez	The Empire	Caleb	Cisneros	Team Selma Wrestling Club
+boys	144	2484	Consi-of-8-2	1	D	9-4	Michael	Nava	Southwest Stallions Wc	Barrett	Silva	Central Catholic
+boys	144	2485	Consi-of-8-2	1	M	8-0	Josh	Garcia	Vasky Bros	Maddox	Hazard	High Desert Wrestling Club
+boys	144	2486	Consi-of-8-2	1	M	12-0	Cole	Schmidt	Windsor Wrestling Club	Naun	Mendez	Firebaugh Wrestling Club
+boys	144	2487	Consi-of-8-2	1	D	7-1	Cj	Lopez	Elk Grove Wrestling Academy	Jake	Hocker	Elk Grove Wrestling Academy
+boys	150	2488	Consi-of-8-2	1	F	5-7	Helo	Blackwell	Central Catholic	Jesse	Rivera	The Empire
+boys	150	2489	Consi-of-8-2	1	D	4-1	Jackson	Humphrey	High Desert Wrestling Club	Max	Torres	Daniel Cormier Wrestling Academy
+boys	150	2490	Consi-of-8-2	1	F	6-0	Coleman	Smith	Wright Wrestling Academy	Osiris	Dossey	Diablo Wrestling Club
+boys	150	2491	Consi-of-8-2	1	D	4-1	Justice	Commendatore	Daniel Cormier Wrestling Academy	Angel	Nguyen	Central Catholic
+boys	157	2492	Consi-of-8-2	1	D	7-1	Mattius	Gonzalez	Turlock Wrestling	Aaron	Lee	Corona 100
+boys	157	2493	Consi-of-8-2	1	F	4-3	jack	giangrasso	Vacaville Wrestling Club	Anjelo	Reyes	Mad-town
+boys	157	2494	Consi-of-8-2	1	D	4-1	Joshua	Rodriguez	West Valley Grapplers	Jayden	Jaramillo	Clovis High
+boys	157	2495	Consi-of-8-2	1	F	3-0	Gage	Clark	Gallardo Wrestling Academy	Calan	Childress	Righetti High School
+boys	165	2496	Consi-Semis-2	1	M	15-4	Jordan	Maldonado	Wright Wrestling Academy	Addicus	Dansby	The Empire
+boys	165	2497	Consi-Semis-2	1	F	5-0	Charlie	Herrington	Livermore Elite Wc	Leonidus	Chhav	The Empire
+boys	175	2498	Consi-of-8-2	1	M	8-0	Conception	Salas	Team Selma Wrestling Club	Drake	Mello	Durham Wrestling Club
+boys	175	2499	Consi-of-8-2	1	T	15-0	William	Moran	Team Agression	Maceson	Vasquez	Wright Wrestling Academy
+boys	175	2500	Consi-of-8-2	1	INJ	6-2	Jaime	Rodriguez	Riguetti High School	Jameson	King	Elite Force Wrestling Club
+boys	175	2501	Consi-of-8-2	1	D	6-5	elias	tadros	Southwest Stallions Wc	Zachary	Young	Swamp Monsters
+boys	190	2502	Consi-of-8-2	1	F	4-3	Jack	Ceja	Vasky Bros	Colton	Gonzalez	Central Catholic
+boys	190	2503	Consi-of-8-2	1	T	19-4	Jermaine	Soto	Daniel Cormier Wrestling Academy	Vincent	Akdag	Origin Training Center
+boys	190	2504	Consi-of-8-2	1	F	7-0	EVAN	MONTALVO	The Empire	Isis	Villagrana	Los Banos
+boys	190	2505	Consi-of-8-2	1	D	7-3	Easton	Glanville	Oakdale	Joseph	Fierro	Clovis High
+boys	215	2506	Consi-Semis-2	1	MF	0-0	Xavier	Salcedo	Clovis High	Isaac	Garcia	North Coast Grapplers
+boys	215	2507	Consi-Semis-2	1	D	5-2	Odell	Jones	Clovis West	Esai	Sandez	The 300 Wrestling Club
+boys	285	2508	Consi-Semis-2	1	M	10-2	Lewis	Fofanah	Poway	Saul	Paz	The Empire
+boys	285	2509	Consi-Semis-2	1	D	4-0	Eli	Swartz	Central Catholic	Edwin	Davis	Central Grizzlies Wrestling Club
+boys	106	2510	5th Place	1	F	11-3	Ian	Lopez	Central Grizzlies Wrestling Club	Nathan	Castro	Bullard
+boys	106	2511	3rd Place	1	D	13-6	Urijah	Rucobo	Righetti High School	rex kohner	kohner	Brawlers Wrestling Club
+boys	113	2512	Consi-Semis-1	1	M	8-0	Grant	Dixon	Oakdale	Matteo	Arriaga	Grapevine Grapplers
+boys	113	2513	Semi-Finals	0	D	1-0	Nathiel	Nava	Southwest Stallions Wc	Joseph	Cervantes	The Empire
+boys	113	2514	Semi-Finals	0	D	5-3	Elham	Hashimi	Tri Valley Elite Wrestling Club	Slate	Bayona	Clovis High / Dethrone
+boys	113	2515	Consi-Semis-1	1	D	10-7	Mustafa	Mohammadi	Gallardo Wrestling Academy	Steve	Garcia	Firebaugh Wrestling Club
+boys	120	2516	Consi-of-8-1	1	M	10-0	Jason	Liau	Awa	Jacob	Lee	Oakdale
+boys	120	2517	Quarter-Finals	0	M	10-1	Carson	Wyatt	Sbtc	Kayden	Khim	Clovis West
+boys	120	2518	Consi-of-8-1	1	D	4-2	Artasam	Feizi	Bay Area Dragons	Maddux	Guerra	Daniel Cormier Wrestling Academy
+boys	120	2519	Quarter-Finals	0	F	12-2	Pancho	Fuentes	Edison High School	Eli	Mayer	Vacaville Wrestling Club
+boys	120	2520	Consi-of-8-1	1	D	9-3	Noah	Espinoza	Central Catholic	Darius	Saremi	Southwest Stallions Wc
+boys	120	2521	Quarter-Finals	0	F	12-1	Gabriel	Martinez	Vacaville Wrestling Club	Jaden	Yacuta	Outlaws Wc
+boys	120	2522	Quarter-Finals	0	D	7-0	Eli	Mendoza	Daniel Cormier Wrestling Academy	Brayden	Hankins	Wright Wrestling Academy
+boys	126	2524	Consi-of-8-1	1	M	14-2	Sebastian	Cisneros	The Empire	Kawika	Roy	Silver Creek Wc
+boys	126	2525	Quarter-Finals	0	F	3-0	Xavier	Garcia	Clovis West	Christopher	Sizemore	Jg Takedown
+boys	126	2526	Consi-of-8-1	1	F	3-0	Angel	Bombela	Wright Wrestling Academy	Jacob	Pham	Awa
+boys	126	2527	Quarter-Finals	0	F	3-0	Jacob	Rodriguez	Darkhorse	Benjamin	Maradiaga	Elite Force Wrestling Club
+boys	126	2528	Consi-of-8-1	1	D	7-4	Isaiah	Reyes	Scotsmen Wrestling Club	Domenic	Novosel	The 300 Wrestling Club
+boys	126	2529	Quarter-Finals	0	M	13-2	Bryce	Dacoco	Vasky Bros	Logan	Hayashi	Clovis High / Dethrone
+boys	126	2530	Quarter-Finals	0	D	3-0	Eliazar	Valdez	Central Catholic	Colton	Meixner	Darkhorse
+boys	126	2531	Consi-of-8-1	1	M	10-2	Mike	Almaguer	Righetti High School	Angelo	Ortega	Gallardo Wrestling Academy
+boys	132	2532	Consi-Semis-1	1	MF	0-0	Jeovanni	Guerrero	Clovis East	Riley	Ballard	Daniel Cormier Wrestling Academy
+boys	132	2533	Semi-Finals	0	D	5-0	JJ	Greene	The Empire	Jimmy	Jimenez	Elk Grove Wrestling Academy
+boys	132	2534	Semi-Finals	0	D	7-0	Robert	Estrada	The Empire	Luke	Tran	The Snake Pit
+boys	132	2535	Consi-Semis-1	1	D	5-2	Caiden	Avila	Mad-town	Brett	Crowley	Vacaville Wrestling Club
+boys	138	2536	Consi-of-8-1	1	D	6-0	Dylan	Morton	Brawlers Wrestling Club	Ryan	Rivera	Clovis High
+boys	138	2537	Quarter-Finals	0	T	15-0	Paul	Ruiz	The Empire	Mario	Jones	The 300 Wrestling Club
+boys	138	2538	Consi-of-8-1	1	M	11-1	Gavin	Pongsai	Daniel Cormier Wrestling Academy	Cole	Cronan	Turlock Wrestling
+boys	138	2539	Quarter-Finals	0	D	5-2	Luke	Schoch	Bay Area Dragons	Jovani	Sandoval	Elk Grove Wrestling Academy
+boys	138	2540	Consi-of-8-1	1	T	16-1	Malachi	Pettis	Team Aggression	Ethan	Beam	Southwest Stallions Wc
+boys	138	2541	Quarter-Finals	0	D	4-1	Caleb	Chacon	Clovis High	Grant	Langstaff	Livermore Elite Wc
+boys	138	2542	Quarter-Finals	0	D	5-1	Elias	Castaneda	Clovis High	Mateo	Heredia	Daniel Cormier Wrestling Academy
+boys	138	2543	Consi-of-8-1	1	D	4-2	Jake	Garza	Daniel Cormier Wrestling Academy	Frank	Lopez	The Empire
+boys	144	2544	Consi-Semis-1	1	D	9-2	Josh	Garcia	Vasky Bros	Michael	Nava	Southwest Stallions Wc
+boys	144	2545	Semi-Finals	0	F	13-1	Cael	Humphrey	High Desert Wrestling Club	Landon	Salindong	Durham Wrestling Club
+boys	144	2546	Semi-Finals	0	D	1-0	Julian (Gullien)	Holguin	Awa	Cruz	Contreras	Aptos
+boys	144	2547	Consi-Semis-1	1	D	8-3	Cj	Lopez	Elk Grove Wrestling Academy	Cole	Schmidt	Windsor Wrestling Club
+boys	150	2548	Consi-Semis-1	1	D	8-2	Jackson	Humphrey	High Desert Wrestling Club	Helo	Blackwell	Central Catholic
+boys	150	2549	Semi-Finals	0	D	5-2	Raymond	Castillo	Bay Area Dragons	Jack	Bronte	Livermore Elite Wc
+boys	150	2550	Semi-Finals	0	D	6-0	Troy	Ruiz	The Empire	Dwight	Skinner	Oakdale
+boys	150	2551	Consi-Semis-1	1	D	8-2	Justice	Commendatore	Daniel Cormier Wrestling Academy	Coleman	Smith	Wright Wrestling Academy
+boys	157	2552	Consi-Semis-1	1	M	14-4	jack	giangrasso	Vacaville Wrestling Club	Mattius	Gonzalez	Turlock Wrestling
+boys	157	2553	Semi-Finals	0	M	8-0	Michael	Coelho	Los Banos	Ayden	Schlotthauer	Clovis High
+boys	157	2554	Semi-Finals	0	D	3-1	Javian	Palomino	Bay Area Dragons	Sean	Griffin	Central Catholic
+boys	157	2555	Consi-Semis-1	1	D	5-2	Gage	Clark	Gallardo Wrestling Academy	Joshua	Rodriguez	West Valley Grapplers
+boys	165	2556	5th Place	1	FF	0-0	Addicus	Dansby	The Empire	Leonidus	Chhav	The Empire
+boys	165	2557	3rd Place	1	F	5-7	Jordan	Maldonado	Wright Wrestling Academy	Charlie	Herrington	Livermore Elite Wc
+boys	175	2558	Consi-Semis-1	1	T	15-0	William	Moran	Team Agression	Conception	Salas	Team Selma Wrestling Club
+boys	175	2559	Semi-Finals	0	D	18-15	Chris	Arreola	Darkhorse	Jisias	Rodriguez	Bay Area Dragons
+boys	175	2560	Semi-Finals	0	D	4-0	Griffin	Gerber	Oakdale	Israel	Mercado	Oakdale
+boys	175	2561	Consi-Semis-1	1	D	4-3	elias	tadros	Southwest Stallions Wc	Jaime	Rodriguez	Riguetti High School
+boys	190	2562	Consi-Semis-1	1	M	13-4	Jermaine	Soto	Daniel Cormier Wrestling Academy	Jack	Ceja	Vasky Bros
+boys	190	2563	Semi-Finals	0	FF	0-0	Raiden	Bishop	The Empire	Bradley	Caygill	Daniel Cormier Wrestling Academy
+boys	190	2564	Semi-Finals	0	D	2-1	Tyler	Tonella	Palo Alto Hs	James	Emery	North Coast Grapplers
+boys	190	2565	Consi-Semis-1	1	F	8-0	EVAN	MONTALVO	The Empire	Easton	Glanville	Oakdale
+boys	215	2566	5th Place	1	MF	0-0	Esai	Sandez	The 300 Wrestling Club	Isaac	Garcia	North Coast Grapplers
+boys	215	2567	3rd Place	1	D	6-4	Odell	Jones	Clovis West	Xavier	Salcedo	Clovis High
+boys	285	2568	5th Place	1	F	7-0	Edwin	Davis	Central Grizzlies Wrestling Club	Saul	Paz	The Empire
+boys	285	2569	3rd Place	1	D	4-0	Eli	Swartz	Central Catholic	Lewis	Fofanah	Poway
+boys	106	2570	Finals	0	D	9-3	Seth	Sobaje	The Empire	Aaron	Lopez	Clovis West
+boys	113	2571	Consi-Semis-2	1	M	13-3	Slate	Bayona	Clovis High / Dethrone	Grant	Dixon	Oakdale
+boys	113	2572	Consi-Semis-2	1	T	18-3	Joseph	Cervantes	The Empire	Mustafa	Mohammadi	Gallardo Wrestling Academy
+boys	120	2573	Consi-of-8-2	1	D	4-1	Jaden	Yacuta	Outlaws Wc	Jason	Liau	Awa
+boys	120	2574	Consi-of-8-2	1	D	4-3	Artasam	Feizi	Bay Area Dragons	Brayden	Hankins	Wright Wrestling Academy
+boys	120	2575	Consi-of-8-2	1	FF	0-0	Noah	Espinoza	Central Catholic	Kayden	Khim	Clovis West
+boys	120	2576	Consi-of-8-2	1	M	14-1	Roman	Fonseca	Daniel Cormier Wrestling Academy	Eli	Mayer	Vacaville Wrestling Club
+boys	126	2577	Consi-of-8-2	1	D	9-7	Logan	Hayashi	Clovis High / Dethrone	Sebastian	Cisneros	The Empire
+boys	126	2578	Consi-of-8-2	1	M	11-0	Colton	Meixner	Darkhorse	Angel	Bombela	Wright Wrestling Academy
+boys	126	2579	Consi-of-8-2	1	MF	7-1	Isaiah	Reyes	Scotsmen Wrestling Club	Christopher	Sizemore	Jg Takedown
+boys	126	2580	Consi-of-8-2	1	D	8-5	Mike	Almaguer	Righetti High School	Benjamin	Maradiaga	Elite Force Wrestling Club
+boys	132	2581	Consi-Semis-2	1	T	17-0	Luke	Tran	The Snake Pit	Jeovanni	Guerrero	Clovis East
+boys	132	2582	Consi-Semis-2	1	T	17-0	Jimmy	Jimenez	Elk Grove Wrestling Academy	Caiden	Avila	Mad-town
+boys	138	2583	Consi-of-8-2	1	D	8-4	Grant	Langstaff	Livermore Elite Wc	Dylan	Morton	Brawlers Wrestling Club
+boys	138	2584	Consi-of-8-2	1	FF	0-0	Mateo	Heredia	Daniel Cormier Wrestling Academy	Gavin	Pongsai	Daniel Cormier Wrestling Academy
+boys	138	2585	Consi-of-8-2	1	T	16-0	Malachi	Pettis	Team Aggression	Mario	Jones	The 300 Wrestling Club
+boys	138	2586	Consi-of-8-2	1	D	4-2	Jovani	Sandoval	Elk Grove Wrestling Academy	Jake	Garza	Daniel Cormier Wrestling Academy
+boys	144	2587	Consi-Semis-2	1	T	19-4	Cruz	Contreras	Aptos	Josh	Garcia	Vasky Bros
+boys	144	2588	Consi-Semis-2	1	D	4-0	Landon	Salindong	Durham Wrestling Club	Cj	Lopez	Elk Grove Wrestling Academy
+boys	150	2589	Consi-Semis-2	1	M	14-2	Jackson	Humphrey	High Desert Wrestling Club	Dwight	Skinner	Oakdale
+boys	150	2590	Consi-Semis-2	1	D	1-0	Jack	Bronte	Livermore Elite Wc	Justice	Commendatore	Daniel Cormier Wrestling Academy
+boys	157	2591	Consi-Semis-2	1	M	10-1	jack	giangrasso	Vacaville Wrestling Club	Sean	Griffin	Central Catholic
+boys	157	2592	Consi-Semis-2	1	D	11-9	Gage	Clark	Gallardo Wrestling Academy	Ayden	Schlotthauer	Clovis High
+boys	165	2593	Finals	0	D	6-2	Finn	Devine	Team Aggression	Shane	Struthers Jr	Clovis High
+boys	175	2594	Consi-Semis-2	1	M	14-5	William	Moran	Team Agression	Israel	Mercado	Oakdale
+boys	175	2595	Consi-Semis-2	1	FF	0-0	elias	tadros	Southwest Stallions Wc	Jisias	Rodriguez	Bay Area Dragons
+boys	190	2596	Consi-Semis-2	1	F	3-0	James	Emery	North Coast Grapplers	Jermaine	Soto	Daniel Cormier Wrestling Academy
+boys	190	2597	Consi-Semis-2	1	FF	0-0	EVAN	MONTALVO	The Empire	Bradley	Caygill	Daniel Cormier Wrestling Academy
+boys	215	2598	Finals	0	M	13-2	Landry	Ngambia	Darkhorse	Leonidas Jacob	Garcia	Darkhorse
+boys	285	2599	Finals	0	M	11-2	Adan	Castillo	Clovis High	Sammy	Seja	The Empire
+boys	113	2600	5th Place	1	D	6-4	Grant	Dixon	Oakdale	Mustafa	Mohammadi	Gallardo Wrestling Academy
+boys	113	2601	3rd Place	1	F	3-0	Joseph	Cervantes	The Empire	Slate	Bayona	Clovis High / Dethrone
+boys	120	2602	Semi-Finals	0	M	10-0	Carson	Wyatt	Sbtc	Pancho	Fuentes	Edison High School
+boys	120	2603	Consi-Semis-1	1	D	7-1	Artasam	Feizi	Bay Area Dragons	Jaden	Yacuta	Outlaws Wc
+boys	120	2604	Semi-Finals	0	T	15-0	Eli	Mendoza	Daniel Cormier Wrestling Academy	Gabriel	Martinez	Vacaville Wrestling Club
+boys	120	2605	Consi-Semis-1	1	M	14-1	Roman	Fonseca	Daniel Cormier Wrestling Academy	Noah	Espinoza	Central Catholic
+boys	126	2606	Semi-Finals	0	INJ	3-0	Jacob	Rodriguez	Darkhorse	Xavier	Garcia	Clovis West
+boys	126	2607	Consi-Semis-1	1	F	3-0	Colton	Meixner	Darkhorse	Logan	Hayashi	Clovis High / Dethrone
+boys	126	2608	Semi-Finals	0	D	10-6	Eliazar	Valdez	Central Catholic	Bryce	Dacoco	Vasky Bros
+boys	126	2609	Consi-Semis-1	1	D	4-0	Mike	Almaguer	Righetti High School	Isaiah	Reyes	Scotsmen Wrestling Club
+boys	132	2610	5th Place	1	D	8-5	Caiden	Avila	Mad-town	Jeovanni	Guerrero	Clovis East
+boys	132	2611	3rd Place	1	D	7-2	Jimmy	Jimenez	Elk Grove Wrestling Academy	Luke	Tran	The Snake Pit
+boys	138	2612	Semi-Finals	0	F	9-2	Paul	Ruiz	The Empire	Luke	Schoch	Bay Area Dragons
+boys	138	2613	Consi-Semis-1	1	D	8-2	Mateo	Heredia	Daniel Cormier Wrestling Academy	Grant	Langstaff	Livermore Elite Wc
+boys	138	2614	Semi-Finals	0	D	5-2	Elias	Castaneda	Clovis High	Caleb	Chacon	Clovis High
+boys	138	2615	Consi-Semis-1	1	D	7-4	Jovani	Sandoval	Elk Grove Wrestling Academy	Malachi	Pettis	Team Aggression
+boys	144	2616	5th Place	1	D	4-2	Josh	Garcia	Vasky Bros	Cj	Lopez	Elk Grove Wrestling Academy
+boys	144	2617	3rd Place	1	D	10-6	Landon	Salindong	Durham Wrestling Club	Cruz	Contreras	Aptos
+boys	150	2618	5th Place	1	D	10-6	Justice	Commendatore	Daniel Cormier Wrestling Academy	Dwight	Skinner	Oakdale
+boys	150	2619	3rd Place	1	M	13-2	Jackson	Humphrey	High Desert Wrestling Club	Jack	Bronte	Livermore Elite Wc
+boys	157	2620	5th Place	1	MF	0-0	Ayden	Schlotthauer	Clovis High	Sean	Griffin	Central Catholic
+boys	157	2621	3rd Place	1	F	5-0	jack	giangrasso	Vacaville Wrestling Club	Gage	Clark	Gallardo Wrestling Academy
+boys	175	2622	5th Place	1	FF	0-0	Israel	Mercado	Oakdale	Jisias	Rodriguez	Bay Area Dragons
+boys	175	2623	3rd Place	1	T	18-2	William	Moran	Team Agression	elias	tadros	Southwest Stallions Wc
+boys	190	2624	5th Place	1	FF	0-0	Jermaine	Soto	Daniel Cormier Wrestling Academy	Bradley	Caygill	Daniel Cormier Wrestling Academy
+boys	190	2625	3rd Place	1	D	4-0	James	Emery	North Coast Grapplers	EVAN	MONTALVO	The Empire
+boys	113	2626	Finals	0	D	5-0	Elham	Hashimi	Tri Valley Elite Wrestling Club	Nathiel	Nava	Southwest Stallions Wc
+boys	120	2627	Consi-Semis-2	1	D	4-2	Artasam	Feizi	Bay Area Dragons	Pancho	Fuentes	Edison High School
+boys	120	2628	Consi-Semis-2	1	D	4-2	Gabriel	Martinez	Vacaville Wrestling Club	Roman	Fonseca	Daniel Cormier Wrestling Academy
+boys	126	2629	Consi-Semis-2	1	MF	0-0	Colton	Meixner	Darkhorse	Xavier	Garcia	Clovis West
+boys	126	2630	Consi-Semis-2	1	T	17-1	Bryce	Dacoco	Vasky Bros	Mike	Almaguer	Righetti High School
+boys	132	2631	Finals	0	D	3-1	JJ	Greene	The Empire	Robert	Estrada	The Empire
+boys	138	2632	Consi-Semis-2	1	FF	0-0	Luke	Schoch	Bay Area Dragons	Mateo	Heredia	Daniel Cormier Wrestling Academy
+boys	138	2633	Consi-Semis-2	1	D	4-2	Caleb	Chacon	Clovis High	Jovani	Sandoval	Elk Grove Wrestling Academy
+boys	144	2634	Finals	0	M	12-2	Cael	Humphrey	High Desert Wrestling Club	Julian (Gullien)	Holguin	Awa
+boys	150	2635	Finals	0	D	2-0	Raymond	Castillo	Bay Area Dragons	Troy	Ruiz	The Empire
+boys	157	2636	Finals	0	T	21-5	Javian	Palomino	Bay Area Dragons	Michael	Coelho	Los Banos
+boys	175	2637	Finals	0	T	23-5	Chris	Arreola	Darkhorse	Griffin	Gerber	Oakdale
+boys	190	2638	Finals	0	D	3-2	Tyler	Tonella	Palo Alto Hs	Raiden	Bishop	The Empire
+boys	120	2639	5th Place	1	F	0-0	Pancho	Fuentes	Edison High School	Roman	Fonseca	Daniel Cormier Wrestling Academy
+boys	120	2640	3rd Place	1	M	11-1	Artasam	Feizi	Bay Area Dragons	Gabriel	Martinez	Vacaville Wrestling Club
+boys	126	2641	5th Place	1	MF	0-0	Mike	Almaguer	Righetti High School	Xavier	Garcia	Clovis West
+boys	126	2642	3rd Place	1	F	4-3	Colton	Meixner	Darkhorse	Bryce	Dacoco	Vasky Bros
+boys	138	2643	5th Place	1	FF	0-0	Jovani	Sandoval	Elk Grove Wrestling Academy	Mateo	Heredia	Daniel Cormier Wrestling Academy
+boys	138	2644	3rd Place	1	M	16-5	Luke	Schoch	Bay Area Dragons	Caleb	Chacon	Clovis High
+boys	120	2645	Finals	0	T	15-0	Eli	Mendoza	Daniel Cormier Wrestling Academy	Carson	Wyatt	Sbtc
+boys	126	2646	Finals	0	D	6-5	Jacob	Rodriguez	Darkhorse	Eliazar	Valdez	Central Catholic
+boys	138	2647	Finals	0	M	12-3	Paul	Ruiz	The Empire	Elias	Castaneda	Clovis High
+girls	100	4000	Round of 16	0	F	8-0	Kaila	Robles-Rials	Amateur Wrestling Academy	Liseth	Beltran	Dethrone
+girls	100	4001	Round of 16	0	F	9-0	Jillian	Vollhardt	Central Valley Bengals	Ariel	Moua	Clovis East
+girls	100	4002	Round of 16	0	M	8-0	Myah	Benevidez	Faithful Few	Erize	Padilla	The Valley Wrestling Club
+girls	100	4003	Round of 16	0	M	10-0	Gabby	Lemus	Clovis High	Valeria	Cerna	Southwest Stallions Wc
+girls	100	4004	Round of 16	0	F	3-0	Kylie-Ann	Thach	Eleanor Roosevelt	Breanne	Skinner	Oakdale
+girls	100	4005	Round of 16	0	M	13-3	Jenna	Hernandez	Darkhorse	Sophia	Plascencia	Turlock Wrestling
+girls	108	4006	Round of 16	0	F	6-1	Aubrey	Brambila-Osornia	Southwest Stallions Wc	Maleya	Maglanoc	Corona 100
+girls	108	4007	Round of 16	0	F	3-0	Athena	Joaquin	Elite Force Wrestling Club	Angel	Ho	Clovis West
+girls	108	4008	Round of 16	0	F	0-0	Natana	Albright	Darkhorse	Kaylah	Constantino	Corona 100
+girls	108	4009	Round of 16	0	F	3-0	Sophia	Toscano	The Empire	Mailee	Wong	Jaguars Wrestling Club
+girls	108	4010	Round of 16	0	D	8-5	Cali Rey	Gilliard	Southwest Stallions Wc	Olivia	Wara	Elite Force Wrestling Club
+girls	108	4011	Round of 16	0	T	17-1	Mindy	Terrell	Bay Area Dragons	Isabella	Arceo	Saint Marys
+girls	108	4012	Round of 16	0	F	3-0	Cecilia	Bargas	Darkhorse/dethrone	Brigitte	Dunford	Corona 100
+girls	108	4013	Round of 16	0	M	12-0	Isabella	Munguia	Righetti High School	Winter	Biegler	
+girls	115	4014	Round of 16	0	F	15-2	Jazmine	Lopez	Sbtc	Cielo	Razon	Clovis West
+girls	115	4015	Round of 16	0	F	5-0	Dylan	Marin	Corona 100	Brooklyn	Loera	Team Selma Wrestling Club
+girls	115	4016	Round of 16	0	T	18-2	Chloe	Moua	Clovis East	Madelyn	Garone	Central Valley Bengals
+girls	115	4017	Round of 16	0	F	3-0	Jayleen	Quenga	Clovis West	Azalia	Esteves Ruiz	Corona 100
+girls	115	4018	Round of 16	0	D	6-0	Erian	Mendez	Sbtc	miranda	Lopez	Team Selma Wrestling Club
+girls	115	4019	Round of 16	0	F	3-0	Priseya	Ornelas	Iron Wrestling	Brooklynne	Sheen	Clovis High
+girls	115	4020	Round of 16	0	D	8-6	Alexandria	Munguia	Righetti High School	Genesis	Mendoza	Elite Force Wrestling Club
+girls	123	4021	Round of 32	0	F	7-0	Mia	Gonzales	Amateur Wrestling Academy	Alysiana	Salas	Los Banos
+girls	123	4022	Round of 32	0	T	19-3	Rio	Rening	Wright Wrestling Academy	Marayla	LaMere	Righetti High School
+girls	130	4023	Round of 16	0	M	11-0	Abigail	Lee	Amateur Wrestling Academy	Micaiah	Cortez	Central Catholic
+girls	130	4024	Round of 16	0	M	18-7	Khloe	Furlong	Team Selma Wrestling Club	Karyce	Gonzales	Southwest Stallions Wc
+girls	130	4025	Round of 16	0	F	6-0	Tabitha	Montez	Central Catholic	Mikayla	Pena	Clovis High
+girls	130	4026	Round of 16	0	T	15-0	Olivia	Anderson	The Empire	Perla	Peralta	Corona 100
+girls	139	4027	Round of 16	0	F	12-0	Emma	Anderson	The Empire	Addisyn	Masullo	Origin Training Center
+girls	148	4028	Round of 16	0	F	5-0	Alexis	Rivas Ayala	Vasky Bros	Kayleigh	Cruz	Open Mat Academy
+girls	148	4029	Round of 16	0	F	7-0	Syraha	Gonzales	Buchanan	Victoria	Clark	Swamp Monsters
+girls	154	4030	Quarter-Finals	0	F	5-0	Avery	Naven	Elite Force Wrestling Club	Aaliyah	Barahona	Sbtc
+girls	154	4031	Quarter-Finals	0	F	3-0	Olivia	Faust	The Empire	Lailana	Moultrie	Clovis West
+girls	172	4032	RR-1	0	F	9-0	Joselynn	Luna	Team Selma Wrestling Club	Jolene	Juarez	Clovis High
+girls	195	4033	RR-1	0	F	7-0	Adeline	Reece	Central Catholic	Mercedes	Amador	Firebaugh Wrestling Club
+girls	195	4034	RR-1	0	F	3-0	Roselie	Olea	Bullard	Elizabeth	Murrietta	Clovis West
+girls	100	4035	Quarter-Finals	0	F	4-3	Emma	Rico	Southwest Stallions Wc	Kaila	Robles-Rials	Amateur Wrestling Academy
+girls	100	4036	Quarter-Finals	0	D	6-5	Jillian	Vollhardt	Central Valley Bengals	Myah	Benevidez	Faithful Few
+girls	100	4037	Quarter-Finals	0	D	7-4	Gabby	Lemus	Clovis High	Kylie-Ann	Thach	Eleanor Roosevelt
+girls	100	4038	Quarter-Finals	0	F	9-0	Jenna	Hernandez	Darkhorse	Jade	Demarbieux	The Empire
+girls	100	4039	Consi-of-8-1	1	M	9-0	Erize	Padilla	The Valley Wrestling Club	Ariel	Moua	Clovis East
+girls	100	4040	Consi-of-8-1	1	F	3-0	Valeria	Cerna	Southwest Stallions Wc	Breanne	Skinner	Oakdale
+girls	108	4041	Quarter-Finals	0	T	18-0	Athena	Joaquin	Elite Force Wrestling Club	Aubrey	Brambila-Osornia	Southwest Stallions Wc
+girls	108	4042	Quarter-Finals	0	D	5-0	Sophia	Toscano	The Empire	Natana	Albright	Darkhorse
+girls	108	4043	Quarter-Finals	0	T	20-4	Mindy	Terrell	Bay Area Dragons	Cali Rey	Gilliard	Southwest Stallions Wc
+girls	108	4044	Quarter-Finals	0	F	3-0	Cecilia	Bargas	Darkhorse/dethrone	Isabella	Munguia	Righetti High School
+girls	108	4045	Consi-of-8-1	1	D	12-9	Maleya	Maglanoc	Corona 100	Angel	Ho	Clovis West
+girls	108	4046	Consi-of-8-1	1	F	7-0	Kaylah	Constantino	Corona 100	Mailee	Wong	Jaguars Wrestling Club
+girls	108	4047	Consi-of-8-1	1	T	16-1	Olivia	Wara	Elite Force Wrestling Club	Isabella	Arceo	Saint Marys
+girls	108	4048	Consi-of-8-1	1	F	3-0	Winter	Biegler		Brigitte	Dunford	Corona 100
+girls	115	4049	Quarter-Finals	0	F	3-0	Jazmine	Lopez	Sbtc	Alina	Santana	Corona 100
+girls	115	4050	Quarter-Finals	0	F	3-0	Dylan	Marin	Corona 100	Chloe	Moua	Clovis East
+girls	115	4051	Quarter-Finals	0	F	11-3	Jayleen	Quenga	Clovis West	Erian	Mendez	Sbtc
+girls	115	4052	Quarter-Finals	0	F	0-3	Priseya	Ornelas	Iron Wrestling	Alexandria	Munguia	Righetti High School
+girls	115	4053	Consi-of-8-1	1	F	10-3	Madelyn	Garone	Central Valley Bengals	Brooklyn	Loera	Team Selma Wrestling Club
+girls	115	4054	Consi-of-8-1	1	F	3-0	miranda	Lopez	Team Selma Wrestling Club	Azalia	Esteves Ruiz	Corona 100
+girls	115	4055	Consi-of-8-1	1	F	3-0	Brooklynne	Sheen	Clovis High	Genesis	Mendoza	Elite Force Wrestling Club
+girls	123	4056	Round of 16	0	T	15-0	Kamila	Cerna	Southwest Stallions Wc	Mia	Gonzales	Amateur Wrestling Academy
+girls	123	4057	Round of 16	0	D	8-6	Savina	Villa	Elk Grove Wrestling Academy	Mia	Hennecke	Claw
+girls	123	4058	Round of 16	0	F	3-0	Sophia	Amezquita	The Empire	Anahi	Zepeda	Team Selma Wrestling Club
+girls	123	4059	Round of 16	0	T	15-0	Alina	Guillen	Unattached	Rivi	Winslow	Swamp Monsters
+girls	123	4060	Round of 16	0	F	3-0	Leilah	Saremi	Southwest Stallions Wc	Aaliyah	Salinas Martinez	Team Selma Wrestling Club
+girls	123	4061	Round of 16	0	F	6-8	Emily	Maya	Bullard	Abigail	Sapien	Clovis West
+girls	123	4062	Round of 16	0	F	3-0	Olivia	Warren	Livermore Elite Wrestling Club	Victoria	Estrada	Team Selma Wrestling Club
+girls	123	4063	Round of 16	0	M	14-2	Sophia	Dacoco	Vasky Bros	Rio	Rening	Wright Wrestling Academy
+girls	130	4064	Quarter-Finals	0	M	10-0	Abigail	Lee	Amateur Wrestling Academy	Ava	Perez	Clovis West
+girls	130	4065	Quarter-Finals	0	F	0-0	Marissa	Agerton	Elite Force Wrestling Club	Khloe	Furlong	Team Selma Wrestling Club
+girls	130	4066	Quarter-Finals	0	F	6-0	Tabitha	Montez	Central Catholic	Zoe	Zamora	Clovis West
+girls	130	4067	Quarter-Finals	0	F	4-0	Olivia	Anderson	The Empire	Leeyah	Rodriguez	Merced Bears Wc
+girls	139	4068	Quarter-Finals	0	D	5-0	Sarai	Cortez	Central Catholic	Emma	Anderson	The Empire
+girls	139	4069	Quarter-Finals	0	F	3-0	Alexis	Mariscal	Swamp Monsters	Leona	Martinez	Central Catholic
+girls	139	4070	Quarter-Finals	0	M	8-0	Gracyn	Valdez	Wright's Wrestling	Mia	Franciotti	Elite Force Wrestling Club
+girls	139	4071	Quarter-Finals	0	F	5-0	Brandy	Jenkins	Outlaws Wc	Keely	Ford	Motherlode Wrestling Club
+girls	148	4072	Quarter-Finals	0	D	1-0	Alexis	Rivas Ayala	Vasky Bros	Shania	Garcia	Vasky Bros
+girls	148	4073	Quarter-Finals	0	F	3-0	Dulcy	Martinez	Central Catholic	Emma	Cabrera	Highlander Wrestling Club
+girls	148	4074	Quarter-Finals	0	F	6-8	Marisa	Chavez	Highlander Wrestling Club	Keira	Gilders	Corona 100
+girls	148	4075	Quarter-Finals	0	D	7-3	Sulay	Cornejo	Righetti High School	Syraha	Gonzales	Buchanan
+girls	154	4076	Semi-Finals	0	F	13-0	Avery	Naven	Elite Force Wrestling Club	Adena	Urrea	Clovis High
+girls	154	4077	Semi-Finals	0	F	8-1	Olivia	Faust	The Empire	Helena	Rodriguez	Overtime Wrestling Academy
+girls	172	4078	RR-2	0	F	4-0	Victoria	Ohanian	Buchanan	Jolene	Juarez	Clovis High
+girls	195	4079	RR-2	0	D	4-3	Elizabeth	Murrietta	Clovis West	Ava	Rodriguez	Team Selma Wrestling Club
+girls	195	4080	RR-2	0	F	3-0	Adeline	Reece	Central Catholic	Roselie	Olea	Bullard
+girls	100	4081	Consi-of-8-2	1	D	8-3	Jade	Demarbieux	The Empire	Liseth	Beltran	Dethrone
+girls	100	4082	Consi-of-8-2	1	M	11-2	Kylie-Ann	Thach	Eleanor Roosevelt	Erize	Padilla	The Valley Wrestling Club
+girls	100	4083	Consi-of-8-2	1	D	8-2	Valeria	Cerna	Southwest Stallions Wc	Myah	Benevidez	Faithful Few
+girls	100	4084	Consi-of-8-2	1	M	10-0	Kaila	Robles-Rials	Amateur Wrestling Academy	Sophia	Plascencia	Turlock Wrestling
+girls	108	4085	Consi-of-8-2	1	M	11-0	Isabella	Munguia	Righetti High School	Maleya	Maglanoc	Corona 100
+girls	108	4086	Consi-of-8-2	1	F	10-0	Cali Rey	Gilliard	Southwest Stallions Wc	Kaylah	Constantino	Corona 100
+girls	108	4087	Consi-of-8-2	1	F	3-0	Natana	Albright	Darkhorse	Olivia	Wara	Elite Force Wrestling Club
+girls	108	4088	Consi-of-8-2	1	F	4-0	Aubrey	Brambila-Osornia	Southwest Stallions Wc	Winter	Biegler	
+girls	115	4089	Consi-of-8-2	1	F	11-0	Alexandria	Munguia	Righetti High School	Cielo	Razon	Clovis West
+girls	115	4090	Consi-of-8-2	1	F	9-1	Erian	Mendez	Sbtc	Madelyn	Garone	Central Valley Bengals
+girls	115	4091	Consi-of-8-2	1	F	3-4	miranda	Lopez	Team Selma Wrestling Club	Chloe	Moua	Clovis East
+girls	115	4092	Consi-of-8-2	1	F	3-0	Brooklynne	Sheen	Clovis High	Alina	Santana	Corona 100
+girls	123	4093	Consi-of-16-2	1	T	18-2	Rio	Rening	Wright Wrestling Academy	Alysiana	Salas	Los Banos
+girls	123	4094	Consi-of-16-2	1	F	6-1	Mia	Gonzales	Amateur Wrestling Academy	Marayla	LaMere	Righetti High School
+girls	130	4095	Consi-of-8-2	1	F	3-1	Leeyah	Rodriguez	Merced Bears Wc	Micaiah	Cortez	Central Catholic
+girls	130	4096	Consi-of-8-2	1	M	8-0	Karyce	Gonzales	Southwest Stallions Wc	Zoe	Zamora	Clovis West
+girls	130	4097	Consi-of-8-2	1	F	2-0	Khloe	Furlong	Team Selma Wrestling Club	Mikayla	Pena	Clovis High
+girls	130	4098	Consi-of-8-2	1	F	2-0	Ava	Perez	Clovis West	Perla	Peralta	Corona 100
+girls	139	4099	Consi-of-8-2	1	F	8-0	Addisyn	Masullo	Origin Training Center	Keely	Ford	Motherlode Wrestling Club
+girls	148	4100	Consi-of-8-2	1	F	4-4	Kayleigh	Cruz	Open Mat Academy	Syraha	Gonzales	Buchanan
+girls	148	4101	Consi-of-8-2	1	F	6-0	Shania	Garcia	Vasky Bros	Victoria	Clark	Swamp Monsters
+girls	154	4102	Consi-Semis-2	1	F	3-0	Helena	Rodriguez	Overtime Wrestling Academy	Aaliyah	Barahona	Sbtc
+girls	154	4103	Consi-Semis-2	1	F	7-0	Lailana	Moultrie	Clovis West	Adena	Urrea	Clovis High
+girls	172	4104	RR-3	0	D	8-3	Victoria	Ohanian	Buchanan	Joselynn	Luna	Team Selma Wrestling Club
+girls	195	4105	RR-3	0	F	3-0	Roselie	Olea	Bullard	Mercedes	Amador	Firebaugh Wrestling Club
+girls	195	4106	RR-3	0	F	3-0	Adeline	Reece	Central Catholic	Ava	Rodriguez	Team Selma Wrestling Club
+girls	100	4107	Semi-Finals	0	F	3-0	Jillian	Vollhardt	Central Valley Bengals	Emma	Rico	Southwest Stallions Wc
+girls	100	4108	Consi-Semis-1	1	F	3-0	Kylie-Ann	Thach	Eleanor Roosevelt	Jade	Demarbieux	The Empire
+girls	100	4109	Semi-Finals	0	M	10-0	Gabby	Lemus	Clovis High	Jenna	Hernandez	Darkhorse
+girls	100	4110	Consi-Semis-1	1	M	10-0	Valeria	Cerna	Southwest Stallions Wc	Kaila	Robles-Rials	Amateur Wrestling Academy
+girls	108	4111	Semi-Finals	0	D	5-0	Sophia	Toscano	The Empire	Athena	Joaquin	Elite Force Wrestling Club
+girls	108	4112	Consi-Semis-1	1	F	0-3	Cali Rey	Gilliard	Southwest Stallions Wc	Isabella	Munguia	Righetti High School
+girls	108	4113	Semi-Finals	0	F	4-3	Cecilia	Bargas	Darkhorse/dethrone	Mindy	Terrell	Bay Area Dragons
+girls	108	4114	Consi-Semis-1	1	D	7-0	Natana	Albright	Darkhorse	Aubrey	Brambila-Osornia	Southwest Stallions Wc
+girls	115	4115	Semi-Finals	0	D	7-1	Jazmine	Lopez	Sbtc	Dylan	Marin	Corona 100
+girls	115	4116	Consi-Semis-1	1	D	10-7	Erian	Mendez	Sbtc	Alexandria	Munguia	Righetti High School
+girls	115	4117	Semi-Finals	0	M	9-1	Priseya	Ornelas	Iron Wrestling	Jayleen	Quenga	Clovis West
+girls	115	4118	Consi-Semis-1	1	D	9-4	Brooklynne	Sheen	Clovis High	miranda	Lopez	Team Selma Wrestling Club
+girls	123	4119	Quarter-Finals	0	F	5-2	Kamila	Cerna	Southwest Stallions Wc	Savina	Villa	Elk Grove Wrestling Academy
+girls	123	4120	Consi-of-8-1	1	F	3-0	Rio	Rening	Wright Wrestling Academy	Victoria	Estrada	Team Selma Wrestling Club
+girls	123	4121	Quarter-Finals	0	F	2-7	Alina	Guillen	Unattached	Sophia	Amezquita	The Empire
+girls	123	4122	Consi-of-8-1	1	M	13-1	Abigail	Sapien	Clovis West	Aaliyah	Salinas Martinez	Team Selma Wrestling Club
+girls	123	4123	Consi-of-8-1	1	F	5-2	Anahi	Zepeda	Team Selma Wrestling Club	Rivi	Winslow	Swamp Monsters
+girls	123	4124	Quarter-Finals	0	F	7-7	Leilah	Saremi	Southwest Stallions Wc	Emily	Maya	Bullard
+girls	123	4125	Quarter-Finals	0	T	19-4	Sophia	Dacoco	Vasky Bros	Olivia	Warren	Livermore Elite Wrestling Club
+girls	123	4126	Consi-of-8-1	1	D	3-1	Mia	Gonzales	Amateur Wrestling Academy	Mia	Hennecke	Claw
+girls	130	4127	Semi-Finals	0	D	7-0	Abigail	Lee	Amateur Wrestling Academy	Marissa	Agerton	Elite Force Wrestling Club
+girls	130	4128	Consi-Semis-1	1	F	6-3	Karyce	Gonzales	Southwest Stallions Wc	Leeyah	Rodriguez	Merced Bears Wc
+girls	130	4129	Semi-Finals	0	D	7-4	Olivia	Anderson	The Empire	Tabitha	Montez	Central Catholic
+girls	130	4130	Consi-Semis-1	1	MF	0-0	Ava	Perez	Clovis West	Khloe	Furlong	Team Selma Wrestling Club
+girls	139	4131	Semi-Finals	0	D	4-1	Sarai	Cortez	Central Catholic	Alexis	Mariscal	Swamp Monsters
+girls	139	4132	Consi-Semis-1	1	MF	0-0	Addisyn	Masullo	Origin Training Center	Mia	Franciotti	Elite Force Wrestling Club
+girls	139	4133	Semi-Finals	0	D	11-5	Gracyn	Valdez	Wright's Wrestling	Brandy	Jenkins	Outlaws Wc
+girls	139	4134	Consi-Semis-1	1	F	6-0	Leona	Martinez	Central Catholic	Emma	Anderson	The Empire
+girls	148	4135	Semi-Finals	0	F	3-0	Dulcy	Martinez	Central Catholic	Alexis	Rivas Ayala	Vasky Bros
+girls	148	4136	Consi-Semis-1	1	F	9-0	Keira	Gilders	Corona 100	Kayleigh	Cruz	Open Mat Academy
+girls	148	4137	Semi-Finals	0	D	12-8	Marisa	Chavez	Highlander Wrestling Club	Sulay	Cornejo	Righetti High School
+girls	148	4138	Consi-Semis-1	1	F	11-0	Shania	Garcia	Vasky Bros	Emma	Cabrera	Highlander Wrestling Club
+girls	154	4139	5th Place	1	D	10-3	Adena	Urrea	Clovis High	Aaliyah	Barahona	Sbtc
+girls	154	4140	3rd Place	1	F	0-0	Lailana	Moultrie	Clovis West	Helena	Rodriguez	Overtime Wrestling Academy
+girls	195	4141	RR-4	0	F	3-0	Adeline	Reece	Central Catholic	Elizabeth	Murrietta	Clovis West
+girls	195	4142	RR-4	0	F	3-0	Ava	Rodriguez	Team Selma Wrestling Club	Mercedes	Amador	Firebaugh Wrestling Club
+girls	100	4143	Consi-Semis-2	1	F	5-0	Kylie-Ann	Thach	Eleanor Roosevelt	Emma	Rico	Southwest Stallions Wc
+girls	100	4144	Consi-Semis-2	1	F	3-3	Valeria	Cerna	Southwest Stallions Wc	Jenna	Hernandez	Darkhorse
+girls	108	4145	Consi-Semis-2	1	F	3-0	Athena	Joaquin	Elite Force Wrestling Club	Cali Rey	Gilliard	Southwest Stallions Wc
+girls	108	4146	Consi-Semis-2	1	D	1-0	Mindy	Terrell	Bay Area Dragons	Natana	Albright	Darkhorse
+girls	115	4147	Consi-Semis-2	1	F	3-0	Dylan	Marin	Corona 100	Erian	Mendez	Sbtc
+girls	115	4148	Consi-Semis-2	1	F	3-1	Jayleen	Quenga	Clovis West	Brooklynne	Sheen	Clovis High
+girls	123	4149	Consi-of-8-2	1	F	14-2	Rio	Rening	Wright Wrestling Academy	Sophia	Amezquita	The Empire
+girls	123	4150	Consi-of-8-2	1	F	6-0	Savina	Villa	Elk Grove Wrestling Academy	Abigail	Sapien	Clovis West
+girls	123	4151	Consi-of-8-2	1	F	3-0	Olivia	Warren	Livermore Elite Wrestling Club	Anahi	Zepeda	Team Selma Wrestling Club
+girls	123	4152	Consi-of-8-2	1	F	10-0	Mia	Gonzales	Amateur Wrestling Academy	Emily	Maya	Bullard
+girls	130	4153	Consi-Semis-2	1	M	15-4	Marissa	Agerton	Elite Force Wrestling Club	Karyce	Gonzales	Southwest Stallions Wc
+girls	130	4154	Consi-Semis-2	1	M	12-1	Tabitha	Montez	Central Catholic	Ava	Perez	Clovis West
+girls	139	4155	Consi-Semis-2	1	D	6-5	Alexis	Mariscal	Swamp Monsters	Addisyn	Masullo	Origin Training Center
+girls	139	4156	Consi-Semis-2	1	D	6-4	Leona	Martinez	Central Catholic	Brandy	Jenkins	Outlaws Wc
+girls	148	4157	Consi-Semis-2	1	F	4-14	Alexis	Rivas Ayala	Vasky Bros	Keira	Gilders	Corona 100
+girls	148	4158	Consi-Semis-2	1	D	4-0	Shania	Garcia	Vasky Bros	Sulay	Cornejo	Righetti High School
+girls	154	4159	Finals	0	F	3-0	Olivia	Faust	The Empire	Avery	Naven	Elite Force Wrestling Club
+girls	195	4160	RR-5	0	F	0-0	Roselie	Olea	Bullard	Ava	Rodriguez	Team Selma Wrestling Club
+girls	195	4161	RR-5	0	D	6-0	Elizabeth	Murrietta	Clovis West	Mercedes	Amador	Firebaugh Wrestling Club
+girls	100	4162	5th Place	1	D	10-3	Jenna	Hernandez	Darkhorse	Emma	Rico	Southwest Stallions Wc
+girls	100	4163	3rd Place	1	F	0-0	Kylie-Ann	Thach	Eleanor Roosevelt	Valeria	Cerna	Southwest Stallions Wc
+girls	108	4164	5th Place	1	M	8-0	Natana	Albright	Darkhorse	Cali Rey	Gilliard	Southwest Stallions Wc
+girls	108	4165	3rd Place	1	D	4-1	Mindy	Terrell	Bay Area Dragons	Athena	Joaquin	Elite Force Wrestling Club
+girls	115	4166	5th Place	1	D	8-2	Erian	Mendez	Sbtc	Brooklynne	Sheen	Clovis High
+girls	115	4167	3rd Place	1	D	10-4	Dylan	Marin	Corona 100	Jayleen	Quenga	Clovis West
+girls	123	4168	Consi-Semis-1	1	T	17-1	Rio	Rening	Wright Wrestling Academy	Savina	Villa	Elk Grove Wrestling Academy
+girls	123	4169	Semi-Finals	0	F	3-0	Kamila	Cerna	Southwest Stallions Wc	Alina	Guillen	Unattached
+girls	123	4170	Semi-Finals	0	F	6-1	Sophia	Dacoco	Vasky Bros	Leilah	Saremi	Southwest Stallions Wc
+girls	123	4171	Consi-Semis-1	1	D	3-1	Mia	Gonzales	Amateur Wrestling Academy	Olivia	Warren	Livermore Elite Wrestling Club
+girls	130	4172	5th Place	1	M	9-0	Ava	Perez	Clovis West	Karyce	Gonzales	Southwest Stallions Wc
+girls	130	4173	3rd Place	1	D	5-0	Marissa	Agerton	Elite Force Wrestling Club	Tabitha	Montez	Central Catholic
+girls	139	4174	5th Place	1	F	6-0	Brandy	Jenkins	Outlaws Wc	Addisyn	Masullo	Origin Training Center
+girls	139	4175	3rd Place	1	D	4-1	Leona	Martinez	Central Catholic	Alexis	Mariscal	Swamp Monsters
+girls	148	4176	5th Place	1	D	4-0	Sulay	Cornejo	Righetti High School	Keira	Gilders	Corona 100
+girls	148	4177	3rd Place	1	D	2-1	Alexis	Rivas Ayala	Vasky Bros	Shania	Garcia	Vasky Bros
+girls	100	4178	Finals	0	M	10-0	Gabby	Lemus	Clovis High	Jillian	Vollhardt	Central Valley Bengals
+girls	108	4179	Finals	0	D	7-3	Cecilia	Bargas	Darkhorse/dethrone	Sophia	Toscano	The Empire
+girls	115	4180	Finals	0	D	4-0	Priseya	Ornelas	Iron Wrestling	Jazmine	Lopez	Sbtc
+girls	123	4181	Consi-Semis-2	1	F	8-0	Rio	Rening	Wright Wrestling Academy	Leilah	Saremi	Southwest Stallions Wc
+girls	123	4182	Consi-Semis-2	1	D	13-11	Mia	Gonzales	Amateur Wrestling Academy	Alina	Guillen	Unattached
+girls	130	4183	Finals	0	T	21-1	Abigail	Lee	Amateur Wrestling Academy	Olivia	Anderson	The Empire
+girls	139	4184	Finals	0	D	1-0	Sarai	Cortez	Central Catholic	Gracyn	Valdez	Wright's Wrestling
+girls	148	4185	Finals	0	F	3-0	Dulcy	Martinez	Central Catholic	Marisa	Chavez	Highlander Wrestling Club
+girls	123	4186	5th Place	1	F	6-5	Leilah	Saremi	Southwest Stallions Wc	Alina	Guillen	Unattached
+girls	123	4187	3rd Place	1	M	9-1	Rio	Rening	Wright Wrestling Academy	Mia	Gonzales	Amateur Wrestling Academy
+girls	123	4188	Finals	0	D	7-4	Sophia	Dacoco	Vasky Bros	Kamila	Cerna	Southwest Stallions Wc
