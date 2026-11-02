@@ -1,3 +1,5 @@
 # Tournament wrestlers Jeff has confirmed are NOT the board wrestler with the same name.
 # 'Name As Printed | Team As Printed' (team is case-insensitive). Treated as non-board entrants.
 Jayden Gonzalez | Dethrone   # 126 at Gilroy and World Challenge; not Jayden Gonzalez (Shafter, 175). 2026-11-02
+Luke Tran | The Snake Pit   # 132 at World Challenge; not Luke Tran (Independence, board 120). Jeff 2026-11-02
+Luke Tran |                 # 132 at SCWAY Fall Classic (team blank); same Snake Pit kid, not Independence. Jeff 2026-11-02
