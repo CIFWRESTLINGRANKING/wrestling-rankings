@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T20:12:18.255552+00:00",
+  "generated": "2026-11-26T20:13:52.714076+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -54,16 +54,6 @@
         },
         {
           "rank": 5,
-          "name": "Isaiah Flores",
-          "team": "Walnut",
-          "section": "SS",
-          "grade": "Fr",
-          "record": "1-0",
-          "rating": 1662,
-          "rd": 350
-        },
-        {
-          "rank": 6,
           "name": "Joseph Delfin",
           "team": "Bakersfield         \r\n     Christian",
           "section": "CS",
@@ -73,7 +63,7 @@
           "rd": 191
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Elijah Ramirez",
           "team": "Mission Viejo",
           "section": "SS",
@@ -83,7 +73,7 @@
           "rd": 185
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Manuel Cacoilo",
           "team": "Daniel Cormier Wrestling Academy",
           "section": "",
@@ -96,7 +86,7 @@
           "entry_reason": "beat Aaron Lopez (D 9-2, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Dylan Duszynski",
           "team": "Orange         \r\n     Lutheran",
           "section": "SS",
@@ -104,6 +94,16 @@
           "record": "1-3",
           "rating": 1355,
           "rd": 205
+        },
+        {
+          "rank": 9,
+          "name": "Isaiah Flores",
+          "team": "Walnut",
+          "section": "SS",
+          "grade": "Fr",
+          "record": "1-2",
+          "rating": 1324,
+          "rd": 207
         }
       ]
     },
@@ -231,6 +231,16 @@
         },
         {
           "rank": 11,
+          "name": "Enzo Rodriguez",
+          "team": "Northview",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "5-4",
+          "rating": 1614,
+          "rd": 136
+        },
+        {
+          "rank": 12,
           "name": "Patrick Barnett",
           "team": "St. John       \r\n    Bosco",
           "section": "SS",
@@ -240,7 +250,7 @@
           "rd": 185
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Max Fate",
           "team": "Edison      \r\n    Huntington Beach",
           "section": "SS",
@@ -248,16 +258,6 @@
           "record": "8-9",
           "rating": 1480,
           "rd": 233
-        },
-        {
-          "rank": 13,
-          "name": "Enzo Rodriguez",
-          "team": "Northview",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "2-3",
-          "rating": 1433,
-          "rd": 198
         },
         {
           "rank": 14,
@@ -454,6 +454,19 @@
         },
         {
           "rank": 15,
+          "name": "Jayden Rivera",
+          "team": "El Dorado",
+          "section": "",
+          "grade": "",
+          "record": "4-2",
+          "rating": 1607,
+          "rd": 165,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Enzo Rodriguez (D 2-1, Joe Zeller Memorial Cup)"
+        },
+        {
+          "rank": 16,
           "name": "William Espinosa",
           "team": "SBTC",
           "section": "",
@@ -466,7 +479,7 @@
           "entry_reason": "beat Dylan Duszynski (D 9-7, CA Super 32 Early Entry (Gilroy))"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Brandon Valenzuela",
           "team": "Walnut",
           "section": "SS",
@@ -682,6 +695,19 @@
         },
         {
           "rank": 7,
+          "name": "Gianni Kulich",
+          "team": "San Clemente",
+          "section": "",
+          "grade": "",
+          "record": "3-2",
+          "rating": 1614,
+          "rd": 179,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Isaiah Flores (F 6-1, Joe Zeller Memorial Cup)"
+        },
+        {
+          "rank": 8,
           "name": "Tommy Magallanes",
           "team": "Justin\r\n  Garza",
           "section": "CS",
@@ -691,7 +717,20 @@
           "rd": 193
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "name": "Mason Sparks",
+          "team": "El Dorado",
+          "section": "",
+          "grade": "",
+          "record": "2-2",
+          "rating": 1528,
+          "rd": 192,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Isaiah Flores (F 11-0, Joe Zeller Memorial Cup)"
+        },
+        {
+          "rank": 10,
           "name": "Salvador Bautista",
           "team": "Palm\r\n  Desert",
           "section": "SS",
@@ -701,7 +740,7 @@
           "rd": 313
         },
         {
-          "rank": 9,
+          "rank": 11,
           "name": "Marco Costa",
           "team": "Redlands      \r\n    East Valley",
           "section": "SS",
@@ -1162,6 +1201,19 @@
         },
         {
           "rank": 6,
+          "name": "Dane Blair",
+          "team": "LCC (SD)",
+          "section": "",
+          "grade": "",
+          "record": "3-1",
+          "rating": 1692,
+          "rd": 195,
+          "provisional": true,
+          "weight_source": "competed_unconfirmed",
+          "entry_reason": "beat Gideon Vargas (D 6-0, Joe Zeller Memorial Cup)"
+        },
+        {
+          "rank": 7,
           "name": "Maximo Nava",
           "team": "Barstow",
           "section": "SS",
@@ -1204,6 +1256,16 @@
         },
         {
           "rank": 3,
+          "name": "Gideon Vargas",
+          "team": "Canyon Springs",
+          "section": "SS",
+          "grade": "Jr",
+          "record": "4-2",
+          "rating": 1799,
+          "rd": 163
+        },
+        {
+          "rank": 4,
           "name": "Andre Sandoval Espana",
           "team": "Buchanan",
           "section": "CS",
@@ -1211,16 +1273,6 @@
           "record": "5-3",
           "rating": 1687,
           "rd": 163
-        },
-        {
-          "rank": 4,
-          "name": "Gideon Vargas",
-          "team": "Canyon Springs",
-          "section": "SS",
-          "grade": "Jr",
-          "record": "1-1",
-          "rating": 1545,
-          "rd": 314
         },
         {
           "rank": 5,
@@ -2085,6 +2137,18 @@
       "status": "provisional"
     },
     {
+      "name": "Daniel Escobedo",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1888,
+      "rd": 176,
+      "record": "5-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Anthony Garza",
       "gender": "boys",
       "competed_weight": 126,
@@ -2105,6 +2169,30 @@
       "rating": 1881,
       "rd": 168,
       "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jimmy Alvarez Jr",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1881,
+      "rd": 181,
+      "record": "5-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Will Creech",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Laguna Hills",
+      "rank": null,
+      "rating": 1878,
+      "rd": 182,
+      "record": "5-0",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2157,6 +2245,78 @@
       "status": "provisional"
     },
     {
+      "name": "Raiden Martinez",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1865,
+      "rd": 191,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Chase McKay",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Laguna Hills",
+      "rank": null,
+      "rating": 1862,
+      "rd": 193,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Lucas Michel",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1862,
+      "rd": 193,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "William Schindele",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1862,
+      "rd": 193,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ali Ibrihim",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1858,
+      "rd": 195,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jason Ponce",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "Laguna Hills",
+      "rank": null,
+      "rating": 1858,
+      "rd": 195,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jazmine Reyna-lopez",
       "gender": "girls",
       "competed_weight": 110,
@@ -2173,6 +2333,18 @@
       "gender": "girls",
       "competed_weight": 125,
       "team": "Inland Elite WC",
+      "rank": null,
+      "rating": 1855,
+      "rd": 197,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alex Butler",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Villa Park",
       "rank": null,
       "rating": 1855,
       "rd": 197,
@@ -2297,6 +2469,18 @@
       "rating": 1832,
       "rd": 198,
       "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Elias Flores",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1829,
+      "rd": 194,
+      "record": "4-0",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2469,6 +2653,18 @@
       "status": "provisional"
     },
     {
+      "name": "Elijah Butler",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1784,
+      "rd": 139,
+      "record": "8-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Mateo Heredia",
       "gender": "boys",
       "competed_weight": 132,
@@ -2489,6 +2685,18 @@
       "rating": 1778,
       "rd": 154,
       "record": "6-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Maximilian Hsing",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Cerritos",
+      "rank": null,
+      "rating": 1778,
+      "rd": 167,
+      "record": "5-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2536,6 +2744,30 @@
       "rank": null,
       "rating": 1771,
       "rd": 169,
+      "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "William Smorick",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1770,
+      "rd": 164,
+      "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Tinsley Tam",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "Irvine",
+      "rank": null,
+      "rating": 1770,
+      "rd": 164,
       "record": "5-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -2613,6 +2845,30 @@
       "status": "provisional"
     },
     {
+      "name": "Tyson Dabu",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1761,
+      "rd": 166,
+      "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Micah Cavalluzzi",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1760,
+      "rd": 179,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Abigail Schultz",
       "gender": "girls",
       "competed_weight": 135,
@@ -2637,6 +2893,30 @@
       "status": "provisional"
     },
     {
+      "name": "Trent Meraw",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1755,
+      "rd": 181,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Chase Scanlon",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1755,
+      "rd": 181,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jimmy Jimenez",
       "gender": "boys",
       "competed_weight": 138,
@@ -2645,6 +2925,18 @@
       "rating": 1752,
       "rd": 124,
       "record": "9-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Waylon Purzycki",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1751,
+      "rd": 162,
+      "record": "5-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2669,6 +2961,18 @@
       "rating": 1750,
       "rd": 159,
       "record": "6-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Brandon Montes",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1750,
+      "rd": 182,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2733,6 +3037,18 @@
       "status": "provisional"
     },
     {
+      "name": "Luke Witt",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1745,
+      "rd": 184,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Breanna Bragg",
       "gender": "girls",
       "competed_weight": 125,
@@ -2741,6 +3057,18 @@
       "rating": 1744,
       "rd": 148,
       "record": "6-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Aidan Ruelas",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1741,
+      "rd": 179,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2761,6 +3089,30 @@
       "gender": "boys",
       "competed_weight": 106,
       "team": "AWA",
+      "rank": null,
+      "rating": 1740,
+      "rd": 186,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Dallas Rojas",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1740,
+      "rd": 186,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Roque Galvan",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Villa Park",
       "rank": null,
       "rating": 1740,
       "rd": 186,
@@ -2793,6 +3145,18 @@
       "status": "provisional"
     },
     {
+      "name": "Niko Bassiri",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Beckman",
+      "rank": null,
+      "rating": 1737,
+      "rd": 170,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Justice Commendatore",
       "gender": "boys",
       "competed_weight": 150,
@@ -2801,6 +3165,42 @@
       "rating": 1735,
       "rd": 148,
       "record": "6-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kendrick Vo Bao",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Westminster",
+      "rank": null,
+      "rating": 1733,
+      "rd": 176,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Christian Tan",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1733,
+      "rd": 176,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kevin Brown",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Santa Margarita",
+      "rank": null,
+      "rating": 1733,
+      "rd": 176,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2853,6 +3253,18 @@
       "status": "provisional"
     },
     {
+      "name": "Garrison Choi",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Cerritos",
+      "rank": null,
+      "rating": 1731,
+      "rd": 182,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "William Mcconnell",
       "gender": "boys",
       "competed_weight": 113,
@@ -2861,6 +3273,30 @@
       "rating": 1729,
       "rd": 150,
       "record": "7-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mukhammad Madzjidov",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1728,
+      "rd": 178,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Bui Quang",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Beckman",
+      "rank": null,
+      "rating": 1728,
+      "rd": 178,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2889,10 +3325,46 @@
       "status": "provisional"
     },
     {
+      "name": "Braxton Chung",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1725,
+      "rd": 184,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Maddy Gray",
       "gender": "girls",
       "competed_weight": 110,
       "team": "Durham Elite",
+      "rank": null,
+      "rating": 1723,
+      "rd": 179,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Daryl Hurlic",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1723,
+      "rd": 179,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "David Golz",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Trabuco Hills",
       "rank": null,
       "rating": 1723,
       "rd": 179,
@@ -2961,6 +3433,18 @@
       "status": "provisional"
     },
     {
+      "name": "Daniel Tran",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1717,
+      "rd": 172,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Gabby Ross",
       "gender": "girls",
       "competed_weight": 120,
@@ -3017,6 +3501,42 @@
       "rating": 1712,
       "rd": 183,
       "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Dylan Nguyen-Tang",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "Westminster",
+      "rank": null,
+      "rating": 1712,
+      "rd": 195,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Roman Talavera",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1712,
+      "rd": 195,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Pasha Khorramian",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1712,
+      "rd": 195,
+      "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3097,6 +3617,30 @@
       "gender": "girls",
       "competed_weight": 130,
       "team": "Rough House",
+      "rank": null,
+      "rating": 1705,
+      "rd": 197,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Joshua Alvarado",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Irvine",
+      "rank": null,
+      "rating": 1705,
+      "rd": 197,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Maddox Henderson- El Haj",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Canyon (Anheim)",
       "rank": null,
       "rating": 1705,
       "rd": 197,
@@ -3189,6 +3733,18 @@
       "status": "provisional"
     },
     {
+      "name": "Adrian Hernandez",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1699,
+      "rd": 199,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Cole Schmidt",
       "gender": "boys",
       "competed_weight": 144,
@@ -3249,6 +3805,18 @@
       "status": "provisional"
     },
     {
+      "name": "Kingston Tran",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1693,
+      "rd": 170,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Titus Khamjoi",
       "gender": "boys",
       "competed_weight": 113,
@@ -3273,6 +3841,18 @@
       "status": "provisional"
     },
     {
+      "name": "Oliver Abdalmalak",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "Marina",
+      "rank": null,
+      "rating": 1690,
+      "rd": 195,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Mia Gonzales",
       "gender": "girls",
       "competed_weight": 123,
@@ -3281,6 +3861,18 @@
       "rating": 1689,
       "rd": 126,
       "record": "8-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Santiago Valdez-Pinon",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1687,
+      "rd": 185,
+      "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3357,6 +3949,18 @@
       "status": "provisional"
     },
     {
+      "name": "Elijah Martinez",
+      "gender": "boys",
+      "competed_weight": 106,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1683,
+      "rd": 197,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Shane Struthers jr",
       "gender": "boys",
       "competed_weight": 175,
@@ -3365,6 +3969,54 @@
       "rating": 1682,
       "rd": 106,
       "record": "12-6",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Maddox Dalebout",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Beckman",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jacob Oh",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Sebastian Hamblet",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Aiden Villa-Senor Rosario",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3417,6 +4069,18 @@
       "status": "provisional"
     },
     {
+      "name": "Masao Parsons",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1676,
+      "rd": 199,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Gavin Hill",
       "gender": "boys",
       "competed_weight": 132,
@@ -3437,6 +4101,18 @@
       "rating": 1675,
       "rd": 158,
       "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Wyatt Durst",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1675,
+      "rd": 193,
+      "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3573,6 +4249,30 @@
       "status": "provisional"
     },
     {
+      "name": "Hutton Steele",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Santa Margarita",
+      "rank": null,
+      "rating": 1668,
+      "rd": 195,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mikhail Kmin",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1668,
+      "rd": 195,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Valentina Tellez",
       "gender": "girls",
       "competed_weight": 105,
@@ -3665,6 +4365,42 @@
       "rating": 1661,
       "rd": 197,
       "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jaiden Au",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1661,
+      "rd": 197,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Nicolas Fegan",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1661,
+      "rd": 197,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ian Thompson",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1660,
+      "rd": 133,
+      "record": "7-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3837,6 +4573,18 @@
       "status": "provisional"
     },
     {
+      "name": "Knox Espinoza",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1651,
+      "rd": 140,
+      "record": "7-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Aiden Garcia",
       "gender": "boys",
       "competed_weight": 120,
@@ -3921,6 +4669,18 @@
       "status": "provisional"
     },
     {
+      "name": "Dominic Bustos",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Westminster",
+      "rank": null,
+      "rating": 1645,
+      "rd": 165,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Christopher Sizemore",
       "gender": "boys",
       "competed_weight": 126,
@@ -3977,18 +4737,6 @@
       "rating": 1644,
       "rd": 159,
       "record": "6-3",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Elijah Butler",
-      "gender": "boys",
-      "competed_weight": 126,
-      "team": "Northview HS",
-      "rank": null,
-      "rating": 1643,
-      "rd": 171,
-      "record": "4-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4097,6 +4845,18 @@
       "rating": 1636,
       "rd": 160,
       "record": "5-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Rio Dumont",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "LB Wilson",
+      "rank": null,
+      "rating": 1635,
+      "rd": 164,
+      "record": "4-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4293,6 +5053,42 @@
       "status": "provisional"
     },
     {
+      "name": "Harry Wu",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1623,
+      "rd": 167,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Tyler Dong",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1623,
+      "rd": 167,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Pranav Veluri",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "Irvine",
+      "rank": null,
+      "rating": 1623,
+      "rd": 167,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Dalton Benicki",
       "gender": "boys",
       "competed_weight": 138,
@@ -4333,6 +5129,18 @@
       "gender": "girls",
       "competed_weight": 145,
       "team": "Warrior WC",
+      "rank": null,
+      "rating": 1622,
+      "rd": 182,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Gustavo Fernandez",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "El Dorado",
       "rank": null,
       "rating": 1622,
       "rd": 182,
@@ -4433,6 +5241,30 @@
       "rating": 1618,
       "rd": 182,
       "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alek Peralta",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1617,
+      "rd": 168,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Micah Nguyen",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Irvine",
+      "rank": null,
+      "rating": 1617,
+      "rd": 168,
+      "record": "4-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4629,6 +5461,30 @@
       "status": "provisional"
     },
     {
+      "name": "Matthew Deller",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1603,
+      "rd": 160,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Iram Camacho",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Paramount",
+      "rank": null,
+      "rating": 1603,
+      "rd": 165,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Declan Leonard",
       "gender": "boys",
       "competed_weight": 126,
@@ -4637,6 +5493,18 @@
       "rating": 1603,
       "rd": 169,
       "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Brent Golz",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1602,
+      "rd": 172,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4705,6 +5573,54 @@
       "gender": "girls",
       "competed_weight": 115,
       "team": "TMWC",
+      "rank": null,
+      "rating": 1599,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Dylan Duran",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Marina",
+      "rank": null,
+      "rating": 1599,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Charles Ross",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1599,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Xiaohan Chu",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1599,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Austin Lee",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Irvine",
       "rank": null,
       "rating": 1599,
       "rd": 179,
@@ -4797,6 +5713,18 @@
       "status": "provisional"
     },
     {
+      "name": "Issaac Vasquez",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Marina",
+      "rank": null,
+      "rating": 1591,
+      "rd": 181,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Camilo Yepez-rivera",
       "gender": "boys",
       "competed_weight": 120,
@@ -4841,6 +5769,18 @@
       "rating": 1588,
       "rd": 160,
       "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Zephyr Beccera",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1588,
+      "rd": 178,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4941,6 +5881,18 @@
       "status": "provisional"
     },
     {
+      "name": "Caleb Rhee",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Laguna Hills",
+      "rank": null,
+      "rating": 1583,
+      "rd": 182,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Noah Espinoza",
       "gender": "boys",
       "competed_weight": 120,
@@ -4977,6 +5929,18 @@
       "status": "provisional"
     },
     {
+      "name": "Ryan Romero",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Santa Margarita",
+      "rank": null,
+      "rating": 1580,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jayden Haygood",
       "gender": "boys",
       "competed_weight": 175,
@@ -4984,6 +5948,66 @@
       "rank": null,
       "rating": 1579,
       "rd": 177,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jack Duncan",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jacob Wu",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Aaron Silva",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Paramount",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Darian De la Torre",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Shawki Hubbard",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
       "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -5033,18 +6057,6 @@
       "rating": 1578,
       "rd": 188,
       "record": "3-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Knox Espinoza",
-      "gender": "boys",
-      "competed_weight": 126,
-      "team": "Surfside RTC",
-      "rank": null,
-      "rating": 1577,
-      "rd": 152,
-      "record": "5-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5157,6 +6169,42 @@
       "status": "provisional"
     },
     {
+      "name": "Mason Peralta",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1570,
+      "rd": 178,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ivan Rivas",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1570,
+      "rd": 178,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Albert Guerrero",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1570,
+      "rd": 178,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Rikki Keohavong",
       "gender": "boys",
       "competed_weight": 126,
@@ -5173,6 +6221,18 @@
       "gender": "boys",
       "competed_weight": 132,
       "team": "Rough House",
+      "rank": null,
+      "rating": 1567,
+      "rd": 186,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kyle Iwohara",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Aliso Niguel",
       "rank": null,
       "rating": 1567,
       "rd": 186,
@@ -5248,6 +6308,66 @@
       "rank": null,
       "rating": 1562,
       "rd": 175,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Andrew Rodriguez",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Paramount",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Satyar Safaei",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Sebastian Velazquez",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Capo Valley",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jason Nguon",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "LB Wilson",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Thiago Ramirez",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
       "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -5369,6 +6489,30 @@
       "rating": 1557,
       "rd": 155,
       "record": "4-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Lucas Bisping",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Canyon (Anheim)",
+      "rank": null,
+      "rating": 1556,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Evan Krunchev",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "LCC (SD)",
+      "rank": null,
+      "rating": 1556,
+      "rd": 184,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5637,6 +6781,18 @@
       "status": "provisional"
     },
     {
+      "name": "Daniel Beling",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Dana Hills",
+      "rank": null,
+      "rating": 1546,
+      "rd": 199,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Christian Banuelos rubio",
       "gender": "boys",
       "competed_weight": 150,
@@ -5653,6 +6809,18 @@
       "gender": "boys",
       "competed_weight": 165,
       "team": "Husky WC",
+      "rank": null,
+      "rating": 1545,
+      "rd": 182,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mahdi Pooya",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Northwood",
       "rank": null,
       "rating": 1545,
       "rd": 182,
@@ -5817,6 +6985,18 @@
       "status": "provisional"
     },
     {
+      "name": "Trevor Vaughan",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "Marina",
+      "rank": null,
+      "rating": 1538,
+      "rd": 169,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Isaiah Peterson-Moore",
       "gender": "boys",
       "competed_weight": 138,
@@ -5917,6 +7097,30 @@
       "gender": "boys",
       "competed_weight": 157,
       "team": "Carmel",
+      "rank": null,
+      "rating": 1534,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Matt Han",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Aliso Niguel",
+      "rank": null,
+      "rating": 1534,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Carter Felix",
+      "gender": "boys",
+      "competed_weight": 175,
+      "team": "Northview",
       "rank": null,
       "rating": 1534,
       "rd": 197,
@@ -6105,6 +7309,18 @@
       "status": "provisional"
     },
     {
+      "name": "Tyson Trinh",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Westminster",
+      "rank": null,
+      "rating": 1525,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Joshua Garcia",
       "gender": "boys",
       "competed_weight": 138,
@@ -6157,6 +7373,18 @@
       "gender": "boys",
       "competed_weight": 165,
       "team": "Dark Horse",
+      "rank": null,
+      "rating": 1523,
+      "rd": 199,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Adan Diaz",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Beckman",
       "rank": null,
       "rating": 1523,
       "rd": 199,
@@ -6265,6 +7493,126 @@
       "gender": "girls",
       "competed_weight": 108,
       "team": "Southwest Stallions Wc",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Bowie Brucher",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Raymond Rodriguez",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "LB Wilson",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ryan Chong",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "Capo Valley",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Levi Katz",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Capo Valley",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Rion Barrera",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Evan Delgado",
+      "gender": "boys",
+      "competed_weight": 106,
+      "team": "Beckman",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Sidney Lovelis",
+      "gender": "boys",
+      "competed_weight": 106,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ethan Hernandez",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Marina",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Hunter Grajeda",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "Santa Margarita",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Zen Wissler",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "Dana Hills",
       "rank": null,
       "rating": 1522,
       "rd": 195,
@@ -6441,6 +7789,18 @@
       "status": "provisional"
     },
     {
+      "name": "Miguel Calderon",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1515,
+      "rd": 183,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Colton Doan",
       "gender": "boys",
       "competed_weight": 120,
@@ -6461,6 +7821,18 @@
       "rating": 1514,
       "rd": 176,
       "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Martin Ornelas",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1514,
+      "rd": 176,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6585,6 +7957,30 @@
       "status": "provisional"
     },
     {
+      "name": "Christopher Marquez",
+      "gender": "boys",
+      "competed_weight": 120,
+      "team": "MLK",
+      "rank": null,
+      "rating": 1511,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Anthony Velazquez",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Cerritos",
+      "rank": null,
+      "rating": 1511,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Joseph Moreno",
       "gender": "boys",
       "competed_weight": 132,
@@ -6613,6 +8009,18 @@
       "gender": "boys",
       "competed_weight": 144,
       "team": "Clovis High",
+      "rank": null,
+      "rating": 1511,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Marcus Morales",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "El Dorado",
       "rank": null,
       "rating": 1511,
       "rd": 197,
@@ -6693,6 +8101,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jason Lin",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "LCC (SD)",
+      "rank": null,
+      "rating": 1506,
+      "rd": 198,
+      "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Isaac Wilder",
       "gender": "boys",
       "competed_weight": 190,
@@ -6712,6 +8132,30 @@
       "rank": null,
       "rating": 1504,
       "rd": 184,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mathew Tran",
+      "gender": "boys",
+      "competed_weight": 132,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1503,
+      "rd": 181,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ethan Viramontes",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1503,
+      "rd": 189,
       "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -6837,6 +8281,138 @@
       "status": "provisional"
     },
     {
+      "name": "Jacob Gonzalez",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Laguna Hills",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kai Backstrom",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "LB Millikan",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alvero Casillas",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Capo Valley",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Charlie Jamison",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "LCC (SD)",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jack Moreau",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "David Gonzales",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Beckman",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Drake Hatcher",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ryan Farrell",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Cerritos",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Joel Powell",
+      "gender": "boys",
+      "competed_weight": 106,
+      "team": "San Clemente",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Trey Thomas",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "LCC (SD)",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Blake Garcia",
+      "gender": "boys",
+      "competed_weight": 285,
+      "team": "J Serra",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Miley Kemplin",
       "gender": "girls",
       "competed_weight": 135,
@@ -6925,6 +8501,18 @@
       "gender": "girls",
       "competed_weight": 155,
       "team": "CYC",
+      "rank": null,
+      "rating": 1500,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Gael Cueto",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Westminster",
       "rank": null,
       "rating": 1500,
       "rd": 195,
@@ -7185,6 +8773,42 @@
       "status": "provisional"
     },
     {
+      "name": "Nic Busher",
+      "gender": "boys",
+      "competed_weight": 138,
+      "team": "LCC B",
+      "rank": null,
+      "rating": 1489,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alex Volyan",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "Northwood",
+      "rank": null,
+      "rating": 1489,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Nathan Reyes",
+      "gender": "boys",
+      "competed_weight": 150,
+      "team": "LCC B",
+      "rank": null,
+      "rating": 1489,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Peter Schwab",
       "gender": "boys",
       "competed_weight": 175,
@@ -7201,6 +8825,18 @@
       "gender": "boys",
       "competed_weight": 150,
       "team": "Team-SoCal",
+      "rank": null,
+      "rating": 1489,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Braxton Bean",
+      "gender": "boys",
+      "competed_weight": 144,
+      "team": "San Clemente",
       "rank": null,
       "rating": 1489,
       "rd": 197,
@@ -7485,6 +9121,78 @@
       "status": "provisional"
     },
     {
+      "name": "Raul Diaz",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Daniel Valdez",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "LB Poly",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Aiden Martinez",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "Dana Hills",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jonah Carrillo",
+      "gender": "boys",
+      "competed_weight": 190,
+      "team": "MLK",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Austin Hanson",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "Dana Hills",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mauricio Lozano",
+      "gender": "boys",
+      "competed_weight": 215,
+      "team": "El Toro",
+      "rank": null,
+      "rating": 1478,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jesse Velasco",
       "gender": "boys",
       "competed_weight": 120,
@@ -7665,6 +9373,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jeriah Payne",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Canyon Springs",
+      "rank": null,
+      "rating": 1468,
+      "rd": 181,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Alex Malato",
       "gender": "boys",
       "competed_weight": 157,
@@ -7677,13 +9397,37 @@
       "status": "provisional"
     },
     {
-      "name": "Ian Thompson",
+      "name": "Adam Stock",
       "gender": "boys",
-      "competed_weight": 157,
-      "team": "Team Thunder",
+      "competed_weight": 144,
+      "team": "MLK",
       "rank": null,
       "rating": 1466,
-      "rd": 189,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Spencer Clay",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Villa Park",
+      "rank": null,
+      "rating": 1466,
+      "rd": 197,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Issac Rios",
+      "gender": "boys",
+      "competed_weight": 113,
+      "team": "Northview",
+      "rank": null,
+      "rating": 1466,
+      "rd": 197,
       "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -7873,6 +9617,18 @@
       "gender": "boys",
       "competed_weight": 157,
       "team": "Vacaville Wrestling Club",
+      "rank": null,
+      "rating": 1454,
+      "rd": 199,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Joseph Fields",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "LB Millikan",
       "rank": null,
       "rating": 1454,
       "rd": 199,
@@ -9021,6 +10777,18 @@
       "status": "provisional"
     },
     {
+      "name": "Gianni Gulati",
+      "gender": "boys",
+      "competed_weight": 157,
+      "team": "Trabuco Hills",
+      "rank": null,
+      "rating": 1365,
+      "rd": 197,
+      "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Victoria Hernandez",
       "gender": "girls",
       "competed_weight": 115,
@@ -9597,6 +11365,18 @@
       "status": "provisional"
     },
     {
+      "name": "Diego Garcia",
+      "gender": "boys",
+      "competed_weight": 126,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1278,
+      "rd": 191,
+      "record": "1-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Kevin Quinteros",
       "gender": "boys",
       "competed_weight": 150,
@@ -9640,6 +11420,18 @@
       "rank": null,
       "rating": 1272,
       "rd": 189,
+      "record": "1-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jose Gonzalez",
+      "gender": "boys",
+      "competed_weight": 165,
+      "team": "El Dorado",
+      "rank": null,
+      "rating": 1267,
+      "rd": 188,
       "record": "1-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -10268,6 +12060,17 @@
         "MF": 7,
         "INJ": 3,
         "FF": 2
+      }
+    },
+    {
+      "event": "Joe Zeller Memorial Cup",
+      "date": "2026-11-21",
+      "style": "folkstyle",
+      "bouts_rated": 563,
+      "board_wrestlers_updated": 3,
+      "excluded": {
+        "FF": 1,
+        "MF": 10
       }
     },
     {
