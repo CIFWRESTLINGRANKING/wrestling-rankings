@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T20:08:45.679618+00:00",
+  "generated": "2026-11-26T20:10:43.358552+00:00",
   "title": "California HS Wrestling Rankings",
   "weights": [
     {
@@ -1836,6 +1836,30 @@
       "status": "provisional"
     },
     {
+      "name": "Sophia Dacoco",
+      "gender": "girls",
+      "competed_weight": 123,
+      "team": "John H Pitman",
+      "rank": null,
+      "rating": 1966,
+      "rd": 123,
+      "record": "14-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Patricia Bray",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "John H Pitman",
+      "rank": null,
+      "rating": 1963,
+      "rd": 161,
+      "record": "9-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Zander Schaefer",
       "gender": "boys",
       "competed_weight": 150,
@@ -1928,30 +1952,6 @@
       "rating": 1928,
       "rd": 135,
       "record": "11-1",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Sophia Dacoco",
-      "gender": "girls",
-      "competed_weight": 123,
-      "team": "Vasky Bros",
-      "rank": null,
-      "rating": 1913,
-      "rd": 135,
-      "record": "11-1",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Patricia Bray",
-      "gender": "girls",
-      "competed_weight": 115,
-      "team": "Vasky Bros",
-      "rank": null,
-      "rating": 1897,
-      "rd": 184,
-      "record": "6-0",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2056,6 +2056,18 @@
       "gender": "girls",
       "competed_weight": 125,
       "team": "Inland Elite WC",
+      "rank": null,
+      "rating": 1855,
+      "rd": 197,
+      "record": "4-0",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ailey Gray",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "John H Pitman",
       "rank": null,
       "rating": 1855,
       "rd": 197,
@@ -2208,6 +2220,18 @@
       "status": "provisional"
     },
     {
+      "name": "Arely Ambriz",
+      "gender": "girls",
+      "competed_weight": 190,
+      "team": "Hilmar",
+      "rank": null,
+      "rating": 1811,
+      "rd": 168,
+      "record": "6-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Kamila Cerna",
       "gender": "girls",
       "competed_weight": 123,
@@ -2328,6 +2352,18 @@
       "status": "provisional"
     },
     {
+      "name": "Genesis Rodarte",
+      "gender": "girls",
+      "competed_weight": 145,
+      "team": "Mendota",
+      "rank": null,
+      "rating": 1773,
+      "rd": 159,
+      "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Wesley Hayden",
       "gender": "boys",
       "competed_weight": 165,
@@ -2352,6 +2388,18 @@
       "status": "provisional"
     },
     {
+      "name": "Yurehlly Burgos",
+      "gender": "girls",
+      "competed_weight": 155,
+      "team": "Golden Valley (Merced)",
+      "rank": null,
+      "rating": 1770,
+      "rd": 164,
+      "record": "5-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Malaika Batdorf",
       "gender": "girls",
       "competed_weight": 105,
@@ -2371,6 +2419,18 @@
       "rank": null,
       "rating": 1763,
       "rd": 183,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Gabriela Ortiz",
+      "gender": "girls",
+      "competed_weight": 125,
+      "team": "Grace M Davis",
+      "rank": null,
+      "rating": 1763,
+      "rd": 196,
       "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -2412,6 +2472,18 @@
       "status": "provisional"
     },
     {
+      "name": "Abigail Schultz",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Ceres",
+      "rank": null,
+      "rating": 1760,
+      "rd": 179,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Dennis Warden",
       "gender": "boys",
       "competed_weight": 190,
@@ -2444,6 +2516,18 @@
       "rating": 1752,
       "rd": 124,
       "record": "9-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ava Velasquez",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "John H Pitman",
+      "rank": null,
+      "rating": 1751,
+      "rd": 199,
+      "record": "3-0",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2508,6 +2592,18 @@
       "status": "provisional"
     },
     {
+      "name": "Breanna Bragg",
+      "gender": "girls",
+      "competed_weight": 125,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1744,
+      "rd": 148,
+      "record": "6-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Casey Bittner",
       "gender": "boys",
       "competed_weight": 106,
@@ -2552,6 +2648,30 @@
       "rating": 1734,
       "rd": 122,
       "record": "9-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kaylee Miranda",
+      "gender": "girls",
+      "competed_weight": 140,
+      "team": "Golden Valley (Merced)",
+      "rank": null,
+      "rating": 1733,
+      "rd": 176,
+      "record": "4-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Christina Vang",
+      "gender": "girls",
+      "competed_weight": 170,
+      "team": "Golden Valley (Merced)",
+      "rank": null,
+      "rating": 1733,
+      "rd": 176,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2664,13 +2784,13 @@
       "status": "provisional"
     },
     {
-      "name": "Breanna Bragg",
+      "name": "Gabby Ross",
       "gender": "girls",
-      "competed_weight": 125,
-      "team": "Silverback RTC",
+      "competed_weight": 120,
+      "team": "Patterson",
       "rank": null,
       "rating": 1717,
-      "rd": 181,
+      "rd": 175,
       "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -2856,18 +2976,6 @@
       "status": "provisional"
     },
     {
-      "name": "Alexis Rivas ayala",
-      "gender": "girls",
-      "competed_weight": 148,
-      "team": "Vasky Bros",
-      "rank": null,
-      "rating": 1696,
-      "rd": 134,
-      "record": "8-3",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Brandon Garcia",
       "gender": "boys",
       "competed_weight": 132,
@@ -2876,6 +2984,18 @@
       "rating": 1696,
       "rd": 165,
       "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alexis Rivas ayala",
+      "gender": "girls",
+      "competed_weight": 148,
+      "team": "John H Pitman",
+      "rank": null,
+      "rating": 1693,
+      "rd": 121,
+      "record": "10-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -2900,6 +3020,18 @@
       "rating": 1691,
       "rd": 164,
       "record": "5-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Natalie Lora Diaz",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Mendota",
+      "rank": null,
+      "rating": 1690,
+      "rd": 178,
+      "record": "4-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3012,6 +3144,30 @@
       "status": "provisional"
     },
     {
+      "name": "Leah Marshall",
+      "gender": "girls",
+      "competed_weight": 235,
+      "team": "Turlock",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Cassandra Casanova",
+      "gender": "girls",
+      "competed_weight": 100,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1682,
+      "rd": 191,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Steve Garcia",
       "gender": "boys",
       "competed_weight": 113,
@@ -3108,6 +3264,18 @@
       "status": "provisional"
     },
     {
+      "name": "Samantha De la cruz",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Orestimba",
+      "rank": null,
+      "rating": 1671,
+      "rd": 134,
+      "record": "7-5",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Elena Nguyen schertzer",
       "gender": "girls",
       "competed_weight": 155,
@@ -3164,6 +3332,18 @@
       "rating": 1668,
       "rd": 103,
       "record": "11-6",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Valentina Tellez",
+      "gender": "girls",
+      "competed_weight": 105,
+      "team": "Pacheco",
+      "rank": null,
+      "rating": 1668,
+      "rd": 195,
+      "record": "3-1",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3320,6 +3500,30 @@
       "rating": 1656,
       "rd": 158,
       "record": "5-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Timothea Maycon",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Lathrop",
+      "rank": null,
+      "rating": 1656,
+      "rd": 182,
+      "record": "3-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mandy Martinez",
+      "gender": "girls",
+      "competed_weight": 155,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1655,
+      "rd": 167,
+      "record": "4-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3540,6 +3744,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jaymie Sanchez Baldomero",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "El Capitan (Merced)",
+      "rank": null,
+      "rating": 1641,
+      "rd": 157,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "urijah krigbaum",
       "gender": "boys",
       "competed_weight": 144,
@@ -3560,6 +3776,18 @@
       "rating": 1637,
       "rd": 154,
       "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alexa Burciaga",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1637,
+      "rd": 180,
+      "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -3600,6 +3828,42 @@
       "status": "provisional"
     },
     {
+      "name": "Sharon Wheeling",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Ceres",
+      "rank": null,
+      "rating": 1635,
+      "rd": 164,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Mia Hernandez-Gonzalez",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Mendota",
+      "rank": null,
+      "rating": 1635,
+      "rd": 164,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Lesly Hernandez",
+      "gender": "girls",
+      "competed_weight": 170,
+      "team": "Central Valley (Ceres)",
+      "rank": null,
+      "rating": 1635,
+      "rd": 164,
+      "record": "4-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Ezequiel Camacho",
       "gender": "boys",
       "competed_weight": 190,
@@ -3632,6 +3896,18 @@
       "rating": 1631,
       "rd": 145,
       "record": "6-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Neveah Hurtado Salinas",
+      "gender": "girls",
+      "competed_weight": 105,
+      "team": "Fred C Beyer",
+      "rank": null,
+      "rating": 1631,
+      "rd": 172,
+      "record": "4-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -4080,6 +4356,18 @@
       "status": "provisional"
     },
     {
+      "name": "Elizabeth Morales Ortega",
+      "gender": "girls",
+      "competed_weight": 125,
+      "team": "El Capitan (Merced)",
+      "rank": null,
+      "rating": 1600,
+      "rd": 173,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Diego Gamez",
       "gender": "boys",
       "competed_weight": 138,
@@ -4108,6 +4396,18 @@
       "gender": "girls",
       "competed_weight": 115,
       "team": "TMWC",
+      "rank": null,
+      "rating": 1599,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kyndall Stever",
+      "gender": "girls",
+      "competed_weight": 190,
+      "team": "Oakdale",
       "rank": null,
       "rating": 1599,
       "rd": 179,
@@ -4236,6 +4536,18 @@
       "status": "provisional"
     },
     {
+      "name": "Alexa Juarez",
+      "gender": "girls",
+      "competed_weight": 110,
+      "team": "Fred C Beyer",
+      "rank": null,
+      "rating": 1587,
+      "rd": 197,
+      "record": "2-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jake Hocker",
       "gender": "boys",
       "competed_weight": 144,
@@ -4351,6 +4663,42 @@
       "rank": null,
       "rating": 1579,
       "rd": 177,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Natalia Nunez",
+      "gender": "girls",
+      "competed_weight": 100,
+      "team": "Golden Valley (Merced)",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Madison Monahan",
+      "gender": "girls",
+      "competed_weight": 145,
+      "team": "Fred C Beyer",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Adeline Adams",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Grace M Davis",
+      "rank": null,
+      "rating": 1578,
+      "rd": 176,
       "record": "3-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -4548,6 +4896,18 @@
       "status": "provisional"
     },
     {
+      "name": "Hannah Hernandez",
+      "gender": "girls",
+      "competed_weight": 155,
+      "team": "Peter Johansen High",
+      "rank": null,
+      "rating": 1562,
+      "rd": 179,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jesse Rivera",
       "gender": "boys",
       "competed_weight": 150,
@@ -4604,6 +4964,18 @@
       "rating": 1559,
       "rd": 192,
       "record": "2-1",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Melissa Garcia",
+      "gender": "girls",
+      "competed_weight": 123,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1558,
+      "rd": 120,
+      "record": "7-5",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5136,6 +5508,18 @@
       "status": "provisional"
     },
     {
+      "name": "Angelina Gonzalez",
+      "gender": "girls",
+      "competed_weight": 125,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1530,
+      "rd": 187,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Domenic Novosel",
       "gender": "boys",
       "competed_weight": 126,
@@ -5156,6 +5540,18 @@
       "rating": 1529,
       "rd": 194,
       "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Marthlyn Barrera",
+      "gender": "girls",
+      "competed_weight": 123,
+      "team": "Thomas Downey",
+      "rank": null,
+      "rating": 1528,
+      "rd": 141,
+      "record": "4-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5215,6 +5611,18 @@
       "rank": null,
       "rating": 1525,
       "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Addisyn Prudhel",
+      "gender": "girls",
+      "competed_weight": 145,
+      "team": "Central Valley (Ceres)",
+      "rank": null,
+      "rating": 1524,
+      "rd": 184,
       "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -5352,6 +5760,30 @@
       "status": "provisional"
     },
     {
+      "name": "Milagros Hernandez Villegas",
+      "gender": "girls",
+      "competed_weight": 105,
+      "team": "Mendota",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Angelique Murillo Garcia",
+      "gender": "girls",
+      "competed_weight": 190,
+      "team": "Fred C Beyer",
+      "rank": null,
+      "rating": 1522,
+      "rd": 195,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Ayden Schlotthauer",
       "gender": "boys",
       "competed_weight": 157,
@@ -5388,6 +5820,18 @@
       "status": "provisional"
     },
     {
+      "name": "Kimberly Barrera",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Thomas Downey",
+      "rank": null,
+      "rating": 1518,
+      "rd": 146,
+      "record": "4-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Joseph Fierro",
       "gender": "boys",
       "competed_weight": 190,
@@ -5420,6 +5864,18 @@
       "rating": 1516,
       "rd": 171,
       "record": "3-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Sophia Plascencia",
+      "gender": "girls",
+      "competed_weight": 100,
+      "team": "Turlock",
+      "rank": null,
+      "rating": 1515,
+      "rd": 145,
+      "record": "5-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -5640,6 +6096,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jadyn Thomason",
+      "gender": "girls",
+      "competed_weight": 110,
+      "team": "Peter Johansen High",
+      "rank": null,
+      "rating": 1509,
+      "rd": 168,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Zachary Young",
       "gender": "boys",
       "competed_weight": 175,
@@ -5772,6 +6240,78 @@
       "status": "provisional"
     },
     {
+      "name": "Miley Kemplin",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Modesto",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Halo Neufville",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Sierra (Manteca)",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Cesia Gomez",
+      "gender": "girls",
+      "competed_weight": 155,
+      "team": "Mendota",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Micaela Maldonado",
+      "gender": "girls",
+      "competed_weight": 235,
+      "team": "Central Valley (Ceres)",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Bella Desoto-Saenz",
+      "gender": "girls",
+      "competed_weight": 140,
+      "team": "El Capitan (Merced)",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Riya Pearson",
+      "gender": "girls",
+      "competed_weight": 140,
+      "team": "Ripon",
+      "rank": null,
+      "rating": 1500,
+      "rd": 191,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Jorge De la rosa",
       "gender": "boys",
       "competed_weight": 126,
@@ -5892,6 +6432,18 @@
       "status": "provisional"
     },
     {
+      "name": "Katelyn Jaime Martinez",
+      "gender": "girls",
+      "competed_weight": 170,
+      "team": "Atwater",
+      "rank": null,
+      "rating": 1500,
+      "rd": 199,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Michael Roque",
       "gender": "boys",
       "competed_weight": 285,
@@ -5928,6 +6480,18 @@
       "status": "provisional"
     },
     {
+      "name": "Kayla Casteneda",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Fred C Beyer",
+      "rank": null,
+      "rating": 1494,
+      "rd": 166,
+      "record": "3-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Samuel Briggs",
       "gender": "boys",
       "competed_weight": 126,
@@ -5936,18 +6500,6 @@
       "rating": 1491,
       "rd": 138,
       "record": "4-4",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Marthlyn Barrera",
-      "gender": "girls",
-      "competed_weight": 123,
-      "team": "Unattached",
-      "rank": null,
-      "rating": 1491,
-      "rd": 175,
-      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6080,6 +6632,18 @@
       "rating": 1485,
       "rd": 172,
       "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jaelyn Lum",
+      "gender": "girls",
+      "competed_weight": 105,
+      "team": "Lathrop",
+      "rank": null,
+      "rating": 1484,
+      "rd": 167,
+      "record": "3-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6288,6 +6852,18 @@
       "status": "provisional"
     },
     {
+      "name": "Sophia Azevedo",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Hilmar",
+      "rank": null,
+      "rating": 1470,
+      "rd": 135,
+      "record": "5-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Melaina Patterson",
       "gender": "girls",
       "competed_weight": 120,
@@ -6468,6 +7044,18 @@
       "status": "provisional"
     },
     {
+      "name": "Aaliyah Kemplin",
+      "gender": "girls",
+      "competed_weight": 110,
+      "team": "Modesto",
+      "rank": null,
+      "rating": 1458,
+      "rd": 115,
+      "record": "7-7",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Wajid Shinwari",
       "gender": "boys",
       "competed_weight": 126,
@@ -6588,6 +7176,18 @@
       "status": "provisional"
     },
     {
+      "name": "Miranda Navarette Flores",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Los Banos",
+      "rank": null,
+      "rating": 1450,
+      "rd": 192,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Eli Mayer",
       "gender": "boys",
       "competed_weight": 120,
@@ -6596,18 +7196,6 @@
       "rating": 1449,
       "rd": 181,
       "record": "2-3",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Kimberly Barrera",
-      "gender": "girls",
-      "competed_weight": 130,
-      "team": "Unattached",
-      "rank": null,
-      "rating": 1448,
-      "rd": 175,
-      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6644,6 +7232,30 @@
       "rating": 1442,
       "rd": 142,
       "record": "4-6",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Rupreet Dheraj",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1440,
+      "rd": 143,
+      "record": "4-6",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kayla Hernandez",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Peter Johansen High",
+      "rank": null,
+      "rating": 1440,
+      "rd": 184,
+      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6692,6 +7304,18 @@
       "rating": 1436,
       "rd": 174,
       "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Yeraldi Alvarez",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Ceres",
+      "rank": null,
+      "rating": 1435,
+      "rd": 182,
+      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -6792,6 +7416,18 @@
       "status": "provisional"
     },
     {
+      "name": "Lilly Louis",
+      "gender": "girls",
+      "competed_weight": 100,
+      "team": "Ceres",
+      "rank": null,
+      "rating": 1425,
+      "rd": 184,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Lorenzo Nunez",
       "gender": "boys",
       "competed_weight": 190,
@@ -6824,6 +7460,54 @@
       "rating": 1423,
       "rd": 147,
       "record": "3-6",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Terra Campos",
+      "gender": "girls",
+      "competed_weight": 125,
+      "team": "Pacheco",
+      "rank": null,
+      "rating": 1422,
+      "rd": 176,
+      "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Madison Mcullough",
+      "gender": "girls",
+      "competed_weight": 135,
+      "team": "Golden Valley (Merced)",
+      "rank": null,
+      "rating": 1422,
+      "rd": 176,
+      "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Valentina Dorantes",
+      "gender": "girls",
+      "competed_weight": 140,
+      "team": "Los Banos",
+      "rank": null,
+      "rating": 1422,
+      "rd": 176,
+      "record": "2-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Gabby Hernandez",
+      "gender": "girls",
+      "competed_weight": 145,
+      "team": "Ripon",
+      "rank": null,
+      "rating": 1422,
+      "rd": 176,
+      "record": "2-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7008,6 +7692,18 @@
       "status": "provisional"
     },
     {
+      "name": "Jennyfer Cruz",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Peter Johansen High",
+      "rank": null,
+      "rating": 1403,
+      "rd": 190,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Titus Silveria",
       "gender": "boys",
       "competed_weight": 150,
@@ -7112,6 +7808,30 @@
       "rating": 1392,
       "rd": 157,
       "record": "2-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Darla Ramos",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Hilmar",
+      "rank": null,
+      "rating": 1390,
+      "rd": 193,
+      "record": "2-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Ileyah Blaine",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1389,
+      "rd": 199,
+      "record": "1-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7224,6 +7944,30 @@
       "status": "provisional"
     },
     {
+      "name": "Elizabeth Valencia",
+      "gender": "girls",
+      "competed_weight": 190,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1375,
+      "rd": 195,
+      "record": "1-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Dazire Knapps",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Grace M Davis",
+      "rank": null,
+      "rating": 1373,
+      "rd": 186,
+      "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Tyler Wise",
       "gender": "boys",
       "competed_weight": 165,
@@ -7308,26 +8052,26 @@
       "status": "provisional"
     },
     {
-      "name": "Melissa Garcia",
+      "name": "Victoria Hernandez",
       "gender": "girls",
-      "competed_weight": 123,
-      "team": "Manteca High School",
+      "competed_weight": 115,
+      "team": "Grace M Davis",
       "rank": null,
       "rating": 1363,
-      "rd": 160,
-      "record": "2-4",
+      "rd": 173,
+      "record": "2-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
     {
-      "name": "Aaliyah Kemplin",
+      "name": "Itzel Davila Barajas",
       "gender": "girls",
-      "competed_weight": 108,
-      "team": "Ceres Pups Wrestling Club",
+      "competed_weight": 110,
+      "team": "Peter Johansen High",
       "rank": null,
-      "rating": 1361,
-      "rd": 131,
-      "record": "4-6",
+      "rating": 1363,
+      "rd": 177,
+      "record": "2-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7400,6 +8144,18 @@
       "rating": 1347,
       "rd": 199,
       "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Annabella Lopez",
+      "gender": "girls",
+      "competed_weight": 170,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1347,
+      "rd": 199,
+      "record": "1-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7500,18 +8256,6 @@
       "status": "provisional"
     },
     {
-      "name": "Sophia Plascencia",
-      "gender": "girls",
-      "competed_weight": 100,
-      "team": "Turlock Wrestling",
-      "rank": null,
-      "rating": 1322,
-      "rd": 167,
-      "record": "2-4",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
       "name": "Conner Houdek",
       "gender": "boys",
       "competed_weight": 138,
@@ -7548,6 +8292,30 @@
       "status": "provisional"
     },
     {
+      "name": "Valeria Garcia Morales",
+      "gender": "girls",
+      "competed_weight": 110,
+      "team": "Central Valley (Ceres)",
+      "rank": null,
+      "rating": 1318,
+      "rd": 191,
+      "record": "1-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Julissa Contreras",
+      "gender": "girls",
+      "competed_weight": 155,
+      "team": "John H Pitman",
+      "rank": null,
+      "rating": 1318,
+      "rd": 191,
+      "record": "1-3",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Addisyn Masullo",
       "gender": "girls",
       "competed_weight": 139,
@@ -7568,6 +8336,18 @@
       "rating": 1312,
       "rd": 162,
       "record": "2-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Kirra Hendricks",
+      "gender": "girls",
+      "competed_weight": 130,
+      "team": "Manteca",
+      "rank": null,
+      "rating": 1310,
+      "rd": 169,
+      "record": "2-3",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -7603,18 +8383,6 @@
       "rank": null,
       "rating": 1303,
       "rd": 196,
-      "record": "1-2",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Sophia Azevedo",
-      "gender": "girls",
-      "competed_weight": 123,
-      "team": "",
-      "rank": null,
-      "rating": 1300,
-      "rd": 197,
       "record": "1-2",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -7872,6 +8640,30 @@
       "status": "provisional"
     },
     {
+      "name": "Lila Redondo",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "El Capitan (Merced)",
+      "rank": null,
+      "rating": 1254,
+      "rd": 193,
+      "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Jazmin Blaine",
+      "gender": "girls",
+      "competed_weight": 115,
+      "team": "Livingston",
+      "rank": null,
+      "rating": 1254,
+      "rd": 193,
+      "record": "1-2",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
       "name": "Rivi Winslow",
       "gender": "girls",
       "competed_weight": 115,
@@ -7939,6 +8731,18 @@
       "rank": null,
       "rating": 1236,
       "rd": 166,
+      "record": "1-4",
+      "weight_source": "competed_unconfirmed",
+      "status": "provisional"
+    },
+    {
+      "name": "Alisandra Perez",
+      "gender": "girls",
+      "competed_weight": 120,
+      "team": "Central Valley (Ceres)",
+      "rank": null,
+      "rating": 1235,
+      "rd": 173,
       "record": "1-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
@@ -8072,18 +8876,6 @@
       "rating": 1162,
       "rd": 155,
       "record": "1-6",
-      "weight_source": "competed_unconfirmed",
-      "status": "provisional"
-    },
-    {
-      "name": "Rupreet Dheraj",
-      "gender": "girls",
-      "competed_weight": 139,
-      "team": "Manteca",
-      "rank": null,
-      "rating": 1162,
-      "rd": 184,
-      "record": "0-4",
       "weight_source": "competed_unconfirmed",
       "status": "provisional"
     },
@@ -8340,6 +9132,17 @@
       "bouts_rated": 1,
       "board_wrestlers_updated": 2,
       "excluded": {}
+    },
+    {
+      "event": "Trial of the Amazonian (Modesto/Merced girls)",
+      "date": "2026-11-21",
+      "style": "folkstyle",
+      "bouts_rated": 262,
+      "board_wrestlers_updated": 0,
+      "excluded": {
+        "FF": 9,
+        "MF": 1
+      }
     }
   ]
 }
