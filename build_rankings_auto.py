@@ -29,6 +29,14 @@ from weight_history import apply_cut_event_weights  # weight at latest cut event
 BOYS_WEIGHTS = [106, 113, 120, 126, 132, 138, 144, 150, 157, 165, 175, 190, 215, 285]
 MIN_OK_WEIGHTS = 10          # require most weights to succeed or fail the run loudly
 OUT = sys.argv[1] if len(sys.argv) > 1 else "rankings.json"
+# FROZEN 2026-11-26. carank went live for 2026-27, and its early-season pages
+# list only 1-9 wrestlers per weight. Replacing each boys board with those rosters
+# threw away every rating built from 2025-26 carank, CAUSAW, Fargo and the fall
+# tournaments (boards fell from 374 rows to 165). Until carank's 2026-27 bouts are
+# folded in as rating periods ON TOP OF the existing ratings, boys boards are not
+# replaced from carank: the base snapshot (rankings_base.json) stands, and
+# tournaments/ are applied on top of it as before. True restores the old behaviour.
+REPLACE_BOARDS_FROM_CARANK = False
 # Pre-tournament snapshot (carank boys + girls + Fargo projection, NO tournament
 # results). Boards not rebuilt from carank this run (girls, skipped weights) are
 # taken from HERE, never from rankings.json, so tournament results can't be
@@ -41,7 +49,10 @@ def main():
     by_key = {(b["gender"], b["weight"]): b for b in data["weights"]}
 
     ok, failed, total_bouts = [], [], 0
-    for wt in BOYS_WEIGHTS:
+    if not REPLACE_BOARDS_FROM_CARANK:
+        print("carank board replacement is FROZEN (REPLACE_BOARDS_FROM_CARANK = False): "
+              "boys boards come from rankings_base.json, not live carank rosters.")
+    for wt in (BOYS_WEIGHTS if REPLACE_BOARDS_FROM_CARANK else []):
         try:
             rows, n_bouts, n_roster = A.board_auto(wt)
         except Exception as e:
@@ -61,7 +72,7 @@ def main():
         ok.append(wt)
         print(f"  {wt:>3}: ok - {n_roster} roster, {n_bouts} bouts, {len(rows)} shown")
 
-    if len(ok) < MIN_OK_WEIGHTS:
+    if REPLACE_BOARDS_FROM_CARANK and len(ok) < MIN_OK_WEIGHTS:
         print(f"\nHONESTY GUARD TRIPPED: only {len(ok)}/{len(BOYS_WEIGHTS)} weights "
               f"succeeded (need >= {MIN_OK_WEIGHTS}). NOT writing rankings.json.")
         print("Failures:", failed)
